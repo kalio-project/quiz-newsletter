@@ -3,85 +3,169 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Super Quiz - Hugo Décrypte</title>
+    <title>Configuration Super Quiz - Hugo Décrypte</title>
     <style>
-        :root { --navy: #151a2e; --red: #e63946; }
-        body { font-family: 'Inter', sans-serif; background: var(--navy); color: white; margin: 0; padding: 20px; }
+        :root { --hugo-red: #e63946; --navy: #151a2e; --green: #2a9d8f; }
+        body { font-family: -apple-system, system-ui, sans-serif; margin: 0; background: #f8f9fa; color: #1a1a1a; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
         
-        .wrapper { max-width: 800px; margin: 0 auto; }
-        .header-box { text-align: center; padding: 40px 0; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 40px; }
+        .setup-container { background: white; width: 100%; max-width: 500px; padding: 40px; border-radius: 20px; box-shadow: 0 15px 35px rgba(0,0,0,0.1); }
+        h1 { font-size: 24px; color: var(--navy); margin-bottom: 30px; text-align: center; }
         
-        .q-box { background: white; color: #333; padding: 30px; border-radius: 15px; margin-bottom: 30px; position: relative; }
-        .source-tag { position: absolute; top: 10px; right: 20px; font-size: 0.7em; color: #999; text-transform: uppercase; }
+        .section-label { font-weight: bold; font-size: 14px; text-transform: uppercase; color: #666; margin-bottom: 15px; display: block; }
         
-        button { 
-            display: block; width: 100%; text-align: left; padding: 14px; margin: 10px 0; 
-            border: 2px solid #f0f0f0; border-radius: 10px; background: white; cursor: pointer; font-weight: 500;
-        }
-        button:hover { background: #f9f9f9; border-color: var(--navy); }
-        
-        .expl { display: none; margin-top: 15px; padding: 15px; border-radius: 8px; background: #eef6ff; color: var(--navy); border-left: 5px solid var(--red); }
-        
-        .progress-bar { position: fixed; top: 0; left: 0; height: 5px; background: var(--red); width: 0%; transition: 0.3s; }
+        /* Filtres Thèmes */
+        .theme-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin-bottom: 30px; }
+        .theme-item { display: flex; align-items: center; background: #f0f2f5; padding: 10px; border-radius: 8px; cursor: pointer; font-size: 13px; transition: 0.2s; border: 2px solid transparent; }
+        .theme-item.active { border-color: var(--hugo-red); background: #fff5f5; color: var(--hugo-red); }
+        .theme-item input { display: none; }
+
+        /* Slider Nombre Questions */
+        .range-container { margin-bottom: 40px; text-align: center; }
+        input[type=range] { width: 100%; accent-color: var(--hugo-red); cursor: pointer; }
+        #q-count-display { font-size: 32px; font-weight: 900; color: var(--navy); }
+
+        .btn-start { width: 100%; padding: 18px; background: var(--navy); color: white; border: none; border-radius: 12px; font-weight: bold; font-size: 16px; cursor: pointer; transition: 0.3s; }
+        .btn-start:hover { transform: translateY(-3px); box-shadow: 0 5px 15px rgba(21, 26, 46, 0.3); }
+
+        /* Zone de jeu (cachée au départ) */
+        #quiz-game { display: none; width: 100%; max-width: 800px; background: white; padding: 40px; border-radius: 20px; }
+        .option { display: block; width: 100%; padding: 15px; margin: 10px 0; border: 2px solid #eee; border-radius: 10px; background: white; text-align: left; cursor: pointer; }
+        .option.correct { border-color: var(--green); background: #e6f4ea; }
+        .option.wrong { border-color: var(--hugo-red); background: #fce8e8; }
+        .explanation { margin-top: 15px; padding: 15px; background: #f0f4f8; border-radius: 8px; display: none; }
     </style>
 </head>
 <body>
-    <div class="progress-bar" id="progress"></div>
 
-    <div class="wrapper">
-        <div class="header-box">
-            <h1 style="letter-spacing: 3px;">SUPER QUIZ</h1>
-            <p>50 questions tirées de vos dernières lectures</p>
+    <div id="setup-screen" class="setup-container">
+        <h1>Personnaliser le Quiz</h1>
+        
+        <span class="section-label">Sélectionner les thèmes</span>
+        <div id="theme-selector" class="theme-grid">
+            </div>
+
+        <span class="section-label">Nombre de questions : <span id="q-count-display">20</span></span>
+        <div class="range-container">
+            <input type="range" id="q-slider" min="5" max="50" step="5" value="20" oninput="document.getElementById('q-count-display').innerText = this.value">
         </div>
 
-        <div id="loader">Chargement des questions...</div>
+        <button class="btn-start" onclick="generateQuiz()">Générer mon Quiz spécial</button>
+        <p style="text-align: center;"><a href="index.html" style="color: #999; text-decoration: none; font-size: 13px;">Retour à l'accueil</a></p>
+    </div>
+
+    <div id="quiz-game">
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:30px;">
+            <span id="game-progress" style="font-weight:bold; color:var(--hugo-red);">Question 1 / 20</span>
+            <span id="game-score" style="background:var(--navy); color:white; padding:5px 12px; border-radius:20px; font-size:12px;">Score: 0</span>
+        </div>
+        <div id="question-box">
+            <h2 id="game-q-text"></h2>
+            <div id="game-options"></div>
+            <div id="game-expl" class="explanation"></div>
+            <button id="btn-next" style="display:none; width:100%; margin-top:20px; padding:15px; background:var(--navy); color:white; border:none; border-radius:8px; cursor:pointer;" onclick="nextStep()">Suivant</button>
+        </div>
     </div>
 
     <script>
-        async function start() {
-            const resManifest = await fetch('manifest.json');
-            const manifest = await resManifest.json();
-            let pool = [];
+        let allPossibleQuestions = [];
+        let selectedPool = [];
+        let currentIdx = 0;
+        let score = 0;
+        let totalToPlay = 20;
 
-            // Récupérer toutes les questions
+        // 1. Initialisation : Liste des thèmes depuis le manifest
+        async function init() {
+            const res = await fetch('manifest.json');
+            const manifest = await res.json();
+            const themes = [...new Set(manifest.map(i => i.theme))];
+            
+            const selector = document.getElementById('theme-selector');
+            themes.forEach(t => {
+                const div = document.createElement('label');
+                div.className = 'theme-item active';
+                div.innerHTML = `<input type="checkbox" checked value="${t}"> ${t}`;
+                div.onclick = function() { this.classList.toggle('active'); };
+                selector.appendChild(div);
+            });
+
+            // Charger TOUTES les questions en mémoire
             for (let item of manifest) {
                 const r = await fetch(item.file);
                 const d = await r.json();
-                const qs = d.questions.map(q => ({...q, source: d.titre}));
-                pool = pool.concat(qs);
+                allPossibleQuestions = allPossibleQuestions.concat(d.questions.map(q => ({...q, theme: item.theme})));
+            }
+        }
+
+        // 2. Génération du Quiz filtré
+        function generateQuiz() {
+            const activeThemes = Array.from(document.querySelectorAll('.theme-item input:checked')).map(i => i.value);
+            totalToPlay = parseInt(document.getElementById('q-slider').value);
+            
+            selectedPool = allPossibleQuestions.filter(q => activeThemes.includes(q.theme));
+            selectedPool.sort(() => Math.random() - 0.5);
+            selectedPool = selectedPool.slice(0, totalToPlay);
+
+            if (selectedPool.length === 0) {
+                alert("Aucune question trouvée pour ces thèmes !");
+                return;
             }
 
-            // Mélanger et limiter à 50
-            pool.sort(() => Math.random() - 0.5);
-            const selection = pool.slice(0, 50);
+            document.getElementById('setup-screen').style.display = 'none';
+            document.getElementById('quiz-game').style.display = 'block';
+            renderQuestion();
+        }
 
-            const loader = document.getElementById('loader');
-            loader.innerHTML = "";
-
-            selection.forEach((q, i) => {
-                const div = document.createElement('div');
-                div.className = 'q-box';
-                div.innerHTML = `
-                    <span class="source-tag">${q.source}</span>
-                    <p><strong>${i+1}. ${q.q}</strong></p>
-                    ${q.options.map((o, idx) => `<button onclick="show(${i}, ${idx}, ${q.correct})">${o}</button>`).join('')}
-                    <div id="ex-${i}" class="expl">${q.explication}</div>
-                `;
-                loader.appendChild(div);
+        // 3. Logique de jeu
+        function renderQuestion() {
+            const q = selectedPool[currentIdx];
+            document.getElementById('game-progress').innerText = `Question ${currentIdx + 1} / ${selectedPool.length}`;
+            document.getElementById('game-q-text').innerText = q.q;
+            document.getElementById('game-expl').style.display = "none";
+            document.getElementById('btn-next').style.display = "none";
+            
+            const optArea = document.getElementById('game-options');
+            optArea.innerHTML = "";
+            q.options.forEach((opt, i) => {
+                const b = document.createElement('button');
+                b.className = 'option';
+                b.innerText = opt;
+                b.onclick = () => {
+                    const buttons = document.querySelectorAll('.option');
+                    buttons.forEach(btn => btn.disabled = true);
+                    const expl = document.getElementById('game-expl');
+                    expl.innerText = q.explication;
+                    expl.style.display = "block";
+                    
+                    if(i === q.correct) {
+                        b.classList.add('correct');
+                        score++;
+                        document.getElementById('game-score').innerText = `Score: ${score}`;
+                    } else {
+                        b.classList.add('wrong');
+                        buttons[q.correct].classList.add('correct');
+                    }
+                    document.getElementById('btn-next').style.display = "block";
+                };
+                optArea.appendChild(b);
             });
         }
 
-        let answered = 0;
-        function show(qIdx, choice, correct) {
-            const ex = document.getElementById(`ex-${qIdx}`);
-            if(ex.style.display !== "block") {
-                ex.style.display = "block";
-                answered++;
-                document.getElementById('progress').style.width = (answered / 50 * 100) + "%";
+        function nextStep() {
+            currentIdx++;
+            if (currentIdx < selectedPool.length) {
+                renderQuestion();
+            } else {
+                document.getElementById('quiz-game').innerHTML = `
+                    <div style="text-align:center;">
+                        <h1 style="font-size:60px;">🎊</h1>
+                        <h2>Quiz terminé !</h2>
+                        <p style="font-size:24px; font-weight:bold;">Score Final : ${score} / ${selectedPool.length}</p>
+                        <button class="btn-start" onclick="location.reload()">Recommencer</button>
+                    </div>`;
             }
         }
 
-        start();
+        init();
     </script>
 </body>
 </html>
