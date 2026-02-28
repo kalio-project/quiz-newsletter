@@ -11,25 +11,23 @@ jobs:
       contents: write
       
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
+      - uses: actions/checkout@v3
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-
+          
       - name: Install dependencies
         run: |
-          pip install google-generativeai beautifulsoup4
-
-      - name: Run script
+          pip install google-genai requests  # <--- C'EST CETTE LIGNE QUI COMPTE
+          
+      - name: Run python process.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: python process.py
-
+        
       - name: Save changes to GitHub
         run: |
           git config --global user.name "github-actions[bot]"
