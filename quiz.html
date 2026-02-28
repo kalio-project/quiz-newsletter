@@ -7,6 +7,123 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-50 min-h-screen pb-20">
+    <nav class="p-4 bg-white border-b sticky top-0 z-50 flex justify-between items-center">
+        <a href="index.html" class="font-black text-blue-600">← ACCUEIL</a>
+        <div id="progression" class="font-bold text-slate-400 text-sm italic">Question 1/10</div>
+    </nav>
+
+    <main class="max-w-4xl mx-auto py-8 px-4">
+        <div class="bg-white rounded-3xl shadow-xl overflow-hidden mb-10 border border-slate-200">
+            <iframe id="news-frame" class="w-full border-none" style="min-height: 500px;"></iframe>
+        </div>
+
+        <div id="quiz-box" class="bg-slate-900 text-white rounded-[40px] p-8 md:p-12 shadow-2xl">
+            <div id="q-area">
+                <div id="q-category" class="text-blue-400 text-[10px] font-black uppercase tracking-[0.2em] mb-4">CHARGEMENT...</div>
+                <h2 id="q-text" class="text-2xl md:text-3xl font-bold mb-10 leading-snug italic">Chargement de la question...</h2>
+                
+                <div id="options" class="grid gap-4"></div>
+                
+                <div id="feedback" class="hidden mt-8 p-6 rounded-2xl bg-white/10 border border-white/20 text-sm leading-relaxed">
+                    </div>
+                
+                <button id="next-btn" class="hidden mt-8 w-full bg-blue-600 py-5 rounded-2xl font-black text-lg hover:bg-blue-500 transition shadow-lg shadow-blue-900/40">
+                    CONTINUER →
+                </button>
+            </div>
+
+            <div id="result" class="hidden text-center py-10">
+                <div class="text-7xl mb-6">🎯</div>
+                <h3 class="text-4xl font-black mb-2 italic">Terminé !</h3>
+                <p id="score-text" class="text-2xl mt-4 text-blue-400 font-bold"></p>
+                <button onclick="location.href='index.html'" class="mt-12 bg-white text-slate-900 px-12 py-4 rounded-full font-black text-xl hover:scale-105 transition">RETOUR ACCUEIL</button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        let currentQ = 0, score = 0, quiz = [];
+
+        async function load() {
+            const res = await fetch(params.get('file'));
+            const data = await res.json();
+            quiz = data.questions;
+
+            const frame = document.getElementById('news-frame');
+            const doc = frame.contentWindow.document;
+            doc.open(); 
+            doc.write(`<style>body{font-family:sans-serif;padding:30px;line-height:1.7;color:#333}img{max-width:100%;height:auto;border-radius:15px;margin:15px 0}</style>` + data.contenu_html); 
+            doc.close();
+            
+            frame.onload = () => {
+                frame.style.height = (frame.contentWindow.document.body.scrollHeight + 50) + 'px';
+            };
+
+            showQ();
+        }
+
+        function showQ() {
+            const q = quiz[currentQ];
+            document.getElementById('progression').textContent = `QUESTION ${currentQ + 1} / ${quiz.length}`;
+            document.getElementById('q-category').textContent = q.theme || "ACTUALITÉ";
+            document.getElementById('q-text').textContent = q.q;
+            
+            const optDiv = document.getElementById('options');
+            optDiv.innerHTML = '';
+            document.getElementById('feedback').classList.add('hidden');
+            document.getElementById('next-btn').classList.add('hidden');
+
+            q.options.forEach((o, i) => {
+                const btn = document.createElement('button');
+                btn.className = "text-left p-6 rounded-2xl border-2 border-white/5 bg-white/5 font-bold hover:bg-white/10 transition text-lg";
+                btn.textContent = o;
+                btn.onclick = () => check(i);
+                optDiv.appendChild(btn);
+            });
+        }
+
+        function check(i) {
+            const q = quiz[currentQ];
+            const btns = document.querySelectorAll('#options button');
+            btns.forEach(b => b.disabled = true);
+            const feedback = document.getElementById('feedback');
+            feedback.classList.remove('hidden');
+
+            if(i === q.correct) {
+                score++;
+                btns[i].classList.add('bg-green-600', 'border-green-600');
+                feedback.innerHTML = `<b class="text-green-400 text-xs uppercase tracking-widest">✓ Correct</b><p class="mt-2">${q.explication}</p>`;
+            } else {
+                btns[i].classList.add('bg-red-600', 'border-red-600');
+                btns[q.correct].classList.add('border-green-600', 'text-green-400');
+                feedback.innerHTML = `<b class="text-red-400 text-xs uppercase tracking-widest">✕ Erreur</b><p class="mt-2">${q.explication}</p>`;
+            }
+            document.getElementById('next-btn').classList.remove('hidden');
+        }
+
+        document.getElementById('next-btn').onclick = () => {
+            currentQ++;
+            if(currentQ < quiz.length) showQ();
+            else {
+                document.getElementById('q-area').classList.add('hidden');
+                document.getElementById('progression').classList.add('hidden');
+                document.getElementById('result').classList.remove('hidden');
+                document.getElementById('score-text').textContent = `Tu as eu ${score} / ${quiz.length}`;
+            }
+        }
+        load();
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ActuQuiz - Lecture</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 min-h-screen pb-20">
     <nav class="p-4 bg-white border-b sticky top-0 z-50 flex justify-between items-center shadow-sm">
         <a href="index.html" class="font-black text-blue-600 flex items-center gap-2"><span>←</span> ACCUEIL</a>
         <div id="progression" class="font-bold text-slate-400 bg-slate-100 px-4 py-1 rounded-full text-sm">Chargement...</div>
