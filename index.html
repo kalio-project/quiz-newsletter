@@ -3,35 +3,168 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Newsletter Quiz</title>
+    <title>Hugo Décrypte - Quiz Hub</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px; max-width: 1200px; margin: 0 auto; }
-        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); transition: 0.3s; }
-        .card:hover { transform: translateY(-5px); }
-        .badge { display: inline-block; background: #e63946; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.75em; font-weight: bold; margin-bottom: 10px; }
-        h3 { margin: 10px 0; color: #1d3557; }
-        .date { color: #666; font-size: 0.9em; }
-        .btn { display: block; text-align: center; margin-top: 15px; padding: 12px; background: #1d3557; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; }
+        :root {
+            /* Palette Officielle HugoDécrypte */
+            --hugo-navy: #151a2e; /* Le bleu sombre des vidéos */
+            --hugo-red: #e63946;  /* Le rouge des actus du jour */
+            --hugo-blue: #0077b6; /* Le bleu clair des liens */
+            --hugo-bg: #f8f9fa;   /* Fond très clair */
+            --hugo-text: #1a1a1a;
+        }
+
+        body { 
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; 
+            background-color: var(--hugo-bg); 
+            margin: 0; 
+            padding: 0; 
+            color: var(--hugo-text);
+        }
+
+        /* Header type "Chaîne Youtube" */
+        header {
+            background-color: var(--hugo-navy);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            border-bottom: 5px solid var(--hugo-red);
+        }
+
+        header h1 { 
+            margin: 0; 
+            font-size: 2.2em; 
+            text-transform: uppercase; 
+            letter-spacing: 2px;
+        }
+
+        header p { opacity: 0.8; font-weight: 300; margin-top: 10px; }
+
+        .container { max-width: 1000px; margin: -30px auto 40px; padding: 0 20px; }
+
+        /* Bloc Super Quiz Style "Breaking News" */
+        .super-quiz-card {
+            background: white;
+            border-radius: 12px;
+            padding: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            margin-bottom: 40px;
+            border-left: 8px solid var(--hugo-red);
+        }
+
+        .super-quiz-text h2 { margin: 0; color: var(--hugo-navy); font-size: 1.5em; }
+        
+        .btn-play {
+            background: var(--hugo-red);
+            color: white;
+            padding: 15px 30px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+            text-transform: uppercase;
+            transition: 0.2s;
+        }
+
+        .btn-play:hover { background: #c12a36; transform: scale(1.02); }
+
+        /* Grille des Actus */
+        .section-title { font-weight: 800; font-size: 1.2em; margin-bottom: 20px; color: var(--hugo-navy); display: flex; align-items: center; }
+        .section-title::before { content: ""; width: 12px; height: 12px; background: var(--hugo-red); margin-right: 10px; border-radius: 2px; }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+
+        .card { 
+            background: white; 
+            border-radius: 10px; 
+            overflow: hidden; 
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            transition: 0.3s;
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #eee;
+        }
+
+        .card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1); }
+
+        .card-content { padding: 20px; flex-grow: 1; }
+
+        .badge { 
+            background: #eee; 
+            color: #666; 
+            padding: 4px 8px; 
+            font-size: 0.7em; 
+            font-weight: bold; 
+            border-radius: 4px; 
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .card h3 { margin: 0 0 10px 0; font-size: 1.1em; line-height: 1.4; color: var(--hugo-navy); }
+        .card .date { font-size: 0.85em; color: #999; margin-bottom: 15px; }
+
+        .btn-footer {
+            background: #f8f9fa;
+            border-top: 1px solid #eee;
+            padding: 12px;
+            text-align: center;
+            text-decoration: none;
+            color: var(--hugo-blue);
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+
+        .btn-footer:hover { background: var(--hugo-navy); color: white; }
+
+        @media (max-width: 600px) {
+            .super-quiz-card { flex-direction: column; text-align: center; gap: 20px; }
+        }
     </style>
 </head>
 <body>
-    <h1 style="text-align: center; color: #1d3557;">🗞️ Mes Newsletters Quiz</h1>
-    <div id="list" class="grid"></div>
+
+    <header>
+        <h1>Hugo Décrypte</h1>
+        <p>L'actualité décryptée & testée chaque jour</p>
+    </header>
+
+    <div class="container">
+        <div class="super-quiz-card">
+            <div class="super-quiz-text">
+                <span style="color: var(--hugo-red); font-weight: bold; font-size: 0.8em; text-transform: uppercase;">Format Long</span>
+                <h2>Le Super Quiz de la semaine</h2>
+                <p style="color: #666; margin: 5px 0 0 0;">50 questions pour tester votre mémoire.</p>
+            </div>
+            <a href="multiquiz.html" class="btn-play">C'est parti</a>
+        </div>
+
+        <div class="section-title">LES DERNIERS DÉCRYPTAGES</div>
+        
+        <div id="quiz-list" class="grid">
+            </div>
+    </div>
 
     <script>
-        fetch('manifest.json').then(r => r.json()).then(data => {
-            const list = document.getElementById('list');
-            data.reverse().forEach(q => {
-                list.innerHTML += `
-                    <div class="card">
-                        <span class="badge">${q.theme}</span>
-                        <h3>${q.titre}</h3>
-                        <p class="date">📅 ${q.date}</p>
-                        <a href="quiz.html?file=${q.file}" class="btn">Lire & Jouer</a>
-                    </div>`;
+        fetch('manifest.json')
+            .then(res => res.json())
+            .then(data => {
+                const container = document.getElementById('quiz-list');
+                data.reverse().forEach(item => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.innerHTML = `
+                        <div class="card-content">
+                            <span class="badge">${item.theme || 'ACTU'}</span>
+                            <h3>${item.titre}</h3>
+                            <div class="date">Posté le ${item.date}</div>
+                        </div>
+                        <a href="quiz.html?file=${item.file}" class="btn-footer">FAIRE LE QUIZ →</a>
+                    `;
+                    container.appendChild(card);
+                });
             });
-        });
     </script>
 </body>
 </html>
