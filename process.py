@@ -1,96 +1,98 @@
-import os, imaplib, email, json, re, time
-import google.generativeai as genai
-from bs4 import BeautifulSoup
-from datetime import datetime
+import os, imaplib, email, json, re, html
+from google import genai
+from email.utils import parsedate_to_datetime
 from email.header import decode_header
 
-# --- CONFIGURATION ---
-genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
-MODEL_NAME = 'gemini-2.5-flash' 
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
-EMAIL_USER = os.environ.get("EMAIL_USER")
-EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
-
-def clean_html_for_ia(raw_html):
-    soup = BeautifulSoup(raw_html, 'html.parser')
-    for tag in soup(["script", "style", "nav", "footer", "head"]):
-        tag.decompose()
-    return ' '.join(soup.get_text(separator=' ').split())[:12000]
-
-def fetch_emails():
-    if not EMAIL_USER or not EMAIL_PASSWORD: return []
-    newsletters = []
+def get_newsletter():
+    mail = imaplib.IMAP4_SSL("imap.gmail.com")
     try:
-        mail = imaplib.IMAP4_SSL("imap.gmail.com")
-        mail.login(EMAIL_USER, EMAIL_PASSWORD)
-        mail.select("HUGO")
-        status, messages = mail.search(None, 'UNSEEN')
-        if status == "OK" and messages[0]:
-            for m_id in messages[0].split():
-                res, data = mail.fetch(m_id, "(RFC822)")
-                msg = email.message_from_bytes(data[0][1])
-                subj_raw = decode_header(msg["Subject"])[0]
-                subject = subj_raw[0].decode(subj_raw[1] or 'utf-8') if isinstance(subj_raw[0], bytes) else subj_raw[0]
-                
-                html_body = ""
-                if msg.is_multipart():
-                    for part in msg.walk():
-                        if part.get_content_type() == "text/html":
-                            html_body = part.get_payload(decode=True).decode(errors='ignore')
-                            break
-                else:
-                    html_body = msg.get_payload(decode=True).decode(errors='ignore')
-                
-                if html_body:
-                    newsletters.append({"id": f"mail-{m_id.decode()}", "html": html_body, "title": subject})
-        mail.logout()
-    except Exception as e: print(f"Erreur: {e}")
-    return newsletters
+        mail.login(os.environ["EMAIL_USER"], os.environ["EMAIL_PASSWORD"])
+    except: return []
+    mail.select("inbox")
+    AUTORISES = ["hugodecrypte@kessel.media", "hugo@hugodecrypte.com", "qcm.newsletter@gmail.com"]
+    status, messages = mail.search(None, 'ALL')
+    results = []
+    ids = messages[0].split()
 
-def run():
-    if not os.path.exists('data'): os.makedirs('data')
+    for m_id in ids[-10:]:
+        res, data = mail.fetch(m_id, "(RFC822)")
+        msg = email.message_from_bytes(data[0][1])
+        sender = str(msg.get("From")).lower()
+
+        if any(addr.lower() in sender for addr in AUTORISES):
+            subject_parts = decode_header(msg["Subject"])
+            subject = "".join([part.decode(enc or 'utf-8') if isinstance(part, bytes) else part for part, enc in subject_parts])
+            dt = parsedate_to_datetime(msg.get("Date"))
+            
+            body_html = ""
+            if msg.is_multipart():
+                for part in msg.walk():
+                    if part.get_content_type() == "text/html":
+                        body_html = part.get_payload(decode=True).decode(errors='ignore')
+            else: body_html = msg.get_payload(decode=True).decode(errors='ignore')
+            
+            if body_html:
+                text_only = re.sub(r'<(style|script).*?>.*?</\1>', '', body_html, flags=re.DOTALL | re.IGNORECASE)
+                text_only = re.sub(r'<.*?>', ' ', text_only)
+                results.append({
+                    "subject": subject, "full_html": body_html, "text_only": html.unescape(text_only),
+                    "date": dt.strftime("%d %b %Y"),
+                    "id": f"{dt.strftime('%Y%m%d')}-{re.sub(r'[^a-z]', '', subject.lower())[:10]}"
+                })
+    mail.logout()
+    return results
+
+newsletters = get_newsletter()
+if newsletters:
     try:
         with open('manifest.json', 'r', encoding='utf-8') as f: manifest = json.load(f)
     except: manifest = []
     
     deja_vus = [m.get("titre_original") for m in manifest]
-    sources = fetch_emails()
-    if not sources: return
 
-    item = sources[0]
-    if item["id"] in deja_vus: return
+    for nl in newsletters:
+        if nl["subject"] in deja_vus: continue
 
-    texte_ia = clean_html_for_ia(item["html"])
-    
-    prompt = """Génère un quiz JSON de 10 questions sur le texte fourni.
-    CHOISIS LE THÈME DANS CETTE LISTE : [POLITIQUE, ÉCONOMIE, SOCIÉTÉ, TECH, ENVIRONNEMENT, INTERNATIONAL, CULTURE, SANTÉ, SPORT, JUSTICE, AUTRE].
-    Structure : {"theme_global": "...", "titre": "...", "questions": [{"q": "...", "options": ["...", "...", "...", "..."], "correct": 0, "explication": "..."}]}
-    Réponds uniquement le JSON pur."""
+        # --- MODIFICATION DU PROMPT POUR THÈME PAR QUESTION ---
+        prompt = """
+        Analyse cette newsletter d'actualité. Génère un JSON strictement structuré :
+        1. titre: (🚨 + titre choc de l'actu principale)
+        2. theme_global: (Le sujet dominant de l'édition)
+        3. questions: Une liste de 10 objets QCM contenant:
+           - q: l'énoncé
+           - options: [4 choix]
+           - correct: index 0-3
+           - explication: courte et précise
+           - categorie: (Le thème précis de cette question spécifique, ex: Économie, Sport, Géopolitique, Écologie, etc.)
+        """
+        
+        try:
+            response = client.models.generate_content(model='gemini-2.0-flash', contents=prompt + "\n\nTEXTE:\n" + nl['text_only'][:10000])
+            match = re.search(r'\{.*\}', response.text, re.DOTALL)
+            if match:
+                data = json.loads(match.group())
+                data['html_affichage'] = nl['full_html']
+                
+                # Extraction image propre
+                img_urls = re.findall(r'<img.*?src="(.*?)"', nl['full_html'])
+                img_url = ""
+                for url in img_urls:
+                    if all(x not in url for x in ["/o/", "googleusercontent", "logo", "open", "avatar"]):
+                        img_url = url
+                        break
+                if not img_url: img_url = "https://via.placeholder.com/600x337?text=ActuQuiz"
+                
+                path = f"data/quiz-{nl['id']}.json"
+                os.makedirs('data', exist_ok=True)
+                with open(path, 'w', encoding='utf-8') as f: json.dump(data, f, ensure_ascii=False)
+                
+                # On garde 'theme' dans le manifest pour l'affichage de l'index
+                manifest.append({
+                    "date": nl['date'], "file": path, "titre": data['titre'],
+                    "titre_original": nl['subject'], "image": img_url, "theme": data['theme_global']
+                })
+        except Exception as e: print(f"Erreur: {e}")
 
-    try:
-        model = genai.GenerativeModel(MODEL_NAME)
-        response = model.generate_content(f"{prompt}\n\nTexte :\n{texte_ia}")
-        json_match = re.search(r'\{.*\}', response.text, re.DOTALL)
-        if json_match:
-            quiz_data = json.loads(json_match.group())
-            quiz_data['html_affichage'] = item["html"] # Sauvegarde Hugo intégrale
-            
-            quiz_id = datetime.now().strftime("%Y%m%d-%H%M")
-            dest_path = f"data/quiz-{quiz_id}.json"
-            with open(dest_path, 'w', encoding='utf-8') as f:
-                json.dump(quiz_data, f, ensure_ascii=False, indent=2)
-
-            manifest.append({
-                "date": datetime.now().strftime("%d %b %Y"),
-                "file": dest_path,
-                "titre": quiz_data.get('titre', item['title']),
-                "titre_original": item["id"],
-                "theme": quiz_data.get('theme_global', 'AUTRE')
-            })
-            with open('manifest.json', 'w', encoding='utf-8') as f:
-                json.dump(manifest, f, ensure_ascii=False, indent=2)
-            print(f"🚀 Succès : {dest_path}")
-    except Exception as e: print(f"Erreur IA: {e}")
-
-if __name__ == "__main__":
-    run()
+    with open('manifest.json', 'w', encoding='utf-8') as f: json.dump(manifest, f, ensure_ascii=False, indent=2)
