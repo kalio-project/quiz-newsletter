@@ -2,15 +2,14 @@ name: Update ActuQuiz
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Se lance tous les jours à 8h (UTC)
-  workflow_dispatch: # Te permet de lancer le script à la main (bouton Run)
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -18,16 +17,14 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: |
-          pip install google-genai requests
+        run: pip install google-genai requests
 
       - name: Run script
-        # C'EST ICI QUE TOUT SE JOUE :
-        # On injecte les secrets GitHub dans les variables d'environnement de Python
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          # On fait le pont ici : le script cherchera EMAIL_PASS, GitHub donne EMAIL_PASSWORD
+          EMAIL_PASS: ${{ secrets.EMAIL_PASSWORD }}
         run: python process.py
 
       - name: Commit and push changes
@@ -35,6 +32,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add .
-          # On commit seulement s'il y a des nouveaux fichiers (sinon ça crash)
-          git commit -m "Nouveau quiz ajouté le $(date)" || echo "Rien à committer"
+          git commit -m "MAJ Quiz $(date +'%d/%m/%Y')" || exit 0
           git push
