@@ -2,6 +2,137 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
+    <title>ActuQuiz - Super Challenge</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .opt-btn { border: 2px solid #f1f5f9; transition: 0.2s; }
+        .correct { background: #dcfce7 !important; border-color: #22c55e !important; }
+        .wrong { background: #fee2e2 !important; border-color: #ef4444 !important; }
+        .progress-bar { height: 6px; background: #3b82f6; transition: width 0.3s ease; }
+    </style>
+</head>
+<body class="bg-slate-900 text-white min-h-screen flex items-center justify-center p-4">
+
+    <div class="max-w-xl w-full bg-white text-slate-900 rounded-[3rem] p-8 md:p-12 shadow-2xl">
+        
+        <div id="quiz-ui">
+            <div class="flex justify-between items-center mb-6">
+                <span id="badge" class="bg-blue-100 text-blue-600 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-widest">CHALLENGE</span>
+                <span id="counter" class="text-slate-400 font-bold text-xs uppercase">01 / 20</span>
+            </div>
+            
+            <div class="w-full bg-slate-100 rounded-full mb-8 overflow-hidden">
+                <div id="bar" class="progress-bar" style="width: 5%"></div>
+            </div>
+
+            <div id="q-container">
+                <h2 id="q-text" class="text-2xl font-black leading-tight mb-8">Chargement des questions...</h2>
+                <div id="options-grid" class="grid grid-cols-1 gap-3"></div>
+            </div>
+
+            <div id="feedback" class="hidden mt-6 text-center">
+                <p id="expl" class="text-slate-500 text-sm italic mb-6"></p>
+                <button onclick="nextQ()" class="w-full bg-slate-900 text-white py-5 rounded-2xl font-black uppercase tracking-widest hover:bg-blue-600 transition">Question Suivante →</button>
+            </div>
+        </div>
+
+        <div id="end-screen" class="hidden text-center py-10">
+            <h2 class="text-6xl font-black text-blue-600 mb-2">SCORE</h2>
+            <div id="final-score" class="text-8xl font-black mb-8">0/20</div>
+            <a href="index.html" class="inline-block bg-slate-900 text-white px-10 py-4 rounded-2xl font-black uppercase text-sm">Retour au Hub</a>
+        </div>
+    </div>
+
+    <script>
+        let pool = [], current = 0, score = 0, totalTarget = 0;
+        const params = new URLSearchParams(window.location.search);
+        const selectedThemes = params.get('themes') ? params.get('themes').split(',') : [];
+        const limit = parseInt(params.get('qty')) || 20;
+
+        async function startChallenge() {
+            // 1. Charger le manifest
+            const res = await fetch('manifest.json');
+            const manifest = await res.json();
+            
+            // 2. Récupérer toutes les questions des thèmes choisis
+            for (const item of manifest) {
+                const qRes = await fetch(item.file);
+                const data = await qRes.json();
+                
+                // On filtre chaque question par son propre thème
+                const matches = data.questions.filter(q => selectedThemes.includes(q.theme));
+                pool.push(...matches);
+            }
+
+            // 3. Mélanger (Shuffle)
+            pool.sort(() => Math.random() - 0.5);
+
+            // 4. Limiter au nombre choisi
+            pool = pool.slice(0, limit);
+            totalTarget = pool.length;
+
+            if (pool.length === 0) {
+                document.getElementById('q-text').innerText = "Aucune question trouvée pour ces thèmes.";
+                return;
+            }
+
+            showQuestion();
+        }
+
+        function showQuestion() {
+            const q = pool[current];
+            document.getElementById('counter').innerText = `${current + 1} / ${totalTarget}`;
+            document.getElementById('bar').style.width = `${((current + 1) / totalTarget) * 100}%`;
+            document.getElementById('badge').innerText = q.theme;
+            document.getElementById('q-text').innerText = q.q;
+            document.getElementById('feedback').classList.add('hidden');
+            document.getElementById('q-container').classList.remove('opacity-50', 'pointer-events-none');
+
+            const grid = document.getElementById('options-grid');
+            grid.innerHTML = "";
+            q.options.forEach((opt, i) => {
+                const btn = document.createElement('button');
+                btn.className = "opt-btn p-5 rounded-2xl text-left font-bold text-sm bg-slate-50 hover:bg-slate-100";
+                btn.innerText = opt;
+                btn.onclick = () => check(i, btn);
+                grid.appendChild(btn);
+            });
+        }
+
+        function check(idx, btn) {
+            const q = pool[current];
+            const isCorrect = idx === q.correct;
+            if(isCorrect) score++;
+
+            // Bloquer les clics
+            document.getElementById('q-container').classList.add('opacity-50', 'pointer-events-none');
+            btn.classList.add(isCorrect ? 'correct' : 'wrong');
+
+            // Afficher explication
+            setTimeout(() => {
+                document.getElementById('feedback').classList.remove('hidden');
+                document.getElementById('expl').innerText = q.explication;
+            }, 400);
+        }
+
+        function nextQ() {
+            current++;
+            if(current < totalTarget) {
+                showQuestion();
+            } else {
+                document.getElementById('quiz-ui').classList.add('hidden');
+                document.getElementById('end-screen').classList.remove('hidden');
+                document.getElementById('final-score').innerText = `${score}/${totalTarget}`;
+            }
+        }
+
+        startChallenge();
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SuperQuiz - ActuQuiz</title>
     <style>
