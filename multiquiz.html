@@ -7,41 +7,78 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
-        body { font-family: 'Inter', sans-serif; }
-        .theme-checkbox:checked + label { background-color: #2563eb; color: white; border-color: #2563eb; }
+        body { font-family: 'Inter', sans-serif; background: #f8fafc; }
+        
+        /* Style personnalisé pour la barre de sélection (Slider) */
+        input[type=range] { -webkit-appearance: none; background: transparent; }
+        input[type=range]::-webkit-slider-runnable-track {
+            width: 100%; height: 8px; cursor: pointer;
+            background: linear-gradient(90deg, #3b82f6 0%, #2563eb 100%);
+            border-radius: 10px;
+        }
+        input[type=range]::-webkit-slider-thumb {
+            height: 24px; width: 24px; border-radius: 50%;
+            background: #ffffff; cursor: pointer; -webkit-appearance: none;
+            margin-top: -8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 2px solid #2563eb;
+        }
+
+        .theme-checkbox:checked + label { 
+            background-color: #2563eb; color: white; border-color: #2563eb; 
+            transform: scale(1.05);
+        }
     </style>
 </head>
-<body class="bg-slate-50 p-6">
+<body class="p-4 md:p-10">
 
-    <div id="setup-screen" class="max-w-2xl mx-auto mt-10 bg-white p-10 rounded-3xl shadow-xl">
-        <h1 class="text-4xl font-black text-slate-900 mb-2">Super Quiz ⚡</h1>
-        <p class="text-slate-500 mb-10">Personnalisez votre entraînement sur toutes les archives.</p>
+    <div id="setup-screen" class="max-w-2xl mx-auto bg-white p-8 md:p-12 rounded-[2.5rem] shadow-2xl border border-slate-100">
+        <h1 class="text-4xl font-black text-slate-900 mb-2 tracking-tighter">Super Quiz ⚡</h1>
+        <p class="text-slate-500 mb-10 font-medium">Préparez votre marathon d'actualité.</p>
 
-        <label class="block text-sm font-black uppercase tracking-widest text-slate-400 mb-4">1. Choisissez vos thèmes</label>
+        <label class="block text-xs font-black uppercase tracking-widest text-slate-400 mb-4">1. Choisissez vos thèmes</label>
         <div id="theme-list" class="flex flex-wrap gap-2 mb-10">
             </div>
 
-        <label class="block text-sm font-black uppercase tracking-widest text-slate-400 mb-4">2. Nombre de questions : <span id="count-val" class="text-blue-600">15</span></label>
-        <input type="range" id="q-range" min="5" max="30" step="5" value="15" 
-               class="w-full h-2 bg-slate-200 rounded-lg appearance-none cursor-pointer accent-blue-600 mb-12"
-               oninput="document.getElementById('count-val').innerText = this.value">
+        <label class="block text-xs font-black uppercase tracking-widest text-slate-400 mb-6 flex justify-between">
+            2. Nombre de questions
+            <span id="count-val" class="text-blue-600 text-lg font-black">25</span>
+        </label>
+        
+        <div class="relative mb-12">
+            <input type="range" id="q-range" min="5" max="50" step="5" value="25" 
+                   class="w-full"
+                   oninput="document.getElementById('count-val').innerText = this.value">
+            <div class="flex justify-between text-[10px] text-slate-300 font-bold mt-2 px-1">
+                <span>5</span><span>10</span><span>15</span><span>20</span><span>25</span><span>30</span><span>35</span><span>40</span><span>45</span><span>50</span>
+            </div>
+        </div>
 
-        <button onclick="startSuperQuiz()" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl shadow-lg shadow-blue-200 hover:scale-[1.02] transition">
-            Générer mon Quiz sur mesure
+        <button onclick="startSuperQuiz()" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl shadow-xl shadow-blue-200 hover:bg-slate-900 transition-all">
+            Lancer le Quiz
         </button>
-        <p class="text-center mt-6"><a href="index.html" class="text-slate-400 font-bold text-sm">Retour</a></p>
+        
+        <p class="text-center mt-8">
+            <a href="index.html" class="text-slate-400 font-bold text-sm hover:underline">← Retour à l'accueil</a>
+        </p>
     </div>
 
-    <div id="game-screen" class="max-w-2xl mx-auto mt-10 hidden">
-        <div class="bg-white p-8 rounded-3xl shadow-xl">
+    <div id="game-screen" class="max-w-2xl mx-auto hidden">
+        <div class="bg-white p-6 md:p-10 rounded-[2.5rem] shadow-2xl">
             <div class="flex justify-between items-center mb-8">
-                <span id="game-cat" class="bg-blue-600 text-white text-[10px] font-black px-3 py-1 rounded-full uppercase">CATÉGORIE</span>
-                <span id="game-counter" class="text-slate-400 font-bold text-sm">1 / 15</span>
+                <span id="game-cat" class="bg-blue-600 text-white text-[10px] font-black px-4 py-1.5 rounded-full uppercase tracking-widest">CATÉGORIE</span>
+                <span id="game-counter" class="text-slate-400 font-black text-sm font-mono">01 / 25</span>
             </div>
+            
             <h2 id="game-q-text" class="text-2xl font-black text-slate-900 mb-8 leading-tight"></h2>
+            
             <div id="game-options" class="space-y-3"></div>
-            <div id="game-expl" class="hidden mt-6 p-5 bg-slate-100 rounded-2xl text-sm italic"></div>
-            <button id="game-next" onclick="nextSuperQ()" class="hidden w-full mt-8 bg-slate-900 text-white py-4 rounded-2xl font-bold transition">Suivant</button>
+            
+            <div id="game-expl" class="hidden mt-8 p-6 bg-slate-50 rounded-2xl border border-slate-100 text-slate-700 text-sm leading-relaxed">
+            </div>
+
+            <button id="game-next" onclick="nextSuperQ()" class="hidden w-full mt-8 bg-slate-900 text-white py-5 rounded-2xl font-black text-lg">
+                Suivant →
+            </button>
         </div>
     </div>
 
@@ -52,30 +89,34 @@
         let score = 0;
 
         async function init() {
-            const res = await fetch('manifest.json');
-            const manifest = await res.json();
-            const themesFound = new Set();
+            try {
+                const res = await fetch('manifest.json');
+                const manifest = await res.json();
+                const themesFound = new Set();
 
-            for (let item of manifest) {
-                const r = await fetch(item.file);
-                const d = await r.json();
-                d.questions.forEach(q => {
-                    pool.push(q);
-                    if (q.categorie) themesFound.add(q.categorie);
+                for (let item of manifest) {
+                    const r = await fetch(item.file);
+                    const d = await r.json();
+                    if (d.questions) {
+                        d.questions.forEach(q => {
+                            pool.push(q);
+                            if (q.categorie) themesFound.add(q.categorie);
+                        });
+                    }
+                }
+
+                const themeDiv = document.getElementById('theme-list');
+                themeDiv.innerHTML = "";
+                [...themesFound].sort().forEach(t => {
+                    themeDiv.innerHTML += `
+                        <div class="relative">
+                            <input type="checkbox" id="t-${t}" value="${t}" class="theme-checkbox hidden" checked>
+                            <label for="t-${t}" class="block px-4 py-2 bg-white border-2 border-slate-100 rounded-xl text-sm font-bold cursor-pointer hover:border-slate-300 transition-all">
+                                ${t}
+                            </label>
+                        </div>`;
                 });
-            }
-
-            const themeDiv = document.getElementById('theme-list');
-            [...themesFound].sort().forEach(t => {
-                themeDiv.innerHTML += `
-                    <div class="relative">
-                        <input type="checkbox" id="t-${t}" value="${t}" class="theme-checkbox hidden" checked>
-                        <label for="t-${t}" class="block px-4 py-2 bg-white border border-slate-200 rounded-xl text-sm font-bold cursor-pointer hover:bg-slate-50 transition">
-                            ${t}
-                        </label>
-                    </div>
-                `;
-            });
+            } catch (e) { console.error(e); }
         }
 
         function startSuperQuiz() {
@@ -86,7 +127,7 @@
             selection.sort(() => Math.random() - 0.5);
             selection = selection.slice(0, count);
 
-            if (selection.length === 0) return alert("Aucune question trouvée pour ces thèmes.");
+            if (selection.length === 0) return alert("Sélectionnez au moins un thème !");
 
             document.getElementById('setup-screen').classList.add('hidden');
             document.getElementById('game-screen').classList.remove('hidden');
@@ -96,7 +137,7 @@
         function renderSuperQ() {
             const q = selection[currentIdx];
             document.getElementById('game-counter').innerText = `${currentIdx + 1} / ${selection.length}`;
-            document.getElementById('game-cat').innerText = q.categorie;
+            document.getElementById('game-cat').innerText = q.categorie || "INFO";
             document.getElementById('game-q-text').innerText = q.q;
             document.getElementById('game-expl').classList.add('hidden');
             document.getElementById('game-next').classList.add('hidden');
@@ -105,15 +146,20 @@
             optDiv.innerHTML = "";
             q.options.forEach((opt, i) => {
                 const btn = document.createElement('button');
-                btn.className = "w-full p-5 bg-white border-2 border-slate-100 rounded-2xl text-left font-bold hover:border-blue-200 transition";
+                btn.className = "w-full p-5 bg-white border-2 border-slate-100 rounded-2xl text-left font-bold text-slate-700 hover:border-blue-400 transition-all shadow-sm";
                 btn.innerText = opt;
                 btn.onclick = () => {
                     const btns = optDiv.querySelectorAll('button');
                     btns.forEach(b => b.disabled = true);
-                    document.getElementById('game-expl').innerText = q.explication;
+                    document.getElementById('game-expl').innerHTML = `<strong>Pourquoi ?</strong><br>${q.explication}`;
                     document.getElementById('game-expl').classList.remove('hidden');
-                    if(i === q.correct) { btn.classList.add('bg-green-50', 'border-green-500'); score++; }
-                    else { btn.classList.add('bg-red-50', 'border-red-500'); btns[q.correct].classList.add('bg-green-50', 'border-green-500'); }
+                    if(i === q.correct) {
+                        btn.classList.add('border-green-500', 'bg-green-50', 'text-green-700');
+                        score++;
+                    } else {
+                        btn.classList.add('border-red-500', 'bg-red-50', 'text-red-700');
+                        btns[q.correct].classList.add('border-green-500', 'bg-green-50', 'text-green-700');
+                    }
                     document.getElementById('game-next').classList.remove('hidden');
                 };
                 optDiv.appendChild(btn);
@@ -122,16 +168,22 @@
 
         function nextSuperQ() {
             currentIdx++;
-            if (currentIdx < selection.length) renderSuperQ();
-            else {
-                document.getElementById('game-screen').innerHTML = `
-                    <div class="bg-white p-10 rounded-3xl shadow-xl text-center">
-                        <div class="text-5xl mb-6">🏆</div>
-                        <h2 class="text-3xl font-black mb-2">Score Final</h2>
-                        <div class="text-6xl font-black text-blue-600 mb-8">${score} / ${selection.length}</div>
-                        <button onclick="location.reload()" class="w-full bg-slate-900 text-white py-4 rounded-2xl font-bold">Recommencer</button>
-                    </div>`;
+            if (currentIdx < selection.length) {
+                renderSuperQ();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            } else {
+                showFinal();
             }
+        }
+
+        function showFinal() {
+            document.getElementById('game-screen').innerHTML = `
+                <div class="bg-white p-12 rounded-[2.5rem] shadow-2xl text-center border border-slate-100">
+                    <div class="text-6xl mb-6">🏆</div>
+                    <h2 class="text-3xl font-black text-slate-900 mb-2">Résultat Final</h2>
+                    <div class="text-7xl font-black text-blue-600 mb-10">${score} / ${selection.length}</div>
+                    <button onclick="location.reload()" class="w-full bg-slate-900 text-white py-4 rounded-2xl font-bold">Refaire un test</button>
+                </div>`;
         }
 
         init();
