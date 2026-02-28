@@ -9,8 +9,15 @@
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
         body { font-family: 'Inter', sans-serif; background: #fff; }
 
-        /* Nettoyage visuel immédiat */
-        #hugo-content center, #hugo-content .preheader, #hugo-content table { border:none !important; }
+        /* MASQUAGE IMMÉDIAT DU COEUR ET DES BOUTONS DE PLATEFORME */
+        #hugo-content svg, 
+        #hugo-content .newsletter-header,
+        #hugo-content .preheader,
+        #hugo-content [class*="like"], 
+        #hugo-content [class*="share"] { 
+            display: none !important; 
+        }
+
         #hugo-content img { max-width: 100%; height: auto; border-radius: 1.5rem; margin: 1.5rem 0; }
         
         .option-btn { transition: all 0.2s; border: 2px solid #f1f5f9; }
@@ -72,27 +79,21 @@
                 const data = await res.json();
                 let html = data.html_affichage || data.contenu_html;
 
-                // 1. DÉTECTION IMAGE
+                // 1. IMAGE COUVERTURE
                 const imgMatch = html.match(/https?:\/\/[^"'>\s]+\.(?:png|jpg|jpeg|gif|webp|c\/[^\s"'>]+)/i);
                 if (imgMatch) {
                     document.getElementById('main-cover').src = imgMatch[0].replace(/&amp;/g, '&');
                 }
 
-                // 2. NETTOYAGE RADICAL (Suppression des balises de structure vides)
+                // 2. NETTOYAGE CHIRURGICAL
                 const temp = document.createElement('div');
                 temp.innerHTML = html;
                 
-                // On transforme en liste pour pouvoir manipuler
-                const elements = Array.from(temp.querySelectorAll('table, center, div, p'));
-                elements.forEach(el => {
-                    // Si c'est un bloc de structure sans texte utile, on le supprime
-                    if (el.innerText.trim().length < 2 && !el.querySelector('img')) {
-                        el.remove();
-                    }
-                });
+                // On vire tout ce qui n'a pas de texte ou qui est un SVG (le coeur)
+                const junk = temp.querySelectorAll('svg, table:empty, div:empty, center:empty');
+                junk.forEach(el => el.remove());
 
                 let cleaned = temp.innerHTML;
-                // Coupe nette sur la phrase de fin
                 const stopKey = "Vous avez aimé cette newsletter ?";
                 if (cleaned.includes(stopKey)) {
                     cleaned = cleaned.split(stopKey)[0];
