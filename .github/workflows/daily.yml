@@ -20,7 +20,7 @@ jobs:
       - name: Installation des bibliothèques
         run: |
           python -m pip install --upgrade pip
-          pip install google-genai
+          pip install google-generativeai
 
       - name: Exécution du Robot
         env:
