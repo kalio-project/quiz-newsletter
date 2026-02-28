@@ -1,1 +1,18 @@
-[{"date": "28 Feb", "file": "quiz-20260228-Confirmez.json", "titre": "Confirmation d'Abonnement à 'Les Actus du jour' : Votre Guide Rapide", "titre_original": "Confirmez votre abonnement à Les Actus du jour ", "image": "https://img.kessel.media/cdn-cgi/image/w=150,h=150,fit=crop,trim.left=0,trim.top=0,trim.width=1400,trim.height=1400/2023/07/05/1edf2ab2-f0fb-4d0f-aa62-f7b0c76a288f", "theme": "Société"}, {"date": "28 Feb", "file": "quiz-20260228-Bienvenue.json", "titre": "Bienvenue dans Les Actus du jour : Votre Guide Quotidien", "titre_original": "Bienvenue dans Les Actus du jour", "image": "https://img.kessel.media/cdn-cgi/image/w=150,h=150,fit=crop,trim.left=0,trim.top=0,trim.width=1400,trim.height=1400/2023/07/05/1edf2ab2-f0fb-4d0f-aa62-f7b0c76a288f", "theme": "Société"}]
+[
+  {
+    "date": "28 Feb",
+    "file": "quiz-20260228-Confirmez.json",
+    "titre": "Confirmation d'Abonnement à 'Les Actus du jour' : Votre Guide Rapide",
+    "titre_original": "Confirmez votre abonnement à Les Actus du jour ",
+    "image": "https://img.kessel.media/cdn-cgi/image/w=150,h=150,fit=crop,trim.left=0,trim.top=0,trim.width=1400,trim.height=1400/2023/07/05/1edf2ab2-f0fb-4d0f-aa62-f7b0c76a288f",
+    "theme": "Société"
+  },
+  {
+    "date": "28 Feb",
+    "file": "quiz-20260228-Bienvenue.json",
+    "titre": "Bienvenue dans Les Actus du jour : Votre Guide Quotidien",
+    "titre_original": "Bienvenue dans Les Actus du jour",
+    "image": "https://img.kessel.media/cdn-cgi/image/w=150,h=150,fit=crop,trim.left=0,trim.top=0,trim.width=1400,trim.height=1400/2023/07/05/1edf2ab2-f0fb-4d0f-aa62-f7b0c76a288f",
+    "theme": "Société"
+  }
+]
