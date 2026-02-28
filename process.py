@@ -13,7 +13,7 @@ def get_newsletter():
     mail.select("inbox")
     
     # --- CONFIGURATION DES SOURCES ---
-    AUTORISES = ["hugo@hugodecrypte.com", "newsletter@exemple.fr", "ton-email@gmail.com"]
+    AUTORISES = ["hugo@hugodecrypte.com", "hugodecrypte@kessel.media"]
     
     status, messages = mail.search(None, 'ALL')
     results = []
