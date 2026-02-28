@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ActuQuiz | Ton actu en Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;700;800&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+    <style>
+        body { font-family: 'Plus Jakarta Sans', sans-serif; scroll-behavior: smooth; }
+        .scrollbar-hide::-webkit-scrollbar { display: none; }
+        .active-theme { background-color: #ef4444 !important; color: white !important; border-color: #ef4444 !important; }
+        .prose b { color: #ef4444; }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-900">
+
+    <header class="p-6 max-w-7xl mx-auto flex justify-between items-center">
+        <h1 class="text-3xl font-800 tracking-tighter italic">ACTU<span class="text-red-600">QUIZ</span></h1>
+        <div id="global-score" class="bg-white px-6 py-2 rounded-full shadow-sm font-bold text-red-600 border border-red-50">Score : 0 pts</div>
+    </header>
+
+    <div class="max-w-7xl mx-auto px-6">
+        <div id="theme-tags" class="flex gap-2 mb-8 overflow-x-auto scrollbar-hide py-2">
+            <button id="btn-all" onclick="filterBy('all')" class="active-theme px-5 py-2 bg-white border border-slate-200 rounded-full text-xs font-bold whitespace-nowrap transition shadow-sm">Tous</button>
+            <script>
+                const themes = ["Politique", "Économie", "Technologie", "Écologie", "Société", "Culture", "Sport", "Géopolitique", "Science", "Insolite"];
+                themes.forEach(t => {
+                    document.write(`<button id="btn-${t}" onclick="filterBy('${t}')" class="px-5 py-2 bg-white border border-slate-200 rounded-full text-xs font-bold text-slate-500 hover:border-red-400 transition whitespace-nowrap shadow-sm">${t}</button>`);
+                });
+            </script>
+        </div>
+
+        <section class="mb-12">
+            <h2 class="text-sm font-800 mb-6 uppercase tracking-widest text-slate-400">Dernières <span class="text-red-600">éditions</span></h2>
+            <div id="carousel" class="flex gap-6 overflow-x-auto pb-6 scrollbar-hide snap-x">
+                </div>
+        </section>
+
+        <main id="reader" class="hidden max-w-4xl mx-auto bg-white rounded-[3rem] shadow-2xl overflow-hidden border border-slate-100 mb-20">
+            <div id="hero" class="h-64 md:h-96 w-full bg-cover bg-center"></div>
+            <div class="p-8 md:p-16">
+                <div id="article-body"></div>
+                <div id="quiz-area" class="mt-16 pt-16 border-t border-slate-100">
+                    <h2 class="text-3xl font-800 mb-10 text-center">Le Quiz express ⚡</h2>
+                    <div id="q-list" class="space-y-12"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let allEditions = [];
+        let userScores = JSON.parse(localStorage.getItem('quiz_scores') || '{}');
+
+        async function init() {
+            try {
+                const res = await fetch('./manifest.json');
+                allEditions = await res.json();
+                renderCarousel('all');
+                updateScoreDisplay();
+                if(allEditions.length > 0) loadEdition(allEditions[allEditions.length - 1]);
+            } catch(e) { console.log("En attente de données..."); }
+        }
+
+        function filterBy(t) {
+            document.querySelectorAll('#theme-tags button').forEach(b => b.classList.remove('active-theme'));
+            document.getElementById(t === 'all' ? 'btn-all' : 'btn-' + t).classList.add('active-theme');
+            renderCarousel(t);
+        }
+
+        function renderCarousel(filter) {
+            const container = document.getElementById('carousel');
+            container.innerHTML = "";
+            [...allEditions].reverse().forEach(item => {
+                if(filter !== 'all' && item.theme !== filter) return;
+                const isDone = userScores[item.file] !== undefined;
+                const card = document.createElement('div');
+                card.className = "min-w-[300px] md:min-w-[350px] bg-white rounded-[2rem] border border-slate-100 shadow-sm snap-start overflow-hidden cursor-pointer hover:shadow-xl transition-all hover:-translate-y-2";
+                card.innerHTML = `
+                    <div class="h-48 bg-slate-200 bg-cover bg-center relative" style="background-image: url('${item.image}')">
+                        <div class="absolute top-4 left-4 bg-white/90 backdrop-blur px-3 py-1 rounded-lg text-[10px] font-black uppercase text-red-600">${item.theme}</div>
+                    </div>
+                    <div class="p-6">
+                        <div class="text-[10px] font-bold text-slate-400 mb-2 uppercase">${item.date} • ${isDone ? '✅ Complété' : '⏱️ 5 min de lecture'}</div>
+                        <h3 class="font-800 text-lg leading-tight line-clamp-2">${item.titre}</h3>
+                    </div>
+                `;
+                card.onclick = () => loadEdition(item);
+                container.appendChild(card);
+            });
+        }
+
+        async function loadEdition(item) {
+            const res = await fetch(`./data/${item.file}`);
+            const data = await res.json();
+            const main = document.getElementById('reader');
+            main.classList.remove('hidden');
+            document.getElementById('hero').style.backgroundImage = `url('${data.image}')`;
+            document.getElementById('article-body').innerHTML = `<h1 class="text-4xl font-black mb-8 leading-tight">${data.titre}</h1><div class="prose prose-lg max-w-none text-slate-700">${data.contenu_html}</div>`;
+            
+            const qList = document.getElementById('q-list');
+            qList.innerHTML = "";
+            window.tempScore = 0; window.answered = 0;
+            const selectedQ = data.questions.sort(() => 0.5 - Math.random()).slice(0, 5);
+            
+            selectedQ.forEach((q, i) => {
+                const d = document.createElement('div');
+                d.innerHTML = `<p class="font-bold text-xl mb-6">${i+1}. ${q.q}</p><div class="grid gap-3" id="box-${i}">${q.options.map((o, idx) => `<button onclick="check(${i},${idx},${q.correct},'${item.file}',5,'${q.explication.replace(/'/g," ")}')" class="text-left p-5 bg-slate-50 border-2 border-transparent rounded-2xl hover:border-red-400 transition font-bold text-slate-700">${o}</button>`).join('')}</div><div id="exp-${i}" class="hidden mt-4 p-5 bg-blue-50 text-blue-800 rounded-2xl text-sm italic"></div>`;
+                qList.appendChild(d);
+            });
+            main.scrollIntoView({ behavior: 'smooth' });
+        }
+
+        function check(qIdx, choice, correct, file, total, expl) {
+            const btns = document.querySelectorAll(`#box-${qIdx} button`);
+            const exp = document.getElementById(`exp-${qIdx}`);
+            btns.forEach(b => b.disabled = true);
+            exp.innerHTML = "<b>L'explication :</b> " + expl; exp.classList.remove('hidden');
+            if(choice === correct) {
+                btns[choice].classList.add('bg-green-500', 'text-white', 'border-green-500');
+                window.tempScore++;
+            } else {
+                btns[choice].classList.add('bg-red-500', 'text-white', 'border-red-500');
+                btns[correct].classList.add('bg-green-100', 'border-green-500', 'text-green-700');
+            }
+            window.answered++;
+            if(window.answered === total) {
+                userScores[file] = window.tempScore;
+                localStorage.setItem('quiz_scores', JSON.stringify(userScores));
+                if(window.tempScore === 5) confetti({ particleCount: 150, spread: 70, origin: { y: 0.6 } });
+                updateScoreDisplay(); renderCarousel('all');
+            }
+        }
+
+        function updateScoreDisplay() {
+            const total = Object.values(userScores).reduce((a, b) => a + b, 0);
+            document.getElementById('global-score').innerText = `Score : ${total} pts`;
+        }
+        init();
+    </script>
+</body>
+</html>
