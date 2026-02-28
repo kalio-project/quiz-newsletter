@@ -8,7 +8,11 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
         body { font-family: 'Inter', sans-serif; background: #fff; }
-        #hugo-content img { max-width: 100%; height: auto; border-radius: 1.5rem; margin: 1rem 0; }
+
+        /* Nettoyage visuel immédiat */
+        #hugo-content center, #hugo-content .preheader, #hugo-content table { border:none !important; }
+        #hugo-content img { max-width: 100%; height: auto; border-radius: 1.5rem; margin: 1.5rem 0; }
+        
         .option-btn { transition: all 0.2s; border: 2px solid #f1f5f9; }
         .option-btn.correct { border-color: #22c55e; background-color: #f0fdf4; color: #166534; }
         .option-btn.wrong { border-color: #ef4444; background-color: #fef2f2; color: #991b1b; }
@@ -16,7 +20,7 @@
 </head>
 <body class="bg-white">
 
-    <nav class="p-6">
+    <nav class="p-6 border-b">
         <div class="max-w-3xl mx-auto">
             <a href="index.html" class="text-blue-600 font-black italic tracking-tighter text-xl uppercase">ActuQuiz.</a>
         </div>
@@ -27,8 +31,9 @@
             <img id="main-cover" src="" class="w-full h-64 md:h-96 object-cover rounded-[2rem] shadow-lg bg-slate-100">
         </div>
 
-        <article id="hugo-content" class="prose prose-slate max-w-none mb-12 border-b pb-12">
-            </article>
+        <article id="hugo-content" class="prose prose-slate max-w-none mb-12 border-b pb-12 text-slate-800">
+            Chargement...
+        </article>
 
         <section id="quiz-block" class="bg-slate-50 rounded-[2.5rem] p-6 md:p-10 border border-slate-100 shadow-xl mb-24">
             <div id="q-container">
@@ -48,8 +53,6 @@
                 <div id="options-grid" class="space-y-3"></div>
             </div>
             <div id="end-screen" class="hidden text-center py-10">
-                <div class="text-5xl mb-6">🎯</div>
-                <h2 class="text-2xl font-black text-slate-900 mb-2 uppercase">Score Final</h2>
                 <div id="final-score" class="text-7xl font-black text-blue-600 mb-10">0 / 0</div>
                 <a href="index.html" class="inline-block bg-slate-900 text-white px-10 py-4 rounded-2xl font-bold uppercase text-xs tracking-widest">Retour</a>
             </div>
@@ -69,24 +72,30 @@
                 const data = await res.json();
                 let html = data.html_affichage || data.contenu_html;
 
-                // 1. EXTRACTION IMAGE
-                const imgMatch = html.match(/https?:\/\/[^"'>]+\.(?:png|jpg|jpeg|gif|webp|c\/[^\s"'>]+)/i);
-                if (imgMatch) document.getElementById('main-cover').src = imgMatch[0];
-
-                // 2. NETTOYAGE MANUEL DES BLOCS (Le vrai ménage)
-                const temp = document.createElement('div');
-                temp.innerHTML = html;
-
-                // On vire les 3 premiers et 3 derniers éléments s'ils sont louches (souvent des tables de structure)
-                const children = Array.from(temp.children);
-                if(children.length > 5) {
-                    for(let i=0; i<3; i++) { if(children[i].tagName === 'TABLE' || children[i].tagName === 'CENTER') children[i].remove(); }
-                    for(let i=children.length-1; i>children.length-4; i--) { if(children[i]) children[i].remove(); }
+                // 1. DÉTECTION IMAGE
+                const imgMatch = html.match(/https?:\/\/[^"'>\s]+\.(?:png|jpg|jpeg|gif|webp|c\/[^\s"'>]+)/i);
+                if (imgMatch) {
+                    document.getElementById('main-cover').src = imgMatch[0].replace(/&amp;/g, '&');
                 }
 
+                // 2. NETTOYAGE RADICAL (Suppression des balises de structure vides)
+                const temp = document.createElement('div');
+                temp.innerHTML = html;
+                
+                // On transforme en liste pour pouvoir manipuler
+                const elements = Array.from(temp.querySelectorAll('table, center, div, p'));
+                elements.forEach(el => {
+                    // Si c'est un bloc de structure sans texte utile, on le supprime
+                    if (el.innerText.trim().length < 2 && !el.querySelector('img')) {
+                        el.remove();
+                    }
+                });
+
                 let cleaned = temp.innerHTML;
-                if (cleaned.includes("Vous avez aimé cette newsletter ?")) {
-                    cleaned = cleaned.split("Vous avez aimé cette newsletter ?")[0];
+                // Coupe nette sur la phrase de fin
+                const stopKey = "Vous avez aimé cette newsletter ?";
+                if (cleaned.includes(stopKey)) {
+                    cleaned = cleaned.split(stopKey)[0];
                 }
 
                 document.getElementById('hugo-content').innerHTML = cleaned;
@@ -97,8 +106,7 @@
 
         function renderQuestion() {
             const q = questions[currentIdx];
-            document.getElementById('q-counter').innerText = `${String(currentIdx + 1).padStart(2, '0')} / ${String(questions.length).padStart(2, '0')}`;
-            document.getElementById('q-category').innerText = q.categorie || "INFO";
+            document.getElementById('q-counter').innerText = `${currentIdx + 1} / ${questions.length}`;
             document.getElementById('q-text').innerText = q.q;
             document.getElementById('q-text').classList.remove('hidden');
             document.getElementById('explanation-box').classList.add('hidden');
@@ -111,7 +119,7 @@
                 btn.onclick = () => {
                     document.querySelectorAll('.option-btn').forEach(b => b.disabled = true);
                     document.getElementById('q-text').classList.add('hidden');
-                    document.getElementById('expl-text').innerHTML = `${i === q.correct ? '✅ Bravo' : '❌ Erreur'}<br>${q.explication}`;
+                    document.getElementById('expl-text').innerHTML = `<strong>${i === q.correct ? '✅ Bravo' : '❌ Erreur'}</strong><br>${q.explication}`;
                     document.getElementById('explanation-box').classList.remove('hidden');
                     if(i === q.correct) { btn.classList.add('correct'); score++; }
                     else { btn.classList.add('wrong'); grid.querySelectorAll('button')[q.correct].classList.add('correct'); }
