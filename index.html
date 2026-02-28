@@ -24,7 +24,10 @@
     </header>
 
     <main id="quiz-grid" class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        </main>
+        <div class="col-span-full text-center py-20 text-slate-300 font-bold italic">
+            Chargement des éditions...
+        </div>
+    </main>
 
     <script>
         async function loadDashboard() {
@@ -34,14 +37,26 @@
                 const grid = document.getElementById('quiz-grid');
                 grid.innerHTML = '';
 
-                // On parcourt le manifest
-                for (const item of manifest.reverse()) {
+                // On parcourt le manifest (plus récent en premier)
+                for (const item of [...manifest].reverse()) {
                     try {
-                        // COMME DANS QUIZ : On ouvre le fichier JSON pour l'image
+                        // On ouvre le fichier JSON pour récupérer l'image et les métadonnées
                         const detailRes = await fetch(item.file);
                         const detailData = await detailRes.json();
                         
-                        const imageUrl = detailData.image || 'https://images.unsplash.com/photo-1504711432869-efd5971ee142?auto=format&fit=crop&q=80&w=1000';
+                        // LOGIQUE D'EXTRACTION DE L'IMAGE (Même que dans quiz.html)
+                        let imageUrl = detailData.image;
+                        if (!imageUrl) {
+                            const tempDiv = document.createElement('div');
+                            tempDiv.innerHTML = detailData.html_affichage || detailData.contenu_html;
+                            const firstImg = tempDiv.querySelector('img');
+                            imageUrl = firstImg ? firstImg.src : 'https://images.unsplash.com/photo-1504711432869-efd5971ee142?auto=format&fit=crop&q=80&w=1000';
+                        }
+
+                        // Récupération des infos (Titre, Date, Temps)
+                        const title = item.title || detailData.titre || "Édition sans titre";
+                        const date = item.date || "Date inconnue";
+                        const readTime = detailData.temps_lecture || "3 min";
 
                         const card = document.createElement('a');
                         card.href = `quiz.html?file=${item.file}`;
@@ -50,20 +65,31 @@
                         card.innerHTML = `
                             <div class="relative h-48 overflow-hidden bg-slate-100">
                                 <img src="${imageUrl}" class="w-full h-full object-cover transition-transform duration-500">
+                                <div class="absolute bottom-4 right-4">
+                                    <span class="bg-black/50 backdrop-blur-md text-white text-[9px] font-bold px-2 py-1 rounded-lg uppercase">
+                                        ⏱️ ${readTime}
+                                    </span>
+                                </div>
                             </div>
-                            <div class="p-6">
-                                <h2 class="text-lg font-black text-slate-900 leading-tight mb-2 group-hover:text-blue-600 transition-colors">
-                                    ${item.title}
+                            <div class="p-6 flex flex-col flex-grow">
+                                <div class="flex justify-between items-center mb-3">
+                                    <span class="text-[10px] font-black text-blue-600 uppercase tracking-widest">Newsletter</span>
+                                    <span class="text-slate-300 text-[10px] font-bold uppercase">${date}</span>
+                                </div>
+                                <h2 class="text-lg font-black text-slate-900 leading-tight group-hover:text-blue-600 transition-colors">
+                                    ${title}
                                 </h2>
-                                <p class="text-slate-400 text-[10px] font-black uppercase tracking-widest">
-                                    ${item.date || 'Édition Spéciale'}
-                                </p>
                             </div>
                         `;
                         grid.appendChild(card);
-                    } catch (err) { console.error("Erreur sur un fichier:", item.file); }
+                    } catch (err) { 
+                        console.error("Erreur sur le fichier:", item.file, err); 
+                    }
                 }
-            } catch (e) { console.error("Erreur manifest"); }
+            } catch (e) { 
+                console.error("Erreur manifest:", e); 
+                document.getElementById('quiz-grid').innerHTML = "<p class='col-span-full text-center text-slate-400'>Aucun quiz disponible pour le moment.</p>";
+            }
         }
 
         loadDashboard();
