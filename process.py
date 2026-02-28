@@ -3,7 +3,7 @@ import google.genai as genai
 from email.utils import parsedate_to_datetime
 from email.header import decode_header
 
-# Configuration Gemini 3 Flash
+# Configuration Gemini (On utilise la version 1.5 Flash, la plus stable actuellement)
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 def get_newsletter():
@@ -16,25 +16,19 @@ def get_newsletter():
 
     mail.select("inbox")
     
-    # --- TA LISTE D'EXPÉDITEURS ---
-    # J'ai ajouté ton adresse exacte ici
-    AUTORISES = [
-        "hugodecrypte@kessel.media", 
-        "hugo@hugodecrypte.com", 
-        "qcm.newsletter@gmail.com"
-    ]
+    # --- CONFIGURATION DES SOURCES ---
+    AUTORISES = ["hugodecrypte@kessel.media", "hugo@hugodecrypte.com", "qcm.newsletter@gmail.com"]
     
     status, messages = mail.search(None, 'ALL')
     results = []
     
     ids = messages[0].split()
-    print(f"🔎 {len(ids)} mails trouvés dans la boîte. Analyse des 15 derniers...")
+    print(f"🔎 {len(ids)} mails trouvés. Analyse des 15 derniers...")
 
     for m_id in ids[-15:]:
         res, msg_data = mail.fetch(m_id, "(RFC822)")
         msg = email.message_from_bytes(msg_data[0][1])
         
-        # Nettoyage de l'expéditeur (ex: "Hugo <hugo@mail.com>" -> "hugo@mail.com")
         sender_raw = str(msg.get("From")).lower()
         sender_email = re.findall(r'[\w\.-]+@[\w\.-]+', sender_raw)
         sender = sender_email[0] if sender_email else sender_raw
@@ -42,12 +36,10 @@ def get_newsletter():
         subject = decode_header(msg["Subject"])[0][0]
         if isinstance(subject, bytes): subject = subject.decode()
 
-        print(f"--- Analyse : {subject[:30]}... | De : {sender}")
-
         is_valide = any(addr.lower() in sender for addr in AUTORISES)
         
         if is_valide:
-            print(f"   ✅ MATCH ! Cet expéditeur est autorisé.")
+            print(f"✅ MATCH : {subject[:30]}...")
             dt = parsedate_to_datetime(msg.get("Date"))
             date_formattee = dt.strftime("%d %b")
             
@@ -66,13 +58,11 @@ def get_newsletter():
                     "date": date_formattee,
                     "id_unique": f"{dt.strftime('%Y%m%d')}-{re.sub(r'[^a-zA-Z0-9]', '', subject[:10])}"
                 })
-        else:
-            print(f"   ❌ Ignoré (Expéditeur non listé)")
 
     mail.logout()
     return results
 
-# --- LOGIQUE DE GÉNÉRATION ---
+# --- GÉNÉRATION ---
 newslettersFound = get_newsletter()
 
 if newslettersFound:
@@ -87,7 +77,6 @@ if newslettersFound:
 
     for nl in newslettersFound:
         if nl["subject"] in deja_presents:
-            print(f"⏩ Déjà dans le manifest : {nl['subject']}")
             continue
 
         prompt = f"""Analyse cette newsletter. 
@@ -98,9 +87,10 @@ if newslettersFound:
         Sortie JSON strict: {{"titre":"", "image":"", "theme":"", "contenu_html":"", "questions":[]}}"""
         
         try:
-            print(f"🤖 IA en cours pour : {nl['subject']}")
+            print(f"🤖 IA en cours (Gemini 1.5 Flash) pour : {nl['subject']}")
+            # CHANGEMENT ICI : gemini-1.5-flash au lieu de gemini-3-flash
             response = client.models.generate_content(
-                model='gemini-3-flash',
+                model='gemini-1.5-flash', 
                 contents=prompt + "\n\nTEXTE:\n" + nl['html']
             )
             
@@ -120,11 +110,11 @@ if newslettersFound:
                     "image": data.get('image', 'https://images.unsplash.com/photo-1504711434969-e33886168f5c'),
                     "theme": data['theme']
                 })
-                print(f"   💾 Quiz sauvegardé : {filename}")
+                print(f"   💾 Sauvegardé !")
         except Exception as e:
             print(f"❌ Erreur Gemini : {e}")
 
     with open('manifest.json', 'w', encoding='utf-8') as f:
         json.dump(manifest, f, ensure_ascii=False)
 else:
-    print("📢 Fin du scan : Aucun nouveau mail valide détecté.")
+    print("📢 Rien à traiter.")
