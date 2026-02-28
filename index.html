@@ -7,7 +7,7 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
-        body { font-family: 'Inter', sans-serif; background: #f8fafc; -webkit-tap-highlight-color: transparent; }
+        body { font-family: 'Inter', sans-serif; background: #f8fafc; }
         .quiz-card:hover img { transform: scale(1.05); }
     </style>
 </head>
@@ -34,140 +34,38 @@
                 const grid = document.getElementById('quiz-grid');
                 grid.innerHTML = '';
 
+                // On boucle sur chaque item du manifest
                 for (const item of [...manifest].reverse()) {
                     try {
                         const detailRes = await fetch(item.file);
                         const data = await detailRes.json();
                         
-                        // EXTRACTION ROBUSTE DE L'IMAGE
-                        let foundImage = data.image;
-                        
+                        // --- LOGIQUE D'EXTRACTION DE L'IMAGE ---
+                        let foundImage = data.image; // D'abord la clé directe
+
                         if (!foundImage) {
                             const htmlContent = data.html_affichage || data.contenu_html || "";
-                            const parser = new DOMParser();
-                            const doc = parser.parseFromString(htmlContent, 'text/html');
                             
-                            // On cherche la première image, peu importe où elle est
-                            const firstImg = doc.querySelector('img');
+                            // On cherche l'URL de l'image dans le texte brut avec une REGEX 
+                            // C'est beaucoup plus puissant que de chercher une balise <img>
+                            const imgRegex = /(https?:\/\/[\w\-\.]+\/c\/[^\s"'>]+|https?:\/\/[^"'>]+\.(?:png|jpg|jpeg|gif|webp))/gi;
+                            const matches = htmlContent.match(imgRegex);
                             
-                            if (firstImg) {
-                                foundImage = firstImg.src;
-                            } else {
-                                // Si pas d'image, on cherche si un lien contient une image de fond (background)
-                                // ou si un lien contient une balise image
-                                const allLinks = doc.querySelectorAll('a');
-                                for (let link of allLinks) {
-                                    const imgInside = link.querySelector('img');
-                                    if (imgInside) {
-                                        foundImage = imgInside.src;
-                                        break;
-                                    }
-                                }
+                            if (matches && matches.length > 0) {
+                                // On prend le premier lien qui ressemble à une image ou au lien Kessel
+                                foundImage = matches[0];
                             }
                         }
 
-                        // Placeholder si vraiment rien
                         const finalImg = foundImage || 'https://images.unsplash.com/photo-1504711432869-efd5971ee142?auto=format&fit=crop&q=80&w=1000';
 
                         const card = document.createElement('a');
                         card.href = `quiz.html?file=${item.file}`;
                         card.className = "group block";
 
-                        card.innerHTML = `
-                            <div id="cover-container" class="mb-5 overflow-hidden rounded-[2rem] shadow-sm border border-slate-100 group-hover:shadow-xl transition-all duration-300 bg-white">
-                                <img src="${finalImg}" class="w-full h-52 object-cover bg-slate-100 transition-transform duration-500" onerror="this.src='https://images.unsplash.com/photo-1504711432869-efd5971ee142?auto=format&fit=crop&q=80&w=1000'">
-                            </div>
-                            <div class="px-2">
-                                <div class="flex justify-between items-center mb-2">
-                                    <span class="text-[10px] font-black text-blue-600 uppercase tracking-widest">
-                                        ⏱️ ${data.temps_lecture || '3 min'}
-                                    </span>
-                                    <span class="text-slate-300 text-[10px] font-bold uppercase">
-                                        🗓️ ${item.date || 'Récent'}
-                                    </span>
-                                </div>
-                                <h2 class="text-xl font-black text-slate-900 leading-tight group-hover:text-blue-600 transition-colors">
-                                    ${item.title}
-                                </h2>
-                            </div>
-                        `;
-                        grid.appendChild(card);
-
-                    } catch (err) { console.error(err); }
-                }
-            } catch (e) { console.error(e); }
-        }
-
-        loadDashboard();
-    </script>
-</body>
-</html><!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ActuQuiz - Accueil</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
-        body { font-family: 'Inter', sans-serif; background: #f8fafc; -webkit-tap-highlight-color: transparent; }
-        .quiz-card:hover img { transform: scale(1.05); }
-    </style>
-</head>
-<body class="p-4 md:p-10">
-
-    <header class="max-w-5xl mx-auto mb-12 flex justify-between items-end">
-        <div>
-            <h1 class="text-4xl font-black text-slate-900 tracking-tighter italic uppercase">ActuQuiz.</h1>
-            <p class="text-slate-500 font-medium text-sm">L'actualité décryptée par le jeu.</p>
-        </div>
-        <a href="multiquiz.html" class="bg-blue-600 text-white px-6 py-3 rounded-2xl font-black text-xs uppercase tracking-widest shadow-lg hover:bg-slate-900 transition-all">
-            Super Quiz ⚡
-        </a>
-    </header>
-
-    <main id="quiz-grid" class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        </main>
-
-    <script>
-        async function loadDashboard() {
-            try {
-                const res = await fetch('manifest.json');
-                const manifest = await res.json();
-                const grid = document.getElementById('quiz-grid');
-                grid.innerHTML = '';
-
-                // On boucle sur le manifest (du plus récent au plus ancien)
-                for (const item of [...manifest].reverse()) {
-                    try {
-                        const detailRes = await fetch(item.file);
-                        const data = await detailRes.json();
-                        
-                        // EXTRACTION DE L'IMAGE (Même logique que Quiz.html)
-                        let foundImage = data.image;
-                        
-                        if (!foundImage) {
-                            const htmlContent = data.html_affichage || data.contenu_html || "";
-                            const parser = new DOMParser();
-                            const doc = parser.parseFromString(htmlContent, 'text/html');
-                            const firstImg = doc.querySelector('img');
-                            if (firstImg && firstImg.src) {
-                                foundImage = firstImg.src;
-                            }
-                        }
-
-                        // Placeholder si rien n'est trouvé
-                        const finalImg = foundImage || 'https://images.unsplash.com/photo-1504711432869-efd5971ee142?auto=format&fit=crop&q=80&w=1000';
-
-                        // CRÉATION DE LA CARTE
-                        const card = document.createElement('a');
-                        card.href = `quiz.html?file=${item.file}`;
-                        card.className = "group block";
-
-                        // TA STRUCTURE EXACTE (VIGNETTE + INFOS)
                         card.innerHTML = `
                             <div id="cover-container" class="mb-5 overflow-hidden rounded-[2rem] shadow-sm border border-slate-100 group-hover:shadow-xl transition-all duration-300">
-                                <img src="${finalImg}" class="w-full h-52 object-cover bg-slate-100 transition-transform duration-500" onerror="this.src='https://images.unsplash.com/photo-1504711432869-efd5971ee142?auto=format&fit=crop&q=80&w=1000'">
+                                <img src="${finalImg}" class="w-full h-52 object-cover bg-slate-100 transition-transform duration-500">
                             </div>
                             <div class="px-2">
                                 <div class="flex justify-between items-center mb-2">
@@ -184,15 +82,9 @@
                             </div>
                         `;
                         grid.appendChild(card);
-
-                    } catch (err) {
-                        console.error("Erreur chargement fichier:", item.file);
-                    }
+                    } catch (err) { console.error("Erreur sur :", item.file); }
                 }
-            } catch (e) {
-                console.error("Erreur manifest:", e);
-                document.getElementById('quiz-grid').innerHTML = "<p class='text-center col-span-full py-20 text-slate-400'>Aucun quiz trouvé.</p>";
-            }
+            } catch (e) { console.error("Erreur manifest"); }
         }
 
         loadDashboard();
