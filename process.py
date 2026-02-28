@@ -11,15 +11,14 @@ EMAIL_USER = os.environ.get("EMAIL_USER")
 EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")
 
 def clean_html_for_ia(raw_html):
-    """Extrait le texte pur pour que l'IA ne soit pas perturbée par les balises"""
+    """Extrait le texte pur pour l'IA"""
     soup = BeautifulSoup(raw_html, 'html.parser')
     for tag in soup(["script", "style", "nav", "footer"]):
         tag.decompose()
-    # On garde tout le texte, mais on enlève les espaces inutiles
-    return ' '.join(soup.get_text(separator=' ').split())
+    text = ' '.join(soup.get_text(separator=' ').split())
+    return text[:10000] # Sécurité quota gratuit
 
 def fetch_emails():
-    """Récupère les mails non lus dans le dossier HUGO"""
     if not EMAIL_USER or not EMAIL_PASSWORD:
         return []
     newsletters = []
@@ -60,7 +59,6 @@ def run():
     deja_vus = [m.get("titre_original") for m in manifest]
     sources = fetch_emails()
     
-    # On ajoute aussi les fichiers locaux si présents
     if os.path.exists(SOURCE_FOLDER):
         for f in os.listdir(SOURCE_FOLDER):
             if f.lower().endswith(('.htm', '.html')) and f not in deja_vus:
@@ -72,49 +70,36 @@ def run():
         return
 
     item = sources[0]
-    print(f"🤖 Traitement de : {item['title']}")
-    
-    # 1. Préparation des données
+    print(f"🤖 Analyse de : {item['title']}")
     texte_ia = clean_html_for_ia(item["html"])
     
-    # 2. Demande à l'IA
-    prompt = """Génère un quiz de 10 questions sur ce texte. 
-    Tu DOIS répondre UNIQUEMENT avec un objet JSON structuré comme ceci:
+    prompt = """Génère un quiz JSON de 10 questions. 
+    Format strictement attendu :
     {
-      "theme_global": "Thème court",
-      "titre": "Titre du Quiz",
+      "theme_global": "Thème",
+      "titre": "Titre",
       "questions": [
-        {
-          "q": "La question ?",
-          "options": ["A", "B", "C", "D"],
-          "correct": 0,
-          "explication": "Détails de la réponse"
-        }
+        {"q": "Question ?", "options": ["A", "B", "C", "D"], "correct": 0, "explication": "Détails"}
       ]
     }"""
 
     try:
-        # On utilise gemini-1.5-flash-latest pour la stabilité quota gratuit
+        # CHANGEMENT ICI : Nom de modèle simplifié pour éviter le 404
         response = client.models.generate_content(
-            model='gemini-1.5-flash-latest', 
-            contents=f"{prompt}\n\nTexte source :\n{texte_ia[:10000]}" # Limite à 10k pour le quota gratuit
+            model='gemini-1.5-flash', 
+            contents=f"{prompt}\n\nTexte :\n{texte_ia}"
         )
         
         json_match = re.search(r'\{.*\}', response.text, re.DOTALL)
         if json_match:
             quiz_data = json.loads(json_match.group())
+            quiz_data['html_affichage'] = item["html"] # On garde TOUT le HTML pour ton site
             
-            # --- C'EST ICI QUE LA MAGIE OPÈRE ---
-            # On stocke le HTML COMPLET d'Hugo pour l'affichage site
-            quiz_data['html_affichage'] = item["html"] 
-            
-            # Sauvegarde
             quiz_id = datetime.now().strftime("%Y%m%d-%H%M")
             file_name = f"quiz-{quiz_id}.json"
             with open(f"data/{file_name}", 'w', encoding='utf-8') as f:
                 json.dump(quiz_data, f, ensure_ascii=False, indent=2)
 
-            # Manifest pour ta page d'accueil (index)
             manifest.append({
                 "date": datetime.now().strftime("%d %b %Y"),
                 "file": f"data/{file_name}",
@@ -125,9 +110,9 @@ def run():
             with open('manifest.json', 'w', encoding='utf-8') as f:
                 json.dump(manifest, f, ensure_ascii=False, indent=2)
             
-            print(f"🚀 Terminé ! Quiz créé et HTML sauvegardé.")
+            print(f"🚀 Succès ! Quiz et HTML enregistrés.")
     except Exception as e:
-        print(f"💥 Erreur : {e}")
+        print(f"💥 Erreur IA : {e}")
 
 if __name__ == "__main__":
     run()
