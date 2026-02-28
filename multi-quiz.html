@@ -7,44 +7,41 @@
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-blue-600 min-h-screen p-6 flex flex-col items-center">
-    <nav class="w-full max-w-2xl mb-8">
-        <a href="index.html" class="text-white font-bold bg-white/20 px-6 py-2 rounded-full hover:bg-white/30 transition">← Retour</a>
+    <nav class="w-full max-w-2xl mb-10">
+        <a href="index.html" class="text-white font-bold opacity-80">← RETOUR ACCUEIL</a>
     </nav>
 
     <div id="setup" class="bg-white p-10 rounded-[50px] shadow-2xl max-w-2xl w-full">
-        <h1 class="text-5xl font-black mb-10 text-slate-900 tracking-tighter">Super Quiz ⚡</h1>
+        <h1 class="text-4xl font-black mb-8 text-slate-900 tracking-tight italic">Super Quiz.</h1>
         
-        <div class="mb-10">
-            <label class="block font-black text-slate-400 uppercase text-xs mb-6 tracking-widest">1. Choisir des thèmes</label>
-            <div id="theme-selector" class="flex flex-wrap gap-3">
-                </div>
+        <div class="mb-8">
+            <label class="block font-black text-slate-400 uppercase text-[10px] tracking-widest mb-4 text-center">Choisis tes thèmes</label>
+            <div id="theme-selector" class="flex flex-wrap gap-2 justify-center"></div>
         </div>
 
-        <div class="mb-12">
-            <label class="block font-black text-slate-400 uppercase text-xs mb-6 tracking-widest">2. Volume de questions</label>
-            <input type="range" id="qty" min="5" max="50" step="5" value="15" class="w-full h-4 bg-slate-100 rounded-full appearance-none cursor-pointer accent-blue-600">
-            <div id="qty-val" class="text-center font-black text-4xl mt-6 text-blue-600">15</div>
+        <div class="mb-10 text-center">
+            <label class="block font-black text-slate-400 uppercase text-[10px] tracking-widest mb-4">Volume de questions</label>
+            <input type="range" id="qty" min="5" max="50" step="5" value="15" class="w-full h-2 bg-slate-100 rounded-full appearance-none cursor-pointer accent-blue-600">
+            <div id="qty-val" class="font-black text-4xl mt-4 text-blue-600 italic">15</div>
         </div>
 
-        <button onclick="startQuiz()" class="w-full bg-slate-900 text-white py-7 rounded-[30px] font-black text-2xl hover:bg-black transition-all transform hover:scale-[1.03] shadow-xl">
-            C'EST PARTI !
-        </button>
+        <button onclick="startQuiz()" class="w-full bg-slate-900 text-white py-6 rounded-3xl font-black text-xl shadow-xl hover:scale-105 transition">LANCER LE DÉFI ⚡</button>
     </div>
 
-    <div id="game" class="hidden w-full max-w-2xl bg-slate-900 text-white rounded-[50px] p-10 md:p-14 shadow-2xl">
+    <div id="game" class="hidden w-full max-w-2xl bg-slate-900 text-white rounded-[50px] p-10 shadow-2xl">
         <div id="q-area">
-             <div id="progression" class="text-slate-500 font-bold mb-6 bg-white/5 inline-block px-4 py-1 rounded-full text-xs uppercase tracking-widest">Question 1/15</div>
-             <div id="q-category" class="text-blue-400 text-xs font-black uppercase mb-3">Thème</div>
-             <h2 id="q-text" class="text-2xl md:text-3xl font-bold mb-10 italic leading-tight">...</h2>
+             <div id="progression" class="text-slate-500 font-bold mb-4 text-xs tracking-widest">QUESTION 1/15</div>
+             <div id="q-category" class="text-blue-400 text-[10px] font-black uppercase mb-2">THÈME</div>
+             <h2 id="q-text" class="text-2xl font-bold mb-10 italic">...</h2>
              <div id="options" class="grid gap-4"></div>
-             <div id="feedback" class="hidden mt-10 p-8 rounded-3xl bg-white/10 border border-white/20"></div>
-             <button id="next-btn" class="hidden mt-10 w-full bg-blue-600 py-5 rounded-3xl font-black text-xl shadow-lg">CONTINUER</button>
+             <div id="feedback" class="hidden mt-8 p-6 rounded-2xl bg-white/10 border border-white/20 text-sm"></div>
+             <button id="next-btn" class="hidden mt-8 w-full bg-blue-600 py-5 rounded-2xl font-black">CONTINUER →</button>
         </div>
         <div id="result" class="hidden text-center py-10">
-            <h2 class="text-8xl mb-6">🔥</h2>
-            <h3 class="text-4xl font-black">Score Final</h3>
-            <p id="final-score" class="text-5xl mt-6 font-black text-blue-400"></p>
-            <button onclick="location.reload()" class="mt-14 bg-white text-slate-900 px-12 py-5 rounded-full font-black text-xl">RECOMMENCER</button>
+            <h2 class="text-6xl mb-4">🏆</h2>
+            <h3 class="text-4xl font-black italic">Score Final</h3>
+            <p id="final-score" class="text-5xl mt-6 font-black text-blue-400 tracking-tighter"></p>
+            <button onclick="location.reload()" class="mt-12 bg-white text-slate-900 px-12 py-4 rounded-full font-black text-xl">RECOMMENCER</button>
         </div>
     </div>
 
@@ -67,7 +64,7 @@
             const container = document.getElementById('theme-selector');
             themes.forEach(t => {
                 const b = document.createElement('button');
-                b.className = "px-5 py-3 rounded-2xl border-2 border-slate-100 font-black text-sm uppercase tracking-tight transition-all";
+                b.className = "px-4 py-2 rounded-xl border-2 border-slate-100 font-bold text-xs uppercase transition-all";
                 b.textContent = t;
                 b.onclick = () => {
                     if(selectedThemes.has(t)) {
@@ -85,8 +82,7 @@
         function startQuiz() {
             const qty = parseInt(document.getElementById('qty').value);
             let filtered = selectedThemes.size > 0 ? pool.filter(q => selectedThemes.has(q.theme)) : pool;
-            if(filtered.length === 0) return alert("Pas de questions pour ces thèmes !");
-
+            if(filtered.length === 0) return alert("Pas de questions !");
             selectedQuestions = filtered.sort(() => 0.5 - Math.random()).slice(0, qty);
             document.getElementById('setup').classList.add('hidden');
             document.getElementById('game').classList.remove('hidden');
@@ -105,7 +101,7 @@
             optDiv.innerHTML = '';
             q.options.forEach((o, i) => {
                 const b = document.createElement('button');
-                b.className = "text-left p-6 rounded-2xl border-2 border-white/5 bg-white/5 font-bold hover:bg-white/10 transition-all";
+                b.className = "text-left p-6 rounded-2xl border-2 border-white/5 bg-white/5 font-bold hover:bg-white/10 transition";
                 b.textContent = o;
                 b.onclick = () => {
                     const allB = optDiv.querySelectorAll('button');
@@ -114,11 +110,11 @@
                     if(i === q.correct) {
                         score++;
                         b.classList.add('bg-green-600', 'border-green-600');
-                        document.getElementById('feedback').innerHTML = `<b class="text-green-400">BIEN JOUÉ</b><br>${q.explication}`;
+                        document.getElementById('feedback').innerHTML = `<b class="text-green-400 uppercase text-[10px]">Correct</b><p class="mt-1">${q.explication}</p>`;
                     } else {
                         b.classList.add('bg-red-600', 'border-red-600');
                         allB[q.correct].classList.add('border-green-600', 'text-green-400');
-                        document.getElementById('feedback').innerHTML = `<b class="text-red-400">ERREUR</b><br>${q.explication}`;
+                        document.getElementById('feedback').innerHTML = `<b class="text-red-400 uppercase text-[10px]">Erreur</b><p class="mt-1">${q.explication}</p>`;
                     }
                     document.getElementById('next-btn').classList.remove('hidden');
                 };
