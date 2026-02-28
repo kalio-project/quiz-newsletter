@@ -3,11 +3,12 @@ from google import genai
 from email.utils import parsedate_to_datetime
 from email.header import decode_header
 
-# 1. CONFIGURATION ULTRA-SIMPLE
-# On laisse la bibliothèque gérer les versions d'API toute seule
+# 1. INITIALISATION DU CLIENT
+# Il va chercher le secret 'GEMINI_API_KEY' que tu as créé dans GitHub
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 def get_newsletter():
+    """Récupère les mails du compte quizz (EMAIL_USER)"""
     mail = imaplib.IMAP4_SSL("imap.gmail.com")
     try:
         mail.login(os.environ["EMAIL_USER"], os.environ["EMAIL_PASSWORD"])
@@ -21,7 +22,6 @@ def get_newsletter():
     status, messages = mail.search(None, 'ALL')
     results = []
     ids = messages[0].split()
-    
     print(f"🔎 {len(ids)} mails trouvés.")
 
     for m_id in ids[-15:]:
@@ -36,7 +36,7 @@ def get_newsletter():
         subject = "".join([part.decode(enc or 'utf-8') if isinstance(part, bytes) else part for part, enc in subject_parts])
 
         if any(addr.lower() in sender for addr in AUTORISES):
-            print(f"✅ NEWSLETTER : {subject[:30]}")
+            print(f"✅ MATCH : {subject[:35]}...")
             dt = parsedate_to_datetime(msg.get("Date"))
             
             html_body = ""
@@ -49,50 +49,72 @@ def get_newsletter():
                 
             if html_body:
                 results.append({
-                    "subject": subject, "html": html_body, "date": dt.strftime("%d %b"),
+                    "subject": subject, 
+                    "html": html_body, 
+                    "date": dt.strftime("%d %b"),
                     "id_unique": f"{dt.strftime('%Y%m%d')}-{re.sub(r'[^a-zA-Z0-9]', '', subject[:10])}"
                 })
     mail.logout()
     return results
 
+# --- GÉNÉRATION ---
 newslettersFound = get_newsletter()
 
 if newslettersFound:
     try:
-        with open('manifest.json', 'r', encoding='utf-8') as f: manifest = json.load(f)
-    except: manifest = []
+        with open('manifest.json', 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+    except:
+        manifest = []
 
     deja_presents = [item.get("titre_original", "") for item in manifest]
+    
+    # On teste les deux variantes de noms de modèles
+    MODELES_A_TESTER = ['gemini-1.5-flash', 'models/gemini-1.5-flash']
 
     for nl in newslettersFound:
-        if nl["subject"] in deja_presents: continue
+        if nl["subject"] in deja_presents:
+            print(f"⏩ Déjà traité : {nl['subject']}")
+            continue
 
-        print(f"🤖 IA en cours...")
+        print(f"🤖 IA en cours pour : {nl['subject']}")
         
-        # CHANGEMENT DE NOM DE MODÈLE : On utilise le nom court sans prefixe
-        try:
-            response = client.models.generate_content(
-                model='gemini-1.5-flash', 
-                contents=f"Analyse cette newsletter et crée un quiz QCM. Sortie JSON strict: {{\"titre\":\"\", \"image\":\"\", \"theme\":\"\", \"contenu_html\":\"\", \"questions\":[]}}\n\nCONTENU :\n{nl['html']}"
-            )
-            
-            match = re.search(r'\{.*\}', response.text, re.DOTALL)
-            if match:
-                data = json.loads(match.group())
-                filename = f"quiz-{nl['id_unique']}.json"
-                os.makedirs('data', exist_ok=True)
-                with open(f"data/{filename}", 'w', encoding='utf-8') as f:
-                    json.dump(data, f, ensure_ascii=False)
+        prompt = f"""Analyse cette newsletter. 
+        1. IMAGE : URL de l'image principale (src <img>).
+        2. HTML : Garde seulement <b>, <i>, <ul>, <li>, <p>. 
+        3. THÈME : Un seul mot (Politique, Sport, Économie, etc.). 
+        4. QUIZ : 10 QCM (4 options, index correct, explication).
+        Sortie JSON strict: {{"titre":"", "image":"", "theme":"", "contenu_html":"", "questions":[]}}"""
+        
+        success = False
+        for m_name in MODELES_A_TESTER:
+            if success: break
+            try:
+                # Appel direct sans forcer la version d'API
+                response = client.models.generate_content(
+                    model=m_name,
+                    contents=prompt + "\n\nCONTENU :\n" + nl['html']
+                )
                 
-                manifest.append({
-                    "date": nl['date'], "file": filename, "titre": data['titre'], 
-                    "titre_original": nl['subject'], "image": data.get('image', ''), "theme": data['theme']
-                })
-                print(f"   💾 Sauvegardé !")
-        except Exception as e:
-            print(f"❌ Erreur IA : {e}")
+                match = re.search(r'\{.*\}', response.text, re.DOTALL)
+                if match:
+                    data = json.loads(match.group())
+                    filename = f"quiz-{nl['id_unique']}.json"
+                    os.makedirs('data', exist_ok=True)
+                    with open(f"data/{filename}", 'w', encoding='utf-8') as f:
+                        json.dump(data, f, ensure_ascii=False)
+                    
+                    manifest.append({
+                        "date": nl['date'], "file": filename, "titre": data['titre'], 
+                        "titre_original": nl['subject'], "image": data.get('image', ''), "theme": data['theme']
+                    })
+                    print(f"   💾 SUCCÈS ({m_name})")
+                    success = True
+            except Exception as e:
+                print(f"   ❌ Échec avec {m_name}")
 
     with open('manifest.json', 'w', encoding='utf-8') as f:
         json.dump(manifest, f, ensure_ascii=False)
+    print("✅ Terminé !")
 else:
     print("📢 Rien à traiter.")
