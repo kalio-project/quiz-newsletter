@@ -7,8 +7,8 @@ from email.header import decode_header
 # --- CONFIGURATION ---
 genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
-# ON UTILISE LE NOM EXACT DE TA LISTE
-model = genai.GenerativeModel('gemini-2.0-flash')
+# MODÈLE CHOISI SELON TES QUOTAS ACTIFS
+MODEL_NAME = 'gemini-2.5-flash' 
 
 SOURCE_FOLDER = "newsletters_html"
 EMAIL_USER = os.environ.get("EMAIL_USER")
@@ -18,8 +18,7 @@ def clean_html_for_ia(raw_html):
     soup = BeautifulSoup(raw_html, 'html.parser')
     for tag in soup(["script", "style", "nav", "footer"]):
         tag.decompose()
-    text = ' '.join(soup.get_text(separator=' ').split())
-    return text[:15000] # On peut envoyer un peu plus avec le 2.0
+    return ' '.join(soup.get_text(separator=' ').split())[:12000]
 
 def fetch_emails():
     if not EMAIL_USER or not EMAIL_PASSWORD:
@@ -35,22 +34,21 @@ def fetch_emails():
             for m_id in messages[0].split():
                 res, data = mail.fetch(m_id, "(RFC822)")
                 msg = email.message_from_bytes(data[0][1])
-                subject = decode_header(msg["Subject"])[0][0]
-                if isinstance(subject, bytes): subject = subject.decode(errors='ignore')
+                subj = decode_header(msg["Subject"])[0][0]
+                if isinstance(subj, bytes): subj = subj.decode(errors='ignore')
                 
-                html_content = ""
+                body_html = ""
                 if msg.is_multipart():
                     for part in msg.walk():
                         if part.get_content_type() == "text/html":
-                            html_content = part.get_payload(decode=True).decode(errors='ignore')
+                            body_html = part.get_payload(decode=True).decode(errors='ignore')
                 else:
-                    html_content = msg.get_payload(decode=True).decode(errors='ignore')
+                    body_html = msg.get_payload(decode=True).decode(errors='ignore')
                 
-                if html_content:
-                    newsletters.append({"id": f"mail-{m_id.decode()}", "html": html_content, "title": subject})
+                if body_html:
+                    newsletters.append({"id": f"mail-{m_id.decode()}", "html": body_html, "title": subj})
         mail.logout()
-    except Exception as e:
-        print(f"❌ Gmail : {e}")
+    except Exception as e: print(f"❌ Gmail : {e}")
     return newsletters
 
 def run():
@@ -69,45 +67,46 @@ def run():
                     sources.append({"id": f, "html": file.read(), "title": f})
 
     if not sources:
-        print("✅ Tout est à jour.")
+        print("✅ Rien à traiter.")
         return
 
     item = sources[0]
-    print(f"🤖 Analyse de : {item['title']}")
+    if item["id"] in deja_vus: return
+
+    print(f"🤖 Analyse avec {MODEL_NAME} de : {item['title']}")
     texte_ia = clean_html_for_ia(item["html"])
     
     prompt = """Génère un quiz JSON de 10 questions. 
-    Structure : {"theme_global": "", "titre": "", "questions": [{"q": "", "options": ["", "", "", ""], "correct": 0, "explication": ""}]}
-    Réponds uniquement le JSON sans texte autour."""
+    Format : {"theme_global": "", "titre": "", "questions": [{"q": "", "options": ["", "", "", ""], "correct": 0, "explication": ""}]}
+    Réponds UNIQUEMENT le JSON."""
 
     try:
-        # Generation
+        model = genai.GenerativeModel(MODEL_NAME)
         response = model.generate_content(f"{prompt}\n\nTexte :\n{texte_ia}")
         
         json_match = re.search(r'\{.*\}', response.text, re.DOTALL)
         if json_match:
             quiz_data = json.loads(json_match.group())
-            # ON GARDE LE HTML POUR L'AFFICHAGE PAGE WEB
+            # SAUVEGARDE DU HTML D'HUGO POUR TON SITE
             quiz_data['html_affichage'] = item["html"] 
             
             quiz_id = datetime.now().strftime("%Y%m%d-%H%M")
-            file_name = f"quiz-{quiz_id}.json"
-            with open(f"data/{file_name}", 'w', encoding='utf-8') as f:
+            dest_path = f"data/quiz-{quiz_id}.json"
+            with open(dest_path, 'w', encoding='utf-8') as f:
                 json.dump(quiz_data, f, ensure_ascii=False, indent=2)
 
             manifest.append({
                 "date": datetime.now().strftime("%d %b %Y"),
-                "file": f"data/{file_name}",
+                "file": dest_path,
                 "titre": quiz_data.get('titre', item['title']),
                 "titre_original": item["id"],
                 "theme": quiz_data.get('theme_global', 'ACTU')
             })
             with open('manifest.json', 'w', encoding='utf-8') as f:
                 json.dump(manifest, f, ensure_ascii=False, indent=2)
-            
-            print(f"🚀 ENFIN ! Quiz généré : data/{file_name}")
+            print(f"🚀 RÉUSSI avec {MODEL_NAME} !")
     except Exception as e:
-        print(f"💥 Erreur IA : {e}")
+        print(f"💥 Erreur : {e}")
 
 if __name__ == "__main__":
     run()
