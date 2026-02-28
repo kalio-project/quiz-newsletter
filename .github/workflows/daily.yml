@@ -1,37 +1,29 @@
-name: Update Quiz
+name: Update ActuQuiz
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '30 18 * * *'  # 18h30 tous les jours
   workflow_dispatch:
-
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-          
-      - name: Install dependencies
-        run: |
-          pip install google-genai requests  # <--- C'EST CETTE LIGNE QUI COMPTE
-          
-      - name: Run python process.py
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
-        run: python process.py
-        
-      - name: Save changes to GitHub
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "🚀 Sync Quiz (Email + Dossier)" || exit 0
-          git push
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    - name: Install deps
+      run: pip install google-api-python-client google-generativeai beautifulsoup4
+    - name: Run process
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+      run: python process.py
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update quizzes $(date)" || echo "No changes"
+        git push
