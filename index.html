@@ -5,47 +5,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ActuQuiz - Accueil</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
-        body { font-family: 'Inter', sans-serif; }
+        body { font-family: 'Inter', sans-serif; background: #fff; }
     </style>
 </head>
-<body class="bg-slate-50 p-6">
+<body class="p-6 md:p-12">
 
-    <header class="max-w-6xl mx-auto mb-10 flex flex-col md:flex-row justify-between items-center gap-6">
+    <header class="max-w-5xl mx-auto mb-16 flex flex-col md:flex-row justify-between items-end gap-4">
         <div>
-            <h1 class="text-4xl font-black italic text-blue-600">ACTUQUIZ.</h1>
-            <p class="text-slate-500 font-medium">L'actu d'HugoDécrypte décortiquée en tests de lecture.</p>
+            <h1 class="text-4xl font-black text-blue-600 italic tracking-tighter">ACTUQUIZ.</h1>
         </div>
-        <a href="multiquiz.html" class="bg-slate-900 text-white px-8 py-4 rounded-full font-bold shadow-lg hover:scale-105 transition">
-            Lancer un Test Aléatoire ⚡
+        <a href="multiquiz.html" class="text-sm font-bold text-slate-400 hover:text-blue-600 transition">
+            Lancer un test aléatoire ⚡
         </a>
     </header>
 
-    <main id="grid" class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8"></main>
+    <main id="grid" class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        </main>
 
     <script>
         async function init() {
-            const res = await fetch('manifest.json');
-            const data = await res.json();
-            const grid = document.getElementById('grid');
-            
-            // On inverse pour avoir le plus récent en premier
-            grid.innerHTML = data.reverse().map(i => `
-                <div class="bg-white rounded-3xl shadow-sm border border-slate-100 overflow-hidden hover:shadow-xl transition cursor-pointer group" onclick="location.href='quiz.html?file=${i.file}'">
-                    <div class="relative h-52 overflow-hidden">
-                        <img src="${i.image || 'https://via.placeholder.com/400x225?text=ActuQuiz'}" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
-                        <div class="absolute top-4 left-4 bg-blue-600 text-white text-[10px] font-black px-3 py-1 rounded-full uppercase">
-                            ${i.theme}
+            try {
+                const res = await fetch('manifest.json');
+                const data = await res.json();
+                const grid = document.getElementById('grid');
+                
+                grid.innerHTML = data.reverse().map(i => `
+                    <div class="cursor-pointer group" onclick="location.href='quiz.html?file=${i.file}'">
+                        <div class="relative aspect-video overflow-hidden rounded-2xl mb-4 bg-slate-100">
+                            <img src="${i.image}" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                        </div>
+                        <div class="space-y-2">
+                            <h2 class="text-xl font-bold leading-tight text-slate-900 group-hover:text-blue-600 transition">
+                                ${i.titre}
+                            </h2>
+                            <div class="flex items-center gap-3 text-slate-400 text-sm font-medium">
+                                <span>${i.date}</span>
+                                <span>•</span>
+                                <span>5 min</span>
+                                <i class="fa-regular fa-user-group"></i>
+                            </div>
                         </div>
                     </div>
-                    <div class="p-6">
-                        <div class="text-slate-400 text-[11px] font-bold mb-2 uppercase">${i.date} • 5 MIN</div>
-                        <h2 class="text-xl font-bold leading-tight text-slate-800">${i.titre}</h2>
-                    </div>
-                </div>
-            `).join('');
+                `).join('');
+            } catch (e) { console.error("Erreur chargement index:", e); }
         }
         init();
     </script>
