@@ -1,174 +1,52 @@
-import os, imaplib, email, json, re, html
-from google import genai
-from email.utils import parsedate_to_datetime
-from email.header import decode_header
-
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
-
-def get_newsletter():
-    mail = imaplib.IMAP4_SSL("imap.gmail.com")
-    try:
-        mail.login(os.environ["EMAIL_USER"], os.environ["EMAIL_PASSWORD"])
-    except: return []
-    mail.select("inbox")
-    AUTORISES = ["hugodecrypte@kessel.media", "hugo@hugodecrypte.com", "qcm.newsletter@gmail.com"]
-    status, messages = mail.search(None, 'ALL')
-    results = []
-    ids = messages[0].split()
-
-    for m_id in ids[-10:]:
-        res, data = mail.fetch(m_id, "(RFC822)")
-        msg = email.message_from_bytes(data[0][1])
-        sender = str(msg.get("From")).lower()
-
-        if any(addr.lower() in sender for addr in AUTORISES):
-            subject_parts = decode_header(msg["Subject"])
-            subject = "".join([part.decode(enc or 'utf-8') if isinstance(part, bytes) else part for part, enc in subject_parts])
-            dt = parsedate_to_datetime(msg.get("Date"))
-            
-            body_html = ""
-            if msg.is_multipart():
-                for part in msg.walk():
-                    if part.get_content_type() == "text/html":
-                        body_html = part.get_payload(decode=True).decode(errors='ignore')
-            else: body_html = msg.get_payload(decode=True).decode(errors='ignore')
-            
-            if body_html:
-                text_only = re.sub(r'<(style|script).*?>.*?</\1>', '', body_html, flags=re.DOTALL | re.IGNORECASE)
-                text_only = re.sub(r'<.*?>', ' ', text_only)
-                results.append({
-                    "subject": subject, "full_html": body_html, "text_only": html.unescape(text_only),
-                    "date": dt.strftime("%d %b %Y"),
-                    "id": f"{dt.strftime('%Y%m%d')}-{re.sub(r'[^a-z]', '', subject.lower())[:10]}"
-                })
-    mail.logout()
-    return results
-
-newsletters = get_newsletter()
-if newsletters:
-    try:
-        with open('manifest.json', 'r', encoding='utf-8') as f: manifest = json.load(f)
-    except: manifest = []
-    
-    deja_vus = [m.get("titre_original") for m in manifest]
-
-    for nl in newsletters:
-        if nl["subject"] in deja_vus: continue
-
-        prompt = "Génère un JSON : 1. theme (Politique, Sport, etc.), 2. titre (court), 3. questions (10 QCM avec q, options, correct 0-3, explication)."
-        try:
-            response = client.models.generate_content(model='gemini-2.5-flash', contents=prompt + "\n\nTEXTE:\n" + nl['text_only'][:10000])
-            match = re.search(r'\{.*\}', response.text, re.DOTALL)
-            if match:
-                data = json.loads(match.group())
-                data['contenu_html'] = nl['full_html'] # On garde le HTML original
-                img_match = re.search(r'<img.*?src="(.*?)"', nl['full_html'])
-                img_url = img_match.group(1) if img_match else ""
-                
-                path = f"data/quiz-{nl['id']}.json"
-                os.makedirs('data', exist_ok=True)
-                with open(path, 'w', encoding='utf-8') as f: json.dump(data, f, ensure_ascii=False)
-                
-                manifest.append({
-                    "date": nl['date'], "file": path, "titre": data['titre'],
-                    "titre_original": nl['subject'], "image": img_url, "theme": data['theme']
-                })
-        except Exception as e: print(f"Erreur: {e}")
-
-    with open('manifest.json', 'w', encoding='utf-8') as f: json.dump(manifest, f, ensure_ascii=False, indent=2)<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ActuQuiz - Accueil</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
-        body { font-family: 'Inter', sans-serif; background: #f8fafc; }
-    </style>
 </head>
-<body class="p-4 md:p-10">
-
-    <header class="max-w-6xl mx-auto mb-10">
-        <div class="flex flex-col md:flex-row md:items-center justify-between gap-6">
-            <div>
-                <h1 class="text-5xl font-black text-slate-900 leading-none"><span class="text-blue-600">ACTU</span>QUIZ</h1>
-                <p class="text-slate-500 mt-2 font-medium">L'essentiel de l'info d'HugoDécrypte en quiz.</p>
-            </div>
-            <div class="bg-blue-600 p-6 rounded-3xl text-white shadow-xl shadow-blue-200">
-                <h3 class="font-bold mb-2">Envie d'un défi ?</h3>
-                <p class="text-sm opacity-90 mb-4">Génère un quiz de 5 à 30 questions sur tes thèmes préférés.</p>
-                <a href="multi-quiz.html" class="inline-block bg-white text-blue-600 px-6 py-2 rounded-xl font-bold hover:scale-105 transition">Lancer le Super Quiz <i class="fas fa-bolt ml-2"></i></a>
-            </div>
-        </div>
-
-        <div id="filter-bar" class="flex flex-wrap gap-2 mt-10">
-            <button onclick="filterBy('Tous')" class="filter-btn bg-slate-900 text-white px-5 py-2 rounded-full text-sm font-bold shadow-md transition">Tous</button>
-            </div>
+<body class="bg-slate-50 p-6">
+    <header class="max-w-6xl mx-auto mb-10 flex justify-between items-center">
+        <h1 class="text-4xl font-black italic text-blue-600">ACTUQUIZ.</h1>
+        <a href="multi-quiz.html" class="bg-slate-900 text-white px-6 py-3 rounded-full font-bold">Lancer un Quiz Aléatoire ⚡</a>
     </header>
 
-    <main id="grid" class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        </main>
+    <div id="filters" class="max-w-6xl mx-auto mb-8 flex gap-2 overflow-x-auto pb-4">
+        <button onclick="filter('Tous')" class="bg-blue-600 text-white px-4 py-2 rounded-xl text-sm font-bold">Tous</button>
+    </div>
+
+    <main id="grid" class="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8"></main>
 
     <script>
-        let allQuizzes = [];
-        const themes = ['Politique', 'Économie', 'Technologie', 'Écologie', 'Société', 'Culture', 'Sport', 'Géopolitique', 'Science', 'Insolite'];
-        const colors = { 'Politique': '#ef4444', 'Économie': '#10b981', 'Technologie': '#3b82f6', 'Écologie': '#059669', 'Société': '#8b5cf6', 'Culture': '#f59e0b', 'Sport': '#f43f5e', 'Géopolitique': '#6366f1', 'Science': '#06b6d4', 'Insolite': '#ec4899' };
-
         async function init() {
             const res = await fetch('manifest.json');
-            allQuizzes = await res.json();
-            
-            // Créer les boutons de filtres
-            const filterBar = document.getElementById('filter-bar');
+            const data = await res.json();
+            const themes = [...new Set(data.map(i => i.theme))];
+            const filterDiv = document.getElementById('filters');
             themes.forEach(t => {
-                const btn = document.createElement('button');
-                btn.className = "filter-btn bg-white border border-slate-200 px-5 py-2 rounded-full text-sm font-bold hover:bg-slate-50 transition";
-                btn.textContent = t;
-                btn.onclick = () => filterBy(t, btn);
-                filterBar.appendChild(btn);
+                filterDiv.innerHTML += `<button onclick="filter('${t}')" class="bg-white border px-4 py-2 rounded-xl text-sm font-bold hover:bg-slate-100">${t}</button>`;
             });
-
-            renderGrid(allQuizzes);
+            window.allData = data;
+            render(data);
         }
 
-        function renderGrid(list) {
+        function render(list) {
             const grid = document.getElementById('grid');
-            grid.innerHTML = '';
-            list.reverse().forEach(q => {
-                grid.innerHTML += `
-                    <div class="bg-white rounded-3xl overflow-hidden shadow-sm border border-slate-100 hover:shadow-lg transition-all group">
-                        <div class="relative h-44 overflow-hidden">
-                            <img src="${q.image || 'https://images.unsplash.com/photo-1504711434969-e33886168f5c'}" class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
-                            <span class="absolute top-4 left-4 px-3 py-1 rounded-full text-[10px] font-black uppercase text-white" style="background:${colors[q.theme] || '#000'}">${q.theme}</span>
-                        </div>
-                        <div class="p-6">
-                            <div class="text-[10px] font-bold text-slate-400 mb-2 uppercase tracking-widest">${q.date}</div>
-                            <h2 class="text-xl font-black text-slate-800 leading-tight mb-4">${q.titre}</h2>
-                            <a href="quiz.html?file=${q.file}" class="inline-block w-full text-center bg-slate-50 py-3 rounded-xl font-bold text-slate-900 hover:bg-blue-600 hover:text-white transition">Lire & Jouer</a>
-                        </div>
+            grid.innerHTML = list.reverse().map(i => `
+                <div class="bg-white rounded-3xl shadow-sm border overflow-hidden hover:shadow-xl transition cursor-pointer" onclick="location.href='quiz.html?file=${i.file}'">
+                    <img src="${i.image}" class="w-full h-48 object-cover">
+                    <div class="p-6">
+                        <span class="text-[10px] font-black uppercase text-blue-500">${i.theme} • ${i.date}</span>
+                        <h2 class="text-xl font-bold mt-2 leading-tight">${i.titre}</h2>
                     </div>
-                `;
-            });
+                </div>
+            `).join('');
         }
 
-        function filterBy(theme, btn) {
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.replace('bg-slate-900', 'bg-white'));
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.replace('text-white', 'text-slate-900'));
-            
-            if(btn) {
-                btn.classList.add('bg-slate-900', 'text-white');
-            }
-
-            if(theme === 'Tous') {
-                renderGrid(allQuizzes);
-            } else {
-                const filtered = allQuizzes.filter(q => q.theme === theme);
-                renderGrid(filtered);
-            }
+        function filter(t) {
+            render(t === 'Tous' ? window.allData : window.allData.filter(i => i.theme === t));
         }
-
         init();
     </script>
 </body>
