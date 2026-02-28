@@ -3,6 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture & Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-100">
+    <nav class="p-4 bg-white border-b sticky top-0 z-50">
+        <a href="index.html" class="font-black text-blue-600">← RETOUR</a>
+    </nav>
+
+    <main class="max-w-4xl mx-auto py-10 px-4">
+        <div class="bg-white rounded-3xl shadow-xl overflow-hidden mb-12">
+            <iframe id="news-frame" class="w-full border-none" style="min-height: 600px;"></iframe>
+        </div>
+
+        <div id="quiz-box" class="bg-slate-900 text-white rounded-[40px] p-8 md:p-12 shadow-2xl">
+            <div id="q-area">
+                <h2 id="q-text" class="text-2xl font-bold mb-8 italic">Chargement du quiz...</h2>
+                <div id="options" class="grid gap-3"></div>
+                <div id="feedback" class="hidden mt-8 p-6 rounded-2xl bg-white/10 border border-white/20"></div>
+                <button id="next-btn" class="hidden mt-8 w-full bg-blue-600 py-4 rounded-2xl font-black">QUESTION SUIVANTE</button>
+            </div>
+            <div id="result" class="hidden text-center">
+                <h2 class="text-5xl mb-4">🎯</h2>
+                <h3 class="text-3xl font-black">Quiz terminé !</h3>
+                <p id="score-text" class="text-xl mt-4 opacity-70"></p>
+                <button onclick="location.href='index.html'" class="mt-8 bg-white text-slate-900 px-8 py-3 rounded-full font-black">RETOUR À L'ACCUEIL</button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        let currentQ = 0, score = 0, quiz = [];
+
+        async function load() {
+            const res = await fetch(params.get('file'));
+            const data = await res.json();
+            quiz = data.questions;
+
+            // Injection Newsletter Originale
+            const frame = document.getElementById('news-frame');
+            const doc = frame.contentWindow.document;
+            doc.open(); doc.write(data.contenu_html); doc.close();
+            frame.onload = () => frame.style.height = frame.contentWindow.document.body.scrollHeight + 'px';
+
+            showQ();
+        }
+
+        function showQ() {
+            const q = quiz[currentQ];
+            document.getElementById('q-text').textContent = q.q;
+            const optDiv = document.getElementById('options');
+            optDiv.innerHTML = '';
+            document.getElementById('feedback').classList.add('hidden');
+            document.getElementById('next-btn').classList.add('hidden');
+
+            q.options.forEach((o, i) => {
+                const btn = document.createElement('button');
+                btn.className = "text-left p-5 rounded-2xl border-2 border-white/10 bg-white/5 font-bold hover:bg-white/10 transition";
+                btn.textContent = o;
+                btn.onclick = () => check(i);
+                optDiv.appendChild(btn);
+            });
+        }
+
+        function check(i) {
+            const q = quiz[currentQ];
+            const btns = document.querySelectorAll('#options button');
+            btns.forEach(b => b.disabled = true);
+            const feedback = document.getElementById('feedback');
+            feedback.classList.remove('hidden');
+
+            if(i === q.correct) {
+                score++;
+                btns[i].classList.add('bg-green-600', 'border-green-600');
+                feedback.innerHTML = `<b class="text-green-400 text-sm uppercase">Correct !</b><br>${q.explication}`;
+            } else {
+                btns[i].classList.add('bg-red-600', 'border-red-600');
+                btns[q.correct].classList.add('border-green-600', 'text-green-400');
+                feedback.innerHTML = `<b class="text-red-400 text-sm uppercase">Mauvaise réponse</b><br>${q.explication}`;
+            }
+            document.getElementById('next-btn').classList.remove('hidden');
+        }
+
+        document.getElementById('next-btn').onclick = () => {
+            currentQ++;
+            if(currentQ < quiz.length) showQ();
+            else {
+                document.getElementById('q-area').classList.add('hidden');
+                document.getElementById('result').classList.remove('hidden');
+                document.getElementById('score-text').textContent = `Tu as obtenu ${score} / ${quiz.length}`;
+            }
+        }
+        load();
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ActuQuiz - Accueil</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
