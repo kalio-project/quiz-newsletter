@@ -1,13 +1,12 @@
 name: Update Quiz
 on:
   schedule:
-    - cron: '0 * * * *' # Tourne toutes les heures automatiquement
-  workflow_dispatch:      # Permet de le lancer à la main quand tu veux
+    - cron: '0 * * * *' # Tourne toutes les heures
+  workflow_dispatch:      # Permet de le lancer manuellement
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # On donne les permissions d'écriture pour que le bot puisse enregistrer les quiz
     permissions:
       contents: write
       
@@ -34,8 +33,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # On ajoute le manifest et tout le contenu du dossier data
-          git add manifest.json data/*.json
-          # On commit seulement s'il y a des changements
-          git commit -m "🚀 Nouveau Quiz ajouté" || echo "Pas de nouveaux quiz à enregistrer"
+          
+          # On ajoute tout (manifest et dossier data)
+          git add .
+          
+          # On commit. Si pas de changement, on ne fait rien sans erreur.
+          git commit -m "🚀 Mise à jour automatique des quiz" || exit 0
+          
+          # On pousse les changements
           git push
