@@ -25,9 +25,14 @@
     
     <div id="quiz-ui" class="max-w-xl mx-auto p-6 md:p-8 bg-white rounded-[2.5rem] shadow-2xl border border-slate-100 relative">
         
-        <button onclick="window.scrollTo({top:0, behavior:'smooth'})" class="absolute -top-12 right-6 text-slate-400 font-black text-[9px] uppercase tracking-widest hover:text-blue-600 flex items-center gap-1">
-            ↑ Lire l'article
-        </button>
+        <div class="absolute -top-12 left-0 w-full flex justify-between px-6 items-center">
+            <a href="index.html" class="text-blue-600 font-black uppercase text-[10px] tracking-widest italic">
+                ← Retour
+            </a>
+            <button onclick="window.scrollTo({top:0, behavior:'smooth'})" class="text-slate-400 font-black text-[9px] uppercase tracking-widest hover:text-blue-600 flex items-center gap-1">
+                ↑ Lire l'article
+            </button>
+        </div>
 
         <div class="quiz-card">
             <div class="flex justify-between items-center mb-6">
@@ -57,7 +62,7 @@
         <h2 class="text-3xl font-black text-slate-900 mb-2 italic uppercase">Terminé !</h2>
         <div id="final-score-text" class="text-5xl font-black text-blue-600 my-8">0/0</div>
         <div id="theme-details" class="space-y-4 mb-10 text-left"></div>
-        <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl italic transition shadow-lg">RETOURNER AUX ACTUS</button>
+        <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl italic transition shadow-lg">RETOURNER AU HUB</button>
     </div>
 
     <script>
@@ -115,7 +120,6 @@
             document.getElementById('explanation-box').classList.remove('hidden');
             document.getElementById('next-btn').classList.remove('hidden');
             
-            // Focus sur le bouton continuer pour ne pas perdre le fil
             setTimeout(() => {
                 document.getElementById('next-btn').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
             }, 100);
@@ -125,7 +129,6 @@
             currentIdx++;
             if(currentIdx < questions.length) {
                 render();
-                // On remonte au début du bloc quiz pour la nouvelle question
                 document.getElementById('quiz-ui').scrollIntoView({ behavior: 'smooth', block: 'center' });
             }
             else showFinalScore();
