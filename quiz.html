@@ -7,12 +7,12 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Inter', sans-serif; scroll-behavior: smooth; }
-        .progress-bar { transition: width 0.4s ease-out; }
-        .no-scrollbar::-webkit-scrollbar { display: none; }
+        body { font-family: 'Inter', sans-serif; background-color: white; }
+        /* Style spécifique pour caler le contenu comme le SuperQuiz */
+        .quiz-card { min-height: 500px; display: flex; flex-direction: column; }
     </style>
 </head>
-<body class="bg-white pb-20 text-slate-900">
+<body class="pb-20 text-slate-900">
 
     <nav class="p-6 max-w-2xl mx-auto">
         <a href="index.html" class="text-blue-600 font-black uppercase text-[10px] tracking-widest italic">← Retour au Hub</a>
@@ -20,49 +20,42 @@
 
     <article id="content" class="max-w-2xl mx-auto p-6 prose prose-slate lg:prose-xl mb-12 border-b border-slate-100 pb-12"></article>
     
-    <div id="quiz-container" class="max-w-xl mx-auto p-6 md:p-10 bg-slate-900 rounded-[2.5rem] text-white shadow-2xl relative">
+    <div id="quiz-ui" class="max-w-xl mx-auto p-6 md:p-8 bg-white rounded-[2.5rem] shadow-2xl border border-slate-100 relative">
         
-        <button onclick="this.parentElement.style.display='none'" class="absolute top-6 right-6 text-white/20 hover:text-white transition-all">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M6 18L18 6M6 6l12 12" /></svg>
-        </button>
-
-        <div id="quiz-interface">
-            <div class="flex justify-between items-center mb-8">
-                <span id="step-label" class="text-[10px] font-black uppercase tracking-[0.3em] text-blue-400">Question 1</span>
-                <span id="theme-label" class="text-[9px] font-black uppercase bg-white/10 px-3 py-1 rounded-full text-slate-300">Thème</span>
-            </div>
-
-            <h2 id="question-text" class="text-xl md:text-2xl font-black mb-8 leading-tight italic">Chargement...</h2>
-
-            <div id="options-zone" class="space-y-3"></div>
-
-            <div id="explanation-zone" class="hidden mt-8 p-6 bg-white/5 rounded-3xl border border-white/10">
-                <p id="result-status" class="font-black uppercase text-[11px] mb-2 tracking-widest"></p>
-                <p id="explanation-text" class="text-sm text-slate-300 italic leading-relaxed mb-6"></p>
-                <button id="btn-next" onclick="nextStep()" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black uppercase italic tracking-widest hover:bg-blue-500 transition shadow-lg">
-                    Continuer ➔
-                </button>
-            </div>
-        </div>
-
-        <div id="result-screen" class="hidden text-center py-6">
-            <h2 class="text-3xl font-black mb-2 italic uppercase">Terminé !</h2>
-            <p class="text-blue-400 font-black uppercase text-[10px] tracking-[0.2em] mb-8 italic">Ton score sur cet article</p>
-            
-            <div class="text-6xl font-black text-white mb-10 tracking-tighter" id="final-score">0/0</div>
-
-            <div id="theme-details" class="space-y-4 mb-10 text-left">
+        <div class="quiz-card">
+            <div class="flex justify-between items-center mb-6">
+                <div class="flex gap-2">
+                    <span id="theme-tag" class="bg-blue-100 text-[9px] font-black px-3 py-1 rounded-full text-blue-600 uppercase tracking-widest italic">THÈME</span>
                 </div>
+                <span id="progress-text" class="text-xs font-black text-slate-300 font-mono italic">01/05</span>
+            </div>
 
-            <button onclick="location.href='index.html'" class="w-full bg-white text-slate-900 py-5 rounded-2xl font-black uppercase italic tracking-widest hover:bg-blue-600 hover:text-white transition">RETOURNER AU HUB</button>
+            <div id="quiz-content" class="flex-grow">
+                <h2 id="question-text" class="text-xl md:text-2xl font-bold text-slate-800 mb-6 leading-tight italic">Chargement...</h2>
+                <div id="options" class="grid grid-cols-1 gap-3 mb-6"></div>
+                
+                <div id="explanation-box" class="hidden p-5 bg-blue-50 rounded-2xl border-l-4 border-blue-500 animate-in fade-in slide-in-from-bottom-2">
+                    <p class="text-[10px] font-black uppercase text-blue-600 mb-1 tracking-widest italic">L'explication :</p>
+                    <p id="explanation-text" class="text-sm text-slate-700 leading-relaxed font-medium italic"></p>
+                </div>
+            </div>
+
+            <button id="next-btn" onclick="nextQuestion()" class="hidden mt-6 w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-lg flex items-center justify-center gap-2 shadow-xl active:scale-95 transition">
+                CONTINUER ➔
+            </button>
         </div>
+    </div>
+
+    <div id="score-ui" class="hidden max-w-xl mx-auto bg-white p-10 rounded-[2.5rem] shadow-xl border border-slate-100 text-center mt-10">
+        <h2 class="text-3xl font-black text-slate-900 mb-2 italic uppercase">Terminé !</h2>
+        <div id="final-score-text" class="text-5xl font-black text-blue-600 my-8">0/0</div>
+        <div id="theme-details" class="space-y-4 mb-10 text-left"></div>
+        <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl italic transition shadow-lg">RETOURNER AU HUB</button>
     </div>
 
     <script>
         const folder = new URLSearchParams(window.location.search).get('folder');
-        let questions = [];
-        let currentIndex = 0;
-        let score = 0;
+        let questions = [], currentIdx = 0, score = 0;
         let themeScores = {};
 
         async function init() {
@@ -73,96 +66,93 @@
                 const resJson = await fetch(`${folder}/metadata.json?v=${Date.now()}`);
                 const data = await resJson.json();
                 questions = data.questions;
-                renderQuestion();
-            } catch (err) { console.error(err); }
+                render();
+            } catch(e) { console.error(e); }
         }
 
-        function renderQuestion() {
-            const q = questions[currentIndex];
-            document.getElementById('step-label').innerText = `Question ${currentIndex + 1} / ${questions.length}`;
-            document.getElementById('theme-label').innerText = q.theme;
+        function render() {
+            const q = questions[currentIdx];
+            document.getElementById('theme-tag').innerText = q.theme;
+            document.getElementById('progress-text').innerText = `${String(currentIdx + 1).padStart(2, '0')}/${questions.length}`;
             document.getElementById('question-text').innerText = q.q;
             
-            const zone = document.getElementById('options-zone');
-            zone.innerHTML = "";
-            document.getElementById('explanation-zone').classList.add('hidden');
+            document.getElementById('explanation-box').classList.add('hidden');
+            document.getElementById('next-btn').classList.add('hidden');
 
-            q.options.forEach((opt, idx) => {
-                const btn = document.createElement('button');
-                btn.className = "w-full text-left p-5 bg-white/5 border border-white/10 rounded-2xl font-bold text-sm hover:bg-white/10 transition-all";
-                btn.innerText = opt;
-                btn.onclick = () => check(idx, q.correct, q.explication, btn);
-                zone.appendChild(btn);
+            const container = document.getElementById('options');
+            container.innerHTML = "";
+            
+            q.options.forEach((opt, i) => {
+                const b = document.createElement('button');
+                b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold hover:bg-slate-50 transition italic";
+                b.innerText = opt;
+                b.onclick = () => check(i);
+                container.appendChild(b);
             });
+
+            // On s'assure que le quiz est visible si l'utilisateur a scrollé
+            document.getElementById('quiz-ui').scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
 
-        function check(idx, correct, expl, btn) {
-            const q = questions[currentIndex];
-            if (!themeScores[q.theme]) themeScores[q.theme] = { correct: 0, total: 0 };
+        function check(idx) {
+            const q = questions[currentIdx];
+            const btns = document.getElementById('options').children;
+            for(let b of btns) b.onclick = null;
+
+            if(!themeScores[q.theme]) themeScores[q.theme] = { correct: 0, total: 0 };
             themeScores[q.theme].total++;
 
-            const isCorrect = (idx === correct);
-            if (isCorrect) {
+            if(idx === q.correct) {
+                btns[idx].classList.replace('border-slate-100', 'border-green-500');
+                btns[idx].classList.add('bg-green-50', 'text-green-700');
                 score++;
                 themeScores[q.theme].correct++;
-                btn.classList.add('bg-green-500/20', 'border-green-500', 'text-green-400');
             } else {
-                btn.classList.add('bg-red-500/20', 'border-red-500', 'text-red-400');
-                // Montrer la bonne réponse en vert
-                const allBtns = document.getElementById('options-zone').querySelectorAll('button');
-                allBtns[correct].classList.add('bg-green-500/20', 'border-green-500', 'text-green-400');
+                btns[idx].classList.replace('border-slate-100', 'border-red-500');
+                btns[idx].classList.add('bg-red-50', 'text-red-700');
+                btns[q.correct].classList.replace('border-slate-100', 'border-green-500');
+                btns[q.correct].classList.add('bg-green-50', 'text-green-700');
             }
 
-            document.getElementById('options-zone').querySelectorAll('button').forEach(b => b.onclick = null);
+            document.getElementById('explanation-text').innerText = q.explication;
+            document.getElementById('explanation-box').classList.remove('hidden');
+            document.getElementById('next-btn').classList.remove('hidden');
             
-            // Remplir l'explication
-            document.getElementById('result-status').innerText = isCorrect ? "✅ BRAVO" : "❌ ERREUR";
-            document.getElementById('result-status').className = `font-black uppercase text-[11px] mb-2 tracking-widest ${isCorrect ? 'text-green-500' : 'text-red-500'}`;
-            document.getElementById('explanation-text').innerText = expl;
-            
-            const expZone = document.getElementById('explanation-zone');
-            expZone.classList.remove('hidden');
-
-            // SCROLL DOWN : On descend pour voir l'explication et le bouton Continuer
+            // Auto-scroll léger vers le bas du bloc pour voir l'explication
             setTimeout(() => {
-                const offset = expZone.offsetTop + expZone.offsetHeight - window.innerHeight + 40;
-                window.scrollTo({ top: offset, behavior: 'smooth' });
+                const btnNext = document.getElementById('next-btn');
+                btnNext.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
             }, 100);
         }
 
-        function nextStep() {
-            currentIndex++;
-            if (currentIndex < questions.length) {
-                renderQuestion();
-                // Remonter un peu pour voir la nouvelle question
-                document.getElementById('quiz-container').scrollIntoView({ behavior: 'smooth', block: 'center' });
-            } else {
-                showFinal();
-            }
+        function nextQuestion() {
+            currentIdx++;
+            if(currentIdx < questions.length) render();
+            else showFinalScore();
         }
 
-        function showFinal() {
-            document.getElementById('quiz-interface').classList.add('hidden');
-            document.getElementById('result-screen').classList.remove('hidden');
-            document.getElementById('final-score').innerText = `${score}/${questions.length}`;
+        function showFinalScore() {
+            document.getElementById('quiz-ui').classList.add('hidden');
+            document.getElementById('score-ui').classList.remove('hidden');
+            document.getElementById('final-score-text').innerText = `${score}/${questions.length}`;
             
             const details = document.getElementById('theme-details');
             details.innerHTML = "";
-            for (let t in themeScores) {
+            for(let t in themeScores) {
                 const s = themeScores[t];
                 const p = Math.round((s.correct / s.total) * 100);
                 details.innerHTML += `
                     <div class="flex flex-col gap-1">
                         <div class="flex justify-between text-[10px] font-black uppercase italic">
                             <span class="text-slate-400">${t}</span>
-                            <span class="text-blue-400">${s.correct}/${s.total}</span>
+                            <span class="text-blue-600">${s.correct}/${s.total}</span>
                         </div>
-                        <div class="w-full h-1 bg-white/10 rounded-full overflow-hidden">
+                        <div class="w-full h-1.5 bg-slate-100 rounded-full overflow-hidden">
                             <div class="h-full bg-blue-500 transition-all duration-1000" style="width: ${p}%"></div>
                         </div>
                     </div>`;
             }
-            document.getElementById('quiz-container').scrollIntoView({ behavior: 'smooth', block: 'center' });
+            document.getElementById('score-ui').scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
 
         init();
