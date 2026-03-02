@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Guerre en Iran, la France réagit",
+  "date": "02/03/2026",
+  "img": "archives/2026-03-02/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la position de la France concernant la défense des pays du Golfe et de la Jordanie ciblés par des frappes iraniennes ?",
+      "options": [
+        "Elle a été impliquée directement dans les frappes contre l'Iran.",
+        "Elle s'est dite \"prête\" à \"participer\" à leur défense.",
+        "Elle a condamné fermement les ripostes iraniennes sans proposer d'action militaire.",
+        "Elle a refusé toute implication militaire dans la région."
+      ],
+      "correct": 1,
+      "explication": "La France s'est dite \"prête\" à \"participer\" à la défense des pays du Golfe et de la Jordanie ciblés par des frappes iraniennes.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle raison le procès de l'islamologue suisse Tariq Ramadan s'est-il ouvert ce lundi à Paris ?",
+      "options": [
+        "Accusations de fraude fiscale.",
+        "Accusations de diffamation.",
+        "Accusations d'avoir violé 3 femmes.",
+        "Accusations de crimes contre l'humanité."
+      ],
+      "correct": 2,
+      "explication": "Le procès de l'islamologue suisse Tariq Ramadan s'est ouvert à Paris, il est accusé d'avoir violé 3 femmes.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est la nouvelle mesure fiscale entrée en vigueur ce dimanche concernant les colis provenant de pays hors de l'UE ?",
+      "options": [
+        "Une taxe de 5 € sur tous les colis internationaux.",
+        "Une taxe de 2 € par article sur les petits colis d'une valeur inférieure à 150 €.",
+        "Une taxe de 10 % sur la valeur des colis provenant de Chine.",
+        "L'interdiction des importations de petits colis non-UE."
+      ],
+      "correct": 1,
+      "explication": "Une taxe de 2 € par article sur les petits colis d’une valeur inférieure à 150 €, provenant de pays situés hors de l’UE, est entrée en vigueur ce dimanche.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle annonce majeure a faite Emmanuel Macron concernant la dissuasion nucléaire française ?",
+      "options": [
+        "L'abandon du programme nucléaire militaire français.",
+        "L'ordre de réduire de moitié le nombre de têtes nucléaires.",
+        "L'ordre d'augmenter le nombre de têtes nucléaires détenues par la France.",
+        "La publication détaillée de l'arsenal nucléaire français."
+      ],
+      "correct": 2,
+      "explication": "Emmanuel Macron a annoncé \"ordonner d’augmenter le nombre de têtes nucléaires\" détenues par la France.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est l'une des principales raisons de la baisse de fréquentation du Salon de l'agriculture cette année ?",
+      "options": [
+        "Une augmentation significative des prix d'entrée.",
+        "L'organisation simultanée d'un autre salon agricole majeur.",
+        "L'absence des bovins due à l'épidémie de dermatose nodulaire.",
+        "Une météo particulièrement défavorable durant l'événement."
+      ],
+      "correct": 2,
+      "explication": "La fréquentation du Salon de l’agriculture a chuté en partie à cause de l'absence des bovins, liée à l’épidémie de dermatose nodulaire.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel prix l'acteur Michael B. Jordan a-t-il remporté lors de la cérémonie des Actor Awards pour son rôle dans \"Sinners\" ?",
+      "options": [
+        "Meilleur réalisateur.",
+        "Meilleur acteur.",
+        "Meilleur scénario original.",
+        "Meilleur second rôle masculin."
+      ],
+      "correct": 1,
+      "explication": "Michael B. Jordan a remporté le trophée du \"Meilleur acteur\" pour son rôle de jumeaux dans \"Sinners\".",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel haut responsable iranien, selon Franceinfo, a été tué lors de l'attaque de grande ampleur menée par Israël et les États-Unis sur l'Iran ?",
+      "options": [
+        "Le président iranien, Ebrahim Raïssi.",
+        "L'ayatollah Khamenei.",
+        "L'ancien président, Mahmoud Ahmadinejad.",
+        "Le ministre des Affaires étrangères, Hossein Amir-Abdollahian."
+      ],
+      "correct": 1,
+      "explication": "L'attaque menée par Israël et les États-Unis sur l'Iran a tué des hauts responsables, dont l'ayatollah Khamenei.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À combien sont estimés les dommages causés par les tempêtes Nils et Pedro en France, selon France Assureurs et la Caisse centrale de réassurance ?",
+      "options": [
+        "Environ 500 millions d'euros.",
+        "Environ 1,2 milliard d'euros.",
+        "Environ 200 millions d'euros.",
+        "Plus de 5 milliards d'euros."
+      ],
+      "correct": 1,
+      "explication": "Les tempêtes Nils et Pedro ont causé des dommages estimés à 1,2 milliard d’€ en France.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon la publicité NaTran, quel est l'un des problèmes majeurs limitant l'utilisation de l'hydrogène actuellement ?",
+      "options": [
+        "Son impossibilité de le stocker.",
+        "Son coût et son transport sur des petites distances.",
+        "Son impact environnemental négatif intrinsèque.",
+        "Le manque de sources d'énergie pour le produire."
+      ],
+      "correct": 1,
+      "explication": "Le problème de l'hydrogène est son coût et son transport sur des petites distances via des camions-citernes.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Depuis le 1er mars, quel est le montant à payer pour saisir la justice en France (hors exceptions) ?",
+      "options": [
+        "10 euros.",
+        "50 euros.",
+        "100 euros.",
+        "200 euros."
+      ],
+      "correct": 1,
+      "explication": "Depuis le 1er mars, il faut payer 50 € pour saisir la justice, cette somme servant à financer l’aide juridictionnelle.",
+      "theme": "JUSTICE"
+    }
+  ]
+}

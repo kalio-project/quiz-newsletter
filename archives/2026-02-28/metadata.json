@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Nouvelles révélations sur des documents de l’affaire Epstein supprimés",
+  "date": "28/02/2026",
+  "img": "archives/2026-02-28/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "De quoi le gouvernement américain est-il soupçonné concernant les documents de l'affaire Jeffrey Epstein publiés en janvier ?",
+      "options": [
+        "D'avoir rendu publics des documents confidentiels concernant des victimes.",
+        "D'avoir volontairement retiré des fichiers mentionnant Donald Trump.",
+        "D'avoir falsifié des témoignages pour incriminer des personnalités.",
+        "D'avoir ignoré une loi de déclassification des archives."
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement états-unien est soupçonné d’avoir volontairement retiré, de documents publiés en janvier, certains fichiers concernant Donald Trump.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel événement majeur a eu lieu ce vendredi entre le Pakistan et l'Afghanistan ?",
+      "options": [
+        "Une signature d'accord de libre-échange.",
+        "Le Pakistan a bombardé Kaboul et a déclaré une 'guerre ouverte' aux talibans.",
+        "Une rencontre diplomatique de haut niveau à Kaboul.",
+        "Le Pakistan a annoncé le retrait de ses troupes de la frontière."
+      ],
+      "correct": 1,
+      "explication": "Le Pakistan a bombardé Kaboul, la capitale de l’Afghanistan, et a déclaré une “guerre ouverte” aux talibans.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est l'impact de la récente cyberattaque mentionnée dans le texte ?",
+      "options": [
+        "Le piratage des comptes bancaires de 1500 médecins.",
+        "La publication sur le dark web de données médicales de 15 millions de Français.",
+        "Le blocage des systèmes informatiques de la société Cegedim.",
+        "La destruction des dossiers médicaux de personnalités politiques."
+      ],
+      "correct": 1,
+      "explication": "Les données médicales de 15 millions de Français ont été piratées et publiées sur le dark web, suite à une attaque visant 1500 médecins utilisant un logiciel de la société Cegedim.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle décision a été prise par le Conseil d'État concernant la classification des partis politiques LFI et l'Union des droites pour la République ?",
+      "options": [
+        "Il a invalidé toutes les classifications faites par le ministère de l'Intérieur.",
+        "Il a confirmé la classification à l’extrême gauche de La France insoumise.",
+        "Il a reclassé l'Union des droites pour la République au centre-droit.",
+        "Il a ordonné une nouvelle procédure de classement pour les deux partis."
+      ],
+      "correct": 1,
+      "explication": "Le Conseil d’État a confirmé la classification à l’extrême gauche de La France insoumise et à l'extrême droite de l'Union des droites pour la République.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi Jean-Luc Mélenchon est-il accusé d'antisémitisme selon le texte ?",
+      "options": [
+        "Pour avoir tenu des propos visant directement la communauté juive.",
+        "Pour avoir ironisé sur la prononciation du nom d’origine juive de Jeffrey Epstein.",
+        "Pour avoir minimisé l'importance de la lutte contre l'antisémitisme.",
+        "Pour avoir contesté les chiffres de l'antisémitisme en France."
+      ],
+      "correct": 1,
+      "explication": "Jean-Luc Mélenchon est accusé d’antisémitisme après avoir ironisé sur la prononciation du nom d’origine juive du criminel sexuel américain Jeffrey Epstein.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la bonne nouvelle concernant un nouveau traitement préventif du VIH en France ?",
+      "options": [
+        "Un vaccin contre le Sida a été découvert et sera bientôt disponible.",
+        "Le cabotégravir, un traitement injectable tous les 2 mois, sera bientôt remboursé intégralement.",
+        "Tous les traitements préventifs actuels sont désormais disponibles en pharmacie sans ordonnance.",
+        "La PrEP en comprimés a été remplacée par un traitement à prise unique."
+      ],
+      "correct": 1,
+      "explication": "Un traitement préventif injectable contre le VIH, le cabotégravir, pourra bientôt être utilisé en France et sera entièrement remboursé. Il est à injecter tous les 2 mois.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la situation actuelle de l'accord de libre-échange entre l'Europe et le Mercosur ?",
+      "options": [
+        "Il a été définitivement abandonné suite à des désaccords.",
+        "Il va être appliqué de façon provisoire.",
+        "Les négociations sont toujours au point mort.",
+        "Il a été ratifié par tous les pays membres de l'UE."
+      ],
+      "correct": 1,
+      "explication": "L’accord de libre-échange entre l'Europe et les pays sud-américains du Mercosur va être appliqué de façon provisoire.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon l'Insee, quel était l'écart salarial moyen entre hommes et femmes dans le secteur privé en 2024 ?",
+      "options": [
+        "Les femmes ont gagné 21,8% de plus que les hommes.",
+        "Les hommes ont gagné 21,8% de plus que les femmes.",
+        "L'écart salarial était de 10%, majoritairement en faveur des femmes.",
+        "L'écart salarial a disparu grâce aux nouvelles lois."
+      ],
+      "correct": 1,
+      "explication": "Selon l’Insee, les hommes ont gagné en moyenne 21,8 % de plus que les femmes dans le secteur privé en 2024.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel film a remporté le César du meilleur film lors de la 51e cérémonie des César ?",
+      "options": [
+        "Dossier 137",
+        "L’Attachement",
+        "La Femme la plus riche du monde",
+        "Un film récompensant la carrière de Jim Carrey"
+      ],
+      "correct": 1,
+      "explication": "Le film “L’Attachement”, de Carine Tardieu, a obtenu le César du meilleur film.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel est le principal défi de la société NaTran en matière d'hydrogène, selon la publicité ?",
+      "options": [
+        "Développer de nouvelles méthodes de production d'hydrogène gris.",
+        "Développer un réseau de transport pour l'hydrogène bas-carbone.",
+        "Rendre l'hydrogène accessible comme carburant pour les voitures individuelles.",
+        "Réduire le coût de production de l'hydrogène à un niveau compétitif."
+      ],
+      "correct": 1,
+      "explication": "NaTran a pour défi de développer un réseau de transport pour permettre aux producteurs d’hydrogène bas-carbone d’alimenter les zones industrielles.",
+      "theme": "ENVIRONNEMENT"
+    }
+  ]
+}
