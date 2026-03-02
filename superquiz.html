@@ -28,7 +28,7 @@
 
         <div class="flex flex-col gap-3">
             <button onclick="startChallenge()" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl shadow-lg hover:scale-[1.02] transition">LANCER LE DÉFI</button>
-            <button onclick="window.location.href='index.html'" class="w-full py-3 text-slate-400 font-bold text-sm uppercase tracking-widest hover:text-slate-600 transition">Retour à l'accueil</button>
+            <button onclick="window.location.href='index.html'" class="w-full py-3 text-slate-400 font-bold text-sm uppercase tracking-widest hover:text-slate-600 transition text-center">Retour à l'accueil</button>
         </div>
     </div>
 
@@ -53,8 +53,8 @@
                 <h2 id="question-text" class="text-2xl font-bold text-slate-800 mb-8 leading-tight pr-4">...</h2>
                 <div id="options" class="grid grid-cols-1 gap-3"></div>
 
-                <div id="explanation-box" class="hidden mt-6 p-5 bg-blue-50 rounded-2xl border-l-4 border-blue-500">
-                    <p class="text-[10px] font-black uppercase text-blue-600 mb-1 tracking-widest">L'explication :</p>
+                <div id="explanation-box" class="hidden mt-6 p-5 bg-blue-50 rounded-2xl border-l-4 border-blue-500 animate-in fade-in duration-300">
+                    <p class="text-[10px] font-black uppercase text-blue-600 mb-1 tracking-widest italic italic">L'explication :</p>
                     <p id="explanation-text" class="text-sm text-slate-700 leading-relaxed font-medium"></p>
                 </div>
             </div>
@@ -76,6 +76,7 @@
 
         const THEMES_LIST = ["POLITIQUE FR", "INTERNATIONAL", "ÉCONOMIE", "SOCIÉTÉ", "ENVIRONNEMENT", "TECH / SCIENCE", "SANTÉ", "CULTURE", "SPORT", "JUSTICE"];
 
+        // Remplissage des thèmes au chargement
         const grid = document.getElementById('themes-grid');
         THEMES_LIST.forEach(t => {
             grid.innerHTML += `
@@ -93,30 +94,48 @@
             try {
                 const res = await fetch('manifest.json');
                 const manifest = await res.json();
+                
+                pool = []; // On vide le pool avant de charger
                 for(let item of manifest) {
                     const r = await fetch(`${item.folder}/metadata.json`);
                     const meta = await r.json();
-                    const questionsWithMeta = meta.questions.map(q => ({...q, dateRef: item.date }));
+                    
+                    // On attache la date de la news à chaque question
+                    const questionsWithMeta = meta.questions.map(q => ({
+                        ...q, 
+                        dateRef: item.date 
+                    }));
+
                     const filtered = questionsWithMeta.filter(q => selected.includes(q.theme));
                     pool.push(...filtered);
                 }
+                
+                if(pool.length === 0) return alert("Pas de questions trouvées.");
+
                 questions = pool.sort(() => Math.random() - 0.5).slice(0, limit);
                 document.getElementById('setup-ui').classList.add('hidden');
                 document.getElementById('quiz-ui').classList.remove('hidden');
                 render();
-            } catch(e) { alert("Erreur de chargement."); }
+            } catch(e) { 
+                console.error(e);
+                alert("Erreur de chargement. Vérifie tes fichiers metadata.json"); 
+            }
         }
 
         function render() {
             const q = questions[currentIdx];
+            
             document.getElementById('theme-tag').innerText = q.theme;
             document.getElementById('date-tag').innerText = q.dateRef; 
             document.getElementById('progress-text').innerText = `${currentIdx + 1}/${questions.length}`;
             document.getElementById('question-text').innerText = q.q;
+            
             document.getElementById('explanation-box').classList.add('hidden');
             document.getElementById('next-btn').classList.add('hidden');
+
             const container = document.getElementById('options');
             container.innerHTML = "";
+            
             q.options.forEach((opt, i) => {
                 const b = document.createElement('button');
                 b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold hover:bg-slate-50 transition duration-200";
@@ -129,7 +148,9 @@
         function check(idx) {
             const q = questions[currentIdx];
             const btns = document.getElementById('options').children;
+            
             for(let b of btns) b.onclick = null;
+
             if(idx === q.correct) {
                 btns[idx].classList.replace('border-slate-100', 'border-green-500');
                 btns[idx].classList.add('bg-green-50', 'text-green-700');
@@ -140,6 +161,7 @@
                 btns[q.correct].classList.replace('border-slate-100', 'border-green-500');
                 btns[q.correct].classList.add('bg-green-50', 'text-green-700');
             }
+
             document.getElementById('explanation-text').innerText = q.explication;
             document.getElementById('explanation-box').classList.remove('hidden');
             document.getElementById('next-btn').classList.remove('hidden');
@@ -149,13 +171,13 @@
             currentIdx++;
             if(currentIdx < questions.length) render();
             else {
-                alert(`🏁 Score : ${score} / ${questions.length}`);
+                alert(`🏁 Score Final : ${score} / ${questions.length}`);
                 window.location.href = 'index.html';
             }
         }
 
         function confirmExit() {
-            if(confirm("Voulez-vous vraiment abandonner le quiz ?")) {
+            if(confirm("Abandonner le quiz et revenir à l'accueil ?")) {
                 window.location.href = 'index.html';
             }
         }
