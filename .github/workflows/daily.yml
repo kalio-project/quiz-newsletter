@@ -2,7 +2,7 @@ name: Update ActuQuiz
 
 on:
   schedule:
-    - cron: '33 18,19,20 * * *'
+    - cron: '30 17,18,19 * * *'
   workflow_dispatch:
 
 jobs:
