@@ -1,0 +1,127 @@
+{
+  "titre": "🚨L’Iran bloque un détroit pour paralyser le monde entier",
+  "date": "03/03/2026",
+  "img": "archives/2026-03-03/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le pourcentage de la consommation mondiale de pétrole qui transite par le détroit d'Ormuz, dont le blocage a été annoncé par l'Iran ?",
+      "options": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que près de 20 % de la consommation mondiale de pétrole transite par le détroit d'Ormuz.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle figure politique internationale a présidé pour la première fois une réunion du Conseil de sécurité de l'ONU ce lundi ?",
+      "options": [
+        "Le Secrétaire général de l'ONU",
+        "Melania Trump",
+        "Le président du Conseil européen",
+        "La ministre des Affaires étrangères d'un pays membre"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que Melania Trump, la première dame des États-Unis, a présidé ce lundi une réunion du Conseil de sécurité de l’ONU, une première.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel groupe a revendiqué le piratage de plus d'1,5 million d'images et de données sensibles sur le site de l'UNSS ?",
+      "options": [
+        "Anonymous",
+        "CyberSkull",
+        "Dumpseck",
+        "DarkWeb Syndicate"
+      ],
+      "correct": 2,
+      "explication": "L'attaque sur le site de l'UNSS a été revendiquée par le groupe “Dumpseck”.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle a été la sentence prononcée en appel contre le militant islamiste Abdelhakim Sefrioui pour son rôle dans l'assassinat de Samuel Paty ?",
+      "options": [
+        "10 ans de prison",
+        "15 ans de prison",
+        "20 ans de prison",
+        "Perpétuité"
+      ],
+      "correct": 1,
+      "explication": "Abdelhakim Sefrioui a été condamné en appel, ce lundi, à 15 ans de prison pour son rôle dans l'assassinat de Samuel Paty en 2020.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien de civils ont été tués au Soudan du Sud dans la nuit du 28 février au 1er mars dans la zone administrative de Ruweng ?",
+      "options": [
+        "Au moins 50",
+        "Au moins 100",
+        "Au moins 169",
+        "Au moins 250"
+      ],
+      "correct": 2,
+      "explication": "Au moins 169 civils ont été tués dans la nuit du 28 février au 1er mars dans la zone administrative de Ruweng, au nord-est du pays.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'Ifremer, de combien la biomasse de poissons pourrait-elle être réduite dans les eaux françaises d'ici 2100 à cause du réchauffement climatique ?",
+      "options": [
+        "D'un dixième",
+        "D'un cinquième",
+        "D'un quart",
+        "De moitié"
+      ],
+      "correct": 2,
+      "explication": "La biomasse de poissons pourrait être réduite d’un quart dans les eaux françaises d’ici 2100, à cause du réchauffement climatique, selon l’Ifremer.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est le nom du concept lancé par la Fédération française de football à l'occasion des quarts de finale de la Coupe de France ?",
+      "options": [
+        "Le 'match de la paix'",
+        "Le 'maillot de l'unité'",
+        "Le 'maillot partagé'",
+        "Le 'trophée des enfants'"
+      ],
+      "correct": 2,
+      "explication": "La Fédération française de football a lancé le concept du “maillot partagé”, à l’occasion des quarts de finale de la Coupe de France.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel pourcentage de femmes dans l'Union européenne a subi des violences au cours de sa vie, selon une enquête récente ?",
+      "options": [
+        "1 femme sur 5",
+        "1 femme sur 4",
+        "1 femme sur 3",
+        "1 femme sur 2"
+      ],
+      "correct": 2,
+      "explication": "1 femme sur 3 dans l’Union européenne a subi des violences au cours de sa vie, selon une enquête publiée ce mardi.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel film a remporté le César des lycéens 2026 et qui l'a réalisé ?",
+      "options": [
+        "\"La Nuit du 12\" réalisé par Dominik Moll",
+        "\"Anatomie d'une chute\" réalisé par Justine Triet",
+        "\"Dossier 137\" réalisé par Dominik Moll",
+        "\"Le Règne animal\" réalisé par Thomas Cailley"
+      ],
+      "correct": 2,
+      "explication": "Le film \"Dossier 137\" réalisé par Dominik Moll a remporté ce lundi le César des lycéens 2026.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Combien de millions de Somaliens font face à une insécurité alimentaire aiguë en raison de la sécheresse, selon le Comité international de la Croix-Rouge ?",
+      "options": [
+        "3,5 millions",
+        "6,5 millions",
+        "9,5 millions",
+        "12,5 millions"
+      ],
+      "correct": 1,
+      "explication": "Selon le Comité international de la Croix-Rouge, 6,5 millions de personnes font face à une insécurité alimentaire aiguë en Somalie.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
