@@ -27,10 +27,10 @@ jobs:
         run: python process.py
 
       - name: Sauvegarder les changements
-              run: |
-                git config --global user.name "GitHub Action"
-                git config --global user.email "action@github.com"
-                git pull origin main --rebase  # <--- LE NETTOYAGE SE FAIT ICI
-                git add .
-                git commit -m "Nouvelle archive : $(date +'%d/%m/%Y')" || exit 0
-                git push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git pull origin main --rebase  # <--- LE NETTOYAGE SE FAIT ICI
+          git add .
+          git commit -m "Nouvelle archive : $(date +'%d/%m/%Y')" || exit 0
+          git push
