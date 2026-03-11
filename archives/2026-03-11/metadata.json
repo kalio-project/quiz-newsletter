@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Comment l’IA est au cœur de la guerre en Iran ?",
+  "date": "11/03/2026",
+  "img": "archives/2026-03-11/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Qu'est-ce qui est particulièrement notable concernant l'utilisation de l'intelligence artificielle par les États-Unis dans le conflit au Moyen-Orient ?",
+      "options": [
+        "C'est la première fois qu'elle est utilisée pour la logistique militaire.",
+        "Elle est utilisée pour la première fois dans une guerre impliquant des drones.",
+        "C'est la première fois qu'elle est utilisée aussi massivement dans une guerre de grande ampleur.",
+        "Elle a remplacé complètement les analystes humains pour la détection de cibles."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « C’est la 1re fois que les États-Unis utilisent aussi massivement l'intelligence artificielle dans une guerre de grande ampleur. »",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle annonce majeure a été faite par la France concernant son soutien humanitaire au Liban ?",
+      "options": [
+        "La France va construire des camps de réfugiés au Liban.",
+        "La France va tripler son soutien humanitaire et fournir des véhicules blindés.",
+        "La France va envoyer des troupes de maintien de la paix.",
+        "La France a cessé son aide en raison de l'instabilité."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : « La France va tripler son soutien humanitaire au Liban. » et dans la section 'À comprendre' : « La France va aussi fournir “plusieurs dizaines” de véhicules de l’avant blindé aux forces armées libanaises ».",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle propriété luxueuse, ayant appartenu au criminel sexuel Jeffrey Epstein, a été perquisitionnée récemment ?",
+      "options": [
+        "Le \"Neverland Ranch\".",
+        "Le \"Zorro Ranch\".",
+        "La \"Billionaire's Row Mansion\".",
+        "Le \"Paradise Island Estate\"."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : « Le “Zorro Ranch”, une propriété luxueuse appartenant au criminel sexuel Jeffrey Epstein, a été perquisitionné ce lundi. »",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle tragédie a touché une humanitaire française de l'UNICEF en République démocratique du Congo ?",
+      "options": [
+        "Elle a été enlevée par un groupe armé.",
+        "Elle est décédée de maladie en mission.",
+        "Elle a été tuée dans une frappe de drone à Goma.",
+        "Elle a été blessée lors d'un tremblement de terre."
+      ],
+      "correct": 2,
+      "explication": "Le texte rapporte : « Une humanitaire française de l’UNICEF, Karine Buisset, a été tuée ce mardi dans une frappe de drone à Goma ».",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "De quoi la Russie est-elle accusée par une commission d'enquête de l'ONU concernant les enfants ukrainiens ?",
+      "options": [
+        "De ne pas fournir suffisamment d'aide humanitaire.",
+        "D'avoir commis des “crimes contre l’humanité” en déportant de force des enfants.",
+        "D'empêcher l'accès des organisations internationales aux zones de conflit.",
+        "De ne pas respecter le cessez-le-feu pour l'évacuation des enfants."
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare : « Une commission d’enquête de l’ONU accuse la Russie d’avoir commis des “crimes contre l’humanité” en déportant de force des milliers d’enfants ukrainiens ».",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est la piste privilégiée par la police suisse concernant l'incendie mortel d'un autocar à Kerzers ?",
+      "options": [
+        "Un problème mécanique.",
+        "Une défaillance électrique.",
+        "Un “acte volontaire”, excluant l'action terroriste.",
+        "Un accident dû à la fatigue du conducteur."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « La police suisse privilégie la piste d’un “acte volontaire” et écarte toute action terroriste. »",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la date limite imminente pour saisir les vœux de formation sur Parcoursup pour les élèves de terminale ?",
+      "options": [
+        "Le 8 septembre.",
+        "Ce jeudi à 23h59.",
+        "La fin du mois de mars.",
+        "Le 15 juillet."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : « Les élèves de terminale et les étudiants en réorientation ont jusqu’à ce jeudi à 23h59 pour saisir leurs vœux de formation sur Parcoursup. »",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le magazine Forbes, qui est actuellement l'homme le plus riche du monde ?",
+      "options": [
+        "Jeff Bezos.",
+        "Bernard Arnault.",
+        "Elon Musk.",
+        "Larry Page."
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme : « Avec une fortune estimée à 839  milliards de $, Elon Musk, le patron de SpaceX et Tesla, est l’homme le plus riche du monde, selon le magazine Forbes. »",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Dans quel domaine le Japon a-t-il récemment approuvé une première mondiale avec des traitements à base de cellules souches ?",
+      "options": [
+        "Le traitement du cancer du poumon.",
+        "La régénération de tissus osseux.",
+        "La lutte contre la maladie de Parkinson et les insuffisances cardiaques.",
+        "La prévention de maladies auto-immunes."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : « Le Japon a approuvé la commercialisation de 2 traitements à base de cellules souches destinés à lutter contre la maladie de Parkinson et les insuffisances cardiaques, une 1re mondiale. »",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel était l'objectif principal du \"projet Maven\" lancé par le Pentagone en 2017 ?",
+      "options": [
+        "Développer de nouveaux types d'armes autonomes.",
+        "Résoudre le problème des analystes humains débordés par l'analyse de milliers d'heures de données de renseignement.",
+        "Créer un système de communication sécurisé pour l'armée américaine.",
+        "Mettre au point des drones de reconnaissance plus performants."
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : « L’objectif était de résoudre un problème : les services de renseignement disposaient de milliers d’heures d’images et de vidéos issues de satellites, drones ou radars, mais les analystes humains ne pouvaient pas tout analyser ».",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
