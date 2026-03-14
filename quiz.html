@@ -128,7 +128,7 @@
             
             setTimeout(() => {
                 const btn = document.getElementById('next-btn');
-                const yOffset = 100; // Ajustez ce nombre (ex: 150) pour descendre encore plus bas
+                const yOffset = 100; // Plus ce nombre est grand, plus ça descend bas
                 const y = btn.getBoundingClientRect().top + window.pageYOffset + yOffset;
 
                 window.scrollTo({ top: y, behavior: 'smooth' });
