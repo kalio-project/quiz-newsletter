@@ -38,7 +38,7 @@
 
         <div class="mb-8 border-t pt-6 border-slate-50">
             <div class="flex justify-between items-center mb-2 italic font-black uppercase text-[10px] tracking-widest text-slate-400">
-                <span>Questions</span>
+                <span>Nombre de questions</span>
                 <span id="qty-val" class="text-blue-600 text-sm">15</span>
             </div>
             <input type="range" id="qty-range" min="5" max="50" value="15" class="w-full accent-blue-600 appearance-none bg-slate-100 h-2 rounded-lg" oninput="document.getElementById('qty-val').innerText=this.value">
@@ -64,15 +64,19 @@
                     <p id="explanation-text" class="text-sm text-slate-700 leading-relaxed font-medium italic"></p>
                 </div>
             </div>
-            <button id="next-btn" onclick="nextQuestion()" class="hidden mt-6 w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-lg italic">CONTINUER ➔</button>
+            <button id="next-btn" onclick="nextQuestion()" class="hidden mt-6 w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-lg italic shadow-xl">CONTINUER ➔</button>
         </div>
+
+        <button onclick="confirmExit()" class="py-2 text-slate-400 hover:text-red-500 text-[10px] font-black uppercase tracking-[0.2em] transition text-center italic">
+            ✕ Abandonner la session
+        </button>
     </div>
 
     <div id="score-ui" class="hidden max-w-xl w-full bg-white p-10 rounded-[2.5rem] shadow-xl border border-slate-100 text-center">
         <h2 class="text-4xl font-black text-slate-900 mb-2 italic uppercase">Terminé !</h2>
         <div id="final-score-text" class="text-6xl font-black text-blue-600 my-8 italic">0/0</div>
         <div id="theme-details" class="space-y-4 mb-10 text-left"></div>
-        <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl italic">RETOUR</button>
+        <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl italic shadow-lg">RETOUR</button>
     </div>
 
     <script>
@@ -140,7 +144,7 @@
             container.innerHTML = "";
             q.options.forEach((opt, i) => {
                 const b = document.createElement('button');
-                b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold transition italic text-sm";
+                b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold transition italic text-sm hover:bg-slate-50";
                 b.innerText = opt;
                 b.onclick = () => check(i);
                 container.appendChild(b);
@@ -164,20 +168,40 @@
             document.getElementById('explanation-box').classList.remove('hidden');
             document.getElementById('next-btn').classList.remove('hidden');
             
+            // SCROLL DE 25 PIXELS
             setTimeout(() => {
                 const btn = document.getElementById('next-btn');
-                window.scrollTo({ top: btn.getBoundingClientRect().top + window.pageYOffset + 25, behavior: 'smooth' });
+                const yOffset = 25; 
+                const y = btn.getBoundingClientRect().top + window.pageYOffset + yOffset;
+                window.scrollTo({ top: y, behavior: 'smooth' });
             }, 100);
         }
 
         function nextQuestion() {
             currentIdx++;
-            if(currentIdx < questions.length) { render(); window.scrollTo({top: 0, behavior: 'smooth'}); }
-            else { 
+            if(currentIdx < questions.length) { 
+                render(); 
+                window.scrollTo({top: 0, behavior: 'smooth'}); 
+            } else { 
                 document.getElementById('quiz-ui').classList.add('hidden');
                 document.getElementById('score-ui').classList.remove('hidden');
                 document.getElementById('final-score-text').innerText = `${score}/${questions.length}`;
+                showThemeDetails();
             }
+        }
+
+        function showThemeDetails() {
+            const details = document.getElementById('theme-details');
+            details.innerHTML = "";
+            for(let t in themeScores) {
+                const s = themeScores[t];
+                const p = Math.round((s.correct / s.total) * 100);
+                details.innerHTML += `<div class=\"flex flex-col gap-1 mb-4\"><div class=\"flex justify-between text-[10px] font-black uppercase italic\"><span class=\"text-slate-400\">${t}</span><span class=\"text-blue-600\">${s.correct}/${s.total}</span></div><div class=\"w-full h-1.5 bg-slate-100 rounded-full overflow-hidden\"><div class=\"h-full bg-blue-500\" style=\"width: ${p}%\"></div></div></div>`;
+            }
+        }
+
+        function confirmExit() {
+            if(confirm("Abandonner le quiz ?")) window.location.href = 'index.html';
         }
     </script>
 </body>
