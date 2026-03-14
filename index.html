@@ -23,10 +23,24 @@
     <div id="grid" class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         </div>
 
-    <div id="history-section" class="max-w-5xl mx-auto mt-20 mb-20 hidden">
-        <div class="flex justify-between items-end mb-8">
-            <h2 class="text-2xl font-black italic uppercase tracking-tighter">Tes derniers scores</h2>
-            <button onclick="if(confirm('Effacer tout l\'historique ?')){localStorage.clear(); location.reload();}" class="text-[9px] font-black uppercase tracking-widest text-slate-300 hover:text-red-500 transition italic">
+    <div class="max-w-5xl mx-auto mt-12 flex justify-center items-center gap-6">
+        <button id="prev-btn" onclick="changePage(-1)" class="flex items-center gap-2 font-black text-[10px] uppercase tracking-[0.2em] text-slate-400 hover:text-blue-600 transition disabled:opacity-20 italic">
+            ← Précédent
+        </button>
+        
+        <div id="page-info" class="font-black italic text-sm text-slate-800 bg-white px-4 py-2 rounded-full border border-slate-100 shadow-sm">
+            Page 1
+        </div>
+
+        <button id="next-btn" onclick="changePage(1)" class="flex items-center gap-2 font-black text-[10px] uppercase tracking-[0.2em] text-slate-400 hover:text-blue-600 transition disabled:opacity-20 italic">
+            Suivant →
+        </button>
+    </div>
+
+    <div id="history-section" class="max-w-5xl mx-auto mt-20 mb-20 hidden px-4">
+        <div class="flex justify-between items-end mb-8 border-t pt-12 border-slate-200">
+            <h2 class="text-2xl font-black italic uppercase tracking-tighter text-slate-800">Tes derniers scores</h2>
+            <button onclick="if(confirm('Effacer l\'historique ?')){localStorage.clear(); location.reload();}" class="text-[9px] font-black uppercase tracking-widest text-slate-300 hover:text-red-500 transition italic">
                 🗑 Effacer
             </button>
         </div>
@@ -35,31 +49,55 @@
     </div>
 
     <script>
-        async function loadNews() {
+        let allArticles = [];
+        let currentPage = 0;
+        const articlesPerPage = 6;
+
+        async function init() {
             try {
                 const res = await fetch('manifest.json');
-                const data = await res.json();
-                const grid = document.getElementById('grid');
+                allArticles = await res.json();
                 
-                // Trier par date (plus récent en premier)
-                data.sort((a, b) => {
+                // Tri par date décroissante
+                allArticles.sort((a, b) => {
                     const dateA = new Date(a.date.split('/').reverse().join('-'));
                     const dateB = new Date(b.date.split('/').reverse().join('-'));
                     return dateB - dateA;
                 });
 
-                grid.innerHTML = data.map(item => `
-                    <div onclick="window.location.href='quiz.html?folder=${item.folder}'" class="bg-white rounded-[2.5rem] p-2 shadow-sm border border-slate-100 hover:shadow-xl transition cursor-pointer group">
-                        <div class="aspect-video rounded-[2rem] bg-slate-100 mb-4 overflow-hidden relative">
-                            <img src="${item.folder}/thumb.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
-                            <span class="absolute top-4 left-4 bg-white/90 backdrop-blur px-3 py-1 rounded-full text-[9px] font-bold uppercase tracking-widest text-slate-800">${item.date}</span>
-                        </div>
-                        <div class="px-4 pb-6">
-                            <h2 class="text-xl font-bold leading-tight line-clamp-2 italic group-hover:text-blue-600 transition">${item.title}</h2>
-                        </div>
+                displayPage();
+                loadHistory(); // Charger les scores au démarrage
+            } catch (e) { console.error("Erreur:", e); }
+        }
+
+        function displayPage() {
+            const grid = document.getElementById('grid');
+            const start = currentPage * articlesPerPage;
+            const end = start + articlesPerPage;
+            const currentArticles = allArticles.slice(start, end);
+
+            grid.innerHTML = currentArticles.map(item => `
+                <div onclick="window.location.href='quiz.html?folder=${item.folder}'" class="bg-white rounded-[2.5rem] p-2 shadow-sm border border-slate-100 hover:shadow-xl transition cursor-pointer group">
+                    <div class="aspect-video rounded-[2rem] bg-slate-100 mb-4 overflow-hidden relative">
+                        <img src="${item.folder}/thumb.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                        <span class="absolute top-4 left-4 bg-white/90 backdrop-blur px-3 py-1 rounded-full text-[9px] font-bold uppercase tracking-widest text-slate-800">${item.date}</span>
                     </div>
-                `).join('');
-            } catch (e) { console.error("Erreur chargement news:", e); }
+                    <div class="px-4 pb-6">
+                        <h2 class="text-xl font-bold leading-tight line-clamp-2 italic group-hover:text-blue-600 transition">${item.title}</h2>
+                    </div>
+                </div>
+            `).join('');
+
+            // Mise à jour de la navigation
+            document.getElementById('page-info').innerText = `Page ${currentPage + 1}`;
+            document.getElementById('prev-btn').disabled = (currentPage === 0);
+            document.getElementById('next-btn').disabled = (end >= allArticles.length);
+        }
+
+        function changePage(direction) {
+            currentPage += direction;
+            displayPage();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         function loadHistory() {
@@ -75,17 +113,13 @@
                             <p class="text-[9px] font-black text-blue-600 uppercase italic tracking-widest">${s.titre}</p>
                             <p class="text-[10px] font-bold text-slate-400">${s.date}</p>
                         </div>
-                        <div class="text-2xl font-black italic text-slate-800">
-                            ${s.score}<span class="text-slate-300 text-sm">/${s.total}</span>
-                        </div>
+                        <div class="text-2xl font-black italic text-slate-800">${s.score}<span class="text-slate-300 text-sm">/${s.total}</span></div>
                     </div>
                 `).join('');
             }
         }
 
-        // Initialisation
-        loadNews();
-        loadHistory();
+        init();
     </script>
 </body>
 </html>
