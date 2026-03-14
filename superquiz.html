@@ -16,10 +16,9 @@
 <body class="p-4 flex flex-col items-center justify-center min-h-screen">
 
     <div id="setup-ui" class="max-w-xl w-full bg-white p-8 rounded-[2.5rem] shadow-xl border border-slate-100">
-        <h1 class="text-3xl font-black mb-6 italic uppercase tracking-tighter text-blue-600 text-center">Super Quiz ⚡</h1>
+        <h1 class="text-3xl font-black mb-8 italic uppercase tracking-tighter text-blue-600 text-center">Super Quiz ⚡</h1>
         
         <div class="mb-6">
-            <label class="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-4 block border-b pb-2 italic">Période des questions</label>
             <div class="grid grid-cols-4 gap-2 mb-4">
                 <button onclick="setPeriod(1, this)" class="period-btn border-2 border-slate-100 py-2 rounded-xl text-[9px] font-black uppercase transition hover:border-blue-200 italic">1 Mois</button>
                 <button onclick="setPeriod(3, this)" class="period-btn border-2 border-slate-100 py-2 rounded-xl text-[9px] font-black uppercase transition hover:border-blue-200 italic">3 Mois</button>
@@ -28,28 +27,29 @@
             </div>
             <div class="flex items-center gap-2">
                 <input type="date" id="date-start" class="w-full bg-slate-50 border-2 border-slate-100 rounded-xl p-2 text-[10px] font-bold outline-none focus:border-blue-400">
-                <span class="text-slate-400 text-[9px] font-black uppercase">AU</span>
+                <span class="text-slate-400 text-[9px] font-black uppercase tracking-widest">AU</span>
                 <input type="date" id="date-end" class="w-full bg-slate-50 border-2 border-slate-100 rounded-xl p-2 text-[10px] font-bold outline-none focus:border-blue-400">
             </div>
         </div>
 
         <div class="mb-6">
-            <label class="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-4 block border-b pb-2 italic">Thèmes sélectionnés</label>
-            <div id="themes-grid" class="grid grid-cols-2 gap-2"></div>
+            <div id="themes-grid" class="grid grid-cols-2 gap-2 border-t pt-6 border-slate-50"></div>
         </div>
 
-        <div class="mb-8">
-            <label class="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2 block border-b pb-2 italic">Nombre de questions : <span id="qty-val" class="text-blue-600 font-black">15</span></label>
+        <div class="mb-8 border-t pt-6 border-slate-50">
+            <div class="flex justify-between items-center mb-2 italic font-black uppercase text-[10px] tracking-widest text-slate-400">
+                <span>Questions</span>
+                <span id="qty-val" class="text-blue-600 text-sm">15</span>
+            </div>
             <input type="range" id="qty-range" min="5" max="50" value="15" class="w-full accent-blue-600 appearance-none bg-slate-100 h-2 rounded-lg" oninput="document.getElementById('qty-val').innerText=this.value">
         </div>
 
-        <button onclick="startChallenge()" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl shadow-lg hover:scale-[1.02] active:scale-95 transition">LANCER LE DÉFI</button>
-        <button onclick="window.location.href='index.html'" class="w-full mt-4 text-slate-400 font-bold text-[10px] uppercase text-center tracking-widest">Retour aux Actus</button>
+        <button onclick="startChallenge()" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl shadow-lg hover:scale-[1.02] active:scale-95 transition uppercase italic">LANCER LE DÉFI</button>
+        <button onclick="window.location.href='index.html'" class="w-full mt-4 text-slate-400 font-bold text-[10px] uppercase text-center tracking-widest italic">← Retour</button>
     </div>
 
     <div id="quiz-ui" class="hidden max-w-xl w-full flex flex-col gap-4">
         <div class="bg-white p-6 md:p-8 rounded-[2.5rem] shadow-xl border border-slate-100 flex flex-col min-h-[550px] relative">
-            
             <div class="flex justify-between items-center mb-6">
                 <div class="flex gap-2">
                     <span id="theme-tag" class="bg-blue-100 text-[9px] font-black px-3 py-1 rounded-full text-blue-600 uppercase tracking-widest italic">THÈME</span>
@@ -57,62 +57,33 @@
                 </div>
                 <span id="progress-text" class="text-xs font-black text-slate-300 font-mono italic">01/15</span>
             </div>
-
             <div class="flex-grow">
                 <h2 id="question-text" class="text-xl md:text-2xl font-bold text-slate-800 mb-6 leading-tight italic">...</h2>
                 <div id="options" class="grid grid-cols-1 gap-3 mb-6"></div>
-                
-                <div id="explanation-box" class="hidden p-5 bg-blue-50 rounded-2xl border-l-4 border-blue-500 animate-in fade-in slide-in-from-bottom-2 duration-300">
-                    <p class="text-[10px] font-black uppercase text-blue-600 mb-1 tracking-widest italic">L'explication :</p>
+                <div id="explanation-box" class="hidden p-5 bg-blue-50 rounded-2xl border-l-4 border-blue-500">
                     <p id="explanation-text" class="text-sm text-slate-700 leading-relaxed font-medium italic"></p>
                 </div>
             </div>
-
-            <button id="next-btn" onclick="nextQuestion()" class="hidden mt-6 w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-lg flex items-center justify-center gap-2 shadow-xl active:scale-95 transition">
-                CONTINUER ➔
-            </button>
+            <button id="next-btn" onclick="nextQuestion()" class="hidden mt-6 w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-lg italic">CONTINUER ➔</button>
         </div>
-
-        <button onclick="confirmExit()" class="py-2 text-slate-400 hover:text-red-500 text-[10px] font-black uppercase tracking-[0.2em] transition text-center italic">
-            ✕ Abandonner la session
-        </button>
     </div>
 
     <div id="score-ui" class="hidden max-w-xl w-full bg-white p-10 rounded-[2.5rem] shadow-xl border border-slate-100 text-center">
-        <h2 class="text-4xl font-black text-slate-900 mb-2 italic uppercase tracking-tighter">Terminé !</h2>
-        <p class="text-blue-500 font-black uppercase text-[10px] tracking-[0.2em] mb-10 italic">Ton Résultat ActuQuiz</p>
-        
-        <div class="relative inline-block mb-10">
-            <svg class="w-32 h-32 transform -rotate-90">
-                <circle cx="64" cy="64" r="58" stroke="currentColor" stroke-width="12" fill="transparent" class="text-slate-100" />
-                <circle id="score-circle" cx="64" cy="64" r="58" stroke="currentColor" stroke-width="12" fill="transparent" stroke-dasharray="364.4" stroke-dashoffset="364.4" class="text-blue-600 transition-all duration-1000 ease-out" />
-            </svg>
-            <div class="absolute inset-0 flex items-center justify-center">
-                <span id="final-score-text" class="text-3xl font-black italic">0/0</span>
-            </div>
-        </div>
-
+        <h2 class="text-4xl font-black text-slate-900 mb-2 italic uppercase">Terminé !</h2>
+        <div id="final-score-text" class="text-6xl font-black text-blue-600 my-8 italic">0/0</div>
         <div id="theme-details" class="space-y-4 mb-10 text-left"></div>
-        <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl shadow-lg hover:scale-105 active:scale-95 transition italic">RETOURNER AUX ACTUS</button>
+        <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl italic">RETOUR</button>
     </div>
 
     <script>
-        let pool = [], questions = [], currentIdx = 0, score = 0;
-        let themeScores = {}; 
-
+        let pool = [], questions = [], currentIdx = 0, score = 0, themeScores = {};
         const THEMES_LIST = ["POLITIQUE FR", "INTERNATIONAL", "ÉCONOMIE", "SOCIÉTÉ", "ENVIRONNEMENT", "TECH / SCIENCE", "SANTÉ", "CULTURE", "SPORT", "JUSTICE"];
 
-        // Initialisation de la grille de thèmes
         const grid = document.getElementById('themes-grid');
         THEMES_LIST.forEach(t => {
-            grid.innerHTML += `
-                <label class="theme-card cursor-pointer">
-                    <input type="checkbox" name="theme-choice" value="${t}" checked class="hidden">
-                    <div class="border-2 border-slate-100 p-3 rounded-xl text-[9px] font-black uppercase text-center transition hover:border-blue-200 italic">${t}</div>
-                </label>`;
+            grid.innerHTML += `<label class="theme-card cursor-pointer"><input type="checkbox" name="theme-choice" value="${t}" checked class="hidden"><div class="border-2 border-slate-100 p-3 rounded-xl text-[9px] font-black uppercase text-center transition italic hover:border-blue-200">${t}</div></label>`;
         });
 
-        // Gestion des boutons de période (1, 3, 6, 12 mois)
         function setPeriod(months, btn) {
             document.querySelectorAll('.period-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
@@ -123,74 +94,53 @@
             document.getElementById('date-end').value = now.toISOString().split('T')[0];
         }
 
-        // Parse la date "13/03/2026" en objet Date
-        function parseFRDate(dateStr) {
-            const [d, m, y] = dateStr.split('/');
-            return new Date(y, m - 1, d);
-        }
+        function parseFRDate(s) { const [d, m, y] = s.split('/'); return new Date(y, m - 1, d); }
 
         async function startChallenge() {
             const selected = Array.from(document.querySelectorAll('input[name="theme-choice"]:checked')).map(i => i.value);
             const limit = parseInt(document.getElementById('qty-range').value);
-            
-            const startVal = document.getElementById('date-start').value;
-            const endVal = document.getElementById('date-end').value;
-            const dateMin = startVal ? new Date(startVal) : null;
-            const dateMax = endVal ? new Date(endVal) : null;
-
-            if(selected.length === 0) return alert("Choisis tes thèmes !");
+            const dMin = document.getElementById('date-start').value ? new Date(document.getElementById('date-start').value) : null;
+            const dMax = document.getElementById('date-end').value ? new Date(document.getElementById('date-end').value) : null;
 
             try {
                 const res = await fetch('manifest.json');
                 const manifest = await res.json();
-                
-                // 1. FILTRAGE PAR DATE (Instantané)
-                const foldersToFetch = manifest.filter(item => {
-                    const itemDate = parseFRDate(item.date);
-                    const isAfter = !dateMin || itemDate >= dateMin;
-                    const isBefore = !dateMax || itemDate <= dateMax;
-                    return isAfter && isBefore;
+                const targets = manifest.filter(item => {
+                    const id = parseFRDate(item.date);
+                    return (!dMin || id >= dMin) && (!dMax || id <= dMax);
                 });
 
-                if(foldersToFetch.length === 0) return alert("Aucune question pour cette période.");
-
-                // 2. CHARGEMENT PARALLÈLE (Optimisé pour 600+ dossiers)
-                const promises = foldersToFetch.map(async (item) => {
+                const promises = targets.map(async (item) => {
                     try {
                         const r = await fetch(`${item.folder}/metadata.json`);
                         const meta = await r.json();
-                        return meta.questions
-                            .filter(q => selected.includes(q.theme))
-                            .map(q => ({...q, dateRef: item.date}));
-                    } catch (err) { return []; }
+                        return meta.questions.filter(q => selected.includes(q.theme)).map(q => ({...q, dateRef: item.date}));
+                    } catch(e) { return []; }
                 });
 
                 const results = await Promise.all(promises);
                 pool = results.flat();
-                
-                if(pool.length === 0) return alert("Aucune question trouvée.");
-                
+                if(pool.length === 0) return alert("Rien trouvé.");
                 questions = pool.sort(() => Math.random() - 0.5).slice(0, limit);
                 document.getElementById('setup-ui').classList.add('hidden');
                 document.getElementById('quiz-ui').classList.remove('hidden');
                 render();
-            } catch(e) { alert("Erreur de chargement des fichiers."); }
+            } catch(e) { alert("Erreur."); }
         }
 
         function render() {
             const q = questions[currentIdx];
             document.getElementById('theme-tag').innerText = q.theme;
-            document.getElementById('date-tag').innerText = q.dateRef; 
-            document.getElementById('progress-text').innerText = `${String(currentIdx + 1).padStart(2, '0')}/${questions.length}`;
+            document.getElementById('date-tag').innerText = q.dateRef;
+            document.getElementById('progress-text').innerText = `${currentIdx + 1}/${questions.length}`;
             document.getElementById('question-text').innerText = q.q;
             document.getElementById('explanation-box').classList.add('hidden');
             document.getElementById('next-btn').classList.add('hidden');
-
             const container = document.getElementById('options');
             container.innerHTML = "";
             q.options.forEach((opt, i) => {
                 const b = document.createElement('button');
-                b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold hover:bg-slate-50 transition italic";
+                b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold transition italic text-sm";
                 b.innerText = opt;
                 b.onclick = () => check(i);
                 container.appendChild(b);
@@ -201,78 +151,33 @@
             const q = questions[currentIdx];
             const btns = document.getElementById('options').children;
             for(let b of btns) b.onclick = null;
-
             if(!themeScores[q.theme]) themeScores[q.theme] = { correct: 0, total: 0 };
             themeScores[q.theme].total++;
-
             if(idx === q.correct) {
-                btns[idx].classList.replace('border-slate-100', 'border-green-500');
-                btns[idx].classList.add('bg-green-50', 'text-green-700');
-                score++;
-                themeScores[q.theme].correct++;
+                btns[idx].classList.add('bg-green-50', 'border-green-500', 'text-green-700');
+                score++; themeScores[q.theme].correct++;
             } else {
-                btns[idx].classList.replace('border-slate-100', 'border-red-500');
-                btns[idx].classList.add('bg-red-50', 'text-red-700');
-                btns[q.correct].classList.replace('border-slate-100', 'border-green-500');
-                btns[q.correct].classList.add('bg-green-50', 'text-green-700');
+                btns[idx].classList.add('bg-red-50', 'border-red-500', 'text-red-700');
+                btns[q.correct].classList.add('bg-green-50', 'border-green-500', 'text-green-700');
             }
-
             document.getElementById('explanation-text').innerText = q.explication;
             document.getElementById('explanation-box').classList.remove('hidden');
             document.getElementById('next-btn').classList.remove('hidden');
-
-            // AUTO-SCROLL vers l'explication et le bouton Continuer
+            
             setTimeout(() => {
                 const btn = document.getElementById('next-btn');
-                const yOffset = 25; // Ajustez ce nombre (ex: 150) pour descendre encore plus bas
-                const y = btn.getBoundingClientRect().top + window.pageYOffset + yOffset;
-
-                window.scrollTo({ top: y, behavior: 'smooth' });
+                window.scrollTo({ top: btn.getBoundingClientRect().top + window.pageYOffset + 25, behavior: 'smooth' });
             }, 100);
         }
 
         function nextQuestion() {
             currentIdx++;
-            if(currentIdx < questions.length) {
-                render();
-                // AUTO-SCROLL pour centrer la nouvelle question
-                document.getElementById('quiz-ui').scrollIntoView({ behavior: 'smooth', block: 'center' });
-            } else {
-                showFinalScore();
+            if(currentIdx < questions.length) { render(); window.scrollTo({top: 0, behavior: 'smooth'}); }
+            else { 
+                document.getElementById('quiz-ui').classList.add('hidden');
+                document.getElementById('score-ui').classList.remove('hidden');
+                document.getElementById('final-score-text').innerText = `${score}/${questions.length}`;
             }
-        }
-
-        function showFinalScore() {
-            document.getElementById('quiz-ui').classList.add('hidden');
-            document.getElementById('score-ui').classList.remove('hidden');
-            document.getElementById('final-score-text').innerText = `${score}/${questions.length}`;
-            
-            const circle = document.getElementById('score-circle');
-            const percent = (score / questions.length) * 100;
-            const offset = 364.4 - (364.4 * percent) / 100;
-            setTimeout(() => circle.style.strokeDashoffset = offset, 100);
-
-            const details = document.getElementById('theme-details');
-            details.innerHTML = "";
-            for(let t in themeScores) {
-                const s = themeScores[t];
-                const p = Math.round((s.correct / s.total) * 100);
-                details.innerHTML += `
-                    <div class="flex flex-col gap-1">
-                        <div class="flex justify-between text-[10px] font-black uppercase italic">
-                            <span class="text-slate-400">${t}</span>
-                            <span class="text-blue-600">${s.correct}/${s.total}</span>
-                        </div>
-                        <div class="w-full h-1.5 bg-slate-100 rounded-full overflow-hidden">
-                            <div class="h-full bg-blue-500 transition-all duration-1000" style="width: ${p}%"></div>
-                        </div>
-                    </div>`;
-            }
-            document.getElementById('score-ui').scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-
-        function confirmExit() {
-            if(confirm("Abandonner le quiz ?")) window.location.href = 'index.html';
         }
     </script>
 </body>
