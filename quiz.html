@@ -26,14 +26,14 @@
     <div id="quiz-ui" class="max-w-xl mx-auto px-6 relative">
         
         <div class="text-center mb-8">
-            <h1 class="text-3xl font-black italic underline decoration-blue-500 tracking-tighter">ActuQuiz.</h1>
+            <h1 class="text-3xl font-black italic underline decoration-blue-500 tracking-tighter cursor-pointer" onclick="window.location.href='index.html'">ActuQuiz.</h1>
         </div>
 
         <div class="flex justify-between items-center mb-4 px-2">
             <a href="index.html" class="text-blue-600 font-black uppercase text-[10px] tracking-widest italic">
                 ← Retour
             </a>
-            <button onclick="window.scrollTo({top:0, behavior:'smooth'})" class="text-blue-600 font-black text-[9px] uppercase tracking-widest hover:underline flex items-center gap-1 italic">
+            <button onclick="window.scrollTo({top:0, behavior:'smooth'})" class="text-blue-600 font-black text-[9px] uppercase tracking-widest hover:underline italic">
                 ↑ Lire l'article
             </button>
         </div>
@@ -57,7 +57,7 @@
                     </div>
                 </div>
 
-                <button id="next-btn" onclick="nextQuestion()" class="hidden mt-6 w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-lg flex items-center justify-center gap-2 shadow-xl active:scale-95 transition">
+                <button id="next-btn" onclick="nextQuestion()" class="hidden mt-6 w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-lg flex items-center justify-center gap-2 shadow-xl active:scale-95 transition italic">
                     CONTINUER ➔
                 </button>
             </div>
@@ -66,15 +66,14 @@
 
     <div id="score-ui" class="hidden max-w-xl mx-auto bg-white p-10 rounded-[2.5rem] shadow-xl border border-slate-100 text-center mt-10">
         <h2 class="text-3xl font-black text-slate-900 mb-2 italic uppercase">Terminé !</h2>
-        <div id="final-score-text" class="text-5xl font-black text-blue-600 my-8">0/0</div>
+        <div id="final-score-text" class="text-5xl font-black text-blue-600 my-8 italic">0/0</div>
         <div id="theme-details" class="space-y-4 mb-10 text-left"></div>
         <button onclick="window.location.href='index.html'" class="w-full bg-blue-600 text-white py-5 rounded-2xl font-black text-xl italic transition shadow-lg">RETOURNER AUX ACTUS</button>
     </div>
 
     <script>
         const folder = new URLSearchParams(window.location.search).get('folder');
-        let questions = [], currentIdx = 0, score = 0;
-        let themeScores = {};
+        let questions = [], currentIdx = 0, score = 0, themeScores = {};
 
         async function init() {
             try {
@@ -98,7 +97,7 @@
             container.innerHTML = "";
             q.options.forEach((opt, i) => {
                 const b = document.createElement('button');
-                b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold hover:bg-slate-50 transition italic";
+                b.className = "w-full text-left p-4 rounded-xl border-2 border-slate-100 font-bold hover:bg-slate-50 transition italic text-sm";
                 b.innerText = opt;
                 b.onclick = () => check(i);
                 container.appendChild(b);
@@ -111,26 +110,27 @@
             for(let b of btns) b.onclick = null;
             if(!themeScores[q.theme]) themeScores[q.theme] = { correct: 0, total: 0 };
             themeScores[q.theme].total++;
+
             if(idx === q.correct) {
                 btns[idx].classList.replace('border-slate-100', 'border-green-500');
                 btns[idx].classList.add('bg-green-50', 'text-green-700');
-                score++;
-                themeScores[q.theme].correct++;
+                score++; themeScores[q.theme].correct++;
             } else {
                 btns[idx].classList.replace('border-slate-100', 'border-red-500');
                 btns[idx].classList.add('bg-red-50', 'text-red-700');
                 btns[q.correct].classList.replace('border-slate-100', 'border-green-500');
                 btns[q.correct].classList.add('bg-green-50', 'text-green-700');
             }
+
             document.getElementById('explanation-text').innerText = q.explication;
             document.getElementById('explanation-box').classList.remove('hidden');
             document.getElementById('next-btn').classList.remove('hidden');
             
+            // SCROLL DE 25 PIXELS (Comme sur superquiz)
             setTimeout(() => {
                 const btn = document.getElementById('next-btn');
-                const yOffset = 1; // Plus ce nombre est grand, plus ça descend bas
+                const yOffset = 25; 
                 const y = btn.getBoundingClientRect().top + window.pageYOffset + yOffset;
-
                 window.scrollTo({ top: y, behavior: 'smooth' });
             }, 100);
         }
@@ -139,9 +139,11 @@
             currentIdx++;
             if(currentIdx < questions.length) {
                 render();
-                document.getElementById('quiz-ui').scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Remonte au début du quiz pour la nouvelle question
+                document.getElementById('quiz-ui').scrollIntoView({ behavior: 'smooth', block: 'start' });
+            } else {
+                showFinalScore();
             }
-            else showFinalScore();
         }
 
         function showFinalScore() {
@@ -153,7 +155,7 @@
             for(let t in themeScores) {
                 const s = themeScores[t];
                 const p = Math.round((s.correct / s.total) * 100);
-                details.innerHTML += `<div class="flex flex-col gap-1"><div class="flex justify-between text-[10px] font-black uppercase italic"><span class="text-slate-400">${t}</span><span class="text-blue-600">${s.correct}/${s.total}</span></div><div class="w-full h-1.5 bg-slate-100 rounded-full overflow-hidden"><div class="h-full bg-blue-500 transition-all duration-1000" style="width: ${p}%"></div></div></div>`;
+                details.innerHTML += `<div class="flex flex-col gap-1 mb-4"><div class="flex justify-between text-[10px] font-black uppercase italic"><span class="text-slate-400">${t}</span><span class="text-blue-600">${s.correct}/${s.total}</span></div><div class="w-full h-1.5 bg-slate-100 rounded-full overflow-hidden"><div class="h-full bg-blue-500 transition-all duration-1000" style="width: ${p}%"></div></div></div>`;
             }
             document.getElementById('score-ui').scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
