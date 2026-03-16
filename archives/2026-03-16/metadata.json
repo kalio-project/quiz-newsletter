@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump demande de l’aide pour rouvrir le détroit d’Ormuz",
+  "date": "16/03/2026",
+  "img": "archives/2026-03-16/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pourcentage de la consommation mondiale de pétrole transite approximativement par le détroit d'Ormuz ?",
+      "options": [
+        "5 à 10 %",
+        "15 à 20 %",
+        "25 à 30 %",
+        "Plus de 35 %"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"environ 15 à 20 % de la consommation mondiale de pétrole y transite\" et que ce passage maritime est stratégique.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel événement politique français majeur a eu lieu ce dimanche, dont les résultats sont résumés dans la rubrique 'À comprendre' ?",
+      "options": [
+        "Le premier tour des élections législatives",
+        "Le second tour des élections présidentielles",
+        "Le premier tour des élections municipales",
+        "Un référendum national sur l'immigration"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"MUNICIPALES : Le premier tour des élections municipales a eu lieu ce dimanche. On vous résume les résultats dans la rubrique “À comprendre”.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pour quel type de crimes majeurs le djihadiste français présumé mort en Irak, Sabri Essid, est-il jugé à Paris ?",
+      "options": [
+        "Terrorisme et association de malfaiteurs",
+        "Crimes de guerre et prise d'otages",
+        "Génocide et crimes contre l'humanité",
+        "Blanchiment d'argent et financement du terrorisme"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que Sabri Essid est accusé de \"génocide\" et de \"crimes contre l’humanité\" pour avoir participé au génocide des Yézidis.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle a été la performance de la France au classement des médailles aux Jeux paralympiques d’hiver Milan-Cortina 2026 ?",
+      "options": [
+        "1ère avec 18 médailles",
+        "3ème avec 15 médailles",
+        "6ème avec 12 médailles",
+        "10ème avec 8 médailles"
+      ],
+      "correct": 2,
+      "explication": "La France a terminé \"6e des Jeux paralympiques d’hiver Milan-Cortina 2026, clôturés ce dimanche\" avec 12 médailles.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel film a remporté le plus grand nombre d'Oscars, y compris celui du meilleur film, lors de la cérémonie mentionnée ?",
+      "options": [
+        "Sinners",
+        "Hamnet",
+        "Deux personnes échangeant de la salive",
+        "Une bataille après l’autre"
+      ],
+      "correct": 3,
+      "explication": "Le film \"Une bataille après l’autre\" de Paul Thomas Anderson a remporté 6 Oscars, dont celui du meilleur film.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "À partir de quelle date la classification européenne PEGI introduira-t-elle de nouveaux critères pour mieux protéger contre les risques en ligne liés aux jeux vidéo ?",
+      "options": [
+        "Avril",
+        "Juin",
+        "Septembre",
+        "Décembre"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que la classification PEGI \"introduira de nouveaux critères dès juin afin de mieux protéger contre les risques en ligne.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est le montant des aides humanitaires que l'Union européenne a annoncé envoyer pour la région du Proche-Orient ce lundi ?",
+      "options": [
+        "150 millions d'€",
+        "280 millions d'€",
+        "458 millions d'€",
+        "600 millions d'€"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Ce lundi, l’Union européenne a également annoncé l’envoi de 458 millions d'€ d'aides humanitaires pour la région du Proche-Orient.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Par quel organisme la photo montrant l'ex-prince Andrew du Royaume-Uni et Peter Mandelson avec Jeffrey Epstein a-t-elle été publiée pour la première fois ?",
+      "options": [
+        "La CIA",
+        "Le ministère de la Justice américain",
+        "Scotland Yard",
+        "Le FBI"
+      ],
+      "correct": 1,
+      "explication": "La photo \"a été publiée par le ministère de la Justice américain.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la position officielle de la France concernant la demande de Donald Trump d'aider les États-Unis à sécuriser le détroit d'Ormuz ?",
+      "options": [
+        "La France a accepté de rejoindre la coalition internationale",
+        "La France a refusé catégoriquement l'intervention",
+        "Aucune réponse officielle n'a encore été donnée par la France",
+        "La France a annoncé sa propre mission 'défensive' indépendante"
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : \"Du côté de la France, aucune réponse officielle n’a encore été donnée à la demande de Donald Trump.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est une des principales conséquences économiques du blocage du détroit d'Ormuz, en plus de son impact sur les prix de l'énergie ?",
+      "options": [
+        "La dévaluation de l'euro",
+        "L'arrêt complet du commerce mondial",
+        "La perturbation extrême du commerce maritime",
+        "L'augmentation des taxes portuaires internationales"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : \"Son blocage a donc des conséquences importantes, notamment sur les prix de l’énergie. [...] Dans ces conditions, le commerce maritime est aujourd’hui extrêmement perturbé.\"",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
