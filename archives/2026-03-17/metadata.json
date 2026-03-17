@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump affirme “faire ce qu’il veut” avec Cuba",
+  "date": "17/03/2026",
+  "img": "archives/2026-03-17/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel ancien président américain a décrit le futur de Cuba en affirmant pouvoir faire 'ce que je veux avec' l'île ?",
+      "options": [
+        "Joe Biden",
+        "Barack Obama",
+        "Donald Trump",
+        "George W. Bush"
+      ],
+      "correct": 2,
+      "explication": "C'est Donald Trump qui a tenu ces propos concernant Cuba, comme indiqué dans les infos en bref.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel pays a annoncé avoir tué Ali Larijani, décrit comme l'un des plus hauts dirigeants de l'Iran ?",
+      "options": [
+        "Les États-Unis",
+        "L'Arabie Saoudite",
+        "Israël",
+        "La Russie"
+      ],
+      "correct": 2,
+      "explication": "Israël a annoncé la mort d'Ali Larijani lors de bombardements, comme détaillé dans les infos en bref et la rubrique 'À comprendre'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle durée de prison ferme Nicolas Sarkozy a-t-il été condamné après le rejet de la fusion de ses deux condamnations ?",
+      "options": [
+        "3 mois",
+        "6 mois",
+        "12 mois",
+        "18 mois"
+      ],
+      "correct": 1,
+      "explication": "Nicolas Sarkozy devra purger 6 mois de prison ferme, selon la décision de justice mentionnée dans le texte.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien de Palestiniens ont été déplacés par l'armée israélienne en Cisjordanie entre novembre 2024 et octobre 2025, selon l'ONU ?",
+      "options": [
+        "Plus de 10 000",
+        "Plus de 20 000",
+        "Plus de 36 000",
+        "Plus de 50 000"
+      ],
+      "correct": 2,
+      "explication": "Le rapport de l'ONU mentionne le déplacement de plus de 36 000 Palestiniens en Cisjordanie.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi 9 CRS ont-ils été condamnés à des peines de prison avec sursis ?",
+      "options": [
+        "Pour corruption",
+        "Pour violences volontaires avec circonstances aggravantes",
+        "Pour vol",
+        "Pour dégradation de biens publics"
+      ],
+      "correct": 1,
+      "explication": "Ils ont été reconnus coupables de violences volontaires avec circonstances aggravantes pour avoir frappé des 'Gilets jaunes'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel pays est accusé par les talibans d'avoir bombardé un centre de réhabilitation en Afghanistan, causant environ 400 morts ?",
+      "options": [
+        "L'Iran",
+        "L'Inde",
+        "Le Pakistan",
+        "La Chine"
+      ],
+      "correct": 2,
+      "explication": "Le ministère de la Santé des talibans accuse le Pakistan d'être responsable du bombardement.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le rapport de l'Organisation internationale de la Francophonie, quelle est la position du français parmi les langues les plus parlées au monde ?",
+      "options": [
+        "2e",
+        "3e",
+        "4e",
+        "5e"
+      ],
+      "correct": 2,
+      "explication": "Le français est devenu la 4e langue la plus parlée au monde, derrière le mandarin, l'anglais et l'espagnol.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien d'argent un livreur de repas américain de 78 ans a-t-il reçu grâce à une cagnotte, lui permettant de prendre sa retraite ?",
+      "options": [
+        "93 000 $",
+        "930 000 $",
+        "1 500 000 $",
+        "2 000 000 $"
+      ],
+      "correct": 1,
+      "explication": "Le livreur a reçu 930 000 $ grâce à une cagnotte lancée par une cliente.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est l'une des principales conséquences de l'embargo états-unien sur Cuba ?",
+      "options": [
+        "Une forte croissance économique",
+        "Des pénuries de produits essentiels",
+        "Un afflux de touristes",
+        "Une autosuffisance alimentaire"
+      ],
+      "correct": 1,
+      "explication": "L'embargo a entraîné des pénuries de nourriture, de médicaments, de carburant et d'électricité à Cuba.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pour quel motif le Français Martin Ryan a-t-il été condamné à 10 ans de prison en Azerbaïdjan ?",
+      "options": [
+        "Vol",
+        "Fraude fiscale",
+        "Espionnage",
+        "Diffamation"
+      ],
+      "correct": 2,
+      "explication": "Martin Ryan a été condamné pour 'espionnage' par la justice azerbaïdjanaise, qui l'accuse d'avoir été recruté par la DGSE.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
