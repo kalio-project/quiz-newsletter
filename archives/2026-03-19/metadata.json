@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le Moyen-Orient va-t-il entrer en guerre contre l’Iran ?",
+  "date": "19/03/2026",
+  "img": "archives/2026-03-19/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est l'un des objectifs économiques principaux de l'Iran dans le conflit actuel au Moyen-Orient ?",
+      "options": [
+        "Augmenter ses exportations de pétrole.",
+        "Perturber l'approvisionnement énergétique mondial.",
+        "Créer une nouvelle route maritime pour le commerce.",
+        "Financer des projets d'infrastructure régionaux."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"L’un des objectifs principaux de l’Iran est économique : perturber l’approvisionnement énergétique mondial. Le pays cible le détroit d’Ormuz, passage clé du pétrole mondial, ainsi que des infrastructures énergétiques.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pourquoi les États du Golfe hésitent-ils à riposter militairement contre l'Iran, selon le texte ?",
+      "options": [
+        "Parce qu'ils manquent de capacités militaires suffisantes.",
+        "À cause de leur faible population et de leurs zones urbaines concentrées, et du coût économique élevé.",
+        "Ils attendent une résolution de l'ONU.",
+        "Ils n'ont aucun intérêt à s'engager dans ce conflit."
+      ],
+      "correct": 1,
+      "explication": "Le texte explique que \"Les États du Golfe sont petits et très urbanisés : quelques frappes bien ciblées pourraient provoquer des dégâts majeurs. Ensuite, le coût économique est considérable.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle nouvelle technologie l'Ukraine a-t-elle déployée pour faire face à l'invasion de la Russie ?",
+      "options": [
+        "Des drones sous-marins autonomes.",
+        "Des boucliers énergétiques.",
+        "Des robots humanoïdes.",
+        "Des armes hypersoniques."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"L’Ukraine a déployé des robots humanoïdes pour faire face à l’invasion de la Russie.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est l'objectif affiché de la mesure exigeant une caution de 13 000 € pour l'entrée aux États-Unis pour les ressortissants de certains pays ?",
+      "options": [
+        "Financer la construction de nouvelles infrastructures.",
+        "Limiter les séjours au-delà de la durée autorisée par le visa.",
+        "Attirer des investisseurs étrangers.",
+        "Rembourser la dette nationale."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"L’objectif affiché : limiter les séjours au-delà de la durée autorisée par le visa.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel motif Vincent Bolloré sera-t-il jugé à Paris en décembre ?",
+      "options": [
+        "Fraude fiscale.",
+        "Abus de biens sociaux.",
+        "Corruption d’agent public étranger au Togo.",
+        "Blanchiment d'argent."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : \"Vincent Bolloré sera jugé en décembre à Paris pour “corruption d’agent public étranger” au Togo entre 2009 et 2011.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon l'organisation Science Feedback, quel pourcentage des contenus d'information sur TikTok est trompeur, concernant la politique, le climat ou la santé ?",
+      "options": [
+        "Environ 10 %.",
+        "Environ 25 %.",
+        "Environ 50 %.",
+        "Environ 75 %."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : \"Environ 1 contenu d’information sur 4 est trompeur sur TikTok, selon l’organisation Science Feedback.\" (1 sur 4 est 25%)",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel pays est désigné comme le plus heureux du monde pour la 9e fois consécutive, selon le rapport annuel sur le bonheur de l'ONU ?",
+      "options": [
+        "La Suisse.",
+        "Le Danemark.",
+        "La Finlande.",
+        "La Norvège."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"La Finlande reste le pays le plus heureux du monde pour la 9e fois consécutive, selon le rapport annuel sur le bonheur, publié ce jeudi sous l’égide de l’ONU.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle date a été confirmée par la Grande Mosquée de Paris pour l'Aïd el-Fitr cette année ?",
+      "options": [
+        "Le vendredi 20 mars.",
+        "Le samedi 21 mars.",
+        "Le jeudi 19 mars.",
+        "Le dimanche 22 mars."
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : \"L’Aïd el-Fitr, qui marque la fin du ramadan, aura lieu ce vendredi 20 mars, a confirmé ce mercredi la Grande Mosquée de Paris.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Il y a 80 ans, quels territoires français d'outre-mer sont devenus des départements français ?",
+      "options": [
+        "La Nouvelle-Calédonie, la Polynésie française, Wallis-et-Futuna et Saint-Pierre-et-Miquelon.",
+        "La Guyane, la Martinique, la Guadeloupe et La Réunion.",
+        "Mayotte, Saint-Barthélemy, Saint-Martin et les Terres australes et antarctiques françaises.",
+        "Les Comores, Djibouti, le Laos et le Vietnam."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : \"Il y a 80 ans, le 19 mars 1946, la Martinique, la Guadeloupe, la Réunion et la Guyane devenaient des départements français.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la date de sortie annoncée aux États-Unis pour le film \"Les Indestructibles 3\" ?",
+      "options": [
+        "Le 14 juin 2028.",
+        "Le 16 juin 2028.",
+        "Le 12 juillet 2029.",
+        "Le 1er septembre 2027."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"“Les Indestructibles 3” sortira au cinéma le 16 juin 2028 aux États-Unis.\"",
+      "theme": "CULTURE"
+    }
+  ]
+}
