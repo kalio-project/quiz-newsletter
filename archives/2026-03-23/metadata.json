@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le monde pourrait bientôt connaître sa pire crise de l'énergie depuis des décennies",
+  "date": "23/03/2026",
+  "img": "archives/2026-03-23/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel homme politique français, ancien Premier ministre, est décédé à l’âge de 88 ans selon le contenu de l'actualité ?",
+      "options": [
+        "Jean-Pierre Raffarin",
+        "François Fillon",
+        "Lionel Jospin",
+        "Laurent Fabius"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'FRANCE : Lionel Jospin, homme politique et ancien Premier ministre français, est mort à l’âge de 88 ans.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon l'Agence internationale de l'énergie, quelle crise majeure le monde pourrait-il bientôt connaître en raison de la poursuite de la guerre au Moyen-Orient ?",
+      "options": [
+        "Une crise alimentaire mondiale",
+        "Sa pire crise de l'énergie depuis des décennies",
+        "Une crise financière majeure",
+        "Une crise migratoire sans précédent"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : '🌍 MOYEN-ORIENT : Alors que la guerre au Moyen-Orient se poursuit, le monde pourrait bientôt connaître sa pire crise de l'énergie depuis des décennies, selon l'Agence internationale de l'énergie.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle donnée record concernant le climat a été atteinte par la Terre en 2025, selon l'Organisation météorologique mondiale ?",
+      "options": [
+        "Le plus bas niveau de glaces polaires",
+        "Le plus grand nombre de tempêtes tropicales",
+        "La quantité de chaleur accumulée par la Terre a atteint un niveau record",
+        "Le niveau le plus élevé de dioxyde de carbone dans l'atmosphère"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '🌳 CLIMAT : La quantité de chaleur accumulée par la Terre a atteint un niveau record en 2025, selon l’Organisation météorologique mondiale.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Dans quel contexte l'Équipe de France de football portera-t-elle pour la première fois ses nouveaux maillots, dévoilés ce lundi ?",
+      "options": [
+        "Lors d'un match de qualification pour l'Euro 2028",
+        "À l'occasion d'un match amical face au Brésil",
+        "Pour le coup d'envoi de la Coupe du Monde 2026",
+        "Lors d'un match de la Ligue des Nations"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : '⚽️ FOOTBALL : Les nouveaux maillots de l’Équipe de France pour la Coupe du Monde 2026 ont été dévoilés ce lundi. Les joueurs les porteront pour la première fois lors d’un match amical face au Brésil, ce jeudi.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "De quoi Flavel, un homme violemment interpellé à Noisiel, accuse-t-il la police après avoir porté plainte auprès de l’IGPN ?",
+      "options": [
+        "De vol de biens personnels",
+        "De 'violences volontaires', 'dénonciation calomnieuse' et 'agression sexuelle'",
+        "D'usage excessif de la force",
+        "D'outrage et de rébellion"
+      ],
+      "correct": 1,
+      "explication": "Le texte rapporte : '⚖️ NOISIEL : Flavel, un homme de 35 ans violemment interpellé à Noisiel (Seine-et-Marne) le 16 mars, a porté plainte auprès de l’IGPN, la police des polices. Il accuse la police de 'violences volontaires', 'dénonciation calomnieuse' et 'agression sexuelle'.' et fait état d'une accusation d'attouchement lors d'une fouille.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quand l'accord de libre-échange entre l'UE et les pays sud-américains du Mercosur sera-t-il appliqué provisoirement, selon la Commission européenne ?",
+      "options": [
+        "À partir du 1er janvier prochain",
+        "Après la décision de justice du Parlement européen",
+        "À partir du 1er mai",
+        "Dès que les négociations seront finalisées"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '🇪🇺 MERCOSUR : L’accord de libre-échange entre l’UE et les pays sud-américains du Mercosur sera appliqué provisoirement à partir du 1er mai, a annoncé la Commission européenne ce lundi.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le média La Presse, où la chanteuse québécoise Céline Dion pourrait-elle faire son retour sur scène cet automne ?",
+      "options": [
+        "À Montréal au Centre Bell",
+        "À Las Vegas dans une nouvelle résidence",
+        "À Paris La Défense Arena",
+        "Lors d'une tournée mondiale"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : '☀️ Bonne nouvelle La chanteuse québécoise Céline Dion pourrait faire son retour sur scène cet automne, selon le média La Presse. Elle devrait se produire 2 fois par semaine à Paris La Défense Arena, pendant les mois de septembre et d’octobre.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Parmi les mesures prises par les pays pour limiter l'impact de la crise énergétique, quelle action a été instaurée au Sri Lanka ?",
+      "options": [
+        "L'interdiction de l'utilisation des véhicules privés",
+        "La généralisation du chauffage au bois",
+        "L'instauration de la semaine de 4 jours et le rationnement du carburant",
+        "La construction accélérée de nouvelles centrales nucléaires"
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'Le Sri Lanka adopte des mesures plus strictes : la semaine de 4 jours a été instaurée pour réduire la consommation d’énergie, tandis que le carburant est rationné, comme au Bangladesh.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "En quelle année est prévue l'ouverture du premier parc d'attractions officiel dédié à l'univers de Minecraft, près de Londres ?",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : '🎮 JEUX-VIDEO : Minecraft World, un parc d'attractions sur le thème du jeu vidéo Minecraft, ouvrira en 2027 près de Londres, au Royaume-Uni, au sein du parc Chessington World of Adventures.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Avant la crise actuelle, quelle était la principale destination de plus de 80% du pétrole et du gaz naturel liquéfié transitant par le détroit d'Ormuz ?",
+      "options": [
+        "L'Europe",
+        "L'Amérique du Nord",
+        "L'Afrique",
+        "L'Asie"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise dans la section 'Décryptage' : '🚢 Avant la crise, plus de 80 % du pétrole et du gaz naturel liquéfié transitant par Ormuz étaient destinés à l’Asie.'",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
