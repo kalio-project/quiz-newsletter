@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Cette île peut faire basculer la guerre en Iran",
+  "date": "26/03/2026",
+  "img": "archives/2026-03-26/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale caractéristique de l'île de Kharg qui la rend si stratégique pour l'Iran ?",
+      "options": [
+        "C'est le plus grand port de pêche du pays.",
+        "Près de 90 % des exportations de pétrole iranien transitent par cette île.",
+        "Elle abrite les principales bases militaires aériennes de l'Iran.",
+        "Elle est le centre de l'industrie technologique iranienne."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'près de 90 % des exportations de pétrole iranien transitent par ce port stratégique'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À qui un hommage national a-t-il été rendu ce jeudi à Paris ?",
+      "options": [
+        "À la star de télé-réalité Loana.",
+        "À l'ancien Premier ministre Lionel Jospin.",
+        "Au président de l'Assemblée nationale.",
+        "À un général de l'armée française."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Un hommage national à l’ancien Premier ministre Lionel Jospin a été rendu ce jeudi à Paris.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle a été la principale sanction prononcée contre l'islamologue Tariq Ramadan par la justice française ?",
+      "options": [
+        "Une amende de 500 000 euros et une peine avec sursis.",
+        "10 ans de prison avec obligation de soins.",
+        "18 ans de prison et une interdiction définitive du territoire français.",
+        "L'acquittement faute de preuves suffisantes."
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare : 'L’islamologue Tariq Ramadan a été condamné par la justice française à 18 ans de prison pour des viols [...] Une interdiction définitive du territoire français a aussi été prononcée.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle résolution l'ONU a-t-elle adoptée concernant la traite des esclaves africains ?",
+      "options": [
+        "Une résolution appelant à l'indemnisation exclusive des descendants.",
+        "Une résolution qualifiant la traite d'esclaves africains de 'crime le plus grave contre l’humanité'.",
+        "Une résolution imposant des sanctions économiques aux pays anciennement esclavagistes.",
+        "Une résolution déclarant la traite comme un événement historique sans conséquences actuelles."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : 'Une résolution qualifiant la traite des esclaves africains de “crime le plus grave contre l’humanité” a été adoptée par l’ONU ce mercredi'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Suite à une décision de justice en Californie, pour quelle raison Instagram et YouTube ont-ils été condamnés à verser 5,2 millions d’euros à une adolescente ?",
+      "options": [
+        "Pour diffusion de fausses informations ayant entraîné des pertes financières.",
+        "Pour violation des données personnelles et revente à des tiers.",
+        "Pour l'impact addictif de leurs plateformes et les troubles de santé mentale.",
+        "Pour non-respect des droits d'auteur de contenus publiés par l'adolescente."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Instagram et YouTube ont été jugés responsables de l’impact addictif de leurs plateformes et des troubles de santé mentale d’une adolescente de Californie. Ils devront lui verser l’équivalent de 5,2 millions d’€.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Que sont les 'hubs de retour' dont la création a été approuvée par le Parlement européen ?",
+      "options": [
+        "Des centres d'accueil pour réfugiés avant le traitement de leur demande d'asile.",
+        "Des plateformes numériques pour faciliter l'intégration des migrants dans l'UE.",
+        "Des centres situés hors de l’UE pour envoyer des migrants dont la demande d’asile a été refusée.",
+        "Des lieux de transit pour les travailleurs saisonniers venant de pays non-membres de l'UE."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'Le Parlement européen a approuvé la création de “hubs de retour”, des centres situés hors de l’UE pour envoyer des migrants dont la demande d’asile a été refusée.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon une étude de l'Ifop, quelle proportion de jeunes Françaises de moins de 25 ans estime qu'une femme peut réussir sa vie sans avoir d'enfants, en 2026 ?",
+      "options": [
+        "Moins de 50 %.",
+        "53 %.",
+        "62 %.",
+        "87 %."
+      ],
+      "correct": 3,
+      "explication": "Le texte précise : '87 % des femmes de moins de 25 ans estiment qu’une femme peut réussir sa vie sans avoir d’enfants, contre 53 % en 1990.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle marque a été désignée comme la préférée des Français en 2026, selon le classement de l’Observatoire des marques ?",
+      "options": [
+        "Bic",
+        "Samsung",
+        "La Laitière",
+        "Panzani"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'La Laitière est la marque préférée des Français en 2026, selon le classement de l’Observatoire des marques'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pourquoi Fousseynou Cissé, un Sénégalais, a-t-il été naturalisé français ?",
+      "options": [
+        "Pour son rôle d'ambassadeur culturel entre la France et le Sénégal.",
+        "Pour avoir remporté un prix scientifique important.",
+        "Pour avoir sauvé 6 personnes lors de l'incendie d'un immeuble à Paris.",
+        "Pour son engagement bénévole de longue date dans des associations françaises."
+      ],
+      "correct": 2,
+      "explication": "Le texte dans la section 'Bonne nouvelle' indique : 'Fousseynou Cissé, un Sénégalais qui avait sauvé 6 personnes prises au piège dans l’incendie d’un immeuble à Paris en juillet, a été naturalisé français ce mardi.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle serait une conséquence majeure d'une frappe directe sur les installations pétrolières de l'île de Kharg, selon l'analyse du texte ?",
+      "options": [
+        "Une diminution significative de la production mondiale de pétrole.",
+        "Une hausse brutale des prix du pétrole avec des répercussions sur l'économie mondiale.",
+        "Un renforcement immédiat de la monnaie iranienne.",
+        "La fin immédiate de la guerre en Iran."
+      ],
+      "correct": 1,
+      "explication": "Le texte énonce pour la 1re hypothèse : 'une telle action provoquerait aussi une hausse brutale des prix du pétrole, avec des répercussions immédiates sur l’économie mondiale'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
