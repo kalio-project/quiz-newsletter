@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Vers une guerre de l'eau au Moyen-Orient ?",
+  "date": "27/03/2026",
+  "img": "archives/2026-03-27/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle menace a été proférée par l'Iran concernant les infrastructures de la région ?",
+      "options": [
+        "De couper l'approvisionnement en gaz naturel.",
+        "De lancer des cyberattaques contre les réseaux de communication.",
+        "De s'attaquer aux infrastructures hydrauliques.",
+        "De bloquer le détroit de Bab el-Mandeb."
+      ],
+      "correct": 2,
+      "explication": "L'Iran a menacé de s'attaquer aux infrastructures hydrauliques des pays du Golfe, des installations vitales pour des millions de civils.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la position d'Olivier Faure, Premier secrétaire du PS, concernant un accord national avec LFI pour 2027 ?",
+      "options": [
+        "Il a assuré qu'un accord national serait conclu.",
+        "Il a déclaré qu'il n'y aurait \"pas d'accord national\".",
+        "Il a indiqué que des discussions étaient en cours sans conclusion.",
+        "Il a proposé une alliance uniquement pour les législatives."
+      ],
+      "correct": 1,
+      "explication": "Olivier Faure a assuré qu'il n'y aura \"pas d'accord national\" entre le PS et LFI pour la présidentielle et les législatives de 2027.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle décision judiciaire importante a été rendue en Espagne concernant Noelia Castillo ?",
+      "options": [
+        "Elle a obtenu un dédommagement financier important.",
+        "Elle a été reconnue coupable d'un délit.",
+        "Elle a obtenu le droit de bénéficier d’une aide médicale à mourir.",
+        "Son combat a conduit à une réforme du système de santé."
+      ],
+      "correct": 2,
+      "explication": "Noelia Castillo, une jeune fille de 25 ans, a obtenu le droit de bénéficier d’une aide médicale à mourir après un long combat judiciaire.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pour quels motifs le ministre de l'Éducation nationale a-t-il saisi la justice concernant l'algorithme de TikTok ?",
+      "options": [
+        "Pour \"incitation à la haine\" et \"diffusion de fausses informations\".",
+        "Pour \"provocation au suicide\" et \"transfert de données à caractère illicite\".",
+        "Pour \"atteinte à la vie privée\" et \"publicité mensongère\".",
+        "Pour \"cyberharcèlement\" et \"contrefaçon\"."
+      ],
+      "correct": 1,
+      "explication": "Edouard Geffray a saisi la justice pour “provocation au suicide” et “transfert de données à caractère illicite” concernant l’algorithme de TikTok.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Contre qui les victimes du criminel sexuel Jeffrey Epstein ont-elles porté plainte suite à la révélation de leur identité ?",
+      "options": [
+        "Contre la Fondation Jeffrey Epstein et ses exécuteurs testamentaires.",
+        "Contre le réseau social X et Meta.",
+        "Contre le gouvernement américain et Google.",
+        "Contre des médias ayant publié les informations."
+      ],
+      "correct": 2,
+      "explication": "Une centaine de victimes de Jeffrey Epstein ont porté plainte contre le gouvernement américain et Google après la révélation par erreur de leur identité.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle innovation va bientôt concerner Donald Trump aux États-Unis ?",
+      "options": [
+        "L'inauguration d'un monument à son effigie.",
+        "L'attribution d'un prix Nobel de la Paix.",
+        "Sa signature sur des billets de banque américains.",
+        "La création d'une nouvelle monnaie à son nom."
+      ],
+      "correct": 2,
+      "explication": "Donald Trump aura bientôt sa signature sur des billets de banque américains, une première pour un président en exercice.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle initiative la marque Petit Navire propose-t-elle à ses clients concernant le thon ?",
+      "options": [
+        "De renvoyer les boîtes de thon pour obtenir un remboursement.",
+        "De participer à un programme de pêche durable.",
+        "De vérifier la teneur en mercure de leurs boîtes de thon en laboratoire.",
+        "De tester de nouvelles recettes à base de thon."
+      ],
+      "correct": 2,
+      "explication": "La marque Petit Navire propose à ses clients de renvoyer leurs boîtes de thon en laboratoire pour vérifier leur teneur en mercure.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle naissance remarquable a eu lieu au Zoo de Beauval le 11 mars dernier ?",
+      "options": [
+        "Un bébé panda géant, fruit d'une insémination artificielle.",
+        "Un bébé singe doré, une première hors Asie.",
+        "Des jumeaux tigres de Sibérie, une espèce très rare.",
+        "Un bébé éléphant d'Asie, né d'une mère en danger."
+      ],
+      "correct": 1,
+      "explication": "Un bébé singe doré, une espèce classée en danger, est né au Zoo de Beauval (Loir-et-Cher), le 11 mars dernier, une première dans un parc zoologique hors Asie.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon le texte, quel est le pourcentage d'eau fourni par les usines de dessalement en Arabie Saoudite ?",
+      "options": [
+        "Jusqu'à 90%",
+        "Environ 50%",
+        "Jusqu'à 70%",
+        "Moins de 30%"
+      ],
+      "correct": 2,
+      "explication": "Les usines de dessalement fournissent jusqu’à 90 % de l'eau au Koweït, 86 % à Oman ou encore 70 % en Arabie saoudite.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel événement au Moyen-Orient a été dénoncé comme une \"horreur profonde\" par le Haut-Commissaire des Nations unies aux droits de l'homme ?",
+      "options": [
+        "Le blocage du détroit d'Ormuz.",
+        "Le bombardement d'une école iranienne.",
+        "La menace de Donald Trump de frapper l'Iran.",
+        "Les pénuries d'eau dans la région."
+      ],
+      "correct": 1,
+      "explication": "Le Haut-Commissaire des Nations unies aux droits de l'homme a dénoncé \"l'horreur profonde\" du bombardement d'une école iranienne le 28 février.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
