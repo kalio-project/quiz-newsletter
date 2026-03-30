@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Les investisseurs pourraient-ils faire plier Donald Trump ?",
+  "date": "30/03/2026",
+  "img": "archives/2026-03-30/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel événement tragique impliquant le personnel de la FINUL s'est produit au Sud-Liban dimanche soir, selon le texte ?",
+      "options": [
+        "Un incident près de la frontière a blessé plusieurs soldats.",
+        "L'explosion d'un projectile a tué un Casque bleu indonésien et en a grièvement blessé un autre.",
+        "Le Hezbollah a attaqué directement une position de la FINUL.",
+        "Les forces israéliennes ont ciblé par erreur une base de l'ONU."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Dimanche soir, un Casque bleu indonésien a été tué et un autre grièvement blessé lorsqu’un projectile a explosé sur une position de la FINUL dans le sud du Liban.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle était la principale raison de la manifestation des chauffeurs routiers et d’autocar en Île-de-France lundi matin ?",
+      "options": [
+        "Demander de meilleures conditions de travail et des salaires plus élevés.",
+        "Protester contre de nouvelles réglementations environnementales affectant leurs véhicules.",
+        "Réclamer davantage d'aide de l'État face à la hausse du prix du carburant.",
+        "Exprimer leur solidarité avec le mouvement \"No Kings\"."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Des chauffeurs routiers et d’autocar ont ralenti la circulation ce lundi matin en Île-de-France pour réclamer plus d’aide de l’État face à la hausse du prix du carburant, liée à la guerre au Moyen-Orient.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Qui le président chinois Xi Jinping a-t-il invité en Chine en avril, marquant un événement diplomatique significatif depuis 2016 ?",
+      "options": [
+        "La présidente actuelle de Taïwan, Tsai Ing-wen.",
+        "Le leader du Parti Démocrate Progressiste (DPP).",
+        "La cheffe du Kuomintang, le principal parti d’opposition à Taïwan.",
+        "Une délégation d'hommes d'affaires taïwanais."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : \"Le président chinois Xi Jinping a invité la cheffe du Kuomintang, le principal parti d’opposition à Taïwan, à venir en Chine en avril. C’est une 1re depuis 2016...\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien d'individus, liés à l'ancienne loge maçonnique Athanor, sont jugés à Paris pour de graves accusations criminelles ?",
+      "options": [
+        "12 hommes et femmes.",
+        "22 hommes et femmes.",
+        "30 membres de la loge.",
+        "Un nombre non spécifié de dirigeants."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"À Paris, 22 hommes et femmes liées à l’ancienne loge maçonnique Athanor sont jugés depuis ce lundi pour meurtre, tentatives de meurtre, violences aggravées et association de malfaiteurs.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel est l'objectif principal de la grande enquête scientifique lancée sur l'Île de Ré ?",
+      "options": [
+        "Évaluer l'impact du changement climatique sur l'érosion côtière.",
+        "Mieux connaître sa biodiversité en recensant la faune, la flore et les habitats naturels.",
+        "Développer de nouvelles stratégies touristiques basées sur les paysages naturels.",
+        "Lutter contre les espèces invasives menaçant les écosystèmes locaux."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"L’île de Ré... a lancé une grande enquête scientifique pour mieux connaître sa biodiversité. Pendant 2 ans, des experts vont recenser la faune, la flore et les habitats naturels...\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel passage maritime clé, vital pour le commerce mondial de pétrole, l'Iran bloque-t-il de manière importante, selon la rubrique \"Décryptage\" ?",
+      "options": [
+        "Le canal de Suez.",
+        "Le détroit de Malacca.",
+        "Le détroit d'Ormuz.",
+        "Le canal de Panama."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : \"L’Iran bloque également de façon importante le détroit d’Ormuz, un passage maritime clé pour le commerce mondial de pétrole.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon la section \"Décryptage\", quel a été le pourcentage d'augmentation approximatif du prix du baril de pétrole depuis le début du conflit au Moyen-Orient ?",
+      "options": [
+        "Environ 10 %.",
+        "Environ 25 %.",
+        "Environ 40 %.",
+        "Plus de 50 %."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Le baril est passé d’environ 70 $ avant le début du conflit à plus de 100 $, avec des pics à 115 $, soit une hausse d’environ 40 %.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est le nom du mouvement qui a vu des millions de personnes manifester à travers les États-Unis et dans plusieurs villes européennes ce dimanche, ciblant les politiques de Donald Trump ?",
+      "options": [
+        "\"United for Change.\"",
+        "\"No Kings.\"",
+        "\"Democracy Now.\"",
+        "\"Global Anti-Trump Alliance.\""
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare : \"Des millions de personnes ont manifesté à travers les États-Unis ce dimanche lors de rassemblements du mouvement “No Kings”. L’objectif : protester contre la politique menée par Donald Trump depuis son retour au pouvoir en janvier 2025.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel pourcentage du PIB national français l'industrie automobile représente-t-elle annuellement, selon la publicité du Groupe Renault ?",
+      "options": [
+        "Moins de 0,5 %.",
+        "Exactement 1 %.",
+        "Plus de 1 %.",
+        "Environ 5 %."
+      ],
+      "correct": 2,
+      "explication": "Le texte publicitaire indique : \"31,2 milliards d’euros par an, c’est le poids de la filière automobile dans le PIB français soit + de 1 % du PIB national.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle compagnie aérienne a repris ses vols directs entre Pékin et Pyongyang, pour la première fois en six ans, après une suspension due à la pandémie de Covid-19 ?",
+      "options": [
+        "Korean Air.",
+        "China Eastern.",
+        "Air China.",
+        "Cathay Pacific."
+      ],
+      "correct": 2,
+      "explication": "Le texte rapporte : \"La compagnie chinoise Air China a repris ses vols directs entre Pékin... et Pyongyang... une 1re depuis 6 ans.\"",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
