@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Donald Trump envisage sérieusement de sortir les Etats-Unis de l’Otan",
+  "date": "01/04/2026",
+  "img": "archives/2026-04-01/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel terme Donald Trump a-t-il utilisé pour qualifier l'OTAN dans une interview récente avec The Telegraph ?",
+      "options": [
+        "Une \"force inébranlable\"",
+        "Un \"tigre de papier\"",
+        "Une \"alliance obsolète\"",
+        "Un \"bouclier protecteur\""
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a qualifié l'alliance de \"tigre de papier\" dans une interview accordée au média britannique The Telegraph.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle élection David Lisnard, le maire de Cannes, a-t-il annoncé sa candidature ce mardi, tout en quittant son parti Les Républicains ?",
+      "options": [
+        "Les élections législatives de 2027",
+        "L'élection présidentielle de 2027",
+        "Les élections européennes de 2025",
+        "Les élections municipales de 2026"
+      ],
+      "correct": 1,
+      "explication": "David Lisnard a annoncé sa candidature à l'élection présidentielle ce mardi, au journal de \"20 heures\" de France 2.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est le pourcentage d'augmentation du prix du SP95-E10 en France hexagonale depuis le 27 février ?",
+      "options": [
+        "10,50 %",
+        "12,80 %",
+        "16,26 %",
+        "20,00 %"
+      ],
+      "correct": 2,
+      "explication": "Depuis le 27 février, le SP95-E10 a pris 28 centimes au litre en France hexagonale, soit un bond de 16,26 %.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle mesure principale le Sénat a-t-il adoptée concernant l'accès aux réseaux sociaux ?",
+      "options": [
+        "Interdire l'accès aux moins de 18 ans",
+        "Imposer une vérification d'identité à tous les utilisateurs",
+        "Interdire l'accès aux moins de 15 ans dès septembre",
+        "Créer une taxe sur les réseaux sociaux jugés nuisibles"
+      ],
+      "correct": 2,
+      "explication": "Le Sénat a adopté sa version de la proposition de loi visant à interdire l’accès aux réseaux sociaux aux moins de 15 ans dès septembre.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de jours la mission Artemis II doit-elle effectuer un vol en orbite autour de la Lune ?",
+      "options": [
+        "3 jours",
+        "7 jours",
+        "10 jours",
+        "30 jours"
+      ],
+      "correct": 2,
+      "explication": "La mission Artemis II va effectuer un vol en orbite autour de la Lune pendant 10 jours.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel groupe armé est suspecté d'être derrière l'enlèvement de la journaliste américaine Shelly Kittleson à Bagdad ?",
+      "options": [
+        "Daech",
+        "Le Front Al-Nosra",
+        "Le Kataëb Hezbollah",
+        "Les Forces de mobilisation populaire"
+      ],
+      "correct": 2,
+      "explication": "L’identité des ravisseurs n’est pas encore connue mais il pourrait s’agir du Kataëb Hezbollah, selon des sources proches d’elle citées par Le Figaro.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel événement sportif l'équipe de football de la RD Congo s'est-elle qualifiée historiquement, déclenchant un jour férié ?",
+      "options": [
+        "La Coupe d'Afrique des Nations",
+        "Les Jeux Olympiques",
+        "La Coupe du monde de football",
+        "Le Championnat d'Afrique des Nations"
+      ],
+      "correct": 2,
+      "explication": "Le gouvernement congolais a exceptionnellement déclaré férié ce mercredi 1er avril 2026, après la qualification historique de son équipe pour la Coupe du monde de football.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Combien de véhicules Stellantis sont rappelés en France en raison d'un risque d'incendie ?",
+      "options": [
+        "70 000",
+        "212 000",
+        "350 000",
+        "700 000"
+      ],
+      "correct": 1,
+      "explication": "Le constructeur Stellantis rappelle 700 000 véhicules dans le monde pour un risque d’incendie, dont 212 000 en France.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la décision annoncée par le ministère israélien de la Défense concernant la France ?",
+      "options": [
+        "Renforcer les échanges militaires avec la France",
+        "Mettre un terme aux achats militaires effectués en France",
+        "Développer des projets de coopération spatiale avec la France",
+        "Envoyer des troupes en France pour des exercices conjoints"
+      ],
+      "correct": 1,
+      "explication": "Le ministère israélien de la Défense a annoncé vouloir mettre un terme aux achats militaires effectués en France.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon un rapport de l'ONU, combien de personnes ont été tuées entre mars 2025 et la mi-janvier 2026 en Haïti en raison des violences de gangs ?",
+      "options": [
+        "Moins de 1 000",
+        "Environ 2 500",
+        "Plus de 5 500",
+        "Près de 10 000"
+      ],
+      "correct": 2,
+      "explication": "Plus de 5 500 personnes ont été tuées entre mars 2025 et la mi-janvier 2026, en raison des violences de gangs ou d'attaques menées contre eux, d'après un rapport de l'ONU.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
