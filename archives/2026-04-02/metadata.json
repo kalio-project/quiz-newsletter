@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Les humains bientôt de retour sur la Lune ?",
+  "date": "02/04/2026",
+  "img": "archives/2026-04-02/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "En quelle année des humains avaient-ils pris pour la dernière fois la direction de la Lune avant la mission actuelle des 4 astronautes de la NASA ?",
+      "options": [
+        "1969",
+        "1972",
+        "1983",
+        "1995"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : « La dernière fois que des humains avaient pris cette direction, c’était en décembre 1972, avec Apollo 17. »",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon le ministère de l'Économie, quel pourcentage des stations-service françaises étaient en rupture de stock sur un ou plusieurs carburants ce jeudi ?",
+      "options": [
+        "8 %",
+        "12 %",
+        "16 %",
+        "20 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : « 16 % des stations-service sont en rupture de stock sur un ou plusieurs carburants, selon les données du ministère de l’Économie publiées ce jeudi. »",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel pays africain a envoyé plus de 50 policiers à Port-au-Prince, Haïti, dans le cadre d'une mission multinationale de l'ONU ?",
+      "options": [
+        "Le Nigéria",
+        "Le Tchad",
+        "L'Égypte",
+        "L'Afrique du Sud"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : « Plus de 50 policiers du Tchad, un pays d’Afrique centrale, sont arrivés ce mercredi à Port-au-Prince, la capitale haïtienne. »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel motif l'eurodéputée La France insoumise Rima Hassan a-t-elle été placée en garde à vue ?",
+      "options": [
+        "Diffamation",
+        "Incitation à la haine",
+        "Apologie du terrorisme",
+        "Atteinte à la sûreté de l'État"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « L’eurodéputée La France insoumise Rima Hassan a été placée en garde à vue ce jeudi pour “apologie du terrorisme”, selon Le Parisien. »",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon l'ONG Oxfam, combien de milliards de dollars les super-riches dans le monde auraient-ils dissimulés au fisc ?",
+      "options": [
+        "1 550 milliards",
+        "2 550 milliards",
+        "3 550 milliards",
+        "4 550 milliards"
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme : « Les super-riches dans le monde auraient dissimulé 3 550 milliards de $ au fisc, l’administration chargée de collecter les impôts, selon l’ONG Oxfam... »",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Après ses récentes victoires, la France a retrouvé la 1ère place du classement FIFA. En quelle année les Bleus avaient-ils occupé cette position pour la dernière fois ?",
+      "options": [
+        "2014",
+        "2016",
+        "2018",
+        "2020"
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : « Les Bleus retrouvent ainsi la 1re place du classement pour la 1re fois depuis 2018, année de leur sacre lors de la Coupe du monde en Russie. »",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Parmi les premières historiques de la mission Artemis de la NASA, laquelle NE fait PAS partie de celles mentionnées pour ce vol habité ?",
+      "options": [
+        "La première femme à participer à un vol lunaire",
+        "La première personne non-américaine à participer à un vol lunaire",
+        "La première personne non blanche à participer à un vol lunaire",
+        "Le premier voyage sans équipage autour de la Lune"
+      ],
+      "correct": 3,
+      "explication": "Le texte déclare : « Cette mission marque plusieurs premières historiques : c’est la 1re fois qu’une femme, une personne non blanche et un astronaute non-américain participent à un vol lunaire. » Le premier voyage sans équipage (Artemis I) a eu lieu en 2022.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est l'objectif principal à long terme du programme \"Artemis\" de la NASA ?",
+      "options": [
+        "Envoyer des touristes dans l'espace",
+        "Tester de nouveaux satellites de communication",
+        "Préparer l'installation d'une base humaine durable sur la Lune",
+        "Explorer les anneaux de Saturne"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « Cette mission s’inscrit dans le programme “Artemis”, dont l’objectif est de préparer l’installation d’une base humaine durable sur la Lune. »",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Outre les États-Unis, quel autre pays est mentionné comme ayant des ambitions de construire une base lunaire et d'envoyer des humains sur la Lune d'ici 2035 ?",
+      "options": [
+        "La Russie",
+        "Le Japon",
+        "L'Inde",
+        "La Chine"
+      ],
+      "correct": 3,
+      "explication": "Le texte explique : « Dans un contexte où la Chine affirme aussi qu'elle enverra des humains sur la Lune d'ici 2030 et espère aussi la construction d’une base lunaire d’ici 2035... »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel élément, potentiellement utilisable comme carburant du futur, est mentionné parmi les ressources que les missions Artemis pourraient permettre d'exploiter sur la Lune ?",
+      "options": [
+        "Le méthane",
+        "L'hélium-3",
+        "Le lithium",
+        "L'hydrogène"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : « Elles pourraient aussi permettre l’exploitation de minerais comme le fer ou le titane, voire de l’hélium-3, un élément étudié comme potentiel carburant du futur, comme le souligne la BBC. »",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
