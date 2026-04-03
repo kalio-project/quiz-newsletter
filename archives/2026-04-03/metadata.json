@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Comment la guerre impacte la France ?",
+  "date": "03/04/2026",
+  "img": "archives/2026-04-03/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel organisme international les pays du Golfe ont-ils sollicité pour obtenir l'autorisation d'utiliser la force afin de sécuriser le détroit d'Ormuz ?",
+      "options": [
+        "L'OTAN",
+        "L'Union Européenne",
+        "L'ONU",
+        "La Ligue Arabe"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Plusieurs pays du Golfe ont demandé l’autorisation à l’ONU d’utiliser la force pour sécuriser le détroit d’Ormuz.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle raison l'eurodéputée LFI Rima Hassan doit-elle être jugée le 7 juillet ?",
+      "options": [
+        "Diffamation envers un élu",
+        "Apologie du terrorisme commise en ligne",
+        "Détention illégale de stupéfiants",
+        "Incitation à la haine raciale"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que Rima Hassan va être jugée pour 'apologie du terrorisme commise en ligne' en raison d'un tweet citant Kōzō Okamoto.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel est l'objectif principal du projet de loi de lutte contre le séparatisme annoncé par le ministre de l'Intérieur ?",
+      "options": [
+        "Renforcer le contrôle des frontières",
+        "Atteindre les structures qui échappent encore à l'action publique",
+        "Augmenter les peines pour les délits mineurs",
+        "Créer de nouveaux postes de police"
+      ],
+      "correct": 1,
+      "explication": "Laurent Nuñez a annoncé un projet de loi dont l'objectif affiché est 'atteindre les structures qui échappent encore à l’action publique, notamment celles qui accueillent des mineurs en dehors du temps scolaire.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle a été la position d'Ibrahim Traoré, chef de la junte au pouvoir au Burkina Faso, concernant la démocratie ?",
+      "options": [
+        "Il a appelé à la renforcer",
+        "Il a initié des réformes démocratiques",
+        "Il a appelé ses compatriotes à 'oublier' la démocratie",
+        "Il a promis des élections immédiates"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'Ibrahim Traoré 'a appelé ses compatriotes à 'oublier' la démocratie.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien d'animateurs du périscolaire ont été suspendus à Paris depuis le début de l'année 2026 pour des suspicions de violences sexuelles ?",
+      "options": [
+        "78",
+        "31",
+        "20",
+        "50"
+      ],
+      "correct": 1,
+      "explication": "Le nouveau maire de Paris, Emmanuel Grégoire, a révélé que '78 animateurs du périscolaire ont été suspendus à Paris depuis le début de l’année 2026, dont 31 pour des suspicions de violences sexuelles'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "En quelle année le concours général des collèges, annoncé par le ministre de l’Éducation nationale, sera-t-il lancé ?",
+      "options": [
+        "2025",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne qu'un 'concours général des collèges va être lancé en 2027'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de personnes se sont inscrites aux préventes des 10 concerts de Céline Dion prévus cet automne à Paris ?",
+      "options": [
+        "Plus de 20 millions",
+        "7 millions",
+        "9 millions",
+        "10 millions"
+      ],
+      "correct": 2,
+      "explication": "Selon Le Parisien, '9 millions de personnes se sont inscrites aux préventes des 10 concerts de Céline Dion'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel prix le gazole a-t-il atteint en France, un record depuis 1985, suite à la guerre au Moyen-Orient ?",
+      "options": [
+        "1,85 € le litre",
+        "2,05 € le litre",
+        "2,19 € le litre",
+        "2,50 € le litre"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'le gazole a atteint 2,19 € le litre, un record depuis 1985'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon le scénario le plus pessimiste de la Banque de France concernant l'impact de la guerre, quelle pourrait être l'inflation en cas de blocage prolongé du détroit d'Ormuz ?",
+      "options": [
+        "0,9 %",
+        "1,5 %",
+        "3,3 %",
+        "Pas de prévision d'inflation"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Les scénarios plus pessimistes envisagent un blocage prolongé du détroit d’Ormuz, avec une inflation pouvant atteindre 3,3 %'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est l'objectif de réduction des émissions de gaz à effet de serre visé par la France pour le secteur automobile d'ici 2030, selon la Stratégie nationale bas-carbone ?",
+      "options": [
+        "Une réduction de moitié",
+        "Une réduction d'un quart",
+        "Une réduction de près d'un tiers",
+        "Une décarbonation complète"
+      ],
+      "correct": 2,
+      "explication": "La France vise 'une réduction de près d’un tiers des émissions de gaz à effet de serre dans ce secteur d’ici 2030'.",
+      "theme": "ENVIRONNEMENT"
+    }
+  ]
+}
