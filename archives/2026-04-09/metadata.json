@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Donald Trump a-t-il un problème de santé mentale ?",
+  "date": "09/04/2026",
+  "img": "archives/2026-04-09/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon le texte, existe-t-il un diagnostic officiel public affirmant que Donald Trump souffrirait d'une quelconque maladie mentale ?",
+      "options": [
+        "Oui, c'est confirmé par des experts médicaux officiels.",
+        "Non, aucun diagnostic officiel public n'existe.",
+        "Seul son entourage proche l'a confirmé de manière informelle.",
+        "La Maison-Blanche a émis un communiqué officiel à ce sujet."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'On ne va pas diagnostiquer Donald Trump d’une quelconque façon : il n'existe aujourd'hui aucun diagnostic officiel public affirmant que Donald Trump souffrirait d'une quelconque maladie mentale.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le bilan humain des bombardements israéliens au Liban, mentionné comme étant d'une ampleur inédite ce mercredi ?",
+      "options": [
+        "Moins de 50 personnes tuées et 200 blessées.",
+        "Plus de 203 personnes tuées et 1 000 blessées.",
+        "Environ 100 personnes tuées et 500 blessées.",
+        "Aucun bilan précis n'a été communiqué."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Plus de 203 personnes ont été tuées et 1 000 blessées dans des bombardements israéliens d’une ampleur inédite ce mercredi.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel motif l'eurodéputée Rima Hassan a-t-elle déposé plainte contre le porte-parole du ministère de la Justice ?",
+      "options": [
+        "Pour diffamation publique.",
+        "Pour violation du secret de l'enquête.",
+        "Pour entrave à la justice.",
+        "Pour non-respect de la présomption d'innocence."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'L’eurodéputée Rima Hassan a déposé plainte pour 'violation du secret de l'enquête' contre le porte-parole du ministère de la Justice.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est la cause principale de la pénurie de carburant à Cuba, selon le texte, qui a conduit l'ONU à importer du carburant pour l'aide humanitaire ?",
+      "options": [
+        "Un embargo commercial généralisé.",
+        "Une baisse de la production locale de pétrole.",
+        "La capture de Nicolás Maduro par les États-Unis, affectant l'approvisionnement vénézuélien.",
+        "Une crise économique mondiale affectant les prix du pétrole."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'En cause : la capture de Nicolás Maduro par les États-Unis, Cuba étant très dépendant du pétrole vénézuélien.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes sont décédées lors du naufrage d'une embarcation de migrants près de Boulogne-sur-Mer, selon le rapport ?",
+      "options": [
+        "2 personnes.",
+        "4 personnes.",
+        "37 personnes.",
+        "Aucune victime, seulement des blessés."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Au moins 4 personnes, 2 hommes et 2 femmes, sont mortes après le naufrage d’une embarcation de migrants ce jeudi près de Boulogne-sur-Mer.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon Reporters sans frontières, combien de journalistes ont été tués à Gaza depuis le 7 octobre 2023, et combien en raison de leur profession ?",
+      "options": [
+        "Moins de 100 journalistes, dont une dizaine liés à leur profession.",
+        "Plus de 220 journalistes, dont 62 en raison de leur profession.",
+        "Environ 150 journalistes, sans précision sur la cause.",
+        "Un seul journaliste, Mohammed Wishah, a été tué en raison de sa profession."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Depuis le 7 octobre 2023, plus de 220 journalistes ont été tués à Gaza, dont 62 en raison de leur profession, selon Reporters sans frontières.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle proportion de Français estime avoir déjà été victime de racisme, selon l'Ifop ?",
+      "options": [
+        "Moins d'un quart des Français.",
+        "Près d'un Français sur deux.",
+        "Trois quarts des Français.",
+        "Seuls les membres des minorités visibles."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : 'Près d’1 Français sur 2 estime avoir déjà été victime de racisme, selon l’Ifop.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelles espèces vivant en Antarctique ont été récemment classées 'en danger' par l'Union internationale pour la conservation de la nature en raison du changement climatique ?",
+      "options": [
+        "Le lion de mer et le pétrel géant.",
+        "Le manchot empereur et l’otarie à fourrure de Kerguelen.",
+        "Le léopard de mer et l'albatros hurleur.",
+        "La baleine à bosse et le cachalot."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Le manchot empereur et l’otarie à fourrure de Kerguelen, qui vivent en Antarctique, sont désormais classés comme espèces 'en danger'.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle peine a été prononcée contre Jasveen Sangha, la trafiquante de drogue liée au décès de l'acteur américain Matthew Perry ?",
+      "options": [
+        "10 ans de prison.",
+        "15 ans de prison.",
+        "20 ans de prison.",
+        "Une amende et une peine avec sursis."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Jasveen Sangha, la trafiquante qui fournissait la drogue ayant tué l’acteur américain Matthew Perry (“Friends”), a été condamnée à 15 ans de prison.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien de temps Julien Février, le Toulousain détenu au Venezuela, a-t-il passé en détention avant d'être libéré ?",
+      "options": [
+        "3 mois.",
+        "6 mois.",
+        "15 mois.",
+        "2 ans."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Julien Février [...] a été libéré après 15 mois de détention.'",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
