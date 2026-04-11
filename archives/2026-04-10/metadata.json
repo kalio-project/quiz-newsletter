@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le passage dans le détroit d’Ormuz pourrait devenir payant",
+  "date": "10/04/2026",
+  "img": "archives/2026-04-10/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'actualité, que réclamerait l'Iran concernant le passage dans le détroit d'Ormuz dans le cadre de ses négociations avec les États-Unis ?",
+      "options": [
+        "Un renforcement de la présence militaire",
+        "La gratuité du passage pour tous les navires",
+        "Que le passage devienne payant",
+        "La fermeture du détroit à tout trafic commercial"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que l'Iran réclamerait que le passage dans le détroit d'Ormuz devienne payant dans le cadre de ses négociations avec les États-Unis.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle a été la déclaration du président chinois Xi Jinping concernant les peuples chinois et taïwanais ?",
+      "options": [
+        "Ils sont voués à rester séparés",
+        "Ils sont destinés à s'unir à l'avenir",
+        "Ils doivent renforcer leur coopération économique",
+        "Ils devraient former une confédération"
+      ],
+      "correct": 1,
+      "explication": "Le président chinois Xi Jinping a déclaré être 'pleinement convaincu' que les peuples chinois et taïwanais seront unis à l'avenir.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Que nie la Première dame des États-Unis, Melania Trump, concernant le financier Jeffrey Epstein ?",
+      "options": [
+        "Avoir été une de ses amies proches",
+        "Avoir eu connaissance de ses crimes",
+        "L'avoir rencontré à New York",
+        "Avoir bénéficié de ses services financiers"
+      ],
+      "correct": 1,
+      "explication": "Melania Trump nie avoir eu connaissance des crimes du financier américain Jeffrey Epstein.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle annonce a été faite par le président russe Vladimir Poutine ce jeudi, à l'occasion de la Pâque orthodoxe ?",
+      "options": [
+        "Une offensive majeure en Ukraine",
+        "Un cessez-le-feu entre l'Ukraine et la Russie",
+        "La signature d'un accord de paix définitif",
+        "Un échange de prisonniers de grande envergure"
+      ],
+      "correct": 1,
+      "explication": "Un cessez-le-feu entre l’Ukraine et la Russie a été annoncé par Vladimir Poutine pour la Pâque orthodoxe.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel était le but des pourparlers prévus entre le Liban et Israël à Washington, selon Israël ?",
+      "options": [
+        "Discuter de la gestion des ressources en eau",
+        "Négocier un accord commercial bilatéral",
+        "Discuter du désarmement du Hezbollah et de l'établissement de relations de paix",
+        "Mettre en place une coopération scientifique"
+      ],
+      "correct": 2,
+      "explication": "Le but est de discuter 'du désarmement du Hezbollah' et de 'l'établissement de relations de paix' entre les 2 pays, selon Israël.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui Emmanuel Macron a-t-il rencontré pour la première fois au Vatican ce vendredi ?",
+      "options": [
+        "Le Pape François",
+        "Le Pape Benoît XVI",
+        "Le Pape Léon XIV",
+        "Le cardinal Pietro Parolin"
+      ],
+      "correct": 2,
+      "explication": "Emmanuel Macron a rencontré pour la 1re fois le pape Léon XIV ce vendredi au Vatican, selon le texte.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon l’Observatoire national des violences faites aux femmes, quelle évolution a été constatée concernant les mineures victimes de prostitution en France en 2025 ?",
+      "options": [
+        "Une diminution de 10%",
+        "Une stagnation du nombre",
+        "Une hausse de 43% en 4 ans",
+        "Une légère augmentation de 5%"
+      ],
+      "correct": 2,
+      "explication": "704 mineures victimes de prostitution ont été recensées en 2025 en France, soit une hausse de 43 % en 4 ans.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Parmi les films sélectionnés pour la Palme d’or du Festival de Cannes, quel réalisateur français a été retenu ?",
+      "options": [
+        "Pedro Almodóvar",
+        "Asghar Farhadi",
+        "Léa Mysius",
+        "Jacques Audiard"
+      ],
+      "correct": 2,
+      "explication": "La française Léa Mysius avec 'Histoires de la nuit' a été retenue.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Combien de billets de train gratuits l'Union européenne va-t-elle offrir aux jeunes de 18 ans pour voyager en Europe ?",
+      "options": [
+        "10 000",
+        "20 000",
+        "30 000",
+        "40 000"
+      ],
+      "correct": 3,
+      "explication": "L’Union européenne va offrir 40 000 billets de train gratuits aux jeunes de 18 ans.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon la section 'Décryptage', quel problème juridique poserait l'instauration officielle d'un péage dans le détroit d'Ormuz par l'Iran ?",
+      "options": [
+        "Cela violerait les accords sur le commerce équitable",
+        "Cela contesterait la souveraineté des pays riverains",
+        "Cela irait à l'encontre du principe fondamental de liberté de navigation en droit international",
+        "Cela nécessiterait l'approbation de l'ONU"
+      ],
+      "correct": 2,
+      "explication": "Juridiquement, cela pose problème car la liberté de navigation est un principe fondamental du droit international, et Ormuz est un passage naturel.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
