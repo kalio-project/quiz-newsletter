@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Donald Trump annonce un blocus de l’Iran",
+  "date": "13/04/2026",
+  "img": "archives/2026-04-13/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'annonce de Donald Trump, quel est l'objectif principal du blocus visant les ports iraniens ?",
+      "options": [
+        "Bloquer l'ensemble du détroit d'Ormuz pour empêcher toute circulation maritime.",
+        "Limiter la mainmise de l'Iran sur le détroit et priver le pays d'importants revenus.",
+        "Initier une intervention militaire terrestre en Iran.",
+        "Forcer l'Iran à adhérer à l'Organisation Mondiale du Commerce."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que le blocus vise à \"limiter la mainmise de l'Iran sur le détroit, et par conséquent, à réduire sa capacité de négociation en utilisant cette position stratégique. D’autre part, un tel blocus pourrait priver l’Iran d’importants revenus et paralyser son économie.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel motif le cimentier français Lafarge et d'anciens responsables ont-ils été reconnus coupables par le tribunal correctionnel de Paris ?",
+      "options": [
+        "Évasion fiscale.",
+        "Financement du terrorisme en Syrie.",
+        "Détournement de fonds publics.",
+        "Corruption d'agents étrangers."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : \"Le cimentier français Lafarge et 8 anciens responsables du groupe ont été reconnus coupables de financement du terrorisme entre 2013 et 2014 en Syrie, par le tribunal correctionnel de Paris.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Contre quel projet de loi les avocats français ont-ils appelé à une mobilisation ce lundi ?",
+      "options": [
+        "La réforme des retraites.",
+        "Le projet de loi sur la justice criminelle.",
+        "L'augmentation des impôts pour les professions libérales.",
+        "La loi sur la sécurité globale."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Les avocats ont appelé à une mobilisation en France ce lundi contre le projet de loi sur la justice criminelle, porté par le ministre de la Justice Gérald Darmanin.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel triste record les autorités iraniennes ont-elles atteint en 2025 concernant les exécutions, selon les ONG ?",
+      "options": [
+        "Le plus grand nombre d'exécutions d'étrangers.",
+        "Le plus grand nombre d'exécutions depuis 1989.",
+        "Le plus grand nombre d'exécutions pour crimes économiques.",
+        "Le plus grand nombre d'exécutions de mineurs."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Au moins 1 639 personnes ont été exécutées par les autorités iraniennes en 2025, un record depuis 1989, selon les ONG Iran Human Rights et Ensemble contre la peine de mort.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle chaîne de salles de sport a été victime d'une fuite de données personnelles touchant environ 1 million de clients ?",
+      "options": [
+        "Decathlon.",
+        "Go Sport.",
+        "Basic-Fit.",
+        "Fitness Park."
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : \"La chaîne de salles de sport Basic-Fit a été victime d’une fuite de données personnelles touchant environ 1 million de clients dans plusieurs pays, dont la France.\"",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel célèbre artiste est l'auteur du tableau 'Tête de femme' mis en jeu lors d'une tombola caritative ?",
+      "options": [
+        "Vincent van Gogh.",
+        "Claude Monet.",
+        "Pablo Picasso.",
+        "Salvador Dalí."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Le tableau de Pablo Picasso, baptisé “Tête de femme”... sera mis en jeu pour 100 € lors d’une tombola caritative.\"",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon la publicité de Stellantis, quel a été le nombre de demandes de brevets formulées en France en 2024 ?",
+      "options": [
+        "Moins de 10 000.",
+        "Environ 50 000.",
+        "Plus de 15 000.",
+        "Près de 200 000."
+      ],
+      "correct": 2,
+      "explication": "La publicité indique : \"Parmi celles-ci [les 199 264 demandes dans l'UE], 15 458 demandes ont été formulées en France, soit une progression de + 1,1% par rapport à 2023.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel groupe automobile est mentionné comme le premier déposant de brevets en France pour la 3e année consécutive ?",
+      "options": [
+        "Renault.",
+        "Volkswagen.",
+        "Stellantis.",
+        "Toyota."
+      ],
+      "correct": 2,
+      "explication": "La publicité précise : \"L’innovation est un enjeu primordial pour le groupe automobile STELLANTIS France, premier déposant de brevets pour la 3e année consécutive.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "À quelle fondation seront reversés les fonds récoltés par la tombola du tableau de Picasso ?",
+      "options": [
+        "La Fondation pour la Recherche Médicale.",
+        "La Fondation Abbé Pierre.",
+        "La Fondation Recherche Alzheimer.",
+        "Médecins Sans Frontières."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Les fonds récoltés seront reversés à la Fondation Recherche Alzheimer.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel dirigeant nationaliste, proche de Donald Trump et Vladimir Poutine, a été battu et poussé à la sortie après 16 ans au pouvoir lors des dernières élections législatives ?",
+      "options": [
+        "Recep Tayyip Erdoğan.",
+        "Narendra Modi.",
+        "Viktor Orbán.",
+        "Jair Bolsonaro."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"🇭🇺 HONGRIE : Le nationaliste Viktor Orbán, proche de Donald Trump et de Vladimir Poutine, a été battu et poussé à la sortie lors des dernières élections législatives, après 16 ans au pouvoir.\"",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
