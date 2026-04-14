@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump s’en prend au Pape",
+  "date": "14/04/2026",
+  "img": "archives/2026-04-14/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel était le message principal du pape Léon XIV qui a été largement interprété comme visant la politique de Donald Trump ?",
+      "options": [
+        "\"Assez de l’idolâtrie du moi et de l’argent ! Assez des démonstrations de force ! Assez de guerres ! La véritable force se manifeste en servant la vie.\"",
+        "\"Les États-Unis devraient se concentrer davantage sur les problèmes intérieurs que sur les affaires étrangères.\"",
+        "\"Le rôle de la religion est de soutenir les dirigeants politiques dans leurs décisions difficiles.\"",
+        "\"La prospérité économique est la seule voie vers une paix durable dans le monde.\""
+      ],
+      "correct": 0,
+      "explication": "Le texte indique que le pape a déclaré : \"Assez de l’idolâtrie du moi et de l’argent ! Assez des démonstrations de force ! Assez de guerres ! La véritable force se manifeste en servant la vie\", des propos largement interprétés comme visant indirectement la politique de Donald Trump.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Après le retrait de son image générée par IA le représentant en figure christique, qu'a affirmé Donald Trump à propos de cette image ?",
+      "options": [
+        "Qu'il l'avait publiée par erreur sans la regarder attentivement.",
+        "Qu'il pensait y être représenté comme un médecin.",
+        "Qu'il s'agissait d'une satire politique délibérée.",
+        "Qu'il testait les limites de l'intelligence artificielle."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Trump a ensuite affirmé qu'il pensait être un médecin sur cette image.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où des représentants libanais et israéliens ont-ils été reçus ce mardi pour tenter de trouver une issue au conflit les opposant ?",
+      "options": [
+        "À Jérusalem",
+        "À Beyrouth",
+        "À Washington D.C.",
+        "À Genève"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Des représentants libanais et israéliens ont été reçus ce mardi à Washington D.C. pour tenter de trouver une issue au conflit opposant Israël au Hezbollah depuis début mars.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle modification de loi le gouvernement français a-t-il finalement renoncé à apporter ?",
+      "options": [
+        "La loi sur les retraites.",
+        "La loi sur le 1er mai, prévoyant d'autoriser certains salariés à travailler ce jour-là.",
+        "La loi sur l'interdiction de fumer dans les lieux publics.",
+        "La loi sur le droit de grève."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : \"Le gouvernement a finalement renoncé à modifier la loi sur le 1er mai, qui prévoyait d'autoriser certains salariés à travailler ce jour-là.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon l'ONU, quel pourcentage de la population du Soudan vit désormais dans la pauvreté ?",
+      "options": [
+        "Environ 38 %",
+        "Exactement 50 %",
+        "Environ 70 %",
+        "Plus de 90 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : \"Environ 70 % de la population du Soudan... vit désormais dans la pauvreté, selon l’ONU.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Dans quelle ville algérienne un double-attentat suicide a-t-il eu lieu ce lundi, selon les informations du texte ?",
+      "options": [
+        "Alger",
+        "Oran",
+        "Blida",
+        "Constantine"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Deux hommes se sont fait exploser ce lundi dans le centre-ville de Blida, à 40km au sud d’Alger.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui a été élu président du Bénin, succédant à Patrice Talon ?",
+      "options": [
+        "Patrice Talon, pour un troisième quinquennat.",
+        "Romuald Wadagni, le ministre des Finances.",
+        "Un candidat de l'opposition avec 94,05 % des suffrages.",
+        "Le texte ne précise pas le nom du nouveau président."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : \"Romuald Wadagni, le ministre des Finances et candidat de la majorité, a été élu président du Bénin en obtenant 94,05 % des suffrages.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels sont les objectifs affichés par le gouvernement espagnol pour son vaste plan de régularisation de sans-papiers ?",
+      "options": [
+        "Renforcer la sécurité aux frontières et réduire l'immigration illégale.",
+        "Contrer le vieillissement de la population et soutenir l'économie.",
+        "Faciliter l'intégration culturelle des nouveaux arrivants.",
+        "Préparer l'Espagne à de futurs défis démographiques de l'Union européenne."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que l'objectif affiché est de \"contrer le vieillissement de la population et soutenir l'économie.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est l'objectif de l'obligation pour les propriétaires de chiens de tenir leur animal en laisse en forêt, en France, du 1er mai au 30 juin ?",
+      "options": [
+        "Prévenir les morsures de chiens sur les promeneurs.",
+        "Faciliter la récolte de champignons sans perturbation.",
+        "Favoriser le repeuplement de la faune sauvage.",
+        "Protéger la flore des dégradations causées par les animaux domestiques."
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare : \"L’objectif : favoriser le repeuplement de la faune sauvage.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "De quelle maladie virale un patient norvégien est-il aujourd'hui en rémission, après un traitement contre un cancer du sang ?",
+      "options": [
+        "L'hépatite C",
+        "La grippe aviaire",
+        "Le VIH",
+        "Le paludisme"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Un patient norvégien est aujourd’hui en rémission du VIH, le virus responsable du sida, après un traitement contre un cancer du sang.\"",
+      "theme": "SANTÉ"
+    }
+  ]
+}
