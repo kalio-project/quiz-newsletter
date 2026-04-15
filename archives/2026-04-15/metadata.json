@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Soudan : l’ONU alerte sur une “crise abandonnée”",
+  "date": "15/04/2026",
+  "img": "archives/2026-04-15/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Comment l'ONU décrit-elle la crise au Soudan qui entre dans sa 4e année?",
+      "options": [
+        "Une \"crise oubliée\"",
+        "Une \"crise négligée\"",
+        "Une \"crise abandonnée\"",
+        "Une \"crise ignorée\""
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne explicitement que l'ONU parle d'une “crise abandonnée” au Soudan.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la situation actuelle entre Israël et le Liban suite à la décision d'entamer des négociations de paix?",
+      "options": [
+        "Les hostilités ont cessé et les négociations ont débuté.",
+        "Les deux parties ont signé un accord de cessez-le-feu.",
+        "Les affrontements se poursuivent malgré la décision de négocier.",
+        "Le Hezbollah a retiré ses forces de la frontière."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que \"L’armée israélienne continue de bombarder... tandis que le Hezbollah poursuit ses attaques contre Israël, au lendemain de la décision d'Israël et du Liban d’entamer des négociations de paix.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel a été le sort de la pétition contre la loi \"Yadan\" en France?",
+      "options": [
+        "Elle a été adoptée par le Parlement.",
+        "Elle a été rejetée par le Conseil constitutionnel.",
+        "Il n'y aura pas de suite donnée à la pétition.",
+        "Elle a été mise en attente pour un examen ultérieur."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise qu'il \"n’y aura pas de suite pour la pétition contre la loi “Yadan”\".",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est le statut de l'Iranienne Mahdieh Esfandiari, condamnée en France, après son retour en Iran?",
+      "options": [
+        "Elle a été libérée suite à un échange officiel avec la France.",
+        "Son retour a eu lieu après celui d'otages français, mais la France nie tout échange.",
+        "Elle a été extradée vers l'Iran sur demande de ses autorités.",
+        "Elle est rentrée en Iran après avoir purgé sa peine en France."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme que son \"retour intervient une semaine après celui en France des anciens otages... Les autorités françaises démentent tout échange avec l’Iran.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle décision a été prise par le Parlement français concernant les zones à faibles émissions (ZFE)?",
+      "options": [
+        "Les ZFE seront étendues à toutes les grandes villes.",
+        "La suppression des ZFE a été adoptée par le Parlement.",
+        "Les règles des ZFE ont été renforcées pour plus de véhicules.",
+        "Les ZFE ont été suspendues temporairement."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"La suppression des zones à faibles émissions... a été adoptée par le Parlement\".",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'objectif de la nouvelle proposition de loi concernant la prescription des crimes sur mineurs en France?",
+      "options": [
+        "Réduire le délai de prescription à 10 ans après la majorité.",
+        "Appliquer la prescription de manière rétroactive.",
+        "Supprimer totalement la prescription pour ces crimes.",
+        "Augmenter le délai de prescription à 50 ans après la majorité."
+      ],
+      "correct": 2,
+      "explication": "La proposition de loi vise \"à supprimer la prescription des crimes commis sur mineurs\".",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est la nature de la condamnation récente d'un jeune homme au Sénégal mentionnée dans l'article?",
+      "options": [
+        "Condamnation pour délit de fuite.",
+        "Condamnation pour vol qualifié.",
+        "Condamnation pour \"acte contre nature\" en raison de son homosexualité.",
+        "Condamnation pour insubordination."
+      ],
+      "correct": 2,
+      "explication": "L'article rapporte qu'il a été \"condamné le 2 avril à 6 ans de prison ferme... pour “acte contre nature”, en raison de son homosexualité\".",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel groupe de population était majoritairement présent parmi les passagers disparus lors du naufrage dans la mer d'Andaman?",
+      "options": [
+        "Des touristes en croisière.",
+        "Des pêcheurs locaux.",
+        "Des réfugiés rohingyas et des habitants du Bangladesh.",
+        "Des marchands de la région."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que \"Parmi les 280 passagers figuraient des réfugiés rohingyas... mais aussi des habitants du Bangladesh.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel a été le bénéfice principal de la tombola qui a permis à un Parisien de gagner un tableau de Picasso?",
+      "options": [
+        "La promotion de jeunes artistes.",
+        "La restauration d'œuvres d'art anciennes.",
+        "La collecte de fonds pour la recherche contre la maladie d’Alzheimer.",
+        "L'enrichissement personnel de l'organisateur."
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare que \"Cette tombola a permis de collecter 12 millions d’€ pour la recherche contre la maladie d’Alzheimer.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelles sont les deux principales figures dont les forces s'affrontent dans la guerre au Soudan?",
+      "options": [
+        "Abdel Fattah al-Burhan et le président du Soudan du Sud.",
+        "Mohamed Hamdan Dagalo (Hemedti) et le Premier ministre égyptien.",
+        "Abdel Fattah al-Burhan (armée) et Mohamed Hamdan Dagalo (Hemedti) (FSR).",
+        "Les forces gouvernementales et un groupe rebelle étranger."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique que \"les tensions entre les deux hommes s’intensifient progressivement... Le 15 avril 2023, les FSR [dirigées par Hemedti] lancent une offensive contre l’armée [dirigée par al-Burhan], déclenchant une guerre ouverte.\"",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
