@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La Corée du Nord augmente sa capacité à fabriquer des armes nucléaires",
+  "date": "16/04/2026",
+  "img": "archives/2026-04-16/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale inquiétude soulevée par l'Agence internationale de l'énergie atomique (AIEA) concernant la Corée du Nord ?",
+      "options": [
+        "Son retrait du Traité de non-prolifération nucléaire en 1980.",
+        "Son augmentation significative de ses capacités à produire des armes nucléaires.",
+        "Le développement de son programme nucléaire civil pour la production d'électricité.",
+        "Le manque de dialogue entre Kim Jong-un et Donald Trump."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que l'AIEA a alerté sur des progrès “très importants” dans la production d’armes nucléaires en Corée du Nord.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de Français ont déclaré renoncer à des produits d'hygiène essentiels en 2024, selon le baromètre de l'association Dons Solidaires ?",
+      "options": [
+        "3 millions",
+        "4 millions",
+        "6,7 millions",
+        "100 000"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Environ 4 millions de Français déclarent renoncer à des produits d’hygiène essentiels... contre 3 millions en 2019'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "De quoi Live Nation, la maison-mère de Ticketmaster, a-t-elle été jugée coupable aux États-Unis ?",
+      "options": [
+        "De fixation illégale des prix avec les salles de concert.",
+        "De monopole illégal dans le secteur de la billetterie.",
+        "D'avoir sous-facturé les clients pour les billets.",
+        "De ne pas avoir protégé les données des clients."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Live Nation, la maison-mère de la plateforme Ticketmaster, a été jugée coupable de monopole illégal dans le secteur de la billetterie aux États-Unis'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quand le Royaume-Uni va-t-il réintégrer le programme Erasmus, selon l'annonce conjointe de l'Union européenne et du gouvernement britannique ?",
+      "options": [
+        "En 2025",
+        "En 2026",
+        "En 2027",
+        "Il ne réintégrera pas Erasmus."
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare : 'Le Royaume-Uni va réintégrer le programme Erasmus en 2027, ont annoncé l’Union européenne et le gouvernement britannique ce mercredi'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels groupes de personnes seront éligibles au remboursement des protections périodiques réutilisables achetées en pharmacie à partir de septembre ?",
+      "options": [
+        "Toutes les femmes, quel que soit leur âge.",
+        "Uniquement les femmes de plus de 26 ans.",
+        "Les moins de 26 ans et les bénéficiaires de la complémentaire santé solidaire.",
+        "Uniquement les bénéficiaires de la complémentaire santé solidaire."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Les protections périodiques réutilisables achetées en pharmacie seront remboursées dès septembre pour les moins de 26 ans, a annoncé le gouvernement ce jeudi. Cette mesure... concerna également les personnes les plus précaires, en l’occurrence les bénéficiaires de la complémentaire santé solidaire'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle action l'armée iranienne a-t-elle menacée de prendre si le blocus des États-Unis sur les ports iraniens se poursuit ?",
+      "options": [
+        "Lancer des attaques militaires contre des navires américains.",
+        "Bloquer le trafic dans le détroit d'Ormuz.",
+        "Bloquer le trafic en mer Rouge.",
+        "Imposer des sanctions sur les importations américaines."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'L'armée iranienne a menacé de bloquer le trafic en mer Rouge si le blocus des États-Unis sur les ports iraniens, en vigueur depuis ce lundi dans le détroit d’Ormuz, se poursuit'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi la proposition de loi de Caroline Yadan visant à renforcer la lutte contre l’antisémitisme a-t-elle été retirée de l'ordre du jour de l'Assemblée nationale ?",
+      "options": [
+        "Elle a été jugée inconstitutionnelle.",
+        "Le gouvernement prévoit de présenter un projet de loi similaire en juin.",
+        "Elle a fait face à une forte opposition de divers partis politiques.",
+        "Caroline Yadan elle-même a décidé de la retirer."
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : 'La proposition de loi... a été retirée... Un projet de loi similaire sera présenté en juin par le gouvernement'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi plus de 130 auteurs prévoient-ils de quitter la maison d'édition Grasset ?",
+      "options": [
+        "Des désaccords financiers concernant les droits d'auteur.",
+        "Un conflit sur la qualité éditoriale des publications.",
+        "Des craintes d'une reprise en main idéologique et d'une atteinte à l'indépendance éditoriale.",
+        "Le licenciement de plusieurs agents littéraires clés."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Ils dénoncent “une atteinte inacceptable à l’indépendance éditoriale” et craignent une reprise en main idéologique de la maison'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon la publicité de Stellantis, quelle a été la tendance des demandes de brevets en France en 2024 par rapport à 2023 ?",
+      "options": [
+        "Une diminution significative, contrairement à la tendance de l'UE.",
+        "Une légère progression, alors que l'ensemble des pays de l'UE reculait.",
+        "Une stagnation, reflétant la performance de l'UE.",
+        "Une augmentation similaire à la tendance générale de l'UE."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : '15 458 demandes ont été formulées en France, soit une progression de + 1,1% par rapport à 2023, alors que l’ensemble des pays de l’UE reculait (-0,4 %)'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quand la Corée du Nord a-t-elle réalisé son premier essai nucléaire, d'après le texte ?",
+      "options": [
+        "Dans les années 1980, peu après la signature du TNP.",
+        "En 2003, lors de son retrait du TNP.",
+        "En 2006, après avoir développé un programme militaire secret.",
+        "En 2011, sous la direction de Kim Jong-un."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'En 2003, la Corée du Nord quitte le traité... En 2006, elle réalise son premier essai nucléaire'.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
