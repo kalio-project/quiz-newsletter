@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La Chine est-elle la grande gagnante de la guerre au Moyen-Orient ?",
+  "date": "17/04/2026",
+  "img": "archives/2026-04-17/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pays a annoncé la plus importante livraison de matériel militaire à l'Ukraine depuis le début du conflit, incluant 120 000 drones ?",
+      "options": [
+        "Les États-Unis",
+        "Le Royaume-Uni",
+        "L'Allemagne",
+        "La France"
+      ],
+      "correct": 1,
+      "explication": "Le Royaume-Uni a annoncé la plus importante livraison de matériel depuis le début du conflit, avec l’envoi de 120 000 drones destinés à l’Ukraine.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel courant majeur de l'océan Atlantique, essentiel à la régulation du climat mondial, pourrait ralentir de 51 % d'ici 2100 et avoir un impact sur le climat en Europe ?",
+      "options": [
+        "Le Gulf Stream",
+        "L'Amoc",
+        "Le Courant des Canaries",
+        "Le Courant de Humboldt"
+      ],
+      "correct": 1,
+      "explication": "L’Amoc, un courant majeur de l’océan Atlantique qui régule le climat mondial, pourrait ralentir de 51 % d’ici 2100, et avoir un impact sur le climat en Europe.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Qui est Hicham Harb et pour quel événement est-il un suspect principal, sa remise à la France étant liée à la reconnaissance de l'État de Palestine ?",
+      "options": [
+        "Un ancien chef d'État palestinien accusé de corruption",
+        "L'un des principaux suspects de l'attentat antisémite de la rue des Rosiers en 1982",
+        "Un militant pour les droits humains emprisonné en Israël",
+        "Un diplomate palestinien impliqué dans des négociations secrètes"
+      ],
+      "correct": 1,
+      "explication": "Le Palestinien Hicham Harb, l’un des principaux suspects de l’attentat antisémite de la rue des Rosiers, qui avait fait 6 morts à Paris en 1982, a été remis ce jeudi à la France par l’Autorité palestinienne. Emmanuel Macron s'est félicité de cette collaboration, rendue possible depuis la reconnaissance de l'État de Palestine par la France.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon la Fondation pour l'enfance, quelle proportion de parents déclare avoir eu recours à des violences physiques envers leurs enfants au moins une fois au cours des 12 derniers mois en France ?",
+      "options": [
+        "Moins de 10 %",
+        "Un quart",
+        "Un tiers",
+        "La moitié"
+      ],
+      "correct": 2,
+      "explication": "Un tiers des parents déclarent avoir eu recours à des violences physiques envers leurs enfants au moins une fois au cours des 12 derniers mois, selon la Fondation pour l’enfance.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Si l'accord de rachat de SFR par Orange, Bouygues et Free aboutit, quelle sera la conséquence sur le marché français des télécoms ?",
+      "options": [
+        "Le nombre d'opérateurs passera de 3 à 4",
+        "Il restera à 4 opérateurs",
+        "Le nombre d'opérateurs passera de 4 à 3",
+        "Le nombre d'opérateurs passera de 5 à 4"
+      ],
+      "correct": 2,
+      "explication": "Si elle aboutit, le marché français des télécoms passerait de 4 à 3 opérateurs.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Qui a écrit et composé 'Dansons', le nouveau morceau dévoilé par Céline Dion ?",
+      "options": [
+        "Angèle",
+        "Jean-Jacques Goldman",
+        "Santa",
+        "Charlotte Cardin"
+      ],
+      "correct": 1,
+      "explication": "Céline Dion a dévoilé ce vendredi 'Dansons', son nouveau morceau écrit et composé par le chanteur français Jean-Jacques Goldman.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon le 'Décryptage', quel rôle clé la Chine aurait-elle joué dans le conflit en Iran et quels avantages pourrait-elle en tirer ?",
+      "options": [
+        "Elle a fourni un soutien militaire majeur à l'Iran, affaiblissant ainsi les États-Unis",
+        "Elle a fait pression sur l'Iran pour accepter un cessez-le-feu, renforçant son image diplomatique et ses liens régionaux",
+        "Elle est restée neutre, mais a secrètement négocié des contrats pétroliers exclusifs avec l'Iran",
+        "Elle a critiqué l'Iran pour le blocus du détroit d'Ormuz, tout en proposant une médiation internationale"
+      ],
+      "correct": 1,
+      "explication": "C’est la Chine qui aurait fait pression, voire convaincu l’Iran d’accepter un cessez-le-feu... Sur le plan diplomatique, le président Xi Jinping apparaît comme un acteur stable et favorable à la paix... Cette situation pourrait donc aussi permettre à la Chine de renforcer ses liens avec plusieurs pays de la région.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelles ont été les premières réactions après l'entrée en vigueur de la trêve entre Israël et le Hezbollah ce jeudi ?",
+      "options": [
+        "Les deux parties ont immédiatement respecté l'accord, saluant la paix retrouvée",
+        "L'armée libanaise a accusé Israël de violations, et le Hezbollah a attaqué des soldats israéliens",
+        "Israël a salué la trêve, mais le Hezbollah a refusé de l'appliquer",
+        "L'ONU a déployé des forces de maintien de la paix sans incident majeur"
+      ],
+      "correct": 1,
+      "explication": "Quelques heures après son déclenchement, l’armée libanaise a accusé Israël de ne pas respecter l’accord, évoquant des violations sur le terrain. De son côté, le Hezbollah a attaqué des soldats israéliens dans le sud-est du Liban.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle décision majeure le dirigeant birman Min Aung Hlaing a-t-il annoncée ce vendredi concernant les condamnations et les prisonniers ?",
+      "options": [
+        "Il a rétabli la peine de mort pour tous les délits graves",
+        "Il a annulé toutes les condamnations à mort et gracié l'ancien président ainsi que 4 300 autres prisonniers",
+        "Il a uniquement gracié l'ancien président sans toucher aux condamnations à mort",
+        "Il a prolongé les peines de tous les prisonniers politiques"
+      ],
+      "correct": 1,
+      "explication": "Toutes les condamnations à mort en Birmanie... ont été annulées ce vendredi par l’actuel dirigeant Min Aung Hlaing... En parallèle, l’ancien président du pays, Win Myint... a été gracié, ainsi que 4 300 autres prisonniers.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel groupe automobile est mentionné comme le premier déposant de brevets en France pour la 3e année consécutive ?",
+      "options": [
+        "Renault",
+        "Volkswagen",
+        "Stellantis",
+        "Toyota"
+      ],
+      "correct": 2,
+      "explication": "L’innovation est un enjeu primordial pour le groupe automobile STELLANTIS France, premier déposant de brevets pour la 3e année consécutive, avec 1 294 brevets déposés en 2025.",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
