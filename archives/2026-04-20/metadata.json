@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Ce qui peut changer pour vous avec la vente de SFR",
+  "date": "20/04/2026",
+  "img": "archives/2026-04-20/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Qui a été désigné candidat du parti Les Républicains pour la présidentielle de 2027 ?",
+      "options": [
+        "Bruno Retailleau",
+        "Éric Ciotti",
+        "Laurent Wauquiez",
+        "Valérie Pécresse"
+      ],
+      "correct": 0,
+      "explication": "Bruno Retailleau a été désigné candidat du parti Les Républicains pour la présidentielle de 2027, sa désignation ayant été validée en ligne par les adhérents.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Où a eu lieu l'incident entre la marine américaine et le cargo iranien “Touska” ?",
+      "options": [
+        "Dans le détroit d'Ormuz",
+        "Dans le golfe Persique",
+        "Dans le golfe d'Oman",
+        "Dans la mer Rouge"
+      ],
+      "correct": 2,
+      "explication": "L'incident s'est produit dans le golfe d’Oman, situé entre l’Iran et Oman, où la marine américaine a ouvert le feu et pris le contrôle du navire.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel opérateur télécom français est en passe d'être vendu et suscite l'intérêt de ses trois concurrents ?",
+      "options": [
+        "Orange",
+        "Free",
+        "Bouygues Telecom",
+        "SFR"
+      ],
+      "correct": 3,
+      "explication": "SFR, l’un des 4 plus grands opérateurs télécom français, devrait bientôt être vendu, et ses 3 concurrents, Orange, Free et Bouygues, souhaitent se partager la mise.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon l'étude de l'association Linkee, quel pourcentage d'étudiants bénéficiaires de l'aide alimentaire vivent avec moins de 100 € par mois après leurs charges fixes ?",
+      "options": [
+        "35%",
+        "50%",
+        "69%",
+        "80%"
+      ],
+      "correct": 2,
+      "explication": "L'étude de Linkee révèle que 69% des étudiants bénéficiaires de l’aide alimentaire vivent avec moins de 100 € par mois après avoir payé leurs charges fixes.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle a été la magnitude du séisme qui s'est produit ce lundi matin dans les eaux du Pacifique, au nord du Japon ?",
+      "options": [
+        "6,5",
+        "7,0",
+        "7,4",
+        "8,1"
+      ],
+      "correct": 2,
+      "explication": "Un séisme de magnitude 7,4 s’est produit ce lundi matin dans les eaux du Pacifique, au nord du Japon, provoquant une alerte au tsunami.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Qui a racheté SFR à Vivendi en 2014, un rachat majoritairement financé par la dette ?",
+      "options": [
+        "Xavier Niel",
+        "Martin Bouygues",
+        "Stéphane Richard",
+        "Patrick Drahi"
+      ],
+      "correct": 3,
+      "explication": "SFR a été racheté par Patrick Drahi via Altice en 2014 pour un montant de 13,5 milliards d’€.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Pour quelle raison Elon Musk était-il convoqué devant la justice française ce lundi ?",
+      "options": [
+        "Pour des accusations de fraude fiscale",
+        "Dans le cadre d'une enquête sur les dérives potentielles de son réseau social X",
+        "Pour une affaire de contrefaçon",
+        "Pour non-respect de la vie privée"
+      ],
+      "correct": 1,
+      "explication": "Elon Musk était convoqué dans le cadre d’une enquête sur les dérives potentielles de son réseau social X.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien d'enfants ont été tués par balles en Louisiane dans la nuit de samedi à dimanche ?",
+      "options": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "explication": "8 enfants âgés de 1 à 14 ans ont été tués par balles en Louisiane dans la nuit de samedi à dimanche.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle était la position de l'ex-président bulgare Roumen Radev, dont la coalition a remporté les législatives, concernant la Russie ?",
+      "options": [
+        "Il prône une rupture des relations diplomatiques",
+        "Il soutient l'embargo économique",
+        "Il prône une reprise du dialogue avec la Russie",
+        "Il est neutre sur la question"
+      ],
+      "correct": 2,
+      "explication": "Roumen Radev, dont la coalition de centre-gauche a remporté les législatives en Bulgarie, prône une reprise du dialogue avec la Russie.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon la Fondation du patrimoine, quel pourcentage des Français considèrent que le patrimoine local est important ?",
+      "options": [
+        "70 %",
+        "80 %",
+        "90 %",
+        "100 %"
+      ],
+      "correct": 2,
+      "explication": "La Fondation du patrimoine indique que 90 % des Français considèrent que le patrimoine local est important pour l’image de leur commune comme pour celle de la France.",
+      "theme": "CULTURE"
+    }
+  ]
+}
