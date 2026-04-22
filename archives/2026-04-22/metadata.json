@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Pourquoi Israël s'intéresse au Somaliland ?",
+  "date": "22/04/2026",
+  "img": "archives/2026-04-22/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pays est devenu le premier à reconnaître officiellement le Somaliland en décembre 2025 ?",
+      "options": [
+        "L'Éthiopie",
+        "Les États-Unis",
+        "Israël",
+        "La Chine"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « En décembre 2025, Israël devient le premier État à reconnaître officiellement le Somaliland. »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi ChatGPT et sa maison mère OpenAI font-ils l'objet d'une enquête criminelle en Floride ?",
+      "options": [
+        "Pour violation de la vie privée des utilisateurs",
+        "Pour une possible implication dans une attaque mortelle",
+        "Pour monopole sur le marché de l'IA",
+        "Pour usage illégal de données personnelles"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : « L’objectif : faire la lumière sur le rôle que pourrait avoir joué l’IA dans une attaque mortelle en avril 2025. »",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle substance dangereuse a été retrouvée dans des petits pots de purée pour bébés de la marque Hipp dans plusieurs pays d’Europe ?",
+      "options": [
+        "Du verre pilé",
+        "De la mort-aux-rats",
+        "Des bactéries E. coli",
+        "Du plomb"
+      ],
+      "correct": 1,
+      "explication": "Le texte dit : « De la mort-aux-rats a été retrouvé dans des petits pots de purée pour bébés de la marque allemande Hipp. »",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle condition l'Iran a-t-il posée pour sa participation aux négociations avec les États-Unis concernant le cessez-le-feu ?",
+      "options": [
+        "La libération de ses prisonniers politiques",
+        "La levée du blocus de ses ports",
+        "La reconnaissance de son programme nucléaire",
+        "Le retrait des troupes américaines de la région"
+      ],
+      "correct": 1,
+      "explication": "Selon le texte : « De son côté, l’Iran [...] conditionne sa participation aux négociations à la levée du blocus de ses ports. »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de soldats français ont été tués dans l'attaque au Liban attribuée par Emmanuel Macron au Hezbollah ?",
+      "options": [
+        "Un",
+        "Deux",
+        "Trois",
+        "Quatre"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : « Le soldat français Anicet Girardin est mort de ses blessures, devenant le 2e soldat français tué dans l’attaque. »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "De quoi sont soupçonnés les trois policiers placés en garde à vue au commissariat de Sarcelles ?",
+      "options": [
+        "De vol de stupéfiants",
+        "D'abus de pouvoir et extorsion",
+        "De violences et de viol",
+        "De falsification de preuves"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « 3 policiers, soupçonnés de violences et de viol au commissariat de Sarcelles [...], ont été placés en garde à vue. »",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Comment a évolué la pollution lumineuse en France entre 2014 et 2022, selon l'étude de Nature ?",
+      "options": [
+        "Elle a augmenté de 16 %",
+        "Elle a diminué de 33 %",
+        "Elle est restée stable",
+        "Elle a augmenté de 5 %"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : « la pollution lumineuse [...] a diminué de 33 % en France entre 2014 et 2022. »",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle compétition sportive majeure la France organisera-t-elle pour la première fois en 2031 ?",
+      "options": [
+        "La Coupe du monde de football",
+        "Les Jeux Olympiques d'hiver",
+        "La Coupe du monde de Basket",
+        "Le Tour de France"
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : « La France organisera la Coupe du monde de Basket en 2031, une 1re dans l’histoire du pays. »",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon la Fondation du patrimoine, quel pourcentage de Français considèrent le patrimoine local important ?",
+      "options": [
+        "70 %",
+        "80 %",
+        "90 %",
+        "60 %"
+      ],
+      "correct": 2,
+      "explication": "La publicité indique : « 90 % des Français considèrent que le patrimoine local est important. »",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel type d'établissement sera créé à Mont-de-Marsan, une première en France ?",
+      "options": [
+        "Un hôpital spécialisé pour les maladies rares",
+        "Un centre de recherche sur l'IA",
+        "Un campus destiné à des jeunes atteints d’autisme",
+        "Une école d'ingénieurs en énergies renouvelables"
+      ],
+      "correct": 2,
+      "explication": "La bonne nouvelle annonce : « Un campus destiné à des jeunes atteints d’autisme va être créé à Mont-de-Marsan, [...] une 1re en France. »",
+      "theme": "SANTÉ"
+    }
+  ]
+}
