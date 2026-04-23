@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La nouvelle IA qui fait peur même à ses créateurs",
+  "date": "23/04/2026",
+  "img": "archives/2026-04-23/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle entreprise d'intelligence artificielle a choisi de ne pas rendre public son nouveau modèle d'IA en raison de sa puissance et des risques associés ?",
+      "options": [
+        "OpenAI",
+        "Google DeepMind",
+        "Anthropic",
+        "Meta AI"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'Anthropic, l'entreprise derrière l'IA Claude, a développé un nouveau modèle d'IA qu'elle a décidé de ne pas rendre public en raison de sa puissance et des risques associés.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel montant de prêt a été définitivement validé par l'Union Européenne en faveur de l'Ukraine ce jeudi ?",
+      "options": [
+        "9 milliards d'€",
+        "90 millions d'€",
+        "90 milliards d'€",
+        "900 millions d'€"
+      ],
+      "correct": 2,
+      "explication": "L'Union Européenne a validé un prêt de 90 milliards d'€ pour l'Ukraine.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle accusation grave Deliveroo et Uber Eats font-elles l'objet d'une plainte ?",
+      "options": [
+        "Concurrence déloyale",
+        "Non-respect du droit du travail",
+        "Traite d'êtres humains",
+        "Évasion fiscale"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que Deliveroo et Uber Eats sont visées par une plainte pour 'traite d'êtres humains' concernant leurs livreurs.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pourquoi un hommage national a-t-il été rendu à Montauban ce jeudi ?",
+      "options": [
+        "Pour un scientifique français disparu au Liban",
+        "Pour un militaire français tué dans une attaque au Liban",
+        "Pour un diplomate français blessé au Liban",
+        "Pour un journaliste français enlevé au Liban"
+      ],
+      "correct": 1,
+      "explication": "L'hommage national a été rendu au militaire français Florian Montorio, tué dans une attaque au Liban.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la cause du décès de la journaliste libanaise Amal Khalil ?",
+      "options": [
+        "Une attaque terroriste",
+        "Une maladie soudaine",
+        "Une frappe israélienne",
+        "Un accident de la route"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'Amal Khalil a été tuée par une frappe israélienne dans le sud du Liban.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon les études mentionnées, comment le réchauffement climatique affecte-t-il la santé des Européens ?",
+      "options": [
+        "Il provoque une augmentation des maladies infectieuses",
+        "Il entraîne une baisse des taux de natalité",
+        "Il est lié à une augmentation des alertes de chaleur extrême et des décès associés",
+        "Il améliore la qualité de l'air dans les villes"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que le réchauffement climatique est lié à une augmentation des alertes de chaleur extrême (qui ont triplé en 35 ans) et que la chaleur a provoqué la mort de 62 000 personnes en Europe en 2024.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel pourcentage de salariés LGBTQIA+ déclare avoir été victime d'au moins une agression sur leur lieu de travail, selon l'enquête de l'IFOP ?",
+      "options": [
+        "8 %",
+        "12 %",
+        "36 %",
+        "Plus d'un tiers"
+      ],
+      "correct": 2,
+      "explication": "L'enquête de l'IFOP révèle que 36 % des salariés LGBTQIA+ ont été la cible d'au moins une agression au travail.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel pays a récemment adopté une loi interdisant les réseaux sociaux aux moins de 15 ans ?",
+      "options": [
+        "Le Royaume-Uni",
+        "La France",
+        "La Turquie",
+        "Les États-Unis"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que la Turquie a adopté une loi qui a pour but d’interdire les réseaux sociaux aux moins de 15 ans.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle nouvelle loi majeure concernant le tabac a été adoptée au Royaume-Uni ?",
+      "options": [
+        "Interdiction totale de fumer dans les lieux publics",
+        "Augmentation des taxes sur le tabac",
+        "Interdiction de la vente de tabac à toute personne née après 2008",
+        "Légalisation du cannabis à usage récréatif"
+      ],
+      "correct": 2,
+      "explication": "Le Royaume-Uni a adopté une loi interdisant la vente de tabac à toute personne née après 2008.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est le nom du nouveau modèle d'IA d'Anthropic qui a été jugé trop puissant et risqué pour être rendu public ?",
+      "options": [
+        "GPT-5",
+        "Bard",
+        "Mythos",
+        "ChatGPT Pro"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que le dernier modèle d'Anthropic, jugé trop puissant et risqué, est baptisé 'Mythos'.",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
