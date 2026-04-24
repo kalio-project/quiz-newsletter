@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 L’Europe fait face à une nouvelle crise",
+  "date": "24/04/2026",
+  "img": "archives/2026-04-24/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'article, combien la guerre en Iran coûterait-elle chaque jour à l'Europe ?",
+      "options": [
+        "100 millions d'€",
+        "250 millions d'€",
+        "500 millions d'€",
+        "1 milliard d'€"
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne que la guerre en Iran coûterait chaque jour 500 millions d'€ à l'Europe.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle personnalité a annoncé la prolongation du cessez-le-feu entre Israël et le Liban ?",
+      "options": [
+        "Le président français Emmanuel Macron",
+        "Le président américain Donald Trump",
+        "Le secrétaire général de l'ONU António Guterres",
+        "Le Premier ministre israélien Benyamin Netanyahou"
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a annoncé ce jeudi la prolongation du cessez-le-feu entre Israël et le Liban.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle ville du sud-ouest de la Russie a été touchée par une pluie noire toxique suite à l'incendie d'une raffinerie ?",
+      "options": [
+        "Moscou",
+        "Saint-Pétersbourg",
+        "Touapsé",
+        "Sotchi"
+      ],
+      "correct": 2,
+      "explication": "La ville de Touapsé, en Russie, a subi une pluie noire toxique en raison d'un incendie de raffinerie.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon l'ONG Global Footprint Network, qu'est-ce que le 'jour du dépassement' pour la France ?",
+      "options": [
+        "Le jour où la France a atteint ses objectifs de réduction des émissions de CO2 pour l'année",
+        "Le jour à partir duquel la France a consommé, si toute l'humanité vivait comme les Français, l'ensemble des ressources renouvelables de la planète en un an",
+        "Le jour où la France a dépassé sa production d'énergies renouvelables par rapport aux énergies fossiles",
+        "Le jour où la France a atteint le seuil maximal de production de déchets par habitant"
+      ],
+      "correct": 1,
+      "explication": "Le 'jour du dépassement' signifie qu'à partir de cette date, si toute l’humanité vivait comme les Français, elle aurait consommé l’ensemble des ressources que la planète est capable de renouveler en un an.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de prisonniers de guerre la Russie et l'Ukraine ont-elles échangé lors du dernier échange mentionné dans l'article ?",
+      "options": [
+        "175 prisonniers de chaque camp",
+        "193 prisonniers de chaque camp",
+        "348 prisonniers au total",
+        "386 prisonniers au total"
+      ],
+      "correct": 1,
+      "explication": "La Russie et l'Ukraine ont annoncé avoir échangé 193 prisonniers de guerre de chaque camp.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le ministère de la Santé, quel pourcentage de la population française a consommé au moins une fois une eau non conforme aux normes sanitaires en 2024 ?",
+      "options": [
+        "10 %",
+        "18 %",
+        "28 %",
+        "35 %"
+      ],
+      "correct": 2,
+      "explication": "En 2024, 28 % de la population française a consommé au moins une fois une eau non conforme aux normes sanitaires.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle entreprise technologique va supprimer 8 000 postes dans le monde, en partie à cause du rôle central de l'IA ?",
+      "options": [
+        "Google",
+        "Apple",
+        "Meta",
+        "Microsoft"
+      ],
+      "correct": 2,
+      "explication": "Meta, la maison mère de Facebook et Instagram, va supprimer 8 000 postes, l'IA jouant un rôle central dans cette stratégie.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est le motif de la poursuite judiciaire contre le soldat américain qui a gagné plus de 400 000 $ sur un site de paris sur l'actualité ?",
+      "options": [
+        "Fraude fiscale",
+        "Jeu illégal en service",
+        "Utilisation d'informations confidentielles",
+        "Blanchiment d'argent"
+      ],
+      "correct": 2,
+      "explication": "Il est accusé d'avoir utilisé des informations confidentielles pour ses paris.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon 60 Millions de consommateurs, quel métal cancérogène a été détecté dans les flocons d'avoine testés ?",
+      "options": [
+        "Le plomb",
+        "Le mercure",
+        "Le cadmium",
+        "L'aluminium"
+      ],
+      "correct": 2,
+      "explication": "Les flocons d’avoine sont contaminés au cadmium, un métal cancérogène, selon 60 Millions de consommateurs.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel ministre français s'est dit favorable à un début des cours à 9h au collège et au lycée pour respecter le sommeil des élèves ?",
+      "options": [
+        "Le ministre de la Santé",
+        "Le ministre de l'Éducation nationale",
+        "Le ministre de l'Intérieur",
+        "Le ministre des Sports"
+      ],
+      "correct": 1,
+      "explication": "Le ministre de l'Éducation nationale, Édouard Geffray, s’est dit favorable à un début des cours à 9h.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
