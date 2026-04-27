@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Nouvelle attaque contre Donald Trump",
+  "date": "27/04/2026",
+  "img": "archives/2026-04-27/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Lors de la tentative d'attaque visant Donald Trump ce week-end, quel était le principal événement où se trouvait l'ancien président américain ?",
+      "options": [
+        "Un meeting de campagne",
+        "Le dîner des correspondants de la Maison-Blanche",
+        "Une conférence de presse",
+        "Un gala de charité"
+      ],
+      "correct": 1,
+      "explication": "La tentative d'assassinat s'est déroulée lors du traditionnel dîner des correspondants de la Maison-Blanche à Washington DC, où Donald Trump devait prononcer un discours.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel groupe islamiste est désigné comme l'auteur des attaques coordonnées qui ont affaibli le pouvoir en place au Mali ?",
+      "options": [
+        "Boko Haram",
+        "Daech",
+        "Le GSIM",
+        "Les Talibans"
+      ],
+      "correct": 2,
+      "explication": "Les attaques au Mali ont été menées par le GSIM, un groupe islamiste affilié à Al-Qaïda, affaiblissant le pouvoir en place et provoquant la mort du ministre de la Défense.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la raison principale du procès intenté par Elon Musk contre Sam Altman et OpenAI ?",
+      "options": [
+        "Des accusations de plagiat de code source",
+        "Le non-respect de la mission non lucrative initiale d'OpenAI",
+        "Un désaccord sur la valorisation boursière de l'entreprise",
+        "Des révélations sur des pratiques de collecte de données illégales"
+      ],
+      "correct": 1,
+      "explication": "Elon Musk accuse Sam Altman d'avoir détourné OpenAI de sa mission initiale de structure à but non lucratif dédiée au progrès scientifique.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon le rapport de l’Institut international de recherche sur la paix de Stockholm, quel montant les dépenses militaires mondiales ont-elles atteint en 2025 ?",
+      "options": [
+        "1 500 milliards de $",
+        "2 000 milliards de $",
+        "2 900 milliards de $",
+        "3 500 milliards de $"
+      ],
+      "correct": 2,
+      "explication": "Les dépenses militaires mondiales ont atteint 2 900 milliards de $ en 2025, marquant la 11e année consécutive de hausse.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la principale raison du blocage de plusieurs prisons en France par les surveillants pénitentiaires ce lundi ?",
+      "options": [
+        "La contestation d'une réforme des retraites",
+        "Le refus de nouvelles directives de sécurité",
+        "La surpopulation carcérale et le manque d’effectifs",
+        "Une revendication salariale"
+      ],
+      "correct": 2,
+      "explication": "Les surveillants pénitentiaires réclament des mesures d’urgence face à la surpopulation carcérale (137 % d'occupation au 1er mars) et au manque d’effectifs.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pour quelle catégorie de produits le chargeur universel USB-C est-il devenu obligatoire en France depuis dimanche, sous certaines conditions ?",
+      "options": [
+        "Les smartphones et tablettes uniquement",
+        "Les consoles de jeux portables",
+        "Les nouveaux ordinateurs portables",
+        "Les montres connectées"
+      ],
+      "correct": 2,
+      "explication": "Le chargeur universel USB-C est obligatoire pour tous les nouveaux ordinateurs portables vendus en France depuis dimanche, excluant les PC de plus de 100 Watts. La règle s'appliquait déjà à d'autres appareils depuis 2024.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quels sont les deux acteurs s'accusant mutuellement de violer le cessez-le-feu au Liban, entraînant un lourd bilan ce dimanche ?",
+      "options": [
+        "L'Iran et l'Arabie Saoudite",
+        "Israël et le Hezbollah",
+        "La Syrie et la Turquie",
+        "L'Égypte et le Hamas"
+      ],
+      "correct": 1,
+      "explication": "Israël et le Hezbollah, un groupe islamiste libanais pro-iranien, s’accusent mutuellement de violer le cessez-le-feu au Liban, avec 14 personnes tuées par l’armée israélienne ce dimanche.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel parti a remporté la majorité des sièges lors des élections municipales organisées samedi en Cisjordanie et dans une partie de la bande de Gaza ?",
+      "options": [
+        "Le Hamas",
+        "Le Fatah",
+        "Le Jihad Islamique",
+        "Le Front Populaire de Libération de la Palestine"
+      ],
+      "correct": 1,
+      "explication": "Le Fatah, parti du président de l’Autorité palestinienne Mahmoud Abbas, a remporté la majorité des sièges lors des élections municipales, les premières depuis octobre 2023.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels sont les deux athlètes devenus les premiers hommes à courir un marathon en moins de 2 heures ce dimanche à Londres ?",
+      "options": [
+        "Eliud Kipchoge et Kenenisa Bekele",
+        "Mo Farah et Haile Gebrselassie",
+        "Sabastian Sawe et Yomif Kejelcha",
+        "Kelvin Kiptum et Brigid Kosgei"
+      ],
+      "correct": 2,
+      "explication": "Le Kényan Sabastian Sawe (1h59m30s) et l’Éthiopien Yomif Kejelcha (1h59m41s) sont devenus les 2 premiers hommes à courir un marathon en moins de 2 heures, ce dimanche à Londres.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon les informations disponibles concernant l'attaque contre Donald Trump, que sait-on du profil du présumé tireur, Cole Tomas Allen ?",
+      "options": [
+        "Il était un ancien membre des services secrets.",
+        "Il était un journaliste accrédité pour l'événement.",
+        "Il logeait dans l'hôtel où se déroulait l'événement et était armé de plusieurs armes.",
+        "Il était un simple manifestant sans armes."
+      ],
+      "correct": 2,
+      "explication": "Le suspect, Cole Tomas Allen, 31 ans, originaire de Californie, logeait dans l'hôtel où se déroulait l'événement et était armé d’un fusil de chasse, d’un pistolet et de plusieurs couteaux.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
