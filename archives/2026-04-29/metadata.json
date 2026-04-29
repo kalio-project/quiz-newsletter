@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le Japon rompt avec son pacifisme d'après-guerre",
+  "date": "29/04/2026",
+  "img": "archives/2026-04-29/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale raison pour laquelle le Japon a décidé d'autoriser l'exportation d'armes létales pour la première fois en 50 ans ?",
+      "options": [
+        "Pour relancer son économie.",
+        "Face aux tensions croissantes en Asie et pour renforcer ses alliances.",
+        "Sur demande des États-Unis.",
+        "Pour participer activement à des conflits mondiaux."
+      ],
+      "correct": 1,
+      "explication": "Le Japon rompt avec sa doctrine pacifiste d'après-guerre pour faire face à un environnement sécuritaire plus instable, notamment avec la Chine et la Corée du Nord, et pour consolider ses alliances.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi la France a-t-elle recommandé à ses ressortissants de quitter le Mali ?",
+      "options": [
+        "En raison d'élections présidentielles imminentes.",
+        "Après des attaques menées par le groupe islamiste GSIM.",
+        "Pour des raisons économiques.",
+        "À cause d'une catastrophe naturelle."
+      ],
+      "correct": 1,
+      "explication": "La France a recommandé le départ de ses ressortissants suite aux attaques du groupe islamiste GSIM, affilié à Al-Qaïda, et à une situation sécuritaire jugée 'particulièrement volatile'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le rapport de Copernicus, à quelle vitesse l'Europe se réchauffe-t-elle par rapport à la moyenne mondiale ?",
+      "options": [
+        "Au même rythme.",
+        "1,5 fois plus vite.",
+        "2 fois plus vite.",
+        "3 fois plus vite."
+      ],
+      "correct": 2,
+      "explication": "Le rapport de l'observatoire européen pour le climat, Copernicus, indique que l'Europe se réchauffe deux fois plus rapidement que la moyenne mondiale.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel a été le bénéfice net de TotalEnergies au 1er trimestre 2026 et quelle en est la cause principale mentionnée ?",
+      "options": [
+        "3,5 milliards de $, dû à une baisse de la demande.",
+        "5,8 milliards de $, dû au conflit au Moyen-Orient.",
+        "7,2 milliards de $, dû à de nouvelles découvertes de gisements.",
+        "4,1 milliards de $, dû à des investissements dans les énergies renouvelables."
+      ],
+      "correct": 1,
+      "explication": "TotalEnergies a enregistré un bénéfice net de 5,8 milliards de dollars au premier trimestre 2026, principalement en raison du conflit au Moyen-Orient qui perturbe les exportations de pétrole et gonfle les prix de l'énergie.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon une étude de l'Observatoire français des drogues et tendances addictives, quel est le pourcentage de lycéens ayant déjà testé la cigarette électronique en 2024 ?",
+      "options": [
+        "Moins d'un quart (25%).",
+        "Près d'un lycéen sur deux (50%).",
+        "Environ un tiers (33%).",
+        "Moins de 10%."
+      ],
+      "correct": 1,
+      "explication": "L'étude révèle que 'près d’un lycéen sur 2' (soit environ 50%) a déjà essayé la cigarette électronique en 2024.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle proportion des produits Temu, Shein et AliExpress testés par la DGCCRF ont été jugés \"non-conformes\" ?",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "correct": 2,
+      "explication": "Selon la DGCCRF, 75% des 650 produits testés de Temu, Shein et AliExpress ont été jugés 'non-conformes', et 46% sont même considérés comme 'dangereux'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est l'année où le Japon a adopté sa Constitution pacifiste après la Seconde Guerre mondiale ?",
+      "options": [
+        "1945",
+        "1947",
+        "1952",
+        "1976"
+      ],
+      "correct": 1,
+      "explication": "Le Japon a adopté sa Constitution pacifiste en 1947, largement influencée par les États-Unis après les bombardements atomiques et son occupation.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle affirmation concernant les conséquences du réchauffement climatique en Europe n'est PAS mentionnée dans le texte ?",
+      "options": [
+        "La surface recouverte par la neige a été la 3e plus faible jamais mesurée en 2025.",
+        "Le Groenland a perdu près de 139 gigatonnes de glace en 2025.",
+        "La région océanique européenne a enregistré une température de surface de la mer record.",
+        "Une augmentation significative des ouragans en Méditerranée."
+      ],
+      "correct": 3,
+      "explication": "Le texte mentionne la réduction de la neige, la perte de glace au Groenland et la température record de la surface de la mer, mais ne parle pas d'une augmentation significative des ouragans en Méditerranée.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Comment la police britannique a-t-elle qualifié l'attaque au couteau survenue dans le quartier de Golders Green à Londres ?",
+      "options": [
+        "Un acte de violence domestique.",
+        "Un incident isolé sans motif connu.",
+        "Une attaque considérée comme \"terroriste\".",
+        "Une dispute de voisinage qui a dégénéré."
+      ],
+      "correct": 2,
+      "explication": "La police britannique a qualifié l'attaque au couteau survenue dans le quartier de Golders Green, qui abrite une importante communauté juive, d'acte 'terroriste'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Que reproche Volodymyr Zelensky à Israël concernant le conflit ukrainien ?",
+      "options": [
+        "D'avoir refusé de fournir des armes à l'Ukraine.",
+        "D'avoir laissé entrer plusieurs navires chargés de céréales volées par la Russie dans ses ports.",
+        "De ne pas avoir condamné l'invasion russe de l'Ukraine.",
+        "D'avoir fourni de l'aide humanitaire à la Russie."
+      ],
+      "correct": 1,
+      "explication": "Volodymyr Zelensky a accusé Israël d'avoir permis à des navires transportant des céréales volées par la Russie d'accéder à ses ports, une accusation qu'Israël a niée en affirmant que l'Ukraine n'avait 'fourni aucune preuve'.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
