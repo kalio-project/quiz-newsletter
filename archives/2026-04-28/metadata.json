@@ -1,0 +1,127 @@
+{
+  "titre": "🚨La Corée du Nord et la Russie inquiètent l’Ukraine",
+  "date": "28/04/2026",
+  "img": "archives/2026-04-28/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel type de soutien militaire la Corée du Nord fournit-elle à la Russie selon l'article ?",
+      "options": [
+        "Des armes chimiques et biologiques",
+        "Des missiles, munitions et obus",
+        "Des technologies de cryptage avancées",
+        "Des navires de guerre et sous-marins"
+      ],
+      "correct": 1,
+      "explication": "L'article indique que la Russie utilise des missiles fournis par la Corée du Nord, en plus d’importantes quantités de munitions et d’obus.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la première étape proposée par l'Iran pour mettre fin au conflit avec les États-Unis ?",
+      "options": [
+        "La signature immédiate d'un traité de paix",
+        "La réouverture du détroit d'Ormuz et la fin du blocus américain",
+        "Des négociations directes sur le programme nucléaire iranien",
+        "L'échange de prisonniers de guerre"
+      ],
+      "correct": 1,
+      "explication": "L'Iran a proposé de rouvrir le détroit d’Ormuz et que les États-Unis mettent fin à leur blocus sur les ports iraniens, avant d’engager des négociations sur le programme nucléaire.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes meurent chaque année de problèmes de santé liés aux risques psychosociaux au travail selon une agence de l'ONU ?",
+      "options": [
+        "Moins de 100 000",
+        "Environ 840 000",
+        "Plus de 1,5 million",
+        "Près de 2 millions"
+      ],
+      "correct": 1,
+      "explication": "Plus de 840 000 personnes meurent chaque année de problèmes de santé liés aux risques psychosociaux au travail, selon une agence de l’ONU.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Sous quel nouveau nom le site internet Coco, fermé en 2024, a-t-il rouvert, déclenchant une enquête judiciaire ?",
+      "options": [
+        "AmisEnfants.com",
+        "Cocoland",
+        "SafeChat.org",
+        "ConnectKids.net"
+      ],
+      "correct": 1,
+      "explication": "Une enquête a été ouverte après la réapparition du site internet Coco, fermé en 2024 et récemment rouvert sous le nom Cocoland.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel pourcentage des Français envisagent de passer exclusivement leurs vacances en France cet été, selon le baromètre Europ Assistance / Ipsos ?",
+      "options": [
+        "36 %",
+        "43 %",
+        "51 %",
+        "76 %"
+      ],
+      "correct": 2,
+      "explication": "51 % des Français envisagent de passer exclusivement leurs vacances en France, contre 36 % l’an dernier.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Que cherche à protéger Taylor Swift de l'IA en déposant sa voix comme marque ?",
+      "options": [
+        "Ses paroles de chansons",
+        "Sa voix",
+        "Ses chorégraphies",
+        "Ses clips vidéo"
+      ],
+      "correct": 1,
+      "explication": "Taylor Swift a engagé des démarches pour faire de sa voix une marque déposée, l’objectif étant de la protéger de l’IA.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Qui la France et l'ONU ont-elles attribué l'embuscade au Liban qui a coûté la vie aux soldats français ?",
+      "options": [
+        "L'État Islamique",
+        "Le Hezbollah",
+        "L'armée libanaise",
+        "Un groupe rebelle syrien"
+      ],
+      "correct": 1,
+      "explication": "L'attaque, qui a causé la mort de soldats français au Liban, est attribuée par la France et l’ONU au Hezbollah.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel groupe a revendiqué l'attaque meurtrière dans l'État d'Adamawa au Nigeria, malgré les accusations du gouverneur ?",
+      "options": [
+        "Boko-Haram",
+        "Al-Qaïda",
+        "L'État Islamique d’Afrique de l’Ouest",
+        "Les 'bandits' locaux"
+      ],
+      "correct": 2,
+      "explication": "Le gouverneur a accusé Boko-Haram, mais l’État Islamique d’Afrique de l’Ouest a revendiqué l’attaque.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quand la coopération entre la Corée du Nord et la Russie a-t-elle été officialisée, selon l'article ?",
+      "options": [
+        "Février 2022",
+        "Été 2024",
+        "Avril 2025",
+        "Décembre 2023"
+      ],
+      "correct": 2,
+      "explication": "Longtemps implicite, la Corée du Nord et la Russie ont finalement officialisé leur partenariat en avril 2025.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle fondation polonaise, luttant contre le cancer, a bénéficié des 60 millions d'euros récoltés par le streamer 'Latwogang' ?",
+      "options": [
+        "Médecins Sans Frontières",
+        "Cancer Fighters",
+        "La Croix-Rouge",
+        "UNICEF"
+      ],
+      "correct": 1,
+      "explication": "La somme récoltée par 'Latwogang' est destinée à Cancer Fighters, une fondation polonaise qui lutte contre le cancer chez l’enfant et l’adulte.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
