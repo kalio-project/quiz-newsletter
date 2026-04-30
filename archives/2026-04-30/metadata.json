@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Poutine veut couper la Russie du reste du monde",
+  "date": "30/04/2026",
+  "img": "archives/2026-04-30/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon le gouvernement russe, quelle est la raison principale des coupures d'Internet mobile dans le pays ?",
+      "options": [
+        "Pour des raisons économiques et de réduction des coûts.",
+        "Pour compliquer le guidage de drones ukrainiens et pour la sécurité nationale.",
+        "Pour mettre en place un nouveau système de communication national.",
+        "Pour limiter la diffusion d'informations fausses sur la guerre."
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement russe reconnaît être à l’origine de ces coupures, invoquant des raisons de sécurité. Selon les autorités, cela vise à compliquer le guidage de drones ukrainiens et serait “conforme à la loi”.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel a été le prix record du baril de Brent atteint après l'évocation d'une prolongation du blocus iranien par Donald Trump ?",
+      "options": [
+        "72 $",
+        "100 $",
+        "126 $",
+        "150 $"
+      ],
+      "correct": 2,
+      "explication": "le prix du baril de Brent, une référence pour le pétrole international, a atteint les 126 $ dans la nuit de mercredi à jeudi, un record depuis le 7 mars 2022.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel phénomène est identifié comme la cause principale de la vague de chaleur exceptionnelle en Inde ?",
+      "options": [
+        "Le dérèglement du courant jet.",
+        "La présence d'un 'dôme de chaleur'.",
+        "Une forte activité solaire.",
+        "Des vents chauds du désert."
+      ],
+      "correct": 1,
+      "explication": "En cause : la présence d’un “dôme de chaleur”, un anticyclone statique qui agit comme un couvercle et empêche l’air chaud de se disperser, selon le Service météorologique indien.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Environ combien de militants à bord d’une flottille en direction de Gaza ont été arrêtés par l’armée israélienne ce jeudi ?",
+      "options": [
+        "50",
+        "100",
+        "200",
+        "500"
+      ],
+      "correct": 2,
+      "explication": "Environ 200 militants à bord d’une flottille en direction de Gaza ont été arrêtés par l’armée israélienne ce jeudi.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon Reporters sans frontières, quel pourcentage de la population mondiale vit dans un pays où la presse est réellement libre ?",
+      "options": [
+        "Moins de 1 %",
+        "Environ 10 %",
+        "Près de 25 %",
+        "Plus de 50 %"
+      ],
+      "correct": 0,
+      "explication": "Moins de 1 % de la population mondiale vit dans un pays où la presse est réellement libre, selon l’ONG.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de victimes, âgées de 3 à 9 ans, ont été identifiées dans l'affaire de viols et agressions sexuelles sur mineurs dans le Rhône ?",
+      "options": [
+        "11",
+        "20",
+        "34",
+        "40"
+      ],
+      "correct": 2,
+      "explication": "Un homme de 40 ans a été mis en examen dans le Rhône pour viols et agressions sexuelles sur mineurs, après l’identification de 34 victimes âgées de 3 à 9 ans.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Qui a été placé en garde à vue, soupçonné d'avoir participé à la fuite de données de l'ANTS ?",
+      "options": [
+        "Un employé de l'ANTS",
+        "Un groupe de hackers internationaux",
+        "Un mineur de 15 ans",
+        "Un ancien prestataire de service"
+      ],
+      "correct": 2,
+      "explication": "Un mineur de 15 ans, soupçonné d’avoir participé à la fuite de données de l’ANTS, qui gère notamment les demandes de passeports en France, a été placé en garde à vue ce samedi.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est le 4e département français à appliquer la suspension du permis de conduire pour usage du téléphone au volant à partir du 1er mai ?",
+      "options": [
+        "Le Pas-de-Calais",
+        "Le Lot-et-Garonne",
+        "Les Landes",
+        "La Charente-Maritime"
+      ],
+      "correct": 3,
+      "explication": "Dès le 1er mai, la Charente-Maritime deviendra le 4e département à appliquer la suspension du permis de conduire pour usage du téléphone au volant.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est l'objectif du chewing-gum mis au point par des chercheurs américains ?",
+      "options": [
+        "Réduire les risques de caries dentaires.",
+        "Combattre certains microbes aggravant les cancers de la tête et du cou (ORL).",
+        "Améliorer la digestion.",
+        "Rafraîchir l'haleine après les repas."
+      ],
+      "correct": 1,
+      "explication": "Un chewing-gum capable de combattre certains microbes aggravant les cancers de la tête et du cou (ORL) a été mis au point par des chercheurs américains.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon l'information pratique, quels commerces peuvent ouvrir le 1er mai cette année ?",
+      "options": [
+        "Uniquement les pharmacies de garde.",
+        "Les supermarchés et grands magasins.",
+        "Les boulangeries-pâtisseries et fleuristes.",
+        "Tous les commerces de détail."
+      ],
+      "correct": 2,
+      "explication": "Les boulangeries-pâtisseries et fleuristes peuvent ouvrir cette année.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
