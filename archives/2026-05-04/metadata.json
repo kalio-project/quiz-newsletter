@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Donald Trump va-t-il enfin réussir à rouvrir le détroit d’Ormuz ?",
+  "date": "04/05/2026",
+  "img": "archives/2026-05-04/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pays Donald Trump a-t-il affirmé que les États-Unis allaient 'guider' dès ce lundi pour les navires bloqués ?",
+      "options": [
+        "L'Égypte",
+        "L'Iran (via le détroit d'Ormuz)",
+        "La Syrie",
+        "La Libye"
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a affirmé que les États-Unis allaient 'guider' les navires bloqués dans le détroit d’Ormuz, contrôlé en grande partie par l'Iran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel principe est au cœur de la résolution adoptée par le Parlement européen concernant la définition du viol ?",
+      "options": [
+        "Le principe de la 'défense physique obligatoire'",
+        "Le principe du 'seul un oui est un oui'",
+        "Le principe de la 'présomption de consentement'",
+        "Le principe de la 'preuve de contrainte verbale'"
+      ],
+      "correct": 1,
+      "explication": "La résolution du Parlement européen repose sur le principe du 'seul un oui est un oui' pour définir le viol.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la cause suspectée des décès de trois personnes à bord d’un bateau de croisière reliant Ushuaïa au Cap-Vert ?",
+      "options": [
+        "Une intoxication alimentaire massive",
+        "Une épidémie de grippe saisonnière",
+        "Une infection au hantavirus",
+        "Des complications cardiaques liées à l'âge"
+      ],
+      "correct": 2,
+      "explication": "Trois personnes sont décédées à bord d’un bateau de croisière, le navire pourrait être un foyer d’infection à hantavirus, selon l'OMS.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle personnalité politique a officialisé sa candidature à l’élection présidentielle de 2027 ce dimanche au JT de 20h de TF1 ?",
+      "options": [
+        "Édouard Philippe",
+        "Bruno Retailleau",
+        "Jean-Luc Mélenchon",
+        "Nathalie Arthaud"
+      ],
+      "correct": 2,
+      "explication": "Jean-Luc Mélenchon, fondateur de 'La France insoumise', a officialisé sa candidature à l’élection présidentielle de 2027.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle déclaration controversée Donald Trump a-t-il faite concernant Cuba ce week-end ?",
+      "options": [
+        "Il y construirait un nouveau complexe hôtelier de luxe.",
+        "Il y lancerait une nouvelle initiative diplomatique.",
+        "Il prendrait le contrôle de l’île 'presque immédiatement' après avoir 'fini le travail' en Iran.",
+        "Il lèverait l'embargo économique sur l'île."
+      ],
+      "correct": 2,
+      "explication": "Donald Trump a affirmé ce week-end qu’il prendrait le contrôle de l’île de Cuba 'presque immédiatement' après avoir 'fini le travail' en Iran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes a rassemblé la soirée techno illégale organisée ce week-end près de Bourges ?",
+      "options": [
+        "Près de 10 000 personnes",
+        "Près de 20 000 personnes",
+        "Près de 40 000 personnes",
+        "Près de 60 000 personnes"
+      ],
+      "correct": 2,
+      "explication": "La soirée techno illégale organisée ce week-end près de Bourges a rassemblé près de 40 000 personnes.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelles sont les principales revendications des syndicats des salariés des laboratoires de biologie en grève ?",
+      "options": [
+        "Une réduction du temps de travail et plus de télétravail.",
+        "Une revalorisation salariale et une amélioration des conditions de travail.",
+        "L'interdiction des tests automatisés et le recrutement de plus de biologistes.",
+        "La nationalisation de tous les laboratoires de biologie."
+      ],
+      "correct": 1,
+      "explication": "Les syndicats des salariés des laboratoires de biologie réclament une revalorisation salariale ainsi qu’une amélioration des conditions de travail, dénonçant également des charges de travail en hausse, des suppressions de postes et des mobilités imposées.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Que dénoncent les dirigeants de l’OMS, de la Croix-Rouge et de Médecins Sans Frontières ?",
+      "options": [
+        "L'augmentation des budgets militaires des États.",
+        "L’échec de la communauté internationale à protéger les services de santé pendant les conflits.",
+        "La lenteur des processus de vaccination mondiaux.",
+        "Le manque de personnel médical qualifié dans les pays développés."
+      ],
+      "correct": 1,
+      "explication": "Ils ont dénoncé 'l’échec' de la communauté internationale à protéger les services de santé pendant les conflits.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel type d'accusations Charles Alloncle, rapporteur de la commission d’enquête sur l’audiovisuel public, est-il visé par une plainte ?",
+      "options": [
+        "Diffamation publique et injures.",
+        "Fraude fiscale et évasion de capitaux.",
+        "Trafic d’influence et prise illégale d’intérêts.",
+        "Harcèlement moral et discrimination."
+      ],
+      "correct": 2,
+      "explication": "Charles Alloncle est visé par une plainte de l’association « AC !! Anti-Corruption » pour trafic d’influence et prise illégale d’intérêts.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Depuis combien de temps l'Iran bloque-t-il en grande partie le détroit d’Ormuz, selon le décryptage ?",
+      "options": [
+        "Environ 2 semaines",
+        "Près d'1 mois",
+        "Plus de 2 mois",
+        "Plus de 6 mois"
+      ],
+      "correct": 2,
+      "explication": "Le décryptage indique que 'Depuis plus de 2 mois, l’Iran bloque en grande partie le détroit d’Ormuz'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
