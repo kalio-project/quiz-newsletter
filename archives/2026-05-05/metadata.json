@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Ce qu’il faut savoir sur les hantavirus",
+  "date": "05/05/2026",
+  "img": "archives/2026-05-05/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale raison pour laquelle un navire de croisière est bloqué au large de l'Afrique de l'Ouest ?",
+      "options": [
+        "Un problème mécanique empêchant le navire de naviguer.",
+        "Un conflit diplomatique avec les autorités locales.",
+        "Une potentielle épidémie de hantavirus à bord.",
+        "Une pénurie de carburant, immobilisant le navire."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que le navire est bloqué car les autorités locales ont refusé son entrée pour des raisons de santé publique, évoquant une potentielle épidémie de hantavirus à bord.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon le ministère de l'Intérieur, quelle a été l'évolution des outrages sexistes et sexuels en France en 2025 ?",
+      "options": [
+        "Une diminution de 17 % des infractions relevées.",
+        "Une augmentation de 17 % des infractions relevées.",
+        "Un maintien stable du nombre d'infractions.",
+        "Le ministère n'a pas communiqué sur ces chiffres."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que 'Les outrages sexistes et sexuels ont augmenté de 17 % en France en 2025, avec 3 900 infractions relevées, selon le ministère de l'Intérieur'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pourquoi Yaël Braun-Pivet, la présidente de l'Assemblée nationale, a-t-elle saisi l'Arcom ?",
+      "options": [
+        "Pour des propos jugés diffamatoires à son encontre sur les réseaux sociaux.",
+        "Après la diffusion d'une fausse Une de magazine générée par intelligence artificielle la représentant sur CNews.",
+        "Suite à des menaces reçues après une intervention à l'Assemblée nationale.",
+        "Pour dénoncer une ingérence étrangère dans les médias français."
+      ],
+      "correct": 1,
+      "explication": "Elle a saisi l'Arcom 'après la diffusion d’une fausse Une générée par intelligence artificielle la représentant' dans l'émission 'L’heure des pros', sur CNews.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel type d'accord la France et l'Arménie s'apprêtent-elles à signer ?",
+      "options": [
+        "Un accord commercial sur les produits agricoles.",
+        "Un partenariat culturel pour des échanges artistiques.",
+        "Un accord de partenariat stratégique incluant des commandes militaires et des formations.",
+        "Un traité de libre-échange pour faciliter les importations et exportations."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'La France et l’Arménie, un pays situé en Asie centrale, vont signer un accord de partenariat stratégique. Il concerne la commande de trois radars français par l’Arménie et la formation de leurs soldats par la France'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Comment les hantavirus se transmettent-ils habituellement ?",
+      "options": [
+        "Exclusivement par contact direct entre humains.",
+        "Principalement via des rongeurs infectés (excréments, surfaces contaminées).",
+        "Par la consommation d'eau contaminée.",
+        "Uniquement par des piqûres d'insectes."
+      ],
+      "correct": 1,
+      "explication": "Le texte explique que 'Les hantavirus se transmettent habituellement via des rongeurs infectés (rats, souris), par inhalation de particules issues de leurs excréments ou par contact avec des surfaces contaminées'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est l'objectif du nouvel espace inauguré au Musée d'Orsay ?",
+      "options": [
+        "Présenter les œuvres des artistes contemporains français.",
+        "Exposer des reproductions d'œuvres célèbres à des fins pédagogiques.",
+        "Dédier un espace aux œuvres spoliées par les nazis et récupérées après-guerre.",
+        "Mettre en avant l'art moderne du 20ème siècle."
+      ],
+      "correct": 2,
+      "explication": "Le Musée d'Orsay 'a inauguré un espace dédié aux œuvres spoliées par les nazis, retrouvées à la fin de la Seconde Guerre mondiale en Allemagne'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle a été la réaction de l'Iran suite aux frappes de drones contre un site pétrolier aux Émirats arabes unis ?",
+      "options": [
+        "L'Iran a revendiqué l'attaque comme une action de représailles directe.",
+        "L'Iran a accusé les Émirats de provocation et promis d'autres frappes.",
+        "L'Iran a expliqué qu'il n'avait 'aucun projet de cibler les Émirats' et a imputé l'attaque à 'l’aventurisme militaire américain'.",
+        "L'Iran a demandé une enquête internationale pour identifier les responsables."
+      ],
+      "correct": 2,
+      "explication": "Le texte rapporte que 'L’Iran a réagi, expliquant qu’il n’avait 'aucun projet de cibler les Émirats' et que cette attaque est due à 'l’aventurisme militaire américain''.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi le journaliste Christophe Gleizes a-t-il renoncé à son pourvoi en cassation en Algérie ?",
+      "options": [
+        "Il a été acquitté et n'a plus besoin d'un nouveau procès.",
+        "Pour rendre possible une grâce présidentielle du président Abdelmadjid Tebboune.",
+        "Suite à la modification des charges par la justice algérienne.",
+        "En raison de l'impossibilité de réunir de nouvelles preuves."
+      ],
+      "correct": 1,
+      "explication": "Le texte stipule qu'il 'a renoncé à son pourvoi en cassation, donc à un nouveau procès. Il rend ainsi possible une grâce présidentielle du président Abdelmadjid Tebboune'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Lors de l'accident de plongée à Angers, quels étaient l'âge des deux militaires décédés ?",
+      "options": [
+        "20 et 25 ans.",
+        "24 et 30 ans.",
+        "28 et 35 ans.",
+        "32 et 40 ans."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'Deux militaires, âgés de 24 et 30 ans, sont morts dans un accident de plongée à Angers'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quels artistes ne sont PAS mentionnés comme nouvelles têtes d'affiche de Solidays ?",
+      "options": [
+        "Gazo.",
+        "Meryl.",
+        "Jade Thirlwall.",
+        "Stromae."
+      ],
+      "correct": 3,
+      "explication": "Les nouvelles têtes d'affiche mentionnées sont 'Les rappeurs Gazo et RnBoi, l’ex-membre du groupe Little Mix Jade Thirlwall et l’artiste martiniquaise Meryl'. Stromae n'est pas cité.",
+      "theme": "CULTURE"
+    }
+  ]
+}
