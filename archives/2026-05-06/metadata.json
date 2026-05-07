@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Les États-Unis se désengagent de l’Europe",
+  "date": "06/05/2026",
+  "img": "archives/2026-05-06/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de soldats états-uniens Donald Trump a-t-il annoncé vouloir retirer d'Allemagne ?",
+      "options": [
+        "Moins de 1 000",
+        "Environ 5 000",
+        "Plus de 10 000",
+        "La totalité des 36 000 soldats"
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a annoncé le retrait d’au moins 5 000 soldats états-uniens actuellement stationnés en Allemagne.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel était l'objectif du 'Projet Liberté' suspendu par Donald Trump dans le Détroit d’Ormuz ?",
+      "options": [
+        "Escorter les navires des pays tiers bloqués",
+        "Mener des opérations militaires contre l'Iran",
+        "Établir un blocus économique",
+        "Négocier un accord de paix"
+      ],
+      "correct": 0,
+      "explication": "Le 'Projet Liberté' visait à escorter les navires des pays tiers bloqués dans le détroit d’Ormuz.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la souche de l'hantavirus, contagieuse entre humains, qui a infecté un passager du navire 'MV Hondius' ?",
+      "options": [
+        "Souche Puumala",
+        "Souche Sin Nombre",
+        "Souche des Andes",
+        "Souche Dobrava"
+      ],
+      "correct": 2,
+      "explication": "Un passager du navire 'MV Hondius' est infecté par la seule souche du virus contagieuse entre humains : la souche des Andes.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon le rapport du Haut-Commissariat à la stratégie et au plan, quelle mesure est recommandée pour inciter les Français à avoir des enfants ?",
+      "options": [
+        "Augmenter les allocations familiales",
+        "Garantir un mode de garde pour tous dès l’âge d’un an",
+        "Réduire l'âge de la scolarité obligatoire",
+        "Mettre en place un revenu parental universel"
+      ],
+      "correct": 1,
+      "explication": "Le rapport recommande d'ajouter une semaine de congé en cas de naissance et de garantir un mode de garde pour tous dès l’âge d’un an.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Depuis ce mercredi, quelles sont les nouvelles conditions pour l'acquisition de la nationalité française pour les enfants nés de parents étrangers à Mayotte ?",
+      "options": [
+        "Un seul parent doit résider légalement depuis au moins 3 mois avant la naissance",
+        "Les deux parents doivent résider légalement sur le territoire depuis au moins un an avant la naissance",
+        "La naissance doit avoir lieu dans un hôpital français",
+        "L'enfant doit avoir au moins un grand-parent français"
+      ],
+      "correct": 1,
+      "explication": "Selon une loi adoptée en avril 2025, les deux parents (contre un auparavant) doivent désormais résider légalement sur le territoire depuis au moins un an avant la naissance, contre 3 mois auparavant.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi la police de Londres a-t-elle créé une unité spéciale composée d’une centaine d’agents ?",
+      "options": [
+        "Pour lutter contre la criminalité organisée",
+        "Pour protéger la communauté juive",
+        "Pour renforcer la sécurité lors des grands événements sportifs",
+        "Pour patrouiller dans les quartiers touristiques"
+      ],
+      "correct": 1,
+      "explication": "Cette décision fait suite à l’augmentation des attaques antisémites dans la capitale du Royaume-Uni.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon une étude de la Drees, quels types de foyers sont majoritairement concernés par le non-recours au RSA ?",
+      "options": [
+        "Les personnes âgées de plus de 60 ans",
+        "Les étudiants sans emploi",
+        "Les célibataires de moins de 30 ans sans enfants, les mères isolées ou les couples avec enfant et un emploi salarié",
+        "Les familles nombreuses avec de hauts revenus"
+      ],
+      "correct": 2,
+      "explication": "Les foyers “non recourants” sont surtout des célibataires de moins de 30 ans sans enfants, des mères isolées ou des couples avec enfant et un emploi salarié.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est l'état de santé de Narges Mohammadi, prix Nobel de la paix 2023, emprisonnée en Iran, selon ses soutiens ?",
+      "options": [
+        "Elle a été libérée sous caution.",
+        "Elle est en convalescence après une opération.",
+        "Elle est 'entre la vie et la mort' après une crise cardiaque.",
+        "Son état est stable et en amélioration."
+      ],
+      "correct": 2,
+      "explication": "Selon ses soutiens, Narges Mohammadi est 'entre la vie et la mort' et son état s’est fortement dégradé après une crise cardiaque.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon la CNIL, quelle proportion des jeunes (11 à 25 ans) échange sur des sujets personnels ou intimes avec une IA conversationnelle ?",
+      "options": [
+        "Moins d'un quart",
+        "Près d’1 jeune sur 2",
+        "Plus de trois quarts",
+        "La quasi-totalité"
+      ],
+      "correct": 1,
+      "explication": "Près d’1 jeune sur 2 âgé de 11 à 25 ans échange sur des sujets personnels ou intimes avec une IA conversationnelle.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Pour quel motif le régime militaire du Burkina Faso a-t-il décidé d'interdire la diffusion de la chaîne française TV5 Monde ?",
+      "options": [
+        "Diffusion de programmes inappropriés",
+        "Non-respect des règles de diffusion locales",
+        "Accusations de 'désinformation' et d''apologie du terrorisme'",
+        "Manque de diversité dans sa programmation"
+      ],
+      "correct": 2,
+      "explication": "Le régime militaire du Burkina Faso a décidé d'interdire la diffusion de la chaîne française TV5 Monde, qu'il accuse de 'désinformation' et d''apologie du terrorisme'.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}

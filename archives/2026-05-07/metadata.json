@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Vladimir Poutine aurait peur d’un assassinat ?",
+  "date": "07/05/2026",
+  "img": "archives/2026-05-07/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon certaines fuites des renseignements européens, quelle est l'une des raisons principales du renforcement des protocoles de sécurité autour du président russe Vladimir Poutine ?",
+      "options": [
+        "La menace d'une invasion étrangère majeure.",
+        "La crainte d'un assassinat ou d'un éventuel coup d'État.",
+        "Une épidémie de maladie contagieuse au sein du gouvernement.",
+        "Des préparatifs pour une nouvelle grande offensive militaire."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"Entre la menace d’un d'assassinat ou d’un éventuel coup d'État, la situation semble particulièrement préoccupante pour le gouvernement russe.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le rapport de Médecins sans Frontières, quelle est une conséquence grave du manque d'accès à la nourriture à Gaza pour les bébés de mères sous-alimentées ?",
+      "options": [
+        "90% d'entre eux étaient en surpoids à la naissance.",
+        "La mortalité infantile était deux fois plus élevée.",
+        "Ils souffraient principalement de maladies respiratoires.",
+        "Ils présentaient un développement neurologique accéléré."
+      ],
+      "correct": 1,
+      "explication": "Le rapport de MSF déclare que pour les bébés de mères sous-alimentées, \"90 % d’entre eux étaient prématurés, et la mortalité infantile était deux fois plus élevée.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le principal point de discorde entre les États-Unis et l'Iran concernant un potentiel accord de paix, d'après le texte ?",
+      "options": [
+        "Le commerce international de pétrole.",
+        "Le programme nucléaire iranien.",
+        "La situation en Syrie.",
+        "La liberté de navigation dans le Golfe Persique."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que \"Le principal point de discorde reste la fin du programme nucléaire iranien, souhaitée par les États-Unis.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la mission des experts envoyés par l'Argentine à Ushuaïa ?",
+      "options": [
+        "Construire un nouveau port de croisière.",
+        "Capturer et analyser des rongeurs potentiellement porteurs d'hantavirus.",
+        "Mener des recherches sur le changement climatique.",
+        "Organiser une conférence internationale sur le tourisme."
+      ],
+      "correct": 1,
+      "explication": "L'objectif est de \"capturer et analyser des rongeurs potentiellement porteurs du virus, mais aussi retracer le parcours de 2 passagers néerlandais qui ont présenté les premiers symptômes et sont depuis décédés.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qu'est-ce que le New York Times a publié et que la justice américaine a rendu public concernant Jeffrey Epstein ?",
+      "options": [
+        "Des enregistrements audio de ses conversations.",
+        "Une potentielle lettre de suicide.",
+        "Ses dernières volontés testamentaires.",
+        "Une liste de ses biens immobiliers."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne \"Une potentielle lettre de suicide de Jeffrey Epstein, retrouvée en prison, a été publiée par le New York Times et rendue publique ce jeudi par la justice américaine.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "À partir de quelle année les collégiens de 4e en France auront-ils des cours d'éducation financière ?",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que \"Les collégiens de 4e auront des cours d’éducation financière à partir de la rentrée 2026.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon l'étude du Défenseur des droits, quelle proportion de parents déclare que leur enfant a déjà été victime de harcèlement scolaire ou de discrimination ?",
+      "options": [
+        "Un quart",
+        "Un tiers",
+        "La moitié",
+        "Deux tiers"
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare qu'\"Un tiers des parents déclarent que leur enfant a déjà été victime de harcèlement scolaire ou de discrimination\".",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "D'après le baromètre de Solidarité Apprentis d’Auteuil, quel était le montant moyen des dons en France en 2025 ?",
+      "options": [
+        "150 €",
+        "220 €",
+        "336 €",
+        "450 €"
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme que \"Les Français ont donné en moyenne 336 €.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon un rapport de renseignement européen cité par CNN et le Financial Times, où Vladimir Poutine passerait-il désormais davantage de temps ?",
+      "options": [
+        "Dans ses résidences proches de Moscou.",
+        "À Valdaï.",
+        "Dans des bunkers, notamment dans la région de Krasnodar.",
+        "Au Kremlin, sans quitter Moscou."
+      ],
+      "correct": 2,
+      "explication": "Le rapport indique que Poutine \"passerait désormais davantage de temps dans des bunkers, notamment dans la région de Krasnodar, au sud du pays.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui est mentionné comme une figure qui inquiéterait Vladimir Poutine concernant un possible complot ou tentative de coup d'État, selon le document des renseignements européens ?",
+      "options": [
+        "Le chef d'état-major de l'armée.",
+        "L'ancien ministre de la Défense, Sergueï Choïgou.",
+        "Le président biélorusse, Alexandre Loukachenko.",
+        "Un oligarque influent."
+      ],
+      "correct": 1,
+      "explication": "Le document cite \"Sergueï Choïgou, ancien ministre de la Défense et longtemps considéré comme un fidèle allié de Poutine\" comme une figure qui \"conserverait une influence importante dans l’armée, ce qui inquiéterait le président russe.\"",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
