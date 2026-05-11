@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Que se passe-t-il avec l'hantavirus ?",
+  "date": "11/05/2026",
+  "img": "archives/2026-05-11/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la période maximale d'incubation du virus des Andes, pour laquelle les personnes rapatriées du navire sont placées en quarantaine en France ?",
+      "options": [
+        "14 jours",
+        "21 jours",
+        "30 jours",
+        "42 jours"
+      ],
+      "correct": 3,
+      "explication": "Le gouvernement français a mis en place un protocole sanitaire strict, où l'isolement des personnes venant du navire pourrait durer jusqu'à 42 jours, soit la période maximale d'incubation du virus.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la condition principale posée par l'Iran pour la réouverture progressive du détroit d'Ormuz, selon sa proposition rejetée par les États-Unis ?",
+      "options": [
+        "La reconnaissance du programme nucléaire iranien",
+        "La levée du blocus des ports iraniens par les États-Unis",
+        "Une aide financière internationale",
+        "L'arrêt des opérations militaires dans la région"
+      ],
+      "correct": 1,
+      "explication": "D’après le Wall Street Journal, la proposition iranienne prévoyait une réouverture progressive du détroit d’Ormuz, à condition que les États-Unis lèvent en même temps le blocus des ports iraniens.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel motif 16 familles françaises ont-elles déposé une plainte collective contre TikTok ce lundi ?",
+      "options": [
+        "Incitation à la haine en ligne",
+        "Collecte illégale de données personnelles",
+        "Abus de faiblesse",
+        "Diffusion de fausses informations"
+      ],
+      "correct": 2,
+      "explication": "16 familles françaises ont déposé une plainte collective contre TikTok ce lundi pour “abus de faiblesse”.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle lauréate du prix Nobel de la paix en 2023, militante des droits humains en Iran, a été libérée sous caution pour être soignée après avoir été victime de deux crises cardiaques en détention ?",
+      "options": [
+        "Malala Yousafzai",
+        "Shirin Ebadi",
+        "Narges Mohammadi",
+        "Tawakkol Karman"
+      ],
+      "correct": 2,
+      "explication": "Narges Mohammadi, la lauréate du prix Nobel de la paix en 2023 et militante des droits humains en Iran, a été libérée sous caution pour être soignée à Téhéran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui le président ukrainien Volodymyr Zelensky a-t-il accusé de \"ne pas respecter\" le cessez-le-feu de 3 jours négocié par les États-Unis ?",
+      "options": [
+        "La Biélorussie",
+        "La Chine",
+        "La Russie",
+        "L'OTAN"
+      ],
+      "correct": 2,
+      "explication": "Le président ukrainien Volodymyr Zelensky a accusé la Russie “ne pas respecter” le cessez-le-feu de 3 jours négocié par les États-Unis.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Comment l'ONU décrit-elle la crise au Soudan, où des dizaines de milliers de morts ont été recensés depuis avril 2023 ?",
+      "options": [
+        "Une crise économique majeure",
+        "La pire crise humanitaire au monde",
+        "Un conflit territorial mineur",
+        "Une instabilité politique régionale"
+      ],
+      "correct": 1,
+      "explication": "L’ONU parle de “la pire crise humanitaire au monde” concernant le Soudan, avec des dizaines de milliers de morts recensés depuis avril 2023.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon Copernicus, l’observatoire européen pour le climat, quelle année est \"probable\" de devenir l’“année la plus chaude jamais enregistrée” ?",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "correct": 3,
+      "explication": "Copernicus a alerté qu’il est “probable que 2027” devienne l’“année la plus chaude jamais enregistrée”, sous l'effet du phénomène El Niño et du réchauffement climatique.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "À partir de quelle session du brevet et du bac la qualité rédactionnelle des copies, y compris l'orthographe et la syntaxe, comptera-t-elle davantage dans l'évaluation des élèves ?",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "correct": 2,
+      "explication": "À partir de la session 2026 du brevet et du bac, la qualité rédactionnelle des copies, dont l’orthographe, la syntaxe, la grammaire et la clarté, comptera davantage, y compris dans les matières scientifiques.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel type d'invention, respectueux des écosystèmes marins, a reçu la plus haute récompense au concours Lépine ce week-end à Paris ?",
+      "options": [
+        "Un drone de surveillance climatique",
+        "Un système de désalinisation de l'eau",
+        "Un aspirateur sous-marin de déchets et microplastiques",
+        "Un robot agricole autonome"
+      ],
+      "correct": 2,
+      "explication": "Un aspirateur sous-marin de déchets et microplastiques, inventé par le Français Alan d’Alfonso Peral, a reçu la plus haute récompense au concours Lépine.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est le principal mode de transmission des hantavirus à l'être humain, selon les informations fournies ?",
+      "options": [
+        "Par des piqûres de moustiques infectés",
+        "Par des rongeurs, via leurs urines, leurs déjections ou leur salive",
+        "Par l'eau contaminée",
+        "Par contact direct avec une personne malade (toux, éternuements)"
+      ],
+      "correct": 1,
+      "explication": "Les hantavirus se transmettent normalement à l’être humain par des rongeurs, via leurs urines, leurs déjections ou leur salive.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
