@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Les États-Unis déclassifient des documents sur les ovnis",
+  "date": "12/05/2026",
+  "img": "archives/2026-05-12/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle a été la principale conclusion concernant l'existence d'une vie extraterrestre après la déclassification par le Pentagone de plus de 160 documents sur les OVNIS ?",
+      "options": [
+        "Des preuves concrètes d'une vie extraterrestre ont été découvertes.",
+        "Aucune preuve concrète d'une vie extraterrestre n'a été trouvée, malgré des témoignages intrigants.",
+        "L'existence des extraterrestres a été officiellement confirmée par les autorités américaines.",
+        "Tous les phénomènes observés ont été identifiés comme des objets terrestres connus."
+      ],
+      "correct": 1,
+      "explication": "Le 'Décryptage' indique que les dossiers contiennent surtout des témoignages, des rapports d’observations et des vidéos intrigantes… sans preuve concrète d’une vie extraterrestre. Le Pentagone avait d'ailleurs déjà affirmé en mars 2024 ne disposer 'd’aucune preuve' reliant ces phénomènes à une technologie extraterrestre.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon Donald Trump, quel est l'état actuel du cessez-le-feu entre les États-Unis et l'Iran ?",
+      "options": [
+        "Il progresse favorablement vers un accord définitif.",
+        "Il a été officiellement rompu par les deux parties.",
+        "Il est désormais 'sous assistance respiratoire'.",
+        "Un nouvel accord plus solide a été conclu."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Le cessez-le-feu entre les États-Unis et l’Iran serait désormais “sous assistance respiratoire”, selon Donald Trump.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle entité a décidé de sanctionner 7 colons extrémistes israéliens et 12 responsables du Hamas ?",
+      "options": [
+        "Les Nations Unies",
+        "Les États-Unis",
+        "L'Union européenne",
+        "Une coalition d'États arabes"
+      ],
+      "correct": 2,
+      "explication": "La section 'À comprendre' indique : 'L’UE est parvenue, ce lundi, à se mettre d’accord pour sanctionner 7 colons extrémistes israéliens (...) ainsi que 12 responsables du Hamas.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de millions d'hectares ont déjà brûlé dans le monde entre janvier et avril, marquant un record historique ?",
+      "options": [
+        "75 millions d'hectares",
+        "100 millions d'hectares",
+        "150 millions d'hectares",
+        "200 millions d'hectares"
+      ],
+      "correct": 2,
+      "explication": "La section 'ENVIRONNEMENT' déclare : '150 millions d’hectares ont déjà brûlé dans le monde entre janvier et avril, un record historique, selon un collectif de scientifiques internationaux.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est le montant total des investissements annoncés par Emmanuel Macron en Afrique et quelle part provient de la France ?",
+      "options": [
+        "14 milliards d'euros au total, dont 9 milliards français.",
+        "23 milliards d'euros au total, dont 14 milliards français.",
+        "250 millions d'euros au total, dont 150 millions français.",
+        "23 milliards d'euros au total, dont 9 milliards français."
+      ],
+      "correct": 1,
+      "explication": "La section 'AFRIQUE' précise : '23 milliards d’€, dont 14 milliards français, seront investis en Afrique, a annoncé ce lundi Emmanuel Macron à l’occasion d’un sommet franco-africain au Kenya.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel texte législatif, dans le cadre de la réforme de la fin de vie en France, a été définitivement adopté par le Parlement ce lundi ?",
+      "options": [
+        "Le texte créant un droit à l'aide à mourir.",
+        "Le texte qui renforce l’accès aux soins palliatifs.",
+        "Le texte interdisant toute forme d'assistance à la fin de vie.",
+        "Le texte établissant un nouveau comité d'éthique national."
+      ],
+      "correct": 1,
+      "explication": "La section 'FRANCE' indique : 'Le texte qui renforce l’accès aux soins palliatifs, dans le cadre de la réforme de la fin de vie, a été définitivement adopté par le Parlement ce lundi.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Combien de nouveaux mots et expressions feront leur entrée dans le dictionnaire du Petit Robert 2027 ?",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "correct": 2,
+      "explication": "La section 'CULTURE' concernant le Petit Robert mentionne : '150 nouveaux mots et expressions entrent dans le dictionnaire du Petit Robert 2027'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Qui préside la 79e édition du festival de Cannes qui débute ce mardi ?",
+      "options": [
+        "Jafar Panahi",
+        "Quentin Tarantino",
+        "Park Chan-Wook",
+        "Steven Spielberg"
+      ],
+      "correct": 2,
+      "explication": "La section 'CINÉMA' précise : 'Cette 79e édition est présidée par le réalisateur sud-coréen Park Chan-Wook'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon les critiques, en plus du manque de révélations majeures, quelle est l'une des raisons pour lesquelles la déclassification des documents sur les OVNIS par Donald Trump est perçue comme un coup médiatique ?",
+      "options": [
+        "Elle a coïncidé avec une mission spatiale majeure.",
+        "Elle est considérée comme une tentative de détourner l'attention des crises politiques actuelles.",
+        "Elle a été réalisée juste avant le festival de Cannes.",
+        "Elle a provoqué une crise économique inattendue."
+      ],
+      "correct": 1,
+      "explication": "Le 'Décryptage' mentionne : 'Plusieurs critiques accusent Donald Trump d’utiliser cette déclassification comme un coup médiatique. (...) Pour certains, ces dossiers permettraient donc aussi de détourner l’attention des crises actuelles.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de drones la Russie a-t-elle lancé contre l'Ukraine dans la nuit de lundi à mardi, après une trêve de 3 jours ?",
+      "options": [
+        "27 drones",
+        "50 drones",
+        "100 drones",
+        "200 drones"
+      ],
+      "correct": 3,
+      "explication": "La section 'RUSSIE/UKRAINE' rapporte : 'La Russie a lancé 200 drones contre l’Ukraine dans la nuit de lundi à mardi, à l’issue d’une trêve de 3 jours'.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
