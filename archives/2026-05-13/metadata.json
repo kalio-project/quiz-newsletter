@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Vers la fin de la guerre en Ukraine selon Poutine ?",
+  "date": "13/05/2026",
+  "img": "archives/2026-05-13/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle affirmation Vladimir Poutine a-t-il faite concernant la guerre en Ukraine la semaine dernière ?",
+      "options": [
+        "La guerre en Ukraine est loin d'être terminée.",
+        "La guerre en Ukraine atteint son apogée.",
+        "La guerre en Ukraine touche à sa fin.",
+        "La Russie a déjà remporté la guerre en Ukraine."
+      ],
+      "correct": 2,
+      "explication": "Le président russe Vladimir Poutine a affirmé que la guerre en Ukraine “touchait à sa fin”.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes identifiées comme cas contacts pour le Hantavirus en France sont actuellement hospitalisées ?",
+      "options": [
+        "5 personnes",
+        "8 personnes",
+        "22 personnes",
+        "93 personnes"
+      ],
+      "correct": 2,
+      "explication": "Les 22 personnes identifiées en France comme cas contacts sont actuellement hospitalisées, a indiqué ce mercredi matin le ministère de la Santé.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel type de crimes Gérald Darmanin propose-t-il d'exclure de son projet de 'plaider-coupable criminel' ?",
+      "options": [
+        "Les crimes financiers",
+        "Les crimes terroristes",
+        "Les crimes sexuels",
+        "Les crimes routiers graves"
+      ],
+      "correct": 2,
+      "explication": "Le ministre de la Justice, Gérald Darmanin, propose d’exclure tous les crimes sexuels de son projet de “plaider-coupable criminel”.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel ancien président des États-Unis est arrivé en Chine ce mercredi pour rencontrer Xi Jinping ?",
+      "options": [
+        "George W. Bush",
+        "Barack Obama",
+        "Donald Trump",
+        "Joe Biden"
+      ],
+      "correct": 2,
+      "explication": "Donald Trump est arrivé en Chine, ce mercredi, pour rencontrer le président chinois Xi Jinping.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la 'priorité absolue' pour Emmanuel Macron concernant le Moyen-Orient ?",
+      "options": [
+        "La négociation d'un accord de paix entre l'Iran et les États-Unis.",
+        "La réouverture du détroit d'Ormuz.",
+        "L'envoi d'aide humanitaire massive à Gaza.",
+        "La mise en place de sanctions économiques contre l'Iran."
+      ],
+      "correct": 1,
+      "explication": "Pour le président, sa réouverture est “la priorité absolue” et doit intervenir “avant de traiter les autres sujets”.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le rapport de la Commission civile israélienne, de quoi le Hamas s'est-il rendu coupable lors des attaques du 7 octobre 2023 ?",
+      "options": [
+        "Uniquement de destructions matérielles.",
+        "De violences sexuelles systématiques, à grande échelle et de tortures.",
+        "De cyberattaques contre les infrastructures israéliennes.",
+        "De recrutement forcé d'enfants soldats."
+      ],
+      "correct": 1,
+      "explication": "Le Hamas s’est rendu coupable de “violences sexuelles systématiques, à grande échelle” et de “tortures” lors des attaques du 7 octobre 2023 en Israël, ainsi que pendant la captivité des otages à Gaza, selon le rapport de la Commission civile, une organisation israélienne.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'UNICEF, combien d'enfants palestiniens sont tués en moyenne chaque semaine en Cisjordanie depuis janvier 2025 ?",
+      "options": [
+        "Moins d'un enfant",
+        "Au moins un enfant",
+        "Environ cinq enfants",
+        "Plus de dix enfants"
+      ],
+      "correct": 1,
+      "explication": "Au moins un enfant palestinien est tué en moyenne chaque semaine depuis janvier 2025 en Cisjordanie, un territoire palestinien occupé par Israël, selon l’UNICEF.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "De combien le Smic va-t-il augmenter en France dès le 1er juin ?",
+      "options": [
+        "1,5 %",
+        "2,0 %",
+        "2,4 %",
+        "3,0 %"
+      ],
+      "correct": 2,
+      "explication": "Le Smic, le salaire minimum légal en France, va augmenter de 2,4 % dès le 1er juin, a annoncé le ministre du Travail ce mercredi.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon la section 'Décryptage', quelle pourrait être l'une des raisons pour laquelle Vladimir Poutine affirme que la guerre en Ukraine touche à sa fin ?",
+      "options": [
+        "Il a atteint tous ses objectifs militaires.",
+        "Il souhaite rassurer la population russe.",
+        "Une conférence de paix secrète a eu lieu.",
+        "L'armée ukrainienne a été démobilisée."
+      ],
+      "correct": 1,
+      "explication": "En affirmant que la guerre pourrait bientôt se terminer, Vladimir Poutine chercherait donc surtout à rassurer la population et à montrer qu’il garde le contrôle de la situation.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le gouvernement, pour combien de temps le stock de masques chirurgicaux est-il suffisant en France en cas de vague épidémique ?",
+      "options": [
+        "Minimum 1 mois",
+        "Minimum 3 mois",
+        "Minimum 6 mois",
+        "Minimum 1 an"
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement a assuré que son stock de masques chirurgicaux était suffisant pour protéger la France pendant minimum 3 mois en cas de vague épidémique.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
