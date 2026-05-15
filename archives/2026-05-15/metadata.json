@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Les États-Unis négocient avec le Groenland",
+  "date": "15/05/2026",
+  "img": "archives/2026-05-15/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Que négocient actuellement les États-Unis avec le Groenland, selon le texte ?",
+      "options": [
+        "L'achat de nouvelles terres pour l'agriculture.",
+        "L'installation de nouvelles bases militaires.",
+        "Des accords commerciaux exclusifs pour la pêche.",
+        "Le déploiement de troupes de maintien de la paix."
+      ],
+      "correct": 1,
+      "explication": "Les États-Unis discutent avec le Groenland à propos de l’installation de 3 nouvelles bases militaires dans le sud du territoire.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Que Donald Trump a-t-il affirmé concernant les accords conclus avec le président chinois Xi Jinping au sujet de l'aide militaire à l'Iran ?",
+      "options": [
+        "La Chine allait fournir du matériel militaire à l'Iran pour stabiliser la région.",
+        "La Chine allait réduire ses exportations de pétrole vers l'Iran.",
+        "La Chine s'engageait à ne pas fournir de matériel militaire à l'Iran.",
+        "La Chine allait coordonner des opérations militaires avec l'Iran."
+      ],
+      "correct": 2,
+      "explication": "Donald Trump a rapporté que Xi Jinping lui aurait indiqué que la Chine ne fournirait pas de matériel militaire à l’Iran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où une nouvelle épidémie d'Ebola a-t-elle été déclarée par l'agence sanitaire de l'Union africaine ?",
+      "options": [
+        "La province du Kivu en République démocratique du Congo.",
+        "La province de l’Ituri en République démocratique du Congo.",
+        "L'Ouganda, pays voisin de la RDC.",
+        "Le Soudan du Sud, frontalier de l'Ituri."
+      ],
+      "correct": 1,
+      "explication": "Une épidémie d’Ebola a été déclarée, dans la province de l’Ituri, dans l’est de la République démocratique du Congo.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est l'objectif principal de la mission scientifique envoyée la semaine prochaine à Ushuaïa, en Argentine ?",
+      "options": [
+        "Développer un vaccin contre l'hantavirus.",
+        "Étudier la biodiversité locale des rongeurs.",
+        "Traquer la présence éventuelle de rongeurs porteurs de l’hantavirus.",
+        "Enquêter sur l'origine du navire ayant causé le foyer d'hantavirus."
+      ],
+      "correct": 2,
+      "explication": "Une mission scientifique se rendra la semaine prochaine à Ushuaïa, en Argentine, pour traquer la présence éventuelle de rongeurs porteurs de l’hantavirus.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel mobile est privilégié par les autorités pour la fusillade à Nantes qui a entraîné la mort d'un adolescent de 15 ans ?",
+      "options": [
+        "Un acte terroriste isolé.",
+        "Un conflit personnel entre jeunes.",
+        "Un règlement de comptes lié au narcotrafic.",
+        "Une bavure policière."
+      ],
+      "correct": 2,
+      "explication": "La piste d’un règlement de comptes lié au narcotrafic est privilégiée, selon le ministre de l’Intérieur Laurent Nuñez.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien de prisonniers de guerre ont été échangés entre la Russie et l'Ukraine lors du récent événement ?",
+      "options": [
+        "50 de chaque camp.",
+        "100 de chaque camp.",
+        "205 de chaque camp.",
+        "1000 de chaque camp."
+      ],
+      "correct": 2,
+      "explication": "La Russie et l’Ukraine ont échangé, ce vendredi, 205 prisonniers de guerre de chaque camp.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel type de produit à base de CBD a été récemment interdit en France ?",
+      "options": [
+        "Le CBD à fumer.",
+        "Les liquides pour cigarettes électroniques au CBD.",
+        "Les produits alimentaires au CBD.",
+        "Le CBD sous forme d'huiles."
+      ],
+      "correct": 2,
+      "explication": "Les produits alimentaires au CBD sont désormais interdits en France, car les autorités estiment qu’ils n’ont jamais officiellement été autorisés au niveau européen.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est le nom du nouveau dinosaure géant identifié à partir de restes découverts en Thaïlande ?",
+      "options": [
+        "Le Tyrannosaure thaïlandais.",
+        "Le Nagatitan.",
+        "Le Thaïraptor.",
+        "Le Siamopteryx."
+      ],
+      "correct": 1,
+      "explication": "Le nagatitan, un nouveau dinosaure géant, a été identifié par des scientifiques à partir de restes découverts en Thaïlande.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Comment Donald Trump a-t-il qualifié le Groenland par le passé, soulignant son importance pour la sécurité nationale des États-Unis ?",
+      "options": [
+        "Une 'opportunité économique majeure'.",
+        "Un 'point stratégique mineur'.",
+        "Une 'nécessité absolue'.",
+        "Une 'curiosité géographique'."
+      ],
+      "correct": 2,
+      "explication": "Donald Trump qualifiait le Groenland de “nécessité absolue” pour la sécurité nationale des États-Unis.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Outre la promesse de ne pas fournir de matériel militaire à l'Iran, quel autre engagement économique majeur Donald Trump a-t-il annoncé de la part de la Chine lors de sa visite ?",
+      "options": [
+        "L'achat de voitures électriques Tesla.",
+        "L'achat de 200 'gros' avions Boeing.",
+        "L'achat de licences de logiciels Microsoft.",
+        "L'achat de terres rares pour l'industrie."
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a aussi rapporté la promesse d’achat de 200 “gros” avions Boeing.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
