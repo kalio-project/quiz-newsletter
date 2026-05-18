@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La CIA a rendu visite à Cuba",
+  "date": "18/05/2026",
+  "img": "archives/2026-05-18/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pourquoi le directeur de la CIA s'est-il rendu à Cuba la semaine dernière, selon le discours américain ?",
+      "options": [
+        "Pour négocier la fin immédiate du blocus américain.",
+        "Pour discuter d'économie et de sécurité seulement si Cuba engage des \"changements fondamentaux\".",
+        "Pour organiser une aide humanitaire massive de 100 millions de dollars.",
+        "Pour préparer une intervention militaire contre le gouvernement cubain."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que la CIA affirme que les États-Unis sont prêts à discuter d’économie et de sécurité seulement si Cuba engage des “changements fondamentaux”.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qu'est-il advenu du navire de croisière MV Hondius, touché par l’hantavirus, ce matin-là ?",
+      "options": [
+        "Il a été renvoyé en mer pour une quarantaine prolongée.",
+        "Il a accosté au port de Rotterdam, aux Pays-Bas, avec 27 personnes à bord placées en quarantaine.",
+        "Il a été évacué en mer et désinfecté avant de reprendre sa route.",
+        "Tous les passagers et l'équipage ont été débarqués et sont retournés chez eux sans suivi."
+      ],
+      "correct": 1,
+      "explication": "Le MV Hondius, le navire de croisière touché par l’hantavirus, a accosté ce matin au port de Rotterdam, aux Pays-Bas, avec 27 personnes à bord, placées en quarantaine.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel dossier sensible a été au centre des discussions lors de la visite du ministre Gérald Darmanin en Algérie ?",
+      "options": [
+        "Les accords commerciaux sur les hydrocarbures.",
+        "Le cas de Christophe Gleizes, un journaliste français incarcéré pour apologie du terrorisme.",
+        "La coopération militaire dans la région du Sahel.",
+        "La reconnaissance des diplômes entre les deux pays."
+      ],
+      "correct": 1,
+      "explication": "Gérald Darmanin a rencontré plusieurs responsables algériens pour évoquer des dossiers sensibles, 'comme celui de Christophe Gleizes', un journaliste français arrêté et condamné en Algérie.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle action a été annoncée par la procureure de Paris suite à des signalements de violences dans des établissements accueillant des enfants ?",
+      "options": [
+        "L'ouverture immédiate d'un grand débat national sur l'éducation.",
+        "La mise en place de brigades spéciales de surveillance dans les établissements.",
+        "L'ouverture de plusieurs enquêtes pour des violences potentielles dans une centaine d’établissements.",
+        "La fermeture définitive de toutes les crèches et écoles maternelles suspectes."
+      ],
+      "correct": 2,
+      "explication": "La procureure de Paris a annoncé ce dimanche que plusieurs enquêtes pour des violences potentielles dans une centaine d’établissements accueillant des enfants à Paris vont être ouvertes.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Face à l'épidémie d'Ebola en République démocratique du Congo, quelle mesure a été prise par l'OMS ?",
+      "options": [
+        "Elle a déclaré l'éradication complète du virus dans la région.",
+        "Elle a déclenché son 2e niveau d’alerte internationale le plus élevé.",
+        "Elle a annoncé le déploiement d'un vaccin et d'un traitement spécifiques efficaces.",
+        "Elle a mis en place un programme de tourisme sécurisé dans les zones touchées."
+      ],
+      "correct": 1,
+      "explication": "L’OMS a déclenché ce dimanche son 2e niveau d’alerte internationale le plus élevé face à l’épidémie d’Ebola en République démocratique du Congo.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon Amnesty International, quel pays est le principal responsable de l'augmentation record des exécutions dans le monde en 2025 (selon les données rapportées) ?",
+      "options": [
+        "Les États-Unis",
+        "La Chine",
+        "L'Iran",
+        "L'Arabie Saoudite"
+      ],
+      "correct": 2,
+      "explication": "L’Iran est le principal responsable de cette augmentation, avec au moins 2 159 exécutions, soit 2 fois plus qu’en 2024 (l'année '2025' dans le texte semble être une typo et fait référence à la publication des chiffres).",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est l'une des principales condamnations du Haut-Commissaire des Nations unies aux droits de l’homme concernant Israël et Gaza ?",
+      "options": [
+        "La demande de sanctions économiques renforcées contre Israël.",
+        "La reconnaissance du droit d'Israël à ignorer le droit international.",
+        "L'appel à Israël à veiller \"à ce que son armée ne se livre pas à des actes de génocide\".",
+        "La validation inconditionnelle de toutes les actions militaires israéliennes."
+      ],
+      "correct": 2,
+      "explication": "Le Haut-Commissaire des Nations unies aux droits de l’homme a déclaré qu'Israël doit veiller “à ce que son armée ne se livre pas à des actes de génocide”.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle a été la décision annoncée par le patron de Canal+ au Festival de Cannes concernant les signataires de la tribune anti-Bolloré ?",
+      "options": [
+        "Il a proposé de collaborer étroitement avec eux sur de nouveaux projets.",
+        "Il a déclaré qu’il ne travaillerait plus avec eux.",
+        "Il a invité les signataires à rejoindre le conseil d'administration de Canal+.",
+        "Il a ignoré la tribune et ses signataires, sans faire de commentaire."
+      ],
+      "correct": 1,
+      "explication": "Le patron de Canal+ a déclaré ce dimanche au Festival de Cannes qu’il ne travaillerait plus avec les signataires de la tribune anti-Bolloré.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle est l'une des conséquences de l'arrêt des importations de pétrole vénézuélien pour Cuba, selon le texte ?",
+      "options": [
+        "Une croissance économique rapide et inattendue.",
+        "Des coupures d’électricité pouvant durer des journées entières.",
+        "Une diversification réussie de ses sources d'énergie.",
+        "Un renforcement de l'alliance avec les États-Unis."
+      ],
+      "correct": 1,
+      "explication": "Depuis l’arrêt des importations de pétrole vénézuélien, des coupures d’électricité peuvent durer des journées entières dans certaines régions de Cuba.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "En dehors du cas Christophe Gleizes, quels autres dossiers ont été évoqués lors de la visite de Gérald Darmanin en Algérie ?",
+      "options": [
+        "Les partenariats éducatifs et les échanges universitaires.",
+        "La lutte contre le crime organisé, le narcotrafic et le terrorisme.",
+        "Les questions environnementales et la transition énergétique.",
+        "Les programmes d'échanges culturels et sportifs."
+      ],
+      "correct": 1,
+      "explication": "Les échanges ont aussi porté sur la lutte contre le crime organisé, le narcotrafic et le terrorisme.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
