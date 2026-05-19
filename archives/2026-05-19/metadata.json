@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 France-Algérie : vers un apaisement ?",
+  "date": "19/05/2026",
+  "img": "archives/2026-05-19/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle décision prise par la France à l'été 2024 a été le déclencheur principal des tensions diplomatiques avec l'Algérie ?",
+      "options": [
+        "La reconnaissance de la souveraineté marocaine sur le Sahara occidental",
+        "L'arrestation de l'écrivain franco-algérien Boualem Sansal",
+        "Des désaccords sur les quotas d'immigration",
+        "La suspension de la coopération économique"
+      ],
+      "correct": 0,
+      "explication": "L'été 2024, la reconnaissance par Emmanuel Macron de la souveraineté marocaine sur le Sahara occidental, un territoire revendiqué par le Front Polisario soutenu par l'Algérie, a fortement tendu les relations entre les deux pays.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi Donald Trump a-t-il annoncé avoir renoncé à une opération militaire contre l'Iran, initialement prévue ce mardi ?",
+      "options": [
+        "L'Iran a retiré ses troupes de la zone contestée",
+        "Plusieurs pays du Golfe lui ont demandé de suspendre les offensives pour un accord",
+        "L'ONU a imposé un cessez-le-feu immédiat",
+        "Les services de renseignement ont découvert une menace majeure sur le territoire américain"
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a affirmé que l'Arabie Saoudite, le Qatar et les Émirats arabes unis lui auraient demandé de suspendre les offensives car ils s'approcheraient d’un accord avec l’Iran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel événement historique est à l'origine de la présence des corps des 6 Amérindiens qui devraient être restitués à la Guyane ?",
+      "options": [
+        "Des combats durant la Première Guerre mondiale",
+        "Leur décès dans des 'zoos humains' à Paris à la fin du XIXe siècle",
+        "Une épidémie lors d'une expédition scientifique au XVIIIe siècle",
+        "Des sacrifices rituels pratiqués par leurs communautés"
+      ],
+      "correct": 1,
+      "explication": "Ces Amérindiens ont été exhibés vivants dans des 'zoos humains' au Jardin d’acclimatation de Paris en 1892, où ils sont finalement morts de froid et par manque de soins.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon la CNIL, quelle est la tendance principale concernant les notifications de violations de données personnelles en France pour 2025 ?",
+      "options": [
+        "Une légère baisse due à l'amélioration de la cybersécurité",
+        "Un record historique avec une hausse de 9,5 % par rapport à 2024",
+        "Une stagnation par rapport aux années précédentes",
+        "Une diminution significative des actes de piratage"
+      ],
+      "correct": 1,
+      "explication": "En 2025, la France a enregistré 6 167 notifications de violations de données personnelles, un record selon la CNIL, représentant une hausse de 9,5 % par rapport à 2024.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelles sont les deux spécialités médicales libérales qui présentent les délais médians les plus longs pour obtenir un rendez-vous en France, selon une étude récente ?",
+      "options": [
+        "Gynécologie et ophtalmologie",
+        "Pédiatrie et gastro-entérologie",
+        "Cardiologie et dermatologie",
+        "Rhumatologie et neurologie"
+      ],
+      "correct": 2,
+      "explication": "L'étude de Doctolib et la fondation Jean-Jaurès indique qu'il faut 42 jours pour un rendez-vous en cardiologie et 32 jours en dermatologie, faisant de ces deux spécialités les plus longues en médecine libérale.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Que révèle l'association Foodwatch concernant certains produits alimentaires importés vendus en France ?",
+      "options": [
+        "Une forte augmentation des prix due à l'inflation",
+        "La présence de traces de pesticides interdits dans l'UE",
+        "Un manque de variété dans les produits biologiques",
+        "Des emballages non conformes aux normes européennes"
+      ],
+      "correct": 1,
+      "explication": "Foodwatch a analysé des produits importés et a découvert que 12 des 15 produits testés en France contenaient des résidus de pesticides interdits dans l'UE.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'objectif principal du satellite Smile, lancé avec succès depuis Kourou ?",
+      "options": [
+        "Cartographier la surface de Mars",
+        "Analyser les vents solaires et leurs impacts sur la Terre",
+        "Détecter de nouvelles planètes habitables",
+        "Améliorer les prévisions météorologiques terrestres"
+      ],
+      "correct": 1,
+      "explication": "Le satellite Smile a pour objectif d'analyser les vents solaires, des particules frappant le champ magnétique de la Terre, qui peuvent perturber les satellites, les communications et les réseaux électriques.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "À qui est destiné le nouveau programme de dépistage gratuit du cancer du poumon débuté ce lundi en France ?",
+      "options": [
+        "Toutes les personnes de plus de 60 ans",
+        "Les fumeurs et ex-fumeurs âgés de 50 à 74 ans",
+        "Uniquement les femmes de plus de 50 ans",
+        "Les personnes ayant des antécédents familiaux de cancer du poumon"
+      ],
+      "correct": 1,
+      "explication": "Le programme est destiné aux fumeurs et ex-fumeurs de 50 à 74 ans dans les 5 régions concernées.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Parmi les raisons expliquant le rapprochement actuel entre la France et l'Algérie, laquelle est mentionnée comme 'pragmatique' ?",
+      "options": [
+        "Une volonté commune d'intégrer l'Algérie à l'Union Européenne",
+        "La nécessité de coopérer en tant que partenaires économiques importants",
+        "Un accord sur la question du Sahara occidental",
+        "La signature d'un traité de libre-échange"
+      ],
+      "correct": 1,
+      "explication": "France Culture explique que la France et l'Algérie restent des partenaires économiques importants et ont intérêt à maintenir une coopération, malgré les tensions.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel dossier sensible reste un point de discorde dans l'apaisement des relations franco-algériennes, pour lequel le gouvernement français espère une grâce présidentielle ?",
+      "options": [
+        "Le retour des ressortissants algériens en situation irrégulière en France",
+        "Le statut final du Sahara occidental",
+        "Le cas du journaliste français Christophe Gleizes, emprisonné en Algérie",
+        "Les compensations financières pour la période coloniale"
+      ],
+      "correct": 2,
+      "explication": "Le gouvernement français espère qu’une grâce présidentielle pourra être accordée prochainement pour le journaliste français Christophe Gleizes, condamné à sept ans de prison en Algérie, un sujet particulièrement sensible.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
