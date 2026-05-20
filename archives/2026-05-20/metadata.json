@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Que savons-nous de l’épidémie d'Ebola ?",
+  "date": "20/05/2026",
+  "img": "archives/2026-05-20/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le principal enjeu de l'épidémie d'Ebola actuelle en République démocratique du Congo selon le texte ?",
+      "options": [
+        "L'absence totale de vaccin et de traitement spécifique pour la souche Bundibugyo.",
+        "Le faible taux de létalité qui rend la maladie difficile à identifier.",
+        "La faible mobilisation des organisations internationales.",
+        "La propagation rapide du virus en Europe."
+      ],
+      "correct": 0,
+      "explication": "Le texte indique que \"Cette épidémie est causée par une souche rare appelée Bundibugyo. Contrairement à d’autres formes d’Ebola, il n’existe aujourd’hui ni vaccin ni traitement spécifique contre ce variant.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qui a averti que la guerre pourrait s’étendre bien au-delà du Moyen-Orient en cas de nouvelles attaques américaines ou israéliennes ?",
+      "options": [
+        "Le président iranien.",
+        "Les Gardiens de la Révolution iraniens.",
+        "Le Premier ministre israélien.",
+        "Le directeur de l'OMS."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : \"Les Gardiens de la Révolution, des paramilitaires chargés de protéger le pouvoir iranien, ont averti qu’en cas de nouvelles attaques américaines ou israéliennes, la guerre pourrait s’étendre bien au-delà du Moyen-Orient.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Dans quel but Donald Trump va-t-il créer un fonds d'1,5 milliard d'euros ?",
+      "options": [
+        "Financer sa campagne présidentielle de 2024.",
+        "Indemniser ses partisans poursuivis en justice.",
+        "Soutenir des associations caritatives.",
+        "Investir dans des entreprises technologiques."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Donald Trump va créer un fonds de l’équivalent d’1,5 milliard d’€ pour indemniser ses partisans poursuivis en justice sous Joe Biden et Barack Obama.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Comment le Premier ministre israélien Benjamin Netanyahou a-t-il réagi au traitement des militants de la flottille pour Gaza ?",
+      "options": [
+        "Il a salué la fermeté de l'intervention.",
+        "Il a déclaré que cela n'était pas conforme aux valeurs d'Israël.",
+        "Il a refusé de commenter l'incident.",
+        "Il a blâmé les militants pour leur comportement."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Pour le Premier ministre israélien Benjamin Netanyahou, la manière dont les militants ont été traités “n'est pas conforme aux valeurs et aux normes d'Israël”.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le principal objectif de la visite du président russe Vladimir Poutine en Chine ?",
+      "options": [
+        "Négocier un accord de paix sur la guerre en Ukraine.",
+        "Discuter de nouvelles sanctions économiques internationales.",
+        "Réaffirmer la solidité des relations russo-chinoises.",
+        "Coordonner une réponse aux tensions au Moyen-Orient."
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : \"les 2 dirigeants ont réaffirmé la solidité de leurs relations.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi une enquête a-t-elle été ouverte contre Édouard Philippe ?",
+      "options": [
+        "Pour des soupçons de fraude fiscale.",
+        "Pour des soupçons de détournement d'argent public et favoritisme.",
+        "Pour non-respect des règles de financement de campagne.",
+        "Pour des déclarations controversées sur la politique internationale."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Édouard Philippe... est soupçonné d’avoir détourné de l’argent public. [...] Les enquêteurs soupçonnent l’ex-Premier ministre d’avoir favorisé l’une de ses adjointes pour gérer un projet au Havre, en échange d’un soutien politique et relationnel.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la principale raison de la réduction de la durée des séjours sans visa en Thaïlande ?",
+      "options": [
+        "Augmenter les recettes touristiques par l'instauration de nouveaux visas payants.",
+        "Lutter contre les débordements causés par les touristes et la criminalité.",
+        "Limiter le nombre total de touristes étrangers.",
+        "Mieux contrôler les flux migratoires internationaux."
+      ],
+      "correct": 1,
+      "explication": "Le texte dit : \"La raison : la Thaïlande veut lutter contre les débordements causés par les touristes et souhaite renforcer ses efforts pour lutter contre la criminalité.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle proposition le ministre de l'Éducation nationale souhaite-t-il mettre en œuvre concernant le baccalauréat ?",
+      "options": [
+        "Supprimer l'épreuve orale du baccalauréat.",
+        "Instaurer un âge minimal pour passer le bac.",
+        "Rendre le baccalauréat obligatoire pour tous les élèves.",
+        "Ajouter de nouvelles matières au programme du bac."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : \"Le ministre de l’Éducation nationale souhaite instaurer un âge minimal pour passer le bac en France.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel phénomène météorologique est attendu en France en fin de semaine selon le texte ?",
+      "options": [
+        "Un épisode de fortes gelées.",
+        "Le retour de températures hivernales.",
+        "Une vague de chaleur avec des températures au-dessus des normales.",
+        "Des précipitations exceptionnellement abondantes."
+      ],
+      "correct": 2,
+      "explication": "Le texte annonce : \"La chaleur revient en France en fin de semaine, avec des températures au-dessus des normales dans plusieurs régions.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Comment le virus Ebola se transmet-il principalement entre humains, selon le texte ?",
+      "options": [
+        "Par voie aérienne, comme la grippe.",
+        "Par la consommation d'aliments contaminés.",
+        "Par des contacts étroits avec du sang ou d’autres liquides infectés.",
+        "Par les piqûres de moustiques."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Une fois contaminé, un humain peut transmettre le virus à d’autres personnes par ces mêmes contacts [contacts étroits avec du sang ou d’autres liquides infectés].\"",
+      "theme": "SANTÉ"
+    }
+  ]
+}
