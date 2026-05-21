@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 PFAS : L’État attaqué en Justice",
+  "date": "21/05/2026",
+  "img": "archives/2026-05-21/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelles associations attaquent l'État français en justice, l'accusant de ne pas protéger efficacement la population face au scandale des PFAS ?",
+      "options": [
+        "WWF, Greenpeace et LPO",
+        "Générations Futures, Notre Affaire à Tous et BLOOM",
+        "Amnesty International et Médecins Sans Frontières",
+        "UFC-Que Choisir et 60 Millions de Consommateurs"
+      ],
+      "correct": 2,
+      "explication": "Les associations Générations Futures, Notre Affaire à Tous et BLOOM sont celles qui accusent l'État de ne pas protéger la population contre les PFAS.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pour quel motif l'ex-président cubain Raúl Castro a-t-il été inculpé par la justice américaine ?",
+      "options": [
+        "Espionnage international",
+        "Complot visant à tuer des citoyens américains",
+        "Trafic de stupéfiants",
+        "Blanchiment d'argent"
+      ],
+      "correct": 2,
+      "explication": "Raúl Castro et 5 autres anciens responsables cubains sont accusés de complot visant à tuer des citoyens américains en 1996, suite à l'abattage de deux avions.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon une vaste enquête de l'Ined, quelle proportion de la population française a un lien avec l'immigration ?",
+      "options": [
+        "1 personne sur 2",
+        "1 personne sur 4",
+        "1 personne sur 3",
+        "1 personne sur 5"
+      ],
+      "correct": 3,
+      "explication": "L'étude de l'Ined a révélé qu'1 personne sur 3 en France est soit immigrée, soit enfant d'immigré, soit petit-enfant d'immigré.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle sanction financière a été prononcée contre Airbus et Air France pour le crash du vol Rio-Paris ?",
+      "options": [
+        "500 000 € d'amende chacune",
+        "1 million € d'amende chacune",
+        "225 000 € d'amende chacune",
+        "Aucune amende, seulement des dommages et intérêts"
+      ],
+      "correct": 3,
+      "explication": "Airbus et Air France ont été condamnées pour homicides involontaires et devront payer 225 000 € d'amende chacune.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon une étude menée par des chercheurs français, à quels risques pour la santé les colorants et conservateurs alimentaires peuvent-ils être associés ?",
+      "options": [
+        "Maladies cardiovasculaires et Alzheimer",
+        "Cancer et diabète de type 2",
+        "Problèmes rénaux et hépatiques",
+        "Allergies et intolérances alimentaires"
+      ],
+      "correct": 2,
+      "explication": "L'étude indique que les produits contenant des colorants alimentaires ou des conservateurs peuvent augmenter le risque de cancer et de diabète de type 2.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "De quoi la grande distribution est-elle accusée par une commission d'enquête du Sénat ?",
+      "options": [
+        "D'entente illégale sur les prix",
+        "De 'pratiques prédatrices' envers l’agriculture et les industriels",
+        "De non-respect des normes sanitaires",
+        "De dumping social"
+      ],
+      "correct": 2,
+      "explication": "La commission d'enquête du Sénat accuse la grande distribution de 'pratiques prédatrices' envers l’agriculture et les industriels.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Où se tiendra l'Esports World Cup cet été, après avoir été déplacée de Riyad en Arabie saoudite ?",
+      "options": [
+        "Londres",
+        "Berlin",
+        "Paris",
+        "Dubaï"
+      ],
+      "correct": 3,
+      "explication": "Initialement prévue à Riyad, l'Esports World Cup se tiendra finalement à Paris cet été.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Combien de nouvelles espèces marines ont été identifiées en un an par le programme international Ocean Census ?",
+      "options": [
+        "Environ 500",
+        "Plus de 2 000",
+        "1 121",
+        "Moins de 100"
+      ],
+      "correct": 3,
+      "explication": "Ocean Census a identifié 1 121 espèces marines que l'on ne connaissait pas en un an.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pourquoi les PFAS sont-ils surnommés 'polluants éternels' ?",
+      "options": [
+        "Car ils sont utilisés dans des produits de longue durée de vie",
+        "Car ils se dégradent extrêmement lentement dans l'environnement",
+        "Car leurs effets sur la santé sont irréversibles et permanents",
+        "Car ils contaminent les produits alimentaires indéfiniment"
+      ],
+      "correct": 2,
+      "explication": "Les PFAS sont appelés 'polluants éternels' en raison de leur dégradation extrêmement lente dans l'environnement.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon l'étude de l'Ined, quelle est la principale région d'origine des immigrés de 18 à 59 ans en France ?",
+      "options": [
+        "L'Europe",
+        "L'Asie",
+        "L'Afrique subsaharienne",
+        "Le Maghreb"
+      ],
+      "correct": 4,
+      "explication": "L'étude indique que 32% des immigrés de 18 à 59 ans sont originaires du Maghreb, ce qui en fait la région la plus représentée.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
