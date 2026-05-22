@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Un dôme de chaleur impacte la France",
+  "date": "22/05/2026",
+  "img": "archives/2026-05-22/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon le 'Décryptage', quel phénomène météorologique est à l'origine de la vague de chaleur actuelle en France ?",
+      "options": [
+        "Un front froid",
+        "Un anticyclone tropical",
+        "Un dôme de chaleur",
+        "Une dépression atlantique"
+      ],
+      "correct": 2,
+      "explication": "Le 'Décryptage' explique que la situation s’explique par un phénomène météorologique : un dôme de chaleur, aussi appelé blocage en oméga.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien d'animateurs du périscolaire à Paris ont été présentés à la justice cette semaine, soupçonnés de gestes à caractère sexuel sur des enfants ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "13"
+      ],
+      "correct": 2,
+      "explication": "Le paragraphe 'À comprendre' sur la SOCIÉTÉ indique que '3 animateurs du périscolaire, soupçonnés d’avoir eu des 'gestes à caractère sexuel' [...] ont été présentés à la justice ce vendredi'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pourquoi les États-Unis ont-ils annoncé suspendre les livraisons d'armes à Taïwan ?",
+      "options": [
+        "Pour apaiser les tensions avec la Chine",
+        "Pour économiser les stocks utilisés pour la guerre au Moyen-Orient",
+        "Suite à une demande de l'ONU",
+        "En raison de problèmes de production"
+      ],
+      "correct": 1,
+      "explication": "Le ministère américain de la Défense a annoncé la suspension 'pour économiser les stocks utilisés pour la guerre en cours au Moyen-Orient'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel ancien Premier ministre français a déclaré sa candidature à l'élection présidentielle de 2027 ?",
+      "options": [
+        "Jean Castex",
+        "Édouard Philippe",
+        "Gabriel Attal",
+        "Bernard Cazeneuve"
+      ],
+      "correct": 2,
+      "explication": "Le paragraphe 'POLITIQUE' annonce : 'L'ex-Premier ministre Gabriel Attal se déclare candidat à l'élection présidentielle de 2027'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle institution a tranché en faveur du maintien des Zones à Faibles Émissions (ZFE) en France ?",
+      "options": [
+        "Le Parlement européen",
+        "Le Conseil d'État",
+        "Le Conseil constitutionnel",
+        "L'Assemblée nationale"
+      ],
+      "correct": 2,
+      "explication": "Le paragraphe 'ENVIRONNEMENT' indique que 'Les zones à faibles émissions (ZFE) ne seront finalement pas supprimées, a tranché le Conseil constitutionnel'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon l'ECDC, quelle infection sexuellement transmissible (IST) est la plus fréquente en Europe ?",
+      "options": [
+        "La gonorrhée",
+        "La syphilis",
+        "La chlamydia",
+        "L'herpès génital"
+      ],
+      "correct": 2,
+      "explication": "La section 'SANTÉ' rapporte que 'La chlamydia reste l’IST la plus fréquente'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle nouvelle fonctionnalité Spotify va-t-elle lancer pour les fans d'artistes ?",
+      "options": [
+        "Des réductions sur les albums numériques",
+        "Un accès anticipé aux clips",
+        "La réservation automatique de billets de concert",
+        "Des rencontres exclusives avec les artistes"
+      ],
+      "correct": 2,
+      "explication": "Le paragraphe 'MUSIQUE' précise que 'Spotify va proposer aux fans les plus fidèles d'un artiste de leur réserver automatiquement 2 billets de concert, avant la mise en vente générale'.",
+      "theme": "TECH / CULTURE"
+    },
+    {
+      "q": "Quel placement d'épargne populaire en France a enregistré sa plus importante décollecte pour un mois d'avril depuis 2009 ?",
+      "options": [
+        "Le Plan Épargne Logement (PEL)",
+        "Le Livret Jeune",
+        "Le Livret A",
+        "Le Compte sur Livret"
+      ],
+      "correct": 2,
+      "explication": "La section 'ÉCONOMIE' stipule qu''En avril, le Livret A, le placement d’épargne le plus populaire en France, a enregistré une forte décollecte [...] C’est sa plus importante décollecte pour un mois d’avril depuis le début des statistiques en 2009'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon le ministère de l'Intérieur, de combien le nombre de victimes mineures enregistrées par les forces de l'ordre a-t-il bondi entre 2016 et 2025 en France ?",
+      "options": [
+        "156 %",
+        "77 %",
+        "45 %",
+        "25 %"
+      ],
+      "correct": 1,
+      "explication": "Le paragraphe 'SOCIÉTÉ' (sur les victimes mineures) indique que 'Le nombre de victimes mineures enregistrées par les forces de l’ordre a bondi de 77 % entre 2016 et 2025 en France'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel humoriste américain, connu pour ses critiques envers Donald Trump, a présenté son dernier 'Late Show' après 11 ans à l'antenne ?",
+      "options": [
+        "Jimmy Fallon",
+        "Jimmy Kimmel",
+        "John Oliver",
+        "Stephen Colbert"
+      ],
+      "correct": 3,
+      "explication": "La section 'TÉLÉVISION' mentionne que 'Stephen Colbert a présenté ce jeudi soir son dernier Late Show, après 11 ans à l’antenne'.",
+      "theme": "CULTURE"
+    }
+  ]
+}
