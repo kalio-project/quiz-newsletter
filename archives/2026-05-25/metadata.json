@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Poutine a lancé son nouveau missile “invincible”",
+  "date": "25/05/2026",
+  "img": "archives/2026-05-25/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel missile balistique hypersonique, décrit comme 'invincible' et capable de porter une charge nucléaire, la Russie aurait-elle utilisé ce week-end selon les autorités ukrainiennes ?",
+      "options": [
+        "Le Kinzhal",
+        "Le Iskander",
+        "L'Orechnik",
+        "Le Kalibr"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'parmi eux, au moins un missile balistique Orechnik, capable de porter une charge nucléaire, et que Vladimir Poutine décrit comme une arme 'invincible''.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de départements de l'ouest de la France ont été placés en vigilance orange canicule pour mardi, un fait inédit pour un mois de mai ?",
+      "options": [
+        "5 départements",
+        "8 départements",
+        "10 départements",
+        "12 départements"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que '8 départements de l’ouest de la France ont été placés en vigilance orange canicule pour mardi par Météo-France, du jamais-vu pour un mois de mai.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est le titre de la première encyclique du pape Léon XIV, dans laquelle il appelle à 'désarmer l’intelligence artificielle' ?",
+      "options": [
+        "Humanitas Digitalis",
+        "Magnifica Humanitas",
+        "Nova Sapientia",
+        "Veritas Aeterna"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'Le pape Léon XIV a appelé ce lundi à 'désarmer l’intelligence artificielle' dans sa première encyclique intitulée 'Magnifica Humanitas''.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de décès le virus Ebola a-t-il déjà causé en République démocratique du Congo parmi 867 cas suspects, selon le ministère de la Santé ?",
+      "options": [
+        "Plus de 50 morts",
+        "Plus de 100 morts",
+        "Plus de 200 morts",
+        "Plus de 300 morts"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'Le virus Ebola a déjà causé plus de 200 morts sur 867 cas suspects en République démocratique du Congo'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle députée Horizons de Vendée, connue pour son engagement sur les enjeux de prévention pour la santé et par le sport, est décédée ce dimanche à 59 ans ?",
+      "options": [
+        "Yaël Braun-Pivet",
+        "Valérie Pécresse",
+        "Béatrice Bellamy",
+        "Sandrine Rousseau"
+      ],
+      "correct": 2,
+      "explication": "Le texte annonce : 'La députée Horizons de Vendée Béatrice Bellamy est morte ce dimanche à 59 ans des suites d’un cancer'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "À partir de quelle année les lycéens français pourront-ils passer l’épreuve d'une de leurs spécialités en langue régionale ?",
+      "options": [
+        "2025",
+        "2026",
+        "2027",
+        "2028"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'À partir de 2028, les lycéens ayant suivi une spécialité en langue régionale pourront passer l’épreuve dans cette langue.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l'enquête annuelle de la Fédération des entreprises de la beauté, quel pourcentage des Français interrogés disent ne pas se protéger avec de la crème solaire à la plage ou à la piscine ?",
+      "options": [
+        "17 %",
+        "22 %",
+        "29 %",
+        "35 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : '29 % des personnes interrogées disent ne pas se protéger à la plage ou à la piscine, contre 17 % il y a 2 ans.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quels sont les deux matchs que la France a remportés face à l’Angleterre ce week-end, selon la rubrique 'SPORT' ?",
+      "options": [
+        "Le Tournoi des 6 Nations et le match amical de football",
+        "L'Eleven All Stars 2 et le Crunch Creator",
+        "La Coupe du Monde de rugby et la Coupe d'Europe de football",
+        "L'Eleven All Stars 1 et le Crunch Legacy"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : 'La France a remporté 2 matchs face à l’Angleterre ce week-end, le Eleven All Stars 2 et le Crunch Creator.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quelle méthode innovante va être utilisée à Toulouse pour freiner la prolifération du moustique tigre ?",
+      "options": [
+        "L'utilisation de drones pulvérisant des insecticides",
+        "Le déploiement de pièges à phéromones",
+        "Le relâchement de moustiques mâles stériles",
+        "L'introduction de chauves-souris, prédateurs naturels"
+      ],
+      "correct": 2,
+      "explication": "La 'Bonne nouvelle' indique : 'À Toulouse, des moustiques mâles stériles, qui ne piquent pas, vont être relâchés afin de freiner la prolifération du moustique tigre en ville.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Au Venezuela, quelles étaient les principales revendications des centaines de détenus ayant pris le contrôle d’une prison à Barinas ?",
+      "options": [
+        "Une amnistie générale et de meilleures conditions de détention",
+        "La destitution du ministre des Services pénitentiaires et du directeur de la prison",
+        "Un transfert collectif vers d'autres établissements et l'accès à internet",
+        "La fin des procédures judiciaires en cours et des visites familiales sans restriction"
+      ],
+      "correct": 1,
+      "explication": "La section 'À comprendre' sur le Venezuela explique : 'Ils réclament la destitution du ministre des Services pénitentiaires et du directeur de la prison, qu’ils accusent de violences et de mauvais traitements.'",
+      "theme": "JUSTICE"
+    }
+  ]
+}
