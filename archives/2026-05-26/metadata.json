@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump bombarde l’Iran, inquiétudes pour les négociations",
+  "date": "26/05/2026",
+  "img": "archives/2026-05-26/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon le 'Décryptage', quel événement a précédé les nouvelles frappes américaines en Iran ce lundi soir ?",
+      "options": [
+        "Des responsables iraniens se sont rendus à Doha pour des discussions.",
+        "Les États-Unis ont affirmé avoir coulé 2 navires qui tentaient de poser des mines dans le détroit d’Ormuz.",
+        "L'Iran a riposté avec des missiles visant des avions américains.",
+        "Le président iranien Massoud Pezeshkian a annoncé le rétablissement de l'accès à Internet."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'C’est donc dans ce contexte que les États-Unis ont annoncé de nouvelles frappes lundi soir. Les États-Unis ont affirmé avoir coulé 2 navires qui tentaient de poser des mines dans le détroit d’Ormuz.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la revendication principale des milliers de manifestants à La Paz, en Bolivie, selon la section 'À comprendre' ?",
+      "options": [
+        "La renégociation d'accords commerciaux.",
+        "La démission du président de centre droit Rodrigo Paz.",
+        "L'intégration à un nouveau bloc économique.",
+        "La fin des restrictions sanitaires."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'À La Paz, la capitale politique du pays, des milliers de manifestants réclament la démission du président de centre droit Rodrigo Paz.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de décès, dont des noyades, seraient directement ou indirectement liés aux fortes chaleurs en France, selon l'annonce de ce mardi ?",
+      "options": [
+        "3 décès.",
+        "5 décès.",
+        "7 décès.",
+        "10 décès."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne : '7 décès, dont 5 noyades, seraient directement ou indirectement liés aux fortes chaleurs qui touchent actuellement la France.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon le gestionnaire du réseau ferré belge, quelle serait la cause de la collision mortelle entre un train et un car scolaire à Buggenhout ?",
+      "options": [
+        "Une défaillance technique du train.",
+        "Une panne du système de signalisation.",
+        "Le minibus aurait franchi le passage de niveau malgré un feu rouge et une barrière fermée.",
+        "Les conditions météorologiques défavorables."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Selon le gestionnaire du réseau ferré belge, le minibus aurait franchi le passage de niveau malgré un feu rouge et une barrière fermée.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la raison invoquée par la Russie pour appeler les ressortissants étrangers et personnels diplomatiques à quitter Kyiv ?",
+      "options": [
+        "Une offensive terrestre majeure imminente.",
+        "De nouvelles “frappes seront menées contre des centres de décision” et des “entreprises du complexe militaro-industriel” de la ville.",
+        "L'instauration d'un couvre-feu général.",
+        "La signature d'un accord de paix."
+      ],
+      "correct": 1,
+      "explication": "La Russie a déclaré : 'La raison : de nouvelles “frappes seront menées contre des centres de décision” et des “entreprises du complexe militaro-industriel” de la ville, selon la Russie.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien d'hommes, dont un en fuite, sont jugés à Rennes pour leur implication présumée dans la tentative de meurtre du blogueur Mahammad Mirzali ?",
+      "options": [
+        "5 hommes.",
+        "7 hommes.",
+        "9 hommes.",
+        "12 hommes."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : '9 hommes, dont un en fuite, soupçonnés d’être impliqués dans la tentative de meurtre du blogueur et dissident azéri Mahammad Mirzali à Nantes en 2021, sont jugés depuis ce mardi à Rennes.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon Santé publique France, quelle proportion des Français de 18 à 29 ans a suivi plusieurs séances d’éducation sexuelle à l’école ?",
+      "options": [
+        "Plus de la moitié.",
+        "Moins de la moitié.",
+        "La grande majorité.",
+        "Tous les élèves."
+      ],
+      "correct": 1,
+      "explication": "L'article indique : 'Moins de la moitié des Français de 18 à 29 ans ont suivi plusieurs séances d’éducation sexuelle à l’école, selon Santé publique France.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de victoires Gaël Monfils a-t-il remportées à Roland Garros au cours de sa carrière, un record chez les joueurs français qu'il partage avec Yannick Noah ?",
+      "options": [
+        "39 victoires.",
+        "40 victoires.",
+        "59 victoires.",
+        "218 victoires."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Au cours de sa carrière, il a disputé 59 matchs à Roland Garros pour 40 victoires, un record chez les joueurs français, qu'il partage avec Yannick Noah.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon plusieurs analystes cités dans le 'Décryptage', quel est l'objectif de la pression militaire exercée par Donald Trump sur l'Iran ?",
+      "options": [
+        "Déclencher une guerre à grande échelle.",
+        "Pousser l'Iran à faire rapidement des concessions.",
+        "Renforcer sa popularité auprès des électeurs.",
+        "Mettre fin au blocus économique."
+      ],
+      "correct": 1,
+      "explication": "Le 'Décryptage' explique : 'Selon plusieurs analystes, cette pression militaire vise à pousser l’Iran à faire rapidement des concessions.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour la journée de mercredi, combien de départements français ont été placés en vigilance orange canicule ?",
+      "options": [
+        "8 départements.",
+        "10 départements.",
+        "13 départements.",
+        "15 départements."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Pour la journée de mercredi, 13 départements, toujours situés dans l’ouest de la France, ont été placés en vigilance orange canicule, selon un bilan Météo-France.'",
+      "theme": "ENVIRONNEMENT"
+    }
+  ]
+}
