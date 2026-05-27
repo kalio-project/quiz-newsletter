@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Une pollution à l’ozone touche la France",
+  "date": "27/05/2026",
+  "img": "archives/2026-05-27/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel phénomène environnemental, exacerbé par les températures élevées actuelles, dégrade massivement la qualité de l'air en France ?",
+      "options": [
+        "Les pluies acides",
+        "La pollution à l'ozone",
+        "Le brouillard toxique",
+        "Les tempêtes de sable"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'« une importante pollution à l’ozone touche aussi le pays. Cette pollution dégrade massivement la qualité de l’air que nous respirons ».",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de personnes, dont des enfants, ont été tuées ce mardi lors des bombardements israéliens dans le sud du Liban, selon l'article ?",
+      "options": [
+        "Au moins 18 personnes",
+        "Au moins 25 personnes",
+        "Au moins 31 personnes",
+        "Au moins 40 personnes"
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne : « Au moins 31 personnes, dont 4 enfants, ont été tuées ce mardi dans des bombardements israéliens dans le sud du Liban. »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon Météo France, combien de records de chaleur pour un mois de mai ont été battus ce mardi en France ?",
+      "options": [
+        "Près de 100",
+        "Environ 250",
+        "Près de 400",
+        "Plus de 500"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : « Près de 400 records de chaleur ont été battus ce mardi en France pour un mois de mai, selon Météo France. »",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pourquoi Samsung Electronics a-t-elle versé une prime record d'environ 290 000€ par salarié à ses employés en Corée du Sud ?",
+      "options": [
+        "Pour fêter des profits exceptionnels dus à de nouvelles innovations",
+        "Pour financer un programme d'expansion international",
+        "Pour éviter une grève massive dénonçant les profits liés à l'IA",
+        "Pour compenser une augmentation du coût de la vie"
+      ],
+      "correct": 2,
+      "explication": "Il est indiqué que « L’entreprise a préférer payer pour éviter une grève massive de + de 50 000 employés, qui dénonçaient les profits générés par l’entreprise grâce à l’IA. »",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle a été la recommandation de la diplomatie russe aux ressortissants étrangers vivant à Kyiv ce lundi ?",
+      "options": [
+        "De s'enregistrer auprès des autorités locales",
+        "De quitter la ville avant de nouveaux bombardements russes",
+        "De se rassembler dans des zones sécurisées",
+        "De participer à des exercices de défense civile"
+      ],
+      "correct": 1,
+      "explication": "La diplomatie russe avait appelé ce lundi les ressortissants étrangers vivant à Kyiv à quitter la ville avant de nouveaux bombardements russes.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la tendance observée pour la consommation de tabac chez les adultes en France entre 2024 et 2025 ?",
+      "options": [
+        "Une légère augmentation des ventes de tabac",
+        "Une chute significative des ventes de tabac",
+        "Une stabilité des ventes de tabac",
+        "Une augmentation uniquement chez les jeunes adultes"
+      ],
+      "correct": 1,
+      "explication": "Les ventes de tabac chez les buralistes ont chuté de 8,2 % entre 2024 et 2025, et moins d’1 adulte sur 5 fumait tous les jours en 2024, soit le plus bas niveau observé depuis plus de 20 ans.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle bonne nouvelle a été rapportée concernant la déforestation au Brésil pour l'année 2025 ?",
+      "options": [
+        "Elle a augmenté légèrement mais est sous contrôle",
+        "Elle a atteint son niveau le plus bas depuis 2019",
+        "Elle a été complètement stoppée en Amazonie",
+        "Elle a diminué uniquement grâce à des sanctions internationales"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : « Au Brésil, la déforestation a atteint en 2025 son plus bas niveau depuis 2019, selon le réseau de surveillance MapBiomas. »",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Comment se forme principalement l'ozone au niveau du sol, responsable de la pollution de l'air, lors des fortes chaleurs et du fort ensoleillement ?",
+      "options": [
+        "Il est directement rejeté par les usines et les véhicules",
+        "Il est produit par la décomposition de matières organiques",
+        "Il résulte de réactions chimiques entre des polluants émis par les voitures, usines et l'agriculture",
+        "Il s'échappe de la couche d'ozone protectrice"
+      ],
+      "correct": 2,
+      "explication": "Il est expliqué que : « Quand il fait très chaud et ensoleillé, les polluants émis par les voitures, les usines ou l’agriculture réagissent chimiquement entre eux et produisent davantage d’ozone. »",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quels sont les effets à long terme de la pollution à l'ozone sur la santé, selon l'article ?",
+      "options": [
+        "Une amélioration de la fonction pulmonaire",
+        "Une aggravation des maladies respiratoires chroniques et une augmentation des risques d'hospitalisation",
+        "Un renforcement du système immunitaire",
+        "Aucun impact significatif sur la santé à long terme"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : « Plusieurs études montrent également qu’à long terme, cette pollution peut aggraver des maladies respiratoires chroniques et augmenter les risques d’hospitalisation pendant les fortes chaleurs. »",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est un avantage clé du futur sous-marin à propulsion nucléaire que la Corée du Sud prévoit de construire ?",
+      "options": [
+        "Il sera le plus rapide au monde grâce à sa propulsion nucléaire",
+        "Il pourra rester longtemps en mer sans dépendre du carburant",
+        "Il sera totalement indétectable par les sonars ennemis",
+        "Il aura la capacité de se transformer en avion"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : « Ce sous-marin pourra rester longtemps en mer car il ne dépend pas du carburant grâce à sa propulsion nucléaire. »",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
