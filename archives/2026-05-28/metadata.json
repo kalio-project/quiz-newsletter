@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Les marchés financiers en hausse malgré la guerre",
+  "date": "28/05/2026",
+  "img": "archives/2026-05-28/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'actualité du jour, quelle est la tendance générale des marchés boursiers mondiaux malgré la guerre au Moyen-Orient ?",
+      "options": [
+        "Ils sont en chute libre, reflétant la panique générale.",
+        "Ils stagnent, sans mouvement significatif.",
+        "Ils atteignent globalement des niveaux record.",
+        "Ils sont en légère baisse, mais sans gravité."
+      ],
+      "correct": 3,
+      "explication": "L'article indique que \"globalement, c’est l’inverse qui semble se produire : certains marchés boursiers atteignent des niveaux record.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel texte historique, pourtant non appliqué depuis 1848, a été voté pour abrogation par l'Assemblée nationale ?",
+      "options": [
+        "La Charte coloniale de 1789.",
+        "Le Code noir de 1685.",
+        "L'Édit de Nantes de 1598.",
+        "La Déclaration des droits de l'homme et du citoyen de 1789."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne : \"L’abrogation du Code noir, un texte signé en 1685 pour encadrer l’esclavage dans les colonies, a été adoptée à l’unanimité par l’Assemblée nationale ce jeudi. Même s’il n’est plus appliqué depuis l’abolition de l’esclavage en 1848, il n’a jamais été supprimé.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quels traitements contre l'obésité seront remboursés par la Sécurité sociale à partir de la mi-juin, pour les patients atteints d'obésité sévère ?",
+      "options": [
+        "Uniquement les opérations chirurgicales bariatriques.",
+        "Les injections hebdomadaires Wegovy et Mounjaro.",
+        "Des programmes de diète et d'exercice supervisés.",
+        "Les consultations diététiques et les médicaments génériques."
+      ],
+      "correct": 2,
+      "explication": "L'article indique : \"Les traitements contre l’obésité Wegovy et Mounjaro seront remboursés par la Sécurité sociale à partir de la mi-juin, a annoncé la ministre de la Santé. (...) Le remboursement sera réservé aux patients atteints d’obésité sévère.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qui est Mohammed Odeh, le chef de la branche armée du Hamas, dont la mort a été confirmée ce mardi ?",
+      "options": [
+        "Le ministre des Affaires étrangères du Hamas.",
+        "L'un des principaux architectes de l'attaque du 7 octobre 2023 en Israël.",
+        "Le porte-parole politique du mouvement islamiste.",
+        "Un négociateur de paix entre le Hamas et Israël."
+      ],
+      "correct": 2,
+      "explication": "L'article affirme : \"Mohammed Odeh, le chef de la branche armée du Hamas, a été tué ce mardi lors d’une frappe israélienne, a confirmé le mouvement islamiste palestinien. Il était l’un des principaux architectes de l’attaque du 7 octobre 2023 en Israël.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle nouvelle mesure a été annoncée concernant les membres du personnel d'établissements scolaires ayant eu des comportements inappropriés ?",
+      "options": [
+        "Ils devront suivre une formation obligatoire sur la déontologie.",
+        "Ils seront inscrits sur une \"liste noire\" les empêchant de travailler ailleurs dans l'éducation.",
+        "Ils recevront une simple mutation vers un autre établissement.",
+        "Ils seront soumis à une évaluation psychologique annuelle."
+      ],
+      "correct": 2,
+      "explication": "L'article précise : \"Les membres du personnel d'établissements scolaires ayant eu des comportements inappropriés à l’école (...) seront inscrits sur une “liste noire”.\" et \"Une personne qui a été écartée d’un établissement scolaire, même sans condamnation, ne pourra plus être recrutée ailleurs ni passer un concours pour devenir professeur par exemple.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Il y a 30 ans, le 28 mai 1996, quelle décision majeure a été annoncée par le président Jacques Chirac ?",
+      "options": [
+        "La création de l'euro comme monnaie unique européenne.",
+        "La fin du service militaire obligatoire.",
+        "La privatisation de grandes entreprises publiques.",
+        "L'entrée de la France dans l'espace Schengen."
+      ],
+      "correct": 2,
+      "explication": "La section \"Flashback\" indique : \"Il y a 30 ans, le 28 mai 1996, Jacques Chirac, alors président de la République, annonçait la fin du service militaire obligatoire.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon l'analyse de la rubrique \"Décryptage\", quel facteur technologique contribue à tirer les marchés financiers vers le haut malgré le contexte géopolitique ?",
+      "options": [
+        "L'émergence de nouvelles énergies renouvelables.",
+        "Les avancées dans la technologie de l'exploration spatiale.",
+        "L'explosion de l'intelligence artificielle.",
+        "Le développement des crypto-monnaies."
+      ],
+      "correct": 3,
+      "explication": "L'article explique : \"Enfin, cette guerre intervient dans un contexte particulier : celui de l’explosion de l’intelligence artificielle. Aujourd’hui, les grandes entreprises technologiques liées à l’IA tirent largement les marchés vers le haut.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon le syndicat Snes-FSU, quel pourcentage de collèges et lycées ont enregistré des températures supérieures à 30°C dans au moins une salle de classe cette semaine ?",
+      "options": [
+        "Moins de 50%.",
+        "Environ 60%.",
+        "Près de 80%.",
+        "La totalité des établissements."
+      ],
+      "correct": 3,
+      "explication": "L'article déclare : \"Près de 80% des collèges et lycées ont relevé une température supérieure à 30°C dans au moins une salle de classe cette semaine, selon le syndicat Snes-FSU.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pour quelle raison principale l'Union européenne a-t-elle infligé une amende de 200 millions d'euros au géant du commerce en ligne Temu ?",
+      "options": [
+        "Pour non-respect des règles de protection des données personnelles.",
+        "Pour pratiques monopolistiques sur le marché européen.",
+        "Pour avoir permis la vente de produits illégaux et dangereux.",
+        "Pour évasion fiscale et optimisations agressives."
+      ],
+      "correct": 3,
+      "explication": "L'article indique : \"L’Union européenne a infligé une amende de 200 millions d’euros au géant chinois du commerce en ligne, Temu, pour avoir permis la vente de produits illégaux.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel sujet a été abordé dans la nouvelle vidéo publiée ce dimanche ?",
+      "options": [
+        "Les défis de l'enseignement à distance.",
+        "L'impact des nouvelles technologies sur l'apprentissage.",
+        "La fin des notes à l'école.",
+        "L'histoire de l'éducation en France."
+      ],
+      "correct": 3,
+      "explication": "La section \"Nouvelle vidéo\" mentionne : \"Ce dimanche, on a sorti cette vidéo sur la fin des notes à l’école.\"",
+      "theme": "CULTURE"
+    }
+  ]
+}
