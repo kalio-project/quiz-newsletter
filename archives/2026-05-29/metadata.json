@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Vers la chute de l’IA ?",
+  "date": "29/05/2026",
+  "img": "archives/2026-05-29/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le principal problème soulevé par de nombreux PDG et cadres concernant l'IA, malgré son développement rapide ?",
+      "options": [
+        "Son manque de précision dans les tâches complexes.",
+        "Son impact négatif sur la cybersécurité des entreprises.",
+        "Son coût réel par rapport à ses bénéfices actuels.",
+        "Sa lenteur d'intégration dans les processus existants."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne que de nombreux PDG et cadres commencent à s’alarmer du coût réel de l'IA par rapport à ses bénéfices actuels, notamment dans la section 'Décryptage' sur la 'chute de l’IA'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle mesure diplomatique la Roumanie a-t-elle prise contre la Russie après le crash d'un drone près de sa frontière avec l'Ukraine ?",
+      "options": [
+        "Elle a déclaré le ministre russe des Affaires étrangères 'persona non grata'.",
+        "Elle a fermé son ambassade à Moscou.",
+        "Elle a déclaré le consul général russe 'persona non grata' et fermé le consulat de Constanta.",
+        "Elle a rappelé son ambassadeur en Russie pour consultations."
+      ],
+      "correct": 2,
+      "explication": "L'article indique que 'La Roumanie a déclaré ce vendredi le consul général russe 'persona non grata', donc interdit du territoire roumain, après le crash de ce drone. Le consulat russe dans la ville de Constanta, dans le sud-est du pays, va donc fermer'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelles forces de sécurité ont été ajoutées à la liste noire de l'ONU sur les violences sexuelles commises en période de conflit ?",
+      "options": [
+        "Les forces de sécurité des États-Unis et de la Chine.",
+        "Les forces de sécurité d'Israël et de la Russie.",
+        "Les forces de sécurité de l'Iran et de l'Arabie Saoudite.",
+        "Les forces de sécurité de la Turquie et de l'Égypte."
+      ],
+      "correct": 1,
+      "explication": "L'article stipule que 'Les 'forces de sécurité' d’Israël et de la Russie sont maintenant sur la liste noire de l’ONU sur les violences sexuelles commises en période de conflit'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'application Umay, de combien les signalements pour harcèlement de rue ont-ils augmenté en France depuis le début des fortes chaleurs ?",
+      "options": [
+        "10 %",
+        "20 %",
+        "30 %",
+        "50 %"
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne que 'Les signalements pour harcèlement de rue ont augmenté de 30 % depuis le début des fortes chaleurs en France le 21 mai selon l’application Umay'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "De quoi Jean Messiha, membre de Reconquête, est-il accusé concernant une cagnotte qu'il a lancée ?",
+      "options": [
+        "De détournement de fonds publics.",
+        "D'évasion fiscale.",
+        "D'abus de confiance pour une cagnotte destinée à des familles de victimes.",
+        "De blanchiment d'argent."
+      ],
+      "correct": 2,
+      "explication": "L'article déclare que 'Jean Messiha, membre du parti d’extrême droite Reconquête, est accusé d’abus de confiance' concernant une cagnotte lancée pour les familles de 2 agents pénitentiaires, dont les veuves n'ont pas reçu l'argent.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi la Société Miss France a-t-elle décidé de ne pas envoyer de candidate au prochain concours Miss Univers en 2025 ?",
+      "options": [
+        "En raison d'un calendrier incompatible avec leurs propres élections régionales.",
+        "Pour des raisons financières liées à l'organisation de l'événement.",
+        "Elle évoque des dysfonctionnements et des accusations de triche lors de l'édition 2025.",
+        "Suite à un désaccord sur les critères de sélection des candidates internationales."
+      ],
+      "correct": 2,
+      "explication": "L'article indique que la Société Miss France 'évoque des dysfonctionnements lors de l’édition 2025 organisée en Thaïlande, faisant notamment référence à des accusations de triche'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle nouvelle positive l'OMS a-t-elle annoncée concernant l'épidémie d'Ebola en République démocratique du Congo ?",
+      "options": [
+        "Un vaccin contre le virus a été découvert.",
+        "Un premier patient infecté par le virus Ebola a été déclaré guéri.",
+        "Le nombre de nouveaux cas a diminué de moitié en une semaine.",
+        "L'épidémie est officiellement terminée sur le territoire."
+      ],
+      "correct": 1,
+      "explication": "L'article rapporte qu''Un patient infecté par le virus responsable de l’épidémie d’Ebola en République démocratique du Congo a été déclaré guéri, une 1re depuis le début de l’épidémie déclarée le 15 mai, selon l’OMS'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon Sundar Pichai, le CEO de Google, quel volume de tokens son entreprise traite-t-elle chaque mois actuellement ?",
+      "options": [
+        "480 000 milliards de tokens.",
+        "9 700 milliards de tokens.",
+        "3,2 millions de milliards de tokens.",
+        "Environ 1 million de milliards de tokens."
+      ],
+      "correct": 2,
+      "explication": "Dans la section 'Décryptage', il est dit que 'Google traite chaque mois, 3,2 millions de milliards de tokens'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est le bilan d'Unicef pour les enfants au Liban suite aux bombardements israéliens depuis le 17 avril ?",
+      "options": [
+        "15 enfants tués et 62 blessés en une semaine.",
+        "55 enfants tués et 212 blessés depuis le 17 avril.",
+        "Les deux chiffres précédents (15 tués/62 blessés en une semaine, et 55 tués/212 blessés depuis le 17 avril).",
+        "Aucune victime n'a été recensée."
+      ],
+      "correct": 2,
+      "explication": "L'Unicef dénombre '15 enfants ont été tués et 62 autres blessés en une semaine au Liban dans des bombardements israéliens' et '55 enfants tués et 212 autres blessés depuis l’entrée en vigueur du cessez-le-feu entre Israël et le Liban le 17 avril'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle entreprise, citée dans le 'Décryptage', aurait déjà épuisé son budget annuel 2026 dédié aux outils d'IA en quelques mois ?",
+      "options": [
+        "Microsoft.",
+        "Google.",
+        "Uber.",
+        "Anthropic."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne que 'Chez Uber, l’IA est omniprésente (...) l’entreprise aurait déjà épuisé en quelques mois son budget annuel 2026 dédié à ces outils'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
