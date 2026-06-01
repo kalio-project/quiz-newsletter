@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Liban : le conflit s’intensifie",
+  "date": "01/06/2026",
+  "img": "archives/2026-06-01/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle action a entreprise la France en réponse à l'intensification des opérations israéliennes au Liban ?",
+      "options": [
+        "Elle a envoyé des troupes militaires pour soutenir le Liban.",
+        "Elle a imposé des sanctions économiques à Israël.",
+        "Elle a demandé une réunion d'urgence du Conseil de Sécurité de l'ONU.",
+        "Elle a offert une médiation bilatérale entre Israël et le Hezbollah."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'La France a convoqué une réunion du Conseil de Sécurité de l’ONU' en réponse à l'escalade du conflit au Liban.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la principale fonction de la 'flotte fantôme russe' interceptée par la marine française ?",
+      "options": [
+        "Transporter des marchandises illégales telles que des armes.",
+        "Mener des opérations de surveillance maritime secrètes.",
+        "Exporter le pétrole russe en contournant les sanctions internationales.",
+        "Assurer la protection des navires de guerre russes en haute mer."
+      ],
+      "correct": 2,
+      "explication": "La section 'À comprendre' explique que la flotte fantôme russe est 'un ensemble de navires utilisés par la Russie pour continuer à exporter son pétrole en contournant les sanctions internationales'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où s'est produite l'explosion meurtrière en Birmanie ce dimanche, et quelle en serait la cause selon les rebelles locaux ?",
+      "options": [
+        "Dans la capitale, causée par un attentat terroriste.",
+        "Dans une zone contrôlée par des rebelles, suite à une explosion accidentelle d'explosifs miniers.",
+        "Près d'une base militaire gouvernementale, due à un bombardement aérien.",
+        "Dans un camp de réfugiés, causée par un accident de gaz domestique."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que 'L’explosion s’est produite dans un territoire contrôlé par l’Armée de libération nationale Ta’ang... Selon ce mouvement, il s’agirait d’une explosion accidentelle d’explosifs stockés pour des activités d'extraction minière.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes ont été interpellées en France dans la nuit de samedi à dimanche après la victoire du PSG, et quelle a été l'évolution par rapport à l'année précédente ?",
+      "options": [
+        "Environ 500, soit une baisse de 10%.",
+        "Plus de 890, soit une hausse de 45%.",
+        "Moins de 300, soit une stabilité par rapport à l'an dernier.",
+        "Plus de 1 000, soit une légère augmentation de 15%."
+      ],
+      "correct": 1,
+      "explication": "Le ministre de l'Intérieur a rapporté que 'Plus de 890 personnes ont été interpellées en France... soit une hausse de 45 % par rapport à l’an dernier.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon les services de renseignement britanniques, quel est le nombre estimé de soldats russes morts en Ukraine depuis février 2022 ?",
+      "options": [
+        "Environ 100 000.",
+        "Environ 250 000.",
+        "Environ 500 000.",
+        "Plus de 1 000 000."
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare : '500 000 soldats russes sont morts en Ukraine depuis le début de l’invasion... selon les services de renseignement britanniques.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la principale disposition de la proposition de loi examinée par l'Assemblée nationale concernant le secret de la confession ?",
+      "options": [
+        "Interdire la confession pour les mineurs de moins de 15 ans.",
+        "Obliger les prêtres à signaler aux autorités tout abus sexuel sur mineur appris en confession.",
+        "Permettre aux fidèles d'enregistrer leur confession à des fins légales.",
+        "Limiter la durée du secret de la confession à 10 ans."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que la proposition de loi 'prévoit qu’un prêtre apprenant lors d’une confession qu’un mineur est victime de violences ou d’abus sexuels devra le signaler aux autorités.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel montant record d'investissements étrangers a été annoncé lors de la 9e édition du sommet Choose France ?",
+      "options": [
+        "45 milliards d'euros.",
+        "70 milliards d'euros.",
+        "93 milliards d'euros.",
+        "15 milliards d'euros."
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme que '93 milliards d’€ d’investissements étrangers ont été annoncés lors de la 9e édition du sommet Choose France, un record selon Emmanuel Macron.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Combien de nouveaux concerts Céline Dion a-t-elle annoncé à Paris La Défense Arena pour 2027 ?",
+      "options": [
+        "5 concerts.",
+        "8 concerts.",
+        "10 concerts.",
+        "12 concerts."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'La chanteuse québécoise Céline Dion a annoncé 10 nouveaux concerts à Paris La Défense Arena en 2027.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel crime est passible de 30 ans de prison et a été retenu contre l'homme de 41 ans arrêté dans l'affaire de la disparition de Lyhanna ?",
+      "options": [
+        "Enlèvement de mineur.",
+        "Séquestration d'un mineur.",
+        "Enlèvement et séquestration d'un mineur de moins de 15 ans.",
+        "Complicité de disparition."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que l'homme a été placé en garde à vue pour '“enlèvement et séquestration d'un mineur de moins de 15 ans”, un crime passible de 30 ans de prison.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est la signification du fleuve Litani dans le contexte des opérations israéliennes au Liban, selon le décryptage ?",
+      "options": [
+        "Il marque la ligne de cessez-le-feu permanente entre les deux pays.",
+        "Il est une ressource en eau vitale partagée par les populations.",
+        "Certains extrémistes israéliens le considèrent comme une 'frontière naturelle d’Israël', alimentant les craintes d'annexion.",
+        "C'est la zone où la majorité des opérations terrestres du Hezbollah ont lieu."
+      ],
+      "correct": 2,
+      "explication": "La section 'Décryptage' explique que 'le fleuve Litani est particulièrement sensible : certains membres les plus extrémistes du gouvernement israélien l’ont déjà présenté comme une “frontière naturelle d’Israël”, alimentant les craintes d’une éventuelle annexion du sud du Liban'.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
