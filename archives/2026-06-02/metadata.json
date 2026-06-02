@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 El Niño : l’ONU lance l’alerte",
+  "date": "02/06/2026",
+  "img": "archives/2026-06-02/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'ONU, quelle est la probabilité qu'un épisode El Niño survienne entre juin et août ?",
+      "options": [
+        "Moins de 50 %",
+        "Environ 60 %",
+        "Plus de 80 %",
+        "Près de 100 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'un épisode El Niño a 'plus de 80 % de chances de survenir entre juin et août, selon l’ONU'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel record la France a-t-elle battu ce printemps, selon Météo-France ?",
+      "options": [
+        "Le printemps le plus sec jamais enregistré",
+        "Le printemps le plus pluvieux de l'histoire",
+        "Le printemps le plus chaud depuis 1900",
+        "Le printemps avec le plus grand nombre d'orages"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'La France a connu son printemps le plus chaud jamais enregistré depuis le début des mesures en 1900, selon Météo-France.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle mesure le gouvernement français met-il en place pour les jeunes souffrant de troubles de santé mentale ?",
+      "options": [
+        "Un programme de bourses pour des études en psychologie",
+        "Un système de 'coupe-file' pour obtenir un rendez-vous chez un psy en moins de 48 heures",
+        "La création de nouveaux hôpitaux spécialisés",
+        "Un remboursement intégral des consultations chez tous les psychologues"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Un système de 'coupe-file' va être mis en place par le gouvernement pour les jeunes [...] L’objectif : obtenir un rendez-vous chez un psy en moins de 48 heures.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Dans le cadre des affrontements au Moyen-Orient, quelle action le Hezbollah a-t-il affirmé avoir réalisée ce mardi ?",
+      "options": [
+        "La signature d'un accord de cessez-le-feu",
+        "Le lancement de négociations avec Donald Trump",
+        "La destruction d'un char israélien",
+        "L'occupation d'un village du nord d'Israël"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Le Hezbollah [...] a affirmé ce mardi avoir détruit un char israélien près de Hadatha'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Que prévoit la nouvelle politique migratoire de l'UE pour les personnes dont la demande d'asile a été refusée ?",
+      "options": [
+        "L'obtention automatique d'un permis de travail",
+        "La création de centres au Rwanda, en Ouganda ou en Ouzbékistan",
+        "Une aide financière pour un retour volontaire",
+        "L'accès à un second examen de leur dossier sans délai"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que la proposition de loi 'prévoit notamment la création de centres au Rwanda, en Ouganda ou en Ouzbékistan. Elle concernerait les personnes dont la demande d’asile a été refusée.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de pays ont dénoncé le comportement de la Russie à l'ONU suite à la chute d'un drone en Roumanie ?",
+      "options": [
+        "Moins de 20 pays",
+        "Entre 30 et 40 pays",
+        "Plus de 56 pays",
+        "Tous les pays membres de l’UE"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Plus de 56 pays, notamment membres de l’Union européenne, ont dénoncé lundi à l’ONU le comportement “inacceptable” de la Russie'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la valorisation estimée de l'entreprise Anthropic (à l'origine de Claude) avant son introduction en Bourse ?",
+      "options": [
+        "Environ 10 milliards de dollars",
+        "Près de 100 milliards de dollars",
+        "Près de 1 000 milliards de dollars",
+        "Quelques millions de dollars"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que l'entreprise est 'Valorisée à près de 1 000 milliards de dollars'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel record Parcoursup a-t-il atteint cette année concernant le nombre de candidats ?",
+      "options": [
+        "Plus de 500 000 candidats",
+        "Plus de 750 000 candidats",
+        "Plus de 1 046 000 candidats",
+        "Le plus faible nombre de candidats depuis sa création"
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare que la plateforme 'a enregistré 1 046 000 candidats cette année, un record depuis son lancement en 2018.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quels sont les deux astronautes français qui iront dans l'espace en 2027, selon l'annonce d'Emmanuel Macron ?",
+      "options": [
+        "Jean-Loup Chrétien et Léopold Eyharts",
+        "Patrick Baudry et Claudie Haigneré",
+        "Thomas Pesquet et Arnaud Prost",
+        "Michel Tognini et Sophie Adenot"
+      ],
+      "correct": 2,
+      "explication": "Le texte annonce : 'Les astronautes français Thomas Pesquet et Arnaud Prost iront dans l’espace en 2027'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Au-delà des impacts climatiques, quelle conséquence économique majeure de l'épisode El Niño est spécifiquement mentionnée pour l'Asie du Sud-Est ?",
+      "options": [
+        "Une augmentation significative du tourisme",
+        "Une réduction des récoltes de produits comme le riz et l'huile de palme",
+        "Une amélioration des infrastructures de transport",
+        "Une baisse des prix de l'énergie"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'En Asie du Sud-Est, d’éventuelles sécheresses risquent de réduire les récoltes de riz, de canne à sucre ou encore d’huile de palme.'",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
