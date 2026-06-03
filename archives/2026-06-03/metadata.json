@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Vers une prochaine crise économique ?",
+  "date": "03/06/2026",
+  "img": "archives/2026-06-03/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le principal sujet d'inquiétude concernant l'explosion des crédits privés, selon l'article ?",
+      "options": [
+        "Le manque d'intérêt des grandes banques pour ce marché.",
+        "La transparence excessive des fonds de crédit privé.",
+        "Le risque que les entreprises financées soient déjà fragiles et ne puissent pas rembourser.",
+        "L'absence totale de liens entre les banques et le marché du crédit privé."
+      ],
+      "correct": 2,
+      "explication": "L'article souligne que les entreprises financées par des crédits privés sont souvent déjà fragiles, augmentant le risque d'insolvabilité en cas de ralentissement économique ou de choc, et que le manque de transparence de ce marché est une source d'inquiétude.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon le président ukrainien Volodymyr Zelensky, quel était l'objectif militaire visé par les drones ukrainiens à Saint-Pétersbourg ?",
+      "options": [
+        "Une base aérienne stratégique.",
+        "Un terminal pétrolier utilisé à des fins militaires.",
+        "Le quartier général de la marine russe.",
+        "Un centre de commandement militaire."
+      ],
+      "correct": 1,
+      "explication": "L'article précise que l'armée ukrainienne visait notamment un terminal pétrolier utilisé à des fins militaires, selon le président ukrainien.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle raison principale la plateforme Shein a-t-elle été condamnée à une amende de plus de 22 millions d'euros par la Répression des Fraudes ?",
+      "options": [
+        "Non-respect de la législation sur la protection des données personnelles.",
+        "Manquement aux obligations d'information (prix, vendeur, délai de livraison) et au droit de rétractation.",
+        "Publicité mensongère concernant la durabilité de ses produits.",
+        "Utilisation de main-d'œuvre infantile dans ses usines."
+      ],
+      "correct": 1,
+      "explication": "La 1ère raison est que 'la plateforme ne mentionnait ni le prix, ni le nom du vendeur, ni le délai de livraison, dans le mail de confirmation d’achat.' et la 2ème porte 'sur le non-respect du droit de rétraction de 14 jours... ainsi que sur le défaut d’informations environnementales.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Qui est le principal suspect mis en examen pour enlèvement et séquestration dans l'affaire de la disparition de Lyhanna ?",
+      "options": [
+        "Un membre de la famille éloignée.",
+        "Le père d'une amie de la collégienne.",
+        "Un inconnu avec un casier judiciaire vierge.",
+        "L'ex-petit ami de la collégienne."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique clairement que 'Le principal suspect, le père d’une amie, a été mis en examen pour enlèvement et séquestration'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le décompte provisoire du collectif Les Morts de la Rue, combien de personnes sans domicile fixe sont mortes en France en 2025 ?",
+      "options": [
+        "Moins de 500 personnes.",
+        "Environ 750 personnes.",
+        "Au moins 929 personnes.",
+        "Plus de 1200 personnes."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne : 'Au moins 929 personnes sans domicile fixe sont mortes en France en 2025'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Jusqu'à quelle année le pesticide chlordécone a-t-il été autorisé en Guadeloupe et en Martinique, malgré son classement comme cancérogène 'possible' dès 1979 ?",
+      "options": [
+        "1985",
+        "1990",
+        "1993",
+        "2000"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que le chlordécone 'a été autorisé en Guadeloupe et en Martinique jusqu’en 1993'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle décision historique a été prise par le pape Léon XIV au Vatican concernant María Montserrat Alvarado ?",
+      "options": [
+        "Elle a été nommée première femme cardinal.",
+        "Elle est devenue la première femme laïque à diriger un 'ministère'.",
+        "Elle a été élue à la tête du conseil financier du Vatican.",
+        "Elle a pris la direction des musées du Vatican."
+      ],
+      "correct": 1,
+      "explication": "Pour la première fois dans l’histoire du Vatican, une femme laïque a été nommée à la tête d’un 'ministère' par le pape Léon XIV, mardi. Son nom : María Montserrat Alvarado.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle proportion de lycéens a déjà reçu une réponse favorable sur Parcoursup, selon le ministère de l'Enseignement supérieur ?",
+      "options": [
+        "Un quart",
+        "La moitié",
+        "Deux tiers",
+        "Trois quarts"
+      ],
+      "correct": 2,
+      "explication": "L'article indique que '2 lycéens sur 3 ont déjà reçu une réponse favorable sur la plateforme d’orientation Parcoursup'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quels types d'acteurs non bancaires sont de plus en plus utilisés par les entreprises pour se financer, selon la section 'Décryptage' ?",
+      "options": [
+        "Uniquement des particuliers via le crowdfunding.",
+        "Principalement des fonds d'investissement, des assureurs ou d'autres acteurs non bancaires.",
+        "Des banques centrales étrangères.",
+        "Des organisations caritatives."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'au lieu d’emprunter auprès d’une banque, certaines entreprises se financent désormais auprès de fonds d’investissement, d’assureurs ou d’autres acteurs non bancaires.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Combien d'épisodes spéciaux de longue durée des 'Simpson' seront diffusés sur Disney+ pour célébrer le 800e épisode de la série ?",
+      "options": [
+        "Un seul épisode spécial.",
+        "Deux épisodes spéciaux.",
+        "Trois épisodes spéciaux.",
+        "Quatre épisodes spéciaux."
+      ],
+      "correct": 2,
+      "explication": "L'article précise que 'trois épisodes spéciaux produits pour la plateforme Disney+ seront diffusés les 17 juin, 3 juillet et 26 août prochains.'",
+      "theme": "CULTURE"
+    }
+  ]
+}
