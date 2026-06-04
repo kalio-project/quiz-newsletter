@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Trump est en guerre contre le climat",
+  "date": "04/06/2026",
+  "img": "archives/2026-06-04/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le principal type d'équipement que l'administration Trump a annoncé démanteler, impactant la mesure du réchauffement climatique des océans ?",
+      "options": [
+        "Des stations météorologiques terrestres",
+        "Des satellites d'observation atmosphérique",
+        "Des instruments de mesure en eaux profondes dans les océans",
+        "Des capteurs de pollution fluviale"
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne le démantèlement de '900 instruments essentiels pour mesurer le réchauffement climatique des océans' et précise qu'il s'agit de 'balises, capteurs et systèmes câblés installés en 2016 en eaux profondes dans les océans Pacifique et Atlantique'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Outre les bombardements israéliens, quel autre événement tragique est survenu au sud du Liban, selon l'article ?",
+      "options": [
+        "La destruction d'un hôpital civil",
+        "Un attentat terroriste majeur",
+        "La mort d'un Casque bleu de l'ONU suite à un missile",
+        "L'effondrement d'un bâtiment résidentiel"
+      ],
+      "correct": 2,
+      "explication": "La section 'À comprendre' indique : 'En parallèle, un Casque bleu de nationalité serbe, déployé dans le sud du pays pour maintenir la paix, est mort après qu’un missile a touché une base de l’ONU.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui est l'auteur de la proposition de fusionner Paris avec les communes environnantes pour former une immense ville ?",
+      "options": [
+        "Le maire de Paris",
+        "Le Président de la République",
+        "Clément Beaune, Haut-commissaire à la Stratégie et au Plan",
+        "L'Assemblée nationale"
+      ],
+      "correct": 2,
+      "explication": "L'article précise : 'C’est la proposition très sérieuse de Clément Beaune, le Haut-commissaire à la Stratégie et au Plan'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle chambre du Congrès américain a adopté un texte ordonnant le retrait des troupes états-uniennes en Iran ?",
+      "options": [
+        "Le Sénat",
+        "La Chambre des représentants",
+        "La Cour Suprême",
+        "Le Bureau ovale"
+      ],
+      "correct": 1,
+      "explication": "L'article stipule : 'Un texte ordonnant le retrait des troupes états-uniennes en Iran a été adopté par la Chambre des représentants des États-Unis'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel motif principal le journaliste français Christophe Gleizes a-t-il été condamné à 7 ans de prison en Algérie ?",
+      "options": [
+        "Espionnage",
+        "Diffamation",
+        "Apologie du terrorisme",
+        "Non-respect des lois sur l'immigration"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'il a été 'condamné à 7 ans de prison pour “apologie du terrorisme”'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon l'étude mentionnée, comment se répartit l'exposition aux cancers évitables entre les Français les plus modestes et les plus aisés ?",
+      "options": [
+        "Les plus modestes déclenchent en moyenne 2 fois plus de cancers évitables.",
+        "Les plus aisés déclenchent en moyenne 2 fois plus de cancers évitables.",
+        "Il n'y a pas de différence significative entre les deux groupes.",
+        "Les plus modestes sont moins exposés aux cancers liés au tabac et à l'alcool."
+      ],
+      "correct": 0,
+      "explication": "L'article affirme : 'Les plus aisés déclenchent en moyenne 2 fois moins de cancers évitables, liés notamment au tabac et à l'alcool, que les plus modestes.' Cela implique que les plus modestes en déclenchent 2 fois plus.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel montant colossal SpaceX cherche-t-elle à lever pour son introduction en Bourse, qui pourrait être la plus importante de l'histoire ?",
+      "options": [
+        "75 millions de dollars",
+        "750 millions de dollars",
+        "7,5 milliards de dollars",
+        "75 milliards de dollars"
+      ],
+      "correct": 3,
+      "explication": "L'article mentionne : 'SpaceX [...] cherche à réaliser la plus importante introduction en Bourse de l’histoire, en levant 75 milliards de $ pour cette opération.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle mesure principale la proposition de loi écologiste approuvée par l'Assemblée nationale prévoit-elle pour limiter l'exposition au cadmium ?",
+      "options": [
+        "Interdire complètement l'utilisation du cadmium dans l'industrie.",
+        "Abaisser la teneur maximale en cadmium des engrais phosphatés.",
+        "Mettre en place des campagnes de dépistage systématique du cadmium dans la population.",
+        "Subventionner des alternatives aux produits contenant du cadmium."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que cette loi 'prévoit d’abaisser la teneur maximale en cadmium des engrais phosphatés'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "En plus de retirer les États-Unis de l'Accord de Paris, quelles sont les déclarations récurrentes de Donald Trump concernant le changement climatique ?",
+      "options": [
+        "Il le considère comme une priorité nationale absolue.",
+        "Il l'a régulièrement qualifié d''arnaque'.",
+        "Il estime que le changement climatique est un phénomène naturel sans impact humain.",
+        "Il soutient que d'autres pays devraient en être les seuls responsables."
+      ],
+      "correct": 1,
+      "explication": "Le paragraphe 'Pourquoi c’est important ?' indique : 'Dans le même temps, Donald Trump a régulièrement qualifié le changement climatique d’“arnaque”'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle initiative de sensibilisation le groupe Metallica a-t-il mise en place pour ses concerts au Royaume-Uni ?",
+      "options": [
+        "Promouvoir le recyclage des déchets.",
+        "Encourager le don de sang ou de plasma.",
+        "Organiser des collectes de fonds pour la recherche contre le cancer.",
+        "Sensibiliser à la protection des espèces menacées."
+      ],
+      "correct": 1,
+      "explication": "La section 'Bonne nouvelle' indique : 'Le groupe de heavy metal Metallica s'est associé à plusieurs services de collecte de sang [...] afin de sensibiliser au don de sang.'",
+      "theme": "CULTURE"
+    }
+  ]
+}
