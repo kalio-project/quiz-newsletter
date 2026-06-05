@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Disparition de Lyhanna : des dysfonctionnements judiciaires ?",
+  "date": "05/06/2026",
+  "img": "archives/2026-06-05/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle a été la principale préoccupation soulevée par le ministre de la Justice concernant l'affaire Lyhanna ?",
+      "options": [
+        "Le manque de ressources pour les enquêtes policières.",
+        "Un possible dysfonctionnement des procédures judiciaires.",
+        "La couverture médiatique excessive de l'affaire.",
+        "La difficulté à identifier le suspect."
+      ],
+      "correct": 1,
+      "explication": "Le ministre de la Justice s’est dit “terrifié” par un “possible dysfonctionnement” des procédures judiciaires.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle condition le Hezbollah a-t-il posée pour accepter un accord de cessez-le-feu avec Israël ?",
+      "options": [
+        "Une compensation financière de la part d'Israël.",
+        "La libération de tous les prisonniers libanais.",
+        "Un retrait total des forces israéliennes du Liban.",
+        "L'établissement d'une nouvelle délimitation des frontières."
+      ],
+      "correct": 2,
+      "explication": "Le Hezbollah a réclamé un retrait total des forces israéliennes du Liban et a menacé Israël de nouvelle attaques.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel lieu Volodymyr Zelensky a-t-il explicitement rejeté pour une rencontre directe avec Vladimir Poutine ?",
+      "options": [
+        "La Suisse",
+        "La Turquie",
+        "Moscou",
+        "Un pays arabe"
+      ],
+      "correct": 2,
+      "explication": "Le président ukrainien rejette une rencontre à Moscou, proposant plutôt un pays tiers comme la Suisse, la Turquie ou des pays arabes.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Contre qui l'ex-mannequin américaine Carré Otis a-t-elle porté plainte pour viols et agressions sexuelles ?",
+      "options": [
+        "L'agence Elite Europe elle-même.",
+        "Donald Trump.",
+        "Gérald Marie, ancien directeur d’Elite Europe.",
+        "Le système judiciaire français."
+      ],
+      "correct": 2,
+      "explication": "L’ex-mannequin américaine Carré Otis a porté plainte, ce vendredi, pour viols et agressions sexuelles contre le Français Gérald Marie, ancien directeur de l’agence de mannequins Elite Europe.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle a été la cause du décès de 49 personnes dans une région isolée du Niger ?",
+      "options": [
+        "Une tempête de sable.",
+        "Le manque d'eau (la soif).",
+        "Un conflit avec des bandits locaux.",
+        "Un accident de véhicule."
+      ],
+      "correct": 1,
+      "explication": "49 personnes sont mortes de soif dans une région isolée du Niger, située à la frontière entre l’Algérie, le Niger et le Mali, après la panne du camion qui les transportait.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle marine a reconnu être à l'origine du drone qui a explosé dans le port de Constanța en Roumanie ?",
+      "options": [
+        "La marine russe.",
+        "La marine roumaine.",
+        "La marine ukrainienne.",
+        "La marine américaine."
+      ],
+      "correct": 2,
+      "explication": "En début d’après-midi, la marine ukrainienne a reconnu que le drone était l’un des siens.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Que Anthropic, l'entreprise spécialisée dans l'IA, a-t-elle proposé concernant le développement de cette technologie ?",
+      "options": [
+        "D'accélérer son développement pour prendre une avance compétitive.",
+        "De se concentrer principalement sur les applications militaires de l'IA.",
+        "De ralentir, voire suspendre, son développement pour poser des cadres.",
+        "De décentraliser la recherche en IA vers de plus petites entreprises."
+      ],
+      "correct": 2,
+      "explication": "Anthropic [...] a proposé jeudi que les géants du secteur s’accordent pour ralentir, voire suspendre, le développement de cette technologie. L’objectif : laisser le temps à la société et aux gouvernements de poser des cadres et des limites.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel dirigeant cubain figurait parmi les personnalités sanctionnées par les États-Unis ce jeudi ?",
+      "options": [
+        "Fidel Castro.",
+        "Miguel Díaz-Canel.",
+        "Che Guevara.",
+        "Raúl Castro."
+      ],
+      "correct": 1,
+      "explication": "Plusieurs personnalités cubaines, dont le président Miguel Díaz-Canel et des proches de l’ex-président Raúl Castro, ont été sanctionnées par les États-Unis ce jeudi.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Concernant le suspect de l'affaire Lyhanna, quelle affirmation sur son passé est vraie selon le texte ?",
+      "options": [
+        "Il avait déjà été condamné pour des crimes similaires.",
+        "Plusieurs plaintes pour violences sexuelles sur mineures avaient été déposées contre lui, certaines classées, d'autres en cours.",
+        "Il n'avait jamais été accusé d'aucun crime avant cette affaire.",
+        "Toutes les plaintes précédentes contre lui avaient abouti à des condamnations."
+      ],
+      "correct": 1,
+      "explication": "Bien que sans condamnation inscrite au casier judiciaire, plusieurs plaintes auraient été déposées contre lui ces dernières années. Certaines affaires ont été classées faute de preuves ou de charges suffisantes, d’autres sont encore en cours.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est la signification de la 'bonne nouvelle' mentionnée à la fin du texte ?",
+      "options": [
+        "La découverte d'un nouvel antibiotique.",
+        "Le développement du premier vaccin conçu par l'IA.",
+        "Une avancée majeure dans le traitement du cancer.",
+        "L'invention d'un nouvel outil de diagnostic pour les maladies rares."
+      ],
+      "correct": 1,
+      "explication": "Le 1er vaccin conçu par l’IA a été mis au point par une équipe de scientifiques britanniques.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
