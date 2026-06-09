@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le président chinois Xi Jinping en visite en Corée du Nord",
+  "date": "08/06/2026",
+  "img": "archives/2026-06-08/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la raison principale de l'importance particulière de la visite actuelle de Xi Jinping en Corée du Nord, selon le texte ?",
+      "options": [
+        "C'est son premier voyage là-bas depuis 2019 et son premier déplacement à l'étranger depuis 8 mois.",
+        "La Corée du Nord a accepté de démanteler son programme nucléaire en échange d'aide chinoise.",
+        "La Chine va établir de nouvelles bases militaires sur le territoire nord-coréen.",
+        "La Corée du Nord s'est rapprochée des États-Unis, inquiétant la Chine."
+      ],
+      "correct": 0,
+      "explication": "Le texte indique que ce déplacement est 'particulièrement important' car 'il s’agit de son premier voyage en Corée du Nord depuis 2019 et de son premier déplacement à l’étranger depuis 8 mois'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Suite à la mort de Lyhanna, quelle mesure 'le ministre de la Justice Gérald Darmanin' a-t-il demandé concernant les plaintes impliquant des mineurs ?",
+      "options": [
+        "La création d'une commission d'enquête parlementaire.",
+        "Le réexamen de l'intégralité des 70 000 dossiers concernés d'ici le 14 juillet.",
+        "La suspension de toutes les procédures pénales en cours impliquant des mineurs.",
+        "L'augmentation des peines pour les délits mineurs commis par des adolescents."
+      ],
+      "correct": 1,
+      "explication": "Le texte rapporte que 'le ministre de la Justice Gérald Darmanin demande le réexamen de l’intégralité des plaintes impliquant des mineurs en France, soit 70 000 dossiers, d’ici le 14 juillet'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon le rapport de l'Insee, à partir de quelle année la population française devrait-elle commencer à baisser ?",
+      "options": [
+        "2026",
+        "2070",
+        "2037",
+        "La population française devrait continuer d'augmenter sans interruption."
+      ],
+      "correct": 2,
+      "explication": "Le rapport de l'Insee projette que 'La population française devrait baisser à partir de 2037'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quels sont les trois opérateurs ayant trouvé un accord pour racheter SFR ?",
+      "options": [
+        "Bouygues, Free et Orange.",
+        "SFR, Free et Orange.",
+        "Numericable, Bouygues et Free.",
+        "Orange, Bouygues et Altice."
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : 'Les opérateurs Bouygues, Free et Orange ont trouvé un accord pour racheter SFR'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pour quelle période les faits de viols et d'agressions sexuelles dont Patrick Bruel est accusé sont-ils principalement visés par l'enquête ?",
+      "options": [
+        "Entre 2012 et 2024.",
+        "Entre 1997 et 2012.",
+        "Uniquement pour les années 2000.",
+        "De 1990 à nos jours."
+      ],
+      "correct": 1,
+      "explication": "L'enquête concerne 'des faits de viols et d’agressions sexuelles qui auraient eu lieu entre 1997 et 2012'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est l'orientation politique actuelle de l'Arménie, sous le Premier ministre Nikol Pachinian, telle que décrite dans l'article ?",
+      "options": [
+        "Un rapprochement avec la Russie et une rupture avec l'Union européenne.",
+        "Un alignement sur la Chine et un éloignement de la Russie et de l'UE.",
+        "Un rapprochement de l'Union européenne et une rupture progressive avec la Russie.",
+        "Un renforcement de son alliance historique avec la Russie."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que l'Arménie 'se rapproche de l’Union européenne et rompt progressivement avec la Russie, son allié historique'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle a été la magnitude du puissant séisme qui a frappé les Philippines ce lundi ?",
+      "options": [
+        "Magnitude 6,5.",
+        "Magnitude 7,8.",
+        "Magnitude 8,2.",
+        "Magnitude 7,0."
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne 'Un puissant séisme de magnitude 7,8 a fait au moins 31 morts aux Philippines'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel ministre français a annoncé l'ouverture d'une plateforme pour 'artistes iraniens en exil' en hommage à Marjane Satrapi ?",
+      "options": [
+        "Le ministre de la Culture, Rachida Dati.",
+        "Le ministre des Affaires étrangères, Jean-Noël Barrot.",
+        "Le ministre de l'Intérieur, Gérald Darmanin.",
+        "Le ministre de l'Économie, Bruno Le Maire."
+      ],
+      "correct": 1,
+      "explication": "L'annonce a été faite par 'le ministre des affaires étrangères Jean-Noël Barrot'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Depuis quand l'Iran et Israël se bombardent-ils à nouveau mutuellement, selon le texte ?",
+      "options": [
+        "Depuis le début du mois.",
+        "Depuis ce dimanche.",
+        "Depuis la semaine dernière.",
+        "Depuis le début de l'année."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'L’Iran et Israël se bombardent à nouveau mutuellement depuis ce dimanche'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le texte, quel est l'ingrédient végétal le plus protéiné, avec 36g de protéines pour 100g (sec) ?",
+      "options": [
+        "Les lentilles.",
+        "Les pois chiches.",
+        "Le soja.",
+        "Le quinoa."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'Avec 36g de protéines pour 100g (sec), il s’agit du soja'.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
