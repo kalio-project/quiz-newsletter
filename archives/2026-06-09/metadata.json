@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le nombre d'habitants en France pourrait diminuer dès 2037",
+  "date": "09/06/2026",
+  "img": "archives/2026-06-09/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon les estimations de l'Insee, à partir de quelle année la population française devrait-elle commencer à diminuer, après avoir atteint un pic ?",
+      "options": [
+        "2027",
+        "2037",
+        "2050",
+        "2070"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Après le pic de 2037, l’immigration ne suffira plus à compenser le déficit.' La population française devrait donc diminuer à partir de cette année.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le rapport 'Conflict Trends' de L'Institut de recherche sur la paix d'Oslo, combien de conflits impliquant au moins un État ont été dénombrés en 2025, un record depuis la Seconde Guerre mondiale ?",
+      "options": [
+        "32",
+        "45",
+        "65",
+        "80"
+      ],
+      "correct": 2,
+      "explication": "L’institut a dénombré 65 conflits impliquant au moins 1 État en 2025 : c’est le + haut niveau atteint depuis la Seconde Guerre mondiale.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Suite à l'affaire Lyhanna, quelle peine le Premier ministre Sébastien Lecornu souhaite-t-il introduire pour les auteurs de viols sur plusieurs victimes mineures ?",
+      "options": [
+        "10 ans de prison ferme",
+        "20 ans de réclusion criminelle",
+        "La prison à perpétuité",
+        "Une peine plancher de 15 ans"
+      ],
+      "correct": 2,
+      "explication": "Le Premier ministre Sébastien Lecornu veut faire passer la peine de prison pour les auteurs de viols sur plusieurs victimes mineures de 20 ans à la prison à perpétuité.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelles sont les principales raisons de la grève de la SNCF ce mercredi, selon les syndicats ?",
+      "options": [
+        "La privatisation de certaines lignes et la vétusté du matériel roulant.",
+        "Des décisions de réorganisations et une demande de hausse des salaires.",
+        "Le manque de personnel et la pression sur les cadences de travail.",
+        "L'absence de dialogue social et le non-respect des accords précédents."
+      ],
+      "correct": 1,
+      "explication": "Les syndicats dénoncent des décisions de réorganisations qui seraient responsables de drames humains et réclament une hausse des salaires.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Karim Bouamrane, maire socialiste de Saint-Ouen, a annoncé sa candidature à l'élection présidentielle de 2027. Quel processus a-t-il refusé de suivre ?",
+      "options": [
+        "Un débat télévisé avec les autres candidats.",
+        "Une primaire organisée par la gauche.",
+        "Une consultation citoyenne en ligne.",
+        "Un programme commun avec d'autres partis."
+      ],
+      "correct": 1,
+      "explication": "Il rejoint une liste de potentiels candidats déjà bien remplie à gauche, mais refuse de participer à une primaire.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel ministre israélien, qualifié de promoteur de l'annexion de la Cisjordanie et de la recolonisation de Gaza, s'est vu interdire d'entrer sur le sol français ?",
+      "options": [
+        "Benjamin Netanyahou",
+        "Yoav Gallant",
+        "Bezalel Smotrich",
+        "Itamar Ben-Gvir"
+      ],
+      "correct": 2,
+      "explication": "Le ministre des Finances israélien Bezalel Smotrich, qui 'promeut l'annexion de la Cisjordanie' et 'revendique la recolonisation de Gaza', a interdiction d’entrer sur le sol français.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Lors du match 3 de la finale NBA, en présence de Donald Trump, quelle équipe a battu les New York Knicks à domicile ?",
+      "options": [
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "San Antonio Spurs",
+        "Golden State Warriors"
+      ],
+      "correct": 2,
+      "explication": "Il venait soutenir les Knicks, battus à domicile par les Spurs de Victor Wembanyama.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Au cours de sa visite d'État en Espagne, le pape Léon XIV a réclamé 'vérité, justice et réparation' face à quelles violences spécifiques ?",
+      "options": [
+        "Les violences conjugales au sein des familles catholiques.",
+        "Les violences liées aux conflits armés dans le monde.",
+        "Les violences sexuelles commises au sein de l’Église.",
+        "Les violences faites aux femmes en général."
+      ],
+      "correct": 2,
+      "explication": "Le pape Léon XIV réclame “vérité, justice et réparation” face aux violences sexuelles commises au sein de l’Église.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel a été le score du dernier match de Didier Deschamps sur le sol français en tant que sélectionneur de l'équipe de France, contre l'Irlande du Nord ?",
+      "options": [
+        "Victoire 3-1",
+        "Match nul 2-2",
+        "Défaite 0-1",
+        "Victoire 2-0"
+      ],
+      "correct": 0,
+      "explication": "Pour ce dernier match de préparation avant le Mondial, les Français se sont imposés 3-1 face à l’Irlande du Nord.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon la publicité Sojasun, quel est l'ingrédient végétal le plus protéiné, avec 36g de protéines pour 100g (sec) ?",
+      "options": [
+        "Le pois chiche",
+        "La lentille",
+        "Le quinoa",
+        "Le soja"
+      ],
+      "correct": 3,
+      "explication": "La publicité indique : 'Avec 36g de protéines pour 100g (sec), il s’agit du soja'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
