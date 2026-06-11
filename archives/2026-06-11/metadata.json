@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Une entrée en Bourse historique pour SpaceX",
+  "date": "11/06/2026",
+  "img": "archives/2026-06-11/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle entreprise est mentionnée comme ayant réalisé la plus grande entrée en Bourse de l'histoire, le vendredi 12 juin ?",
+      "options": [
+        "Tesla",
+        "Saudi Aramco",
+        "SpaceX",
+        "xAI"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'C’est la plus grosse entrée en Bourse de l’histoire. SpaceX, l’entreprise aérospatiale d’Elon Musk, doit être cotée en Bourse pour la première fois ce vendredi 12 juin.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pour quelles raisons Patrick Bruel a-t-il été mis en examen ce mercredi ?",
+      "options": [
+        "Détournement de fonds et fraude fiscale",
+        "Viol, tentative de viol, agression sexuelle et harcèlement sexuel",
+        "Abus de faiblesse et escroquerie",
+        "Diffamation et injures publiques"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Patrick Bruel a été mis en examen pour viol, tentative de viol, agression sexuelle et harcèlement sexuel, et placé sous contrôle judiciaire ce mercredi.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Malgré un cessez-le-feu, comment l'Iran a-t-il riposté aux nouveaux bombardements des États-Unis ?",
+      "options": [
+        "En imposant de nouvelles sanctions économiques",
+        "En retirant ses troupes de la région",
+        "En tirant des missiles en direction de plusieurs bases américaines de la région",
+        "En saisissant des pétroliers dans le détroit d'Ormuz"
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : 'En riposte, l’Iran a tiré des missiles en direction de plusieurs bases américaines de la région.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'ONU, quelle tendance a été observée pour la première fois depuis plus de 10 ans concernant le nombre de personnes déplacées de force dans le monde ?",
+      "options": [
+        "Une augmentation significative",
+        "Une stagnation",
+        "Un recul",
+        "Une fluctuation imprévisible"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Pour la 1re fois depuis plus de 10 ans, le nombre de personnes déplacées de force dans le monde recule.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel événement a eu lieu à la Sagrada Família ce mercredi, la désignant désormais comme la plus haute église du monde ?",
+      "options": [
+        "Son inauguration officielle après achèvement total",
+        "La bénédiction par le pape Léon XIV et l'inauguration de la tour de Jésus-Christ",
+        "Une célébration marquant le 200e anniversaire de sa construction",
+        "Le lancement d'une nouvelle campagne de financement internationale"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Le pape Léon XIV a béni la Sagrada Família, désormais la plus haute église du monde, lors d’une visite à Barcelone ce mercredi. (...) il a inauguré la tour de Jésus-Christ, achevée en février et haute de 172,5 mètres.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel appel a été lancé par le ministre de l'Éducation nationale aux correcteurs de l'épreuve anticipée de français du bac cette année ?",
+      "options": [
+        "D'être plus indulgents sur l'orthographe.",
+        "D'accorder des points bonus pour la créativité.",
+        "D'être plus exigeants sur l'orthographe, la syntaxe et la grammaire.",
+        "De se concentrer uniquement sur le fond des arguments."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Le ministre de l’Éducation nationale a appelé les correcteurs à être plus exigeants sur l’orthographe, la syntaxe et la grammaire cette année.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon une étude de 73 scientifiques, à quel rythme 'sans précédent' la planète se réchauffe-t-elle, du seul fait des activités humaines ?",
+      "options": [
+        "0,15°C par décennie",
+        "0,27°C par décennie",
+        "0,50°C par décennie",
+        "1,00°C par décennie"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'La planète se réchauffe à 'un rythme sans précédent' de 0,27°C par décennie, du seul fait des activités humaines, selon une étude de 73 scientifiques...'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien d'équipes sont engagées pour la première fois dans l'histoire du tournoi lors de la Coupe du monde 2026 ?",
+      "options": [
+        "32",
+        "36",
+        "48",
+        "64"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Au programme : un mois de compétition, 48 équipes engagées pour la 1re fois dans l’histoire du tournoi et 104 matchs.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quelle est la principale source de revenus de SpaceX, représentant plus de 60 % de son chiffre d'affaires ?",
+      "options": [
+        "Les lancements spatiaux de fusées réutilisables",
+        "Le réseau mondial d’internet par satellites Starlink",
+        "Les activités liées à l'intelligence artificielle avec Grok",
+        "La colonisation de Mars"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Aujourd’hui, Starlink est la principale source de revenus, avec plus de 60 % du chiffre d’affaires et plus de 10 millions d’abonnés.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Comment les investisseurs perçoivent-ils principalement la valorisation de SpaceX, comparée à son chiffre d'affaires annuel ?",
+      "options": [
+        "Ils misent sur la rentabilité immédiate.",
+        "Ils considèrent la valorisation comme équivalente à celle de Tesla.",
+        "Ils misent surtout sur le futur plutôt que sur l'activité actuelle.",
+        "Ils sont préoccupés par le manque d'investissements."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'La valorisation de SpaceX équivaut à environ 100 fois son chiffre d’affaires annuel, contre environ 16 fois pour Tesla, l’autre empire d’Elon Musk. Cela montre que les investisseurs misent surtout sur le futur plutôt que sur l’activité actuelle.'",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
