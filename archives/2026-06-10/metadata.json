@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La Coupe du monde de football qui débute demain fait polémique",
+  "date": "10/06/2026",
+  "img": "archives/2026-06-10/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est l'une des principales polémiques mentionnées concernant l'organisation de la Coupe du monde de football 2026 ?",
+      "options": [
+        "Le choix des villes hôtes, jugé insuffisant.",
+        "Le risque qu'une Coupe du monde ultra-politisée émerge à cause, notamment, de la politique migratoire de Donald Trump.",
+        "Le nombre de matchs à disputer, considéré comme trop élevé.",
+        "Le manque d'intérêt des pays organisateurs pour le football."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que la politique migratoire et sécuritaire de Donald Trump fait largement débat, avec le risque qu’une Coupe du monde ultra-politisée émerge.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Pourquoi les États-Unis ont-ils annoncé avoir repris les bombardements sur l'Iran ce mardi ?",
+      "options": [
+        "Pour des raisons d'exercice militaire planifié.",
+        "En réponse à une attaque terroriste sur leur sol.",
+        "Au nom de la légitime défense, suite à la destruction d'un hélicoptère américain près du détroit d’Ormuz.",
+        "Pour protester contre les programmes nucléaires iraniens."
+      ],
+      "correct": 2,
+      "explication": "Les États-Unis ont repris les bombardements sur l’Iran au nom de la légitime défense, après qu'un hélicoptère américain ait été détruit près du détroit d’Ormuz, l'Iran étant accusé d'être responsable de cette attaque.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel événement a déclenché les violentes manifestations anti-immigration à Belfast, en Irlande du Nord, ce mardi ?",
+      "options": [
+        "L'annonce d'une nouvelle loi sur l'immigration.",
+        "Une attaque au couteau survenue la veille.",
+        "Un rassemblement politique d'extrême droite.",
+        "La destruction d'un centre d'accueil pour migrants."
+      ],
+      "correct": 1,
+      "explication": "Les manifestations ont eu lieu à la suite d’une attaque au couteau survenue la veille.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quels faits Patrick Bruel pourrait-il être mis en examen, selon le texte ?",
+      "options": [
+        "Fraude fiscale et évasion de capitaux.",
+        "Vol à main armée et séquestration.",
+        "Viols, tentatives de viol, agressions et harcèlement sexuel.",
+        "Diffamation et outrage à la justice."
+      ],
+      "correct": 2,
+      "explication": "Il pourrait être mis en examen pour des faits de viols, tentatives de viol, agressions et harcèlement sexuel, commis entre 2010 et 2019, concernant 9 victimes présumées.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon les acteurs du secteur, qu'est-ce qui met en danger les filières françaises de collecte et de recyclage des déchets ?",
+      "options": [
+        "Un manque de personnel qualifié et des salaires trop bas.",
+        "Une diminution drastique de la production de déchets.",
+        "Une collecte textile saturée par la fast-fashion, des dépôts sauvages de déchets du bâtiment et des retards dans les objectifs de recyclage plastique.",
+        "L'importation massive de déchets étrangers."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne une collecte textile saturée par la fast-fashion, des dépôts sauvages de déchets du bâtiment et des retards dans les objectifs de recyclage plastique comme dangers pour les filières.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon une étude de l’Éducation nationale, quel pourcentage d'élèves déclare subir du harcèlement à l’école ?",
+      "options": [
+        "Moins de 1 %.",
+        "Entre 2 % et 4 %.",
+        "Environ 10 %.",
+        "Plus de 15 %."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 2 à 4 % des élèves déclarent subir du harcèlement à l’école.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l'observatoire européen Copernicus, que deviennent les événements extrêmes avec le changement climatique ?",
+      "options": [
+        "Ils sont de moins en moins fréquents.",
+        "Ils sont concentrés uniquement dans certaines régions du globe.",
+        "Ils deviennent « la norme », annonçant des vagues de chaleur plus fréquentes, plus intenses et plus précoces.",
+        "Ils n'affectent que les écosystèmes marins."
+      ],
+      "correct": 2,
+      "explication": "Copernicus alerte que les événements extrêmes deviennent « la norme », avec des vagues de chaleur plus fréquentes, plus intenses et plus précoces.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'objectif de la chanteuse Charli XCX en lançant une tournée aux États-Unis avec une partie des billets à 20 $ ?",
+      "options": [
+        "Augmenter ses profits en attirant un public plus large.",
+        "Tester un nouveau système de billetterie pour de futurs concerts.",
+        "Rendre l’accès à ses concerts plus équitable et lutter contre la revente spéculative, donc contre la hausse des prix.",
+        "Promouvoir des artistes émergents en offrant des prix d'entrée réduits."
+      ],
+      "correct": 2,
+      "explication": "L'objectif est de rendre l’accès à ses concerts plus équitable et de lutter contre la revente spéculative, donc contre la hausse des prix.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Au-delà d'être organisée par trois pays, quelle est une autre caractéristique significative de la Coupe du monde de football 2026, selon le décryptage ?",
+      "options": [
+        "Elle introduira un nouveau système de vidéo assistance à l'arbitrage.",
+        "Ce sera la première Coupe du monde à 48 équipes, contre 32 auparavant.",
+        "Tous les matchs se dérouleront dans des stades entièrement construits pour l'occasion.",
+        "Les équipes seront composées de joueurs issus d'un seul championnat national."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que c’est la 1re Coupe du monde à 48 équipes, contre 32 auparavant.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon la publicité Sojasun, quel est l'ingrédient végétal le plus protéiné avec 36g de protéines pour 100g (sec) ?",
+      "options": [
+        "Le riz",
+        "Le blé",
+        "Le soja",
+        "Les lentilles"
+      ],
+      "correct": 2,
+      "explication": "La publicité indique qu'avec 36g de protéines pour 100g (sec), il s’agit du soja.",
+      "theme": "SANTÉ"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le nouveau risque qui inquiète Vladimir Poutine",
+  "date": "12/06/2026",
+  "img": "archives/2026-06-12/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon le 'Décryptage', quel progrès technologique est mentionné comme ayant changé la donne en matière d'analyse des images de vidéosurveillance, rendant les systèmes plus menaçants pour la sécurité des dirigeants ?",
+      "options": [
+        "L'amélioration de la qualité des caméras 4K",
+        "Les progrès récents de l'intelligence artificielle",
+        "L'utilisation de drones pour la surveillance aérienne",
+        "La miniaturisation des capteurs de mouvement"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Mais les progrès récents de l’intelligence artificielle changent la donne. Là où il fallait auparavant des centaines d’analystes pour examiner des images, des algorithmes peuvent désormais traiter des millions d’heures de vidéos en très peu de temps.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Où se sont déroulées les obsèques de Lyhanna, la collégienne de 11 ans retrouvée morte dans le Gers ?",
+      "options": [
+        "Dans sa ville natale",
+        "Au cimetière de Fleurance",
+        "À la mairie de Gers",
+        "Dans un centre religieux de la région"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'La cérémonie s’est déroulée au cimetière de Fleurance, ville où la jeune fille était scolarisée.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle a été la réaction de l'Iran concernant l'accord avec les États-Unis annoncé par Donald Trump ?",
+      "options": [
+        "L'Iran a confirmé la signature de l'accord.",
+        "L'Iran a annoncé ne pas encore avoir décidé de la signature.",
+        "L'Iran a catégoriquement refusé l'accord.",
+        "L'Iran a demandé des négociations supplémentaires."
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare : 'L’Iran a annoncé ce vendredi ne pas encore avoir décidé de la signature d’un accord avec les États-Unis, pourtant annoncé par le président américain Donald Trump la veille.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le rapport d'une commission d'enquête de l'ONU, quelles actions du Hamas contre des civils palestiniens dans la bande de Gaza sont en augmentation ?",
+      "options": [
+        "La distribution d'aide humanitaire",
+        "Les exécutions publiques, violences sexuelles et passages à tabac",
+        "Les campagnes de sensibilisation à la santé",
+        "La construction d'infrastructures civiles"
+      ],
+      "correct": 1,
+      "explication": "Le rapport évoque 'des exécutions publiques, des violences sexuelles et des passages à tabac' commises par le Hamas.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la législation récente concernant l'homosexualité au Niger ?",
+      "options": [
+        "L'homosexualité est légalisée mais encadrée.",
+        "L'homosexualité est reconnue mais non récompensée.",
+        "L'homosexualité est désormais considérée comme un crime.",
+        "Le Niger a assoupli ses lois sur l'homosexualité."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique clairement : 'L’homosexualité est désormais considérée comme un crime au Niger.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel crime l'ancien président sud-coréen Yoon Suk-yeol a-t-il été condamné à 30 ans de prison ?",
+      "options": [
+        "Détournement de fonds publics",
+        "Envoi de drones militaires en Corée du Nord pour fabriquer des conditions de guerre",
+        "Trahison envers son propre pays",
+        "Corruption et abus de pouvoir"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'L’ancien président sud-coréen Yoon Suk-yeol a été condamné à 30 ans de prison pour l’envoi de drones militaires en Corée du Nord en 2024. La justice estime qu’il aurait 'fabriqué des conditions de guerre'.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le principal risque lié au phénomène climatique naturel El Niño, selon l'actualité du jour ?",
+      "options": [
+        "Une augmentation des températures océaniques sans impact majeur",
+        "Des fortes sécheresses et inondations",
+        "Un renforcement des courants marins",
+        "Une réduction de l'activité volcanique mondiale"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme que El Niño 'pourrait entraîner de fortes sécheresses et inondations'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon un sondage du Secours populaire, quelle est la principale raison pour laquelle plus d’1 Français sur 4 ne prévoit pas de partir en vacances cet été ?",
+      "options": [
+        "Des raisons professionnelles",
+        "Des raisons personnelles",
+        "Des raisons financières",
+        "Le manque d'intérêt pour les voyages"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '61 % des personnes interrogées y renoncent pour des raisons financières, loin devant les raisons personnelles ou professionnelles.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Qui était David Hockney, l'artiste britannique décédé à 88 ans, selon l'article ?",
+      "options": [
+        "Un musicien de rock des années 70",
+        "Une figure majeure du mouvement pop art des années 1960",
+        "Un écrivain lauréat du prix Nobel",
+        "Un réalisateur de cinéma connu pour ses documentaires"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Il était une figure majeure du mouvement pop art des années 1960 et l’un des artistes britanniques les plus influents du XXe siècle.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel est l'objectif du 'Pass patrimoine' annoncé par le ministre de la Culture ?",
+      "options": [
+        "Permettre l'accès gratuit à tous les sites du patrimoine français.",
+        "Proposer des tarifs réduits pour les transports en commun vers les sites culturels.",
+        "Offrir des visites illimitées de plus de 500 sites en France pour environ 100€ par an.",
+        "Restaurer des monuments historiques grâce à une subvention annuelle."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'Un Pass patrimoine va être lancé pour visiter plus de 500 sites en France (musées, monuments, jardins…), a annoncé le ministre de la Culture ce jeudi. Il devrait coûter environ 100€ par an pour des visites en illimité.'",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
