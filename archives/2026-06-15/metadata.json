@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Les États-Unis et l’Iran annoncent la fin de la guerre",
+  "date": "15/06/2026",
+  "img": "archives/2026-06-15/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Où est prévue la signature de l'accord de paix entre les États-Unis, l'Iran et les pays médiateurs ?",
+      "options": [
+        "Pakistan",
+        "Suisse",
+        "Liban",
+        "France"
+      ],
+      "correct": 1,
+      "explication": "La signature de l'accord de paix entre les États-Unis et l'Iran est prévue ce vendredi en Suisse, après l'annonce d'un accord dans la nuit de dimanche à lundi.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel type d'édifice classé au Patrimoine mondial de l'Unesco a été touché par des bombardements russes à Kyiv ?",
+      "options": [
+        "Une église catholique",
+        "Une synagogue",
+        "Une cathédrale orthodoxe",
+        "Un musée national"
+      ],
+      "correct": 2,
+      "explication": "À Kyiv, le toit de la cathédrale de la Dormition, faisant partie du complexe religieux de la Laure des grottes de Kyiv et inscrit au patrimoine mondial de l’UNESCO, a été partiellement détruit.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel pourcentage des votants suisses ont rejeté l'initiative visant à limiter la population du pays à 10 millions d’habitants d’ici 2050 ?",
+      "options": [
+        "45,2 %",
+        "50 %",
+        "54,8 %",
+        "62,3 %"
+      ],
+      "correct": 2,
+      "explication": "En Suisse, 54,8 % des votants ont rejeté une initiative visant à limiter la population du pays à 10 millions d’habitants d’ici 2050.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l’Association nationale pour l’amélioration de la vue, quel pourcentage des travailleurs français souffrent de fatigue visuelle ?",
+      "options": [
+        "15 %",
+        "24 %",
+        "32 %",
+        "40 %"
+      ],
+      "correct": 2,
+      "explication": "Selon l’Association nationale pour l’amélioration de la vue, 32 % des travailleurs français souffrent de fatigue visuelle, soit plus de 10 millions de personnes.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon l'ONU, combien de personnes sont mortes à Haïti depuis janvier à cause des violences des gangs ?",
+      "options": [
+        "Au moins 1 500",
+        "Au moins 2 300",
+        "Environ 500",
+        "Moins de 100"
+      ],
+      "correct": 1,
+      "explication": "Au moins 2 300 personnes sont mortes depuis janvier à cause des violences des gangs en Haïti, selon l’ONU.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À combien d'années de prison le fils de la princesse héritière de Norvège, Marius Borg Høiby, a-t-il été condamné pour viols ?",
+      "options": [
+        "2 ans",
+        "4 ans",
+        "6 ans",
+        "10 ans"
+      ],
+      "correct": 1,
+      "explication": "Marius Borg Høiby, le fils de la princesse héritière de Norvège, a été condamné à 4 ans de prison pour viols.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon le réseau Sortir du nucléaire, combien de poissons, crustacés et méduses meurent chaque année à cause des centrales nucléaires françaises ?",
+      "options": [
+        "Des milliers",
+        "Des millions",
+        "Près de 6 milliards",
+        "Près de 6 millions"
+      ],
+      "correct": 2,
+      "explication": "Près de 6 milliards de poissons, crustacés et méduses meurent chaque année à cause des centrales nucléaires françaises, alerte le réseau Sortir du nucléaire.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'âge minimum proposé par le Premier ministre britannique Keir Starmer pour accéder aux réseaux sociaux au Royaume-Uni ?",
+      "options": [
+        "13 ans",
+        "14 ans",
+        "16 ans",
+        "18 ans"
+      ],
+      "correct": 2,
+      "explication": "Les réseaux sociaux vont être interdits aux moins de 16 ans au Royaume-Uni, a annoncé le Premier ministre britannique Keir Starmer.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle conséquence économique immédiate l'annonce de l'accord Iran-USA a-t-elle eue sur le prix du pétrole ?",
+      "options": [
+        "Il a augmenté de plus de 4 %",
+        "Il est resté stable",
+        "Il a reculé de plus de 4 %",
+        "Il a fluctué sans tendance claire"
+      ],
+      "correct": 2,
+      "explication": "L’annonce de cet accord a déjà eu des effets sur les marchés : le prix du pétrole a reculé de plus de 4 %.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Dans quelle ville le sommet du G7 a-t-il débuté ce lundi ?",
+      "options": [
+        "Genève",
+        "Paris",
+        "Évian",
+        "Berlin"
+      ],
+      "correct": 2,
+      "explication": "Le sommet du G7 a débuté ce lundi à Évian, en Haute-Savoie.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
