@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 ”La guerre de l’IA a commencé”",
+  "date": "16/06/2026",
+  "img": "archives/2026-06-16/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle entreprise américaine, à l'origine de Claude, a été ordonnée par les États-Unis de restreindre l'accès à ses IA les plus puissantes aux ressortissants étrangers?",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que \"les États-Unis ont ordonné à l’entreprise IA Anthropic, à l’origine de Claude, de suspendre à “tout ressortissant étranger” l’accès à ses IA les plus puissantes.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Où les dirigeants du G7 se sont-ils réunis hier pour discuter de la guerre en Ukraine et du conflit au Moyen-Orient?",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Rome",
+        "Évian"
+      ],
+      "correct": 3,
+      "explication": "Le texte mentionne que \"Les dirigeants du G7 sont arrivés hier à Évian, en Haute-Savoie.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle association a alerté sur la progression rapide du virus Ebola en République démocratique du Congo et l'insuffisance de la réponse?",
+      "options": [
+        "Croix-Rouge",
+        "Médecins du Monde",
+        "Médecins sans frontières",
+        "UNICEF"
+      ],
+      "correct": 2,
+      "explication": "L'association Médecins sans frontières (MSF) a donné l'alerte ce lundi.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Que réclame Albert Corrieri, un Marseillais de 104 ans, en saisissant la Cour européenne des droits de l'homme?",
+      "options": [
+        "Une pension de retraite anticipée",
+        "Le paiement de ses heures de travail forcé pendant la Seconde Guerre mondiale",
+        "Une indemnisation pour des dommages de guerre",
+        "La reconnaissance de son statut d'ancien combattant"
+      ],
+      "correct": 1,
+      "explication": "Albert Corrieri \"a annoncé saisir la Cour européenne des droits de l'homme pour obtenir le “paiement de ses heures” de travail forcé en Allemagne nazie\".",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la raison principale de la fermeture du corner Shein au BHV Marais, selon le nouvel exploitant?",
+      "options": [
+        "Un manque de stock",
+        "Une baisse des ventes générales du BHV",
+        "Une collaboration considérée comme une \"erreur stratégique\"",
+        "Des problèmes logistiques"
+      ],
+      "correct": 2,
+      "explication": "Le nouvel exploitant du grand magasin parisien met fin à son partenariat avec Shein, considérant que cette collaboration est une “erreur stratégique”.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon l'institut Reuters, quelle est la nouvelle tendance mondiale en matière de consommation d'informations?",
+      "options": [
+        "La télévision est le média le plus utilisé",
+        "La radio gagne en popularité",
+        "Les réseaux sociaux sont plus utilisés que les médias traditionnels pour s'informer",
+        "Les sites de médias en ligne sont en déclin"
+      ],
+      "correct": 2,
+      "explication": "\"Pour la 1re fois dans le monde, les réseaux sociaux sont plus utilisés pour s’informer que les médias traditionnels, selon l’institut Reuters.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "D'après un rapport de l'Unicef, combien d'enfants dans le monde sont exposés à au moins trois menaces climatiques en même temps?",
+      "options": [
+        "Environ un quart, soit 500 millions",
+        "Environ un tiers, soit 750 millions",
+        "Près de la moitié, soit 1,1 milliard",
+        "Plus des trois quarts, soit 1,5 milliard"
+      ],
+      "correct": 2,
+      "explication": "\"Près de la moitié des enfants dans le monde, soit 1,1 milliard d’enfants, sont exposés à au moins 3 menaces climatiques en même temps.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Dans quel cas le dépistage individuel au cadmium, un métal lourd cancérogène, est-il remboursé en France depuis peu?",
+      "options": [
+        "Pour tous les résidents français",
+        "Pour les personnes surexposées du fait de leur lieu de résidence ou d’une intoxication chronique",
+        "Uniquement pour les travailleurs industriels",
+        "Pour les personnes ayant des antécédents familiaux de cancer"
+      ],
+      "correct": 1,
+      "explication": "\"Seules les personnes “surexposées du fait de leur lieu de résidence” ou à cause “d’une intoxication chronique” peuvent être remboursées.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est le montant supplémentaire que le ministre des Armées, Sébastien Lecornu, a annoncé investir dans l'IA d'ici 2030 pour renforcer l'autonomie française?",
+      "options": [
+        "100 millions d’€",
+        "350 millions d’€",
+        "655 millions d’€",
+        "1 milliard d’€"
+      ],
+      "correct": 2,
+      "explication": "Le ministre des Armées Sébastien Lecornu a annoncé \"un investissement supplémentaire de 655 millions d’€ dans l’IA d’ici 2030\".",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Lors du G7, quelle déclaration Donald Trump a-t-il faite concernant l'Iran et l'arme nucléaire?",
+      "options": [
+        "L'Iran devrait être aidé à développer l'énergie nucléaire civile.",
+        "L'Iran n'aura jamais l'arme nucléaire et il y aura des conséquences terribles s'ils l'obtiennent.",
+        "Les négociations avec l'Iran sur le nucléaire sont inutiles.",
+        "La situation iranienne n'est pas une priorité du G7."
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a assuré que “l’Iran n’aura jamais l’arme nucléaire” et que s’ils l’obtiennent, il y aura “des conséquences terribles”.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
