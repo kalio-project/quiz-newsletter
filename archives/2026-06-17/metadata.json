@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Affaire Lyhanna : des signaux ignorés ?",
+  "date": "17/06/2026",
+  "img": "archives/2026-06-17/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est l'événement majeur concernant le détroit d'Ormuz mentionné dans l'actualité?",
+      "options": [
+        "L'Iran a annoncé son intention de le fermer définitivement.",
+        "Des navires américains ont lancé une nouvelle offensive dans la région.",
+        "Des navires iraniens ont réussi à le franchir pour la première fois depuis 2 mois.",
+        "Un accord international a été signé pour le militariser."
+      ],
+      "correct": 2,
+      "explication": "Pour la 1re fois depuis 2 mois, des navires iraniens ont réussi à franchir le détroit d’Ormuz, suite à un accord avec les États-Unis.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon les associations Human Rights Watch, Reclaim et la Maison communautaire pour un développement solidaire, quelle pratique policière est dénoncée en France?",
+      "options": [
+        "Le manque de policiers dans les quartiers sensibles.",
+        "La multiplication des amendes discriminatoires visant les jeunes Noirs et Arabes.",
+        "L'usage excessif de la force lors des manifestations.",
+        "Le refus de prendre en compte les plaintes des citoyens."
+      ],
+      "correct": 1,
+      "explication": "3 associations dénoncent la multiplication des “amendes discriminatoires visant les jeunes Noirs et Arabes en France” dans un rapport publié ce mercredi.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle nouvelle mesure a été annoncée par le Premier ministre Sébastien Lecornu pour les ministres et employés des ministères?",
+      "options": [
+        "L'obligation de suivre une formation sur l'éthique.",
+        "La mise en place de tests anti-drogue aléatoires et obligatoires.",
+        "L'interdiction de travailler à distance plus de deux jours par semaine.",
+        "L'obligation de déclarer tous leurs biens personnels."
+      ],
+      "correct": 1,
+      "explication": "Le Premier ministre Sébastien Lecornu a annoncé ce mardi que les ministres et les employés des ministères vont devoir faire des tests anti-drogue aléatoires et obligatoires.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Combien de départements sont placés en vigilance orange canicule à partir de ce jeudi midi?",
+      "options": [
+        "15 départements",
+        "26 départements",
+        "30 départements",
+        "45 départements"
+      ],
+      "correct": 1,
+      "explication": "26 départements sont placés en vigilance orange canicule à partir de ce jeudi midi, avec des températures allant jusqu’à 40 °C attendues en fin de semaine.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "L'Agence nationale de sécurité du médicament rappelle que certains médicaments peuvent augmenter les risques en période de fortes chaleurs. Lequel des types de médicaments suivants n'a PAS été mentionné comme augmentant ces risques?",
+      "options": [
+        "Les diurétiques",
+        "Les laxatifs",
+        "Les antibiotiques",
+        "Les antidépresseurs"
+      ],
+      "correct": 2,
+      "explication": "Les diurétiques, les laxatifs et les antidépresseurs sont mentionnés. Les antibiotiques ne le sont pas.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle décision a été prise concernant les épreuves orales du baccalauréat en raison de la canicule?",
+      "options": [
+        "Elles sont annulées dans toutes les communes touchées.",
+        "Elles pourront être décalées de quelques jours, au cas par cas.",
+        "Elles seront remplacées par une évaluation écrite.",
+        "Elles devront se dérouler en extérieur pour éviter la chaleur."
+      ],
+      "correct": 1,
+      "explication": "Les épreuves orales du bac prévues à partir de la semaine prochaine pourront être décalées de quelques jours, au cas par cas selon les communes, à cause de la canicule.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l'ONG Refashion, combien de vêtements neufs les Français ont-ils achetés en moyenne en 2025?",
+      "options": [
+        "Environ 20 vêtements",
+        "Environ 30 vêtements",
+        "Environ 43 vêtements",
+        "Environ 50 vêtements"
+      ],
+      "correct": 2,
+      "explication": "Les Français ont acheté en moyenne 43 vêtements neufs en 2025, soit un niveau record selon l’ONG Refashion.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la principale caractéristique des nouvelles techniques génomiques (NGT), la nouvelle génération d'OGM autorisée par le Parlement européen?",
+      "options": [
+        "Elles sont beaucoup plus coûteuses que les OGM classiques.",
+        "Elles n'introduisent pas d'ADN étranger.",
+        "Elles sont uniquement utilisées pour la production animale.",
+        "Elles sont interdites à la commercialisation en Europe."
+      ],
+      "correct": 1,
+      "explication": "Contrairement aux OGM classiques, ils (les NGT) n’introduisent pas d’ADN étranger.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon le Citepa, comment ont évolué les émissions de CO₂ en France en 2024 et 2025 par rapport aux prévisions?",
+      "options": [
+        "Elles ont augmenté plus que prévu.",
+        "Elles sont restées stables, contrairement aux prévisions de baisse.",
+        "Elles ont baissé plus que prévu.",
+        "Elles ont baissé mais moins que ce qui était attendu."
+      ],
+      "correct": 2,
+      "explication": "Les émissions de CO₂ en 2024 et 2025 ont plus baissé que prévu en France, selon le Citepa.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Dans l'affaire Lyhanna, qu'est-ce qui a suscité la polémique concernant le principal suspect, Jérôme Barella, avant la découverte du corps de la fillette?",
+      "options": [
+        "Il était un inconnu des services de police.",
+        "Il avait déjà été condamné pour meurtre et s'était évadé.",
+        "Il était déjà visé par de multiples accusations de viols sur mineures sans jamais avoir été mis en examen.",
+        "Il avait un solide alibi pour le moment de la disparition."
+      ],
+      "correct": 2,
+      "explication": "Jérôme Barella, le principal suspect du meurtre de la petite Lyhanna, était déjà visé par de multiples accusations de viols sur mineures qui auraient dû avertir la justice bien avant la disparition de Lyhanna, mais n’a jamais été mis en examen.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
