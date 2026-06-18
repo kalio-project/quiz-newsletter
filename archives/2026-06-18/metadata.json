@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 L'Ukraine est-elle en train de renverser la situation ?",
+  "date": "18/06/2026",
+  "img": "archives/2026-06-18/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est l'ampleur de l'attaque de drones qui a ciblé Moscou et ses environs récemment, selon le ministère russe de la Défense ?",
+      "options": [
+        "Moins de 20 drones.",
+        "Environ 100 drones, principalement abattus.",
+        "Plus de 500 drones interceptés à l'échelle du pays en une seule nuit.",
+        "Aucune attaque massive de drones n'a été signalée récemment."
+      ],
+      "correct": 2,
+      "explication": "Le ministère russe de la Défense évoque plus de 500 drones interceptés à l’échelle du pays en une seule nuit, et le maire de Moscou affirme avoir abattu au moins 194 drones autour de la ville.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où le président des États-Unis a-t-il signé le protocole d'accord pour mettre fin au conflit avec l'Iran ?",
+      "options": [
+        "À Washington D.C.",
+        "À Téhéran, en Iran.",
+        "Au Château de Versailles, en France.",
+        "Lors d'un sommet à Genève, en Suisse."
+      ],
+      "correct": 2,
+      "explication": "Le président des États-Unis Donald Trump a signé ce mercredi soir, depuis le Château de Versailles, le protocole d’accord pour mettre fin au conflit avec l’Iran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de départements français sont placés en vigilance orange canicule pour ce vendredi ?",
+      "options": [
+        "26 départements.",
+        "53 départements.",
+        "La totalité des départements français.",
+        "Moins de 10 départements."
+      ],
+      "correct": 1,
+      "explication": "Pour vendredi, 53 départements sont placés en vigilance orange canicule, selon Météo France.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'objectif principal du futur statut d'autonomie pour la Corse, validé par les députés ?",
+      "options": [
+        "Permettre à la Corse de devenir indépendante de la France.",
+        "Accorder plus de pouvoir au département pour adapter, voire créer, certaines lois et règles localement.",
+        "Renforcer le contrôle de l'État central sur la gestion insulaire.",
+        "Établir un statut similaire à celui des départements d'outre-mer."
+      ],
+      "correct": 1,
+      "explication": "L’objectif du futur statut d'autonomie pour la Corse est de permettre au département d’avoir plus de pouvoir pour adapter, voire créer, certaines lois et règles localement.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle mesure clé la réforme de l'immigration approuvée par le Parlement européen autorise-t-elle notamment ?",
+      "options": [
+        "La suppression totale des contrôles aux frontières intérieures de l'UE.",
+        "La création de 'hubs de retour' hors de l'UE pour l'expulsion de migrants dont la demande d’asile a été refusée.",
+        "L'ouverture des frontières pour tous les demandeurs d'asile sans restriction.",
+        "L'interdiction de toute expulsion de migrants quel que soit leur statut."
+      ],
+      "correct": 1,
+      "explication": "Le Parlement européen a approuvé ce mercredi une réforme de l’immigration autorisant notamment la création de “hubs de retour” hors de l’UE, l'objectif étant de permettre l'expulsion de migrants dont la demande d’asile a été refusée.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon un rapport de l'association Stop VOG, quelle proportion de femmes dit avoir subi des violences gynécologiques ou obstétricales ?",
+      "options": [
+        "Moins d'une femme sur dix.",
+        "Plus de 4 femmes sur 10.",
+        "Environ 2 femmes sur 10.",
+        "La majorité des femmes interrogées, soit plus de 7 femmes sur 10."
+      ],
+      "correct": 1,
+      "explication": "Plus de 4 femmes sur 10 disent avoir subi des violences gynécologiques ou obstétricales, selon un rapport de l’association Stop VOG.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la principale mesure proposée par les sénateurs et députés pour freiner l'ultra fast-fashion ?",
+      "options": [
+        "L'interdiction pure et simple de la vente de produits ultra fast-fashion.",
+        "La mise en place d’un malus financier, payé par les plateformes, sur les produits d’ultra fast-fashion.",
+        "L'obligation pour les marques de produire uniquement en Europe.",
+        "La limitation du nombre d'articles achetables par client sur ces plateformes."
+      ],
+      "correct": 1,
+      "explication": "Les sénateurs et députés se sont accordés sur une proposition de loi visant à freiner l’ultra fast-fashion en proposant la mise en place d’un malus financier, payé par les plateformes, sur les produits d’ultra fast-fashion.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel pays a annoncé l'interdiction des réseaux sociaux aux moins de 15 ans ?",
+      "options": [
+        "L'Australie.",
+        "Le Canada.",
+        "Les Émirats arabes unis.",
+        "Le Royaume-Uni."
+      ],
+      "correct": 2,
+      "explication": "Les Émirats arabes unis vont interdire les réseaux sociaux aux moins de 15 ans.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon Volodymyr Zelensky, quel est le double objectif des frappes ukrainiennes en profondeur sur le territoire russe ?",
+      "options": [
+        "Un objectif purement militaire pour détruire les infrastructures russes.",
+        "Un objectif psychologique pour montrer que la guerre peut aussi toucher la Russie, et un objectif économique pour ralentir son effort de guerre.",
+        "Un objectif de reconnaissance internationale de la souveraineté ukrainienne.",
+        "Un objectif d'annexion de territoires russes frontaliers."
+      ],
+      "correct": 1,
+      "explication": "Pour Volodymyr Zelensky, ces frappes en profondeur ont un double objectif : psychologique (montrer que la guerre peut aussi toucher le territoire russe) et économique (ralentir l’économie russe et compliquer le financement de l’effort de guerre).",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Concernant le détroit d'Ormuz, que prévoit le protocole d'accord signé entre l'Iran et les États-Unis ?",
+      "options": [
+        "Sa fermeture définitive au commerce mondial.",
+        "La levée de son blocus dans un délai de 30 jours.",
+        "L'établissement d'une zone de non-droit international.",
+        "Sa militarisation conjointe par les deux pays."
+      ],
+      "correct": 1,
+      "explication": "Les 2 pays promettent aussi de lever le blocus du détroit d’Ormuz, un passage maritime stratégique pour le commerce mondial, dans un délai de 30 jours.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
