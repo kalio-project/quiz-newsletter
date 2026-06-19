@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La canicule monte en intensité en France",
+  "date": "19/06/2026",
+  "img": "archives/2026-06-19/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pourcentage des départements français a été placé en vigilance orange canicule ce samedi ?",
+      "options": [
+        "Plus de la moitié",
+        "Un quart",
+        "Tous les départements",
+        "Moins d'un tiers"
+      ],
+      "correct": 0,
+      "explication": "Météo-France a placé 60 départements en vigilance orange canicule ce samedi, ce qui représente plus de la moitié des départements français.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel élément crucial a été révélé par l'autopsie de la petite Lyhanna, retrouvée morte début juin dans le Gers ?",
+      "options": [
+        "Elle est décédée de noyade",
+        "Elle a été violée",
+        "Elle a été tuée par balle",
+        "L'identité du meurtrier a été confirmée"
+      ],
+      "correct": 1,
+      "explication": "Les résultats de l'autopsie menée sur son corps ont révélé que Lyhanna a bien été violée.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Qui a approuvé le protocole d'accord entre les États-Unis et l'Iran avant le report des négociations de paix ?",
+      "options": [
+        "Le président américain Donald Trump",
+        "Le vice-président des États-Unis J.D. Vance",
+        "Le président iranien Massoud Pezechkian",
+        "Le Guide suprême iranien, Mojtaba Khamenei"
+      ],
+      "correct": 3,
+      "explication": "Le Guide suprême iranien, Mojtaba Khamenei, a approuvé le protocole d’accord entre les États-Unis et l’Iran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qu'ont annoncé Israël et le Hezbollah libanais ce vendredi après-midi, après une série de bombardements ?",
+      "options": [
+        "Une déclaration de guerre totale",
+        "Un cessez-le-feu",
+        "Des pourparlers de paix immédiats",
+        "La création d'une nouvelle alliance militaire"
+      ],
+      "correct": 1,
+      "explication": "Israël et le Hezbollah libanais ont convenu d’un cessez-le-feu, selon un responsable américain et un diplomate du Golfe.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le pourcentage de jeunes qui déclare avoir déjà consommé du protoxyde d'azote (gaz hilarant) selon la Macif ?",
+      "options": [
+        "Moins de 5 %",
+        "Environ 25 %",
+        "Plus d’un jeune sur 10",
+        "Plus de la moitié"
+      ],
+      "correct": 2,
+      "explication": "Selon la Macif, plus d’un jeune sur 10 déclare avoir déjà consommé du protoxyde d’azote.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Pour quel motif le défenseur du PSG et capitaine de l'équipe du Maroc, Achraf Hakimi, sera-t-il jugé ?",
+      "options": [
+        "Fraude fiscale",
+        "Dopage",
+        "Violation de contrat",
+        "Viol"
+      ],
+      "correct": 3,
+      "explication": "Achraf Hakimi sera bien jugé pour viol, a confirmé la cour d'appel de Versailles.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Qu'est-ce qui a été découvert à la Bibliothèque nationale de France concernant Mozart ?",
+      "options": [
+        "Une correspondance secrète avec Beethoven",
+        "Un cahier inédit de composition",
+        "Un portrait jamais vu de sa famille",
+        "Le manuscrit original de son opéra 'La Flûte enchantée'"
+      ],
+      "correct": 1,
+      "explication": "Un cahier inédit de composition de Mozart, avec 7 pièces pour flûte et harpe, a été découvert à la BnF.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quand les précommandes du jeu vidéo GTA 6 ouvriront-elles officiellement ?",
+      "options": [
+        "Le 19 novembre",
+        "Le 25 juin",
+        "Le 1er décembre",
+        "Le 13 janvier"
+      ],
+      "correct": 1,
+      "explication": "Le développeur du jeu, Rockstar Games, a annoncé que les précommandes de GTA 6 ouvriront le 25 juin.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle a été l'une des conséquences de la canicule en France concernant le baccalauréat ?",
+      "options": [
+        "L'annulation complète de toutes les épreuves",
+        "Le report du grand oral dans 4 départements de l'ouest",
+        "L'autorisation de passer les épreuves à domicile",
+        "La suppression de l'épreuve de philosophie"
+      ],
+      "correct": 1,
+      "explication": "Dans 4 départements de l’ouest de la France, les épreuves du grand oral du baccalauréat ont été reportées d’une semaine.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le Haut Conseil pour le climat en 2025, comment étaient jugés les investissements de la France en matière d'adaptation aux changements climatiques ?",
+      "options": [
+        "Très suffisants",
+        "Largement excédentaires",
+        "Très insuffisants",
+        "En adéquation avec les objectifs nationaux"
+      ],
+      "correct": 2,
+      "explication": "Le Haut Conseil pour le climat estimait déjà en 2025 que les investissements de la France en matière d’adaptation étaient “très insuffisants”.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
