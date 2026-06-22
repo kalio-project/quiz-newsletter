@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Comment le gouvernement gère la canicule",
+  "date": "22/06/2026",
+  "img": "archives/2026-06-22/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de départements français ont été placés en vigilance rouge canicule, selon l'article, lors de l'épisode mentionné ?",
+      "options": [
+        "35 départements",
+        "49 départements",
+        "15 départements",
+        "42 départements"
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne : '49 départements, représentant près de 35 millions de Français, ont été placés en vigilance rouge canicule, un record.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel Premier ministre britannique a annoncé sa démission ce lundi, après deux ans au pouvoir, en raison notamment de son impopularité et de la hausse du coût de la vie ?",
+      "options": [
+        "Rishi Sunak",
+        "Boris Johnson",
+        "Keir Starmer",
+        "Liz Truss"
+      ],
+      "correct": 2,
+      "explication": "L'article indique : 'Le Premier ministre britannique Keir Starmer a annoncé sa démission ce lundi après deux ans au pouvoir.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes ont été placées en détention provisoire pour 'violences sexuelles sur mineurs' depuis que le ministre de la Justice Gérald Darmanin a demandé le réexamen de plaintes ?",
+      "options": [
+        "11 personnes",
+        "70 000 personnes",
+        "134 personnes",
+        "14 personnes"
+      ],
+      "correct": 2,
+      "explication": "L'article précise : '134 personnes ont été placées en détention provisoire pour “violences sexuelles sur mineurs”'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel candidat d'extrême droite a remporté l'élection présidentielle en Colombie ce dimanche ?",
+      "options": [
+        "Gustavo Petro",
+        "Abelardo de la Espriella",
+        "Iván Duque",
+        "Álvaro Uribe"
+      ],
+      "correct": 1,
+      "explication": "L'article indique : 'Le candidat d'extrême droite Abelardo de la Espriella... a remporté l'élection présidentielle en Colombie ce dimanche'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'ONG Coffee Watch, quelle proportion de tasses de café consommées dans le monde contiendrait des résidus de pesticides ?",
+      "options": [
+        "Une tasse sur 2",
+        "Une tasse sur 5",
+        "Une tasse sur 10",
+        "Une tasse sur 20"
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne : 'Une tasse de café sur 5 consommée dans le monde contiendrait des résidus de pesticides, des produits chimiques utilisés pour protéger les cultures, selon l'ONG Coffee Watch.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est l'objectif principal de la nouvelle réglementation européenne concernant l'étiquetage des aliments du petit-déjeuner ?",
+      "options": [
+        "Réduire les prix des produits laitiers",
+        "Standardiser la taille des emballages",
+        "Renforcer la transparence sur la composition et l’origine des produits",
+        "Interdire la vente de certains jus de fruits"
+      ],
+      "correct": 2,
+      "explication": "L'article explique : 'L’objectif : renforcer la transparence sur la composition et l’origine des produits, et rendre les étiquettes plus lisibles pour les consommateurs.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Qui représentera la France au concours de l’Eurovision Junior 2026, qui aura lieu le 24 octobre à Malte ?",
+      "options": [
+        "Lou Deleuze",
+        "Alec",
+        "Lyhanna",
+        "Gérald Darmanin"
+      ],
+      "correct": 1,
+      "explication": "L'article indique : 'Alec, 12 ans, ex-candidat de “N’oubliez pas les enfants” sur France 2, représentera la France au concours de l’Eurovision Junior 2026'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Comment a évolué le budget du Fonds vert, destiné à aider les collectivités à adapter leurs infrastructures, entre 2024 et 2026, selon l'article ?",
+      "options": [
+        "Il a augmenté de 2,4 milliards d'€ à 837 millions d'€",
+        "Il est passé de 2,4 milliards d'€ en 2024 à 837 millions d'€ en 2026",
+        "Il a doublé de 837 millions d'€ à 2,4 milliards d'€",
+        "Il est resté stable à 2,4 milliards d'€"
+      ],
+      "correct": 1,
+      "explication": "L'article précise que 'son budget est passé de 2,4 milliards d’€ en 2024 à 837 millions en 2026'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de points de recharge de voitures électriques étaient ouverts au public au 31 décembre 2025, selon la publicité Stellantis ?",
+      "options": [
+        "30 807",
+        "400 000",
+        "185 501",
+        "750"
+      ],
+      "correct": 2,
+      "explication": "La publicité indique : 'La réponse : 185 501 (au 31 décembre 2025)'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle proposition a été faite par Les Écologistes concernant la protection des travailleurs exposés aux fortes chaleurs, à l'approche de la prochaine présidentielle ?",
+      "options": [
+        "La création de 10 méga-prisons",
+        "Un congé climatique pouvant aller jusqu’à 5 jours par an",
+        "Une réduction de 40 % des dépenses de l'État",
+        "Un durcissement des peines contre les criminels"
+      ],
+      "correct": 1,
+      "explication": "L'article rapporte : 'Les Écologistes ont par exemple proposé la création d’un congé climatique pouvant aller jusqu’à 5 jours par an pour protéger les travailleurs les plus exposés aux fortes chaleurs'.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
