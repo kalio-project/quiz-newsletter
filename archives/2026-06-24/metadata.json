@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 ALBANIE : Les manifestations continuent",
+  "date": "24/06/2026",
+  "img": "archives/2026-06-24/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la raison principale des manifestations qui ont lieu en Albanie depuis près d'un mois ?",
+      "options": [
+        "La volonté de rejoindre l'Union Européenne.",
+        "Un projet de construction de complexes hôteliers de luxe par la famille Trump sur une île protégée.",
+        "Des protestations contre la hausse du coût de la vie.",
+        "Des revendications pour un changement de gouvernement."
+      ],
+      "correct": 1,
+      "explication": "Les Albanais manifestent contre le projet immobilier porté par Jared Kushner et Ivanka Trump, visant à construire des hôtels sur l'île de Sazan, une zone protégée.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle information clé est donnée concernant l'épisode de canicule en France ?",
+      "options": [
+        "Les épreuves du brevet ont été reportées à la semaine prochaine.",
+        "Ce mercredi est devenu la journée la plus chaude jamais enregistrée en France.",
+        "Seuls les départements du sud de la France sont concernés par la vigilance rouge.",
+        "Les températures devraient chuter drastiquement dès jeudi."
+      ],
+      "correct": 1,
+      "explication": "L'indicateur thermique national de 29,97°C enregistré ce mercredi a fait de cette journée la plus chaude jamais enregistrée en France.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est le principal avertissement lancé par le Sénat français dans son rapport récent ?",
+      "options": [
+        "La nécessité d'augmenter les budgets de la Défense nationale.",
+        "Le risque que représentent les mouvements masculinistes pour la démocratie.",
+        "L'urgence de réformer le système de retraite.",
+        "La baisse de la natalité en France."
+      ],
+      "correct": 1,
+      "explication": "Le rapport sénatorial estime que les mouvements masculinistes représentent 'un risque réel pour notre démocratie et notre cohésion sociale'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la situation alarmante concernant le chlordécone dans les Outre-mer français ?",
+      "options": [
+        "Le chlordécone est un nouveau pesticide récemment découvert.",
+        "Plus de 80 % des adultes de Guadeloupe et de Martinique sont contaminés.",
+        "Le pesticide a été interdit en Hexagone et dans les Outre-mer à la même date.",
+        "Le chlordécone a été classé non cancérogène par l’OMS."
+      ],
+      "correct": 1,
+      "explication": "Santé publique France indique que plus de 80 % des adultes de Guadeloupe et de Martinique sont contaminés par le chlordécone, un pesticide toxique.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est l'un des objectifs majeurs de l'introduction de l'euro numérique, approuvée par le Parlement européen ?",
+      "options": [
+        "Remplacer complètement les pièces et billets physiques.",
+        "Réduire la dépendance de l'UE aux géants états-uniens du paiement.",
+        "Faciliter les paiements transfrontaliers vers les États-Unis.",
+        "Soutenir le cours de l'euro face au dollar."
+      ],
+      "correct": 1,
+      "explication": "L'euro numérique vise à réduire la dépendance de l'UE aux géants états-uniens du paiement comme Visa et Mastercard.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pour quelle raison le sélectionneur de l'équipe de France de football, Didier Deschamps, a-t-il dû rentrer précipitamment en France ?",
+      "options": [
+        "Pour une blessure grave d'un joueur clé.",
+        "À cause de problèmes de santé personnels.",
+        "Suite au décès de sa mère.",
+        "Pour signer un nouveau contrat avec la Fédération."
+      ],
+      "correct": 2,
+      "explication": "Didier Deschamps est rentré en France après avoir appris le décès de sa mère ce mardi.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel est le titre du nouveau single de Céline Dion dont la sortie est annoncée pour le 3 juillet ?",
+      "options": [
+        "Mon cœur reviendra",
+        "Bonjour, pardon, merci",
+        "Une nouvelle vie",
+        "L'amour est éternel"
+      ],
+      "correct": 1,
+      "explication": "Le nouveau single de Céline Dion s'intitule “Bonjour, pardon, merci”.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel est le profil du premier patient atteint d'Ebola identifié en France ?",
+      "options": [
+        "Un touriste revenant d'un voyage en Afrique de l'Ouest.",
+        "Un médecin revenant d'une mission en République démocratique du Congo.",
+        "Un scientifique ayant travaillé sur le virus en laboratoire.",
+        "Un ressortissant étranger arrivé récemment."
+      ],
+      "correct": 1,
+      "explication": "Le patient est un médecin revenant d’une mission en République démocratique du Congo.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon la publicité Stellantis, quel est l'objectif du nombre de points de recharge ouverts au public en France d'ici à 2030 ?",
+      "options": [
+        "185 501 points",
+        "30 807 points",
+        "400 000 points",
+        "750 000 points"
+      ],
+      "correct": 2,
+      "explication": "L'ambition nationale est d'atteindre 400 000 points de recharge ouverts au public d'ici à 2030.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Qu'est-ce qui a renforcé les inquiétudes des opposants au projet immobilier en Albanie, selon le texte ?",
+      "options": [
+        "Une baisse du nombre de touristes étrangers.",
+        "Une réforme votée en 2024 autorisant plus facilement la construction dans des zones protégées.",
+        "La fermeture de plusieurs associations environnementales.",
+        "Une augmentation subite du prix des terrains."
+      ],
+      "correct": 1,
+      "explication": "Les inquiétudes sont renforcées par une réforme votée en 2024 par le Parlement albanais, qui autorise plus facilement la construction d’infrastructures touristiques dans certaines zones protégées.",
+      "theme": "ENVIRONNEMENT"
+    }
+  ]
+}

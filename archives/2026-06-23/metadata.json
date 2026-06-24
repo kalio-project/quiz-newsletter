@@ -1,0 +1,127 @@
+{
+  "titre": "🚨La plus grande défaite de Donald Trump ?",
+  "date": "23/06/2026",
+  "img": "archives/2026-06-23/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'article, quel est l'un des principaux échecs stratégiques pour les États-Unis suite à la guerre en Iran, d'après de nombreux observateurs ?",
+      "options": [
+        "Le régime iranien a été renversé.",
+        "Les États-Unis ont réussi à imposer leurs objectifs par la force.",
+        "Les États-Unis sont obligés de négocier ce qu'ils espéraient imposer par la force.",
+        "Le détroit d'Ormuz est resté ouvert tout au long du conflit."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne que « Pour certains analystes, il s’agit déjà d’un recul : les États-Unis doivent négocier ce qu’ils espéraient imposer par la force. »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle affirmation concernant la canicule en France est vraie selon l'article ?",
+      "options": [
+        "La France a battu son record absolu de chaleur depuis 1947 sur une journée.",
+        "La température moyenne nationale a atteint 35°C ce mardi.",
+        "Seuls 10 départements étaient en alerte orange pour le lendemain.",
+        "Le pic de chaleur est déjà passé."
+      ],
+      "correct": 0,
+      "explication": "L'article indique que « Ces dernières 24 heures ont été les plus chaudes jamais enregistrées en France depuis 1947 ».",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'objectif du ministre de la Justice Gérald Darmanin pour son ministère d'ici 6 mois ?",
+      "options": [
+        "Augmenter le nombre de magistrats.",
+        "Atteindre le \"zéro papier\" grâce à un plan de numérisation.",
+        "Réduire le nombre de prisons.",
+        "Mettre en place un nouveau code pénal."
+      ],
+      "correct": 1,
+      "explication": "Le texte dit : « Le ministre de la Justice Gérald Darmanin a promis d’atteindre le “zéro papier” au sein de son ministère d’ici 6 mois grâce à un plan de numérisation. »",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelles ont été les deux premières causes de décès en France en 2024 selon l'article ?",
+      "options": [
+        "Accidents de la route et suicides.",
+        "Maladies infectieuses et respiratoires.",
+        "Cancers et maladies cardiovasculaires.",
+        "Diabète et maladies neurologiques."
+      ],
+      "correct": 2,
+      "explication": "Selon l'article, « Les cancers et les maladies cardiovasculaires sont restées les 1res causes de décès en France en 2024 ».",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qui est le premier historien à faire son entrée au Panthéon, selon l'article ?",
+      "options": [
+        "Victor Hugo.",
+        "Marie Curie.",
+        "Marc Bloch.",
+        "Napoléon Bonaparte."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne : « L’historien et résistant juif Marc Bloch... fait son entrée au Panthéon... C’est une 1re pour un historien. »",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle a été la particularité du match de la Coupe du Monde opposant la France à l'Irak ?",
+      "options": [
+        "C'était le premier match de l'histoire à se terminer sur un score de 0-0.",
+        "Il a été le match le plus long de toute l'histoire de la Coupe du monde.",
+        "La France a été éliminée malgré sa victoire.",
+        "L'arbitre a distribué un nombre record de cartons rouges."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : « Ce match... aura été le plus long de toute l’histoire de la Coupe du monde. En cause : un violent orage... »",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel guide suprême iranien a été tué lors des premières frappes américano-israéliennes selon l'article, dans le cadre de la guerre en Iran ?",
+      "options": [
+        "Ruhollah Khomeini.",
+        "Ali Khamenei.",
+        "Mahmoud Ahmadinejad.",
+        "Hassan Rouhani."
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne que « les frappes ont notamment tué le guide suprême iranien Ali Khamenei ».",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes ont été tuées lors de la fusillade à Montréal, au Québec, mentionnée dans l'article ?",
+      "options": [
+        "Une personne.",
+        "Deux personnes.",
+        "Trois personnes.",
+        "Quatre personnes."
+      ],
+      "correct": 2,
+      "explication": "L'article rapporte : « Trois hommes, un policier, un passant et le suspect ont été tués ce lundi lors d’une fusillade à Montréal ».",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de points de recharge de voitures électriques étaient ouverts au public en France au 31 décembre 2025, selon la publicité Stellantis ?",
+      "options": [
+        "Moins de 100 000.",
+        "185 501.",
+        "400 000.",
+        "Plus de 500 000."
+      ],
+      "correct": 1,
+      "explication": "La publicité indique : « La réponse : 185 501 (au 31 décembre 2025) ».",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle affaire a révélé les dysfonctionnements de la justice et a conduit à l'annonce du plan de numérisation par Gérald Darmanin ?",
+      "options": [
+        "L'affaire Cahuzac.",
+        "L'affaire Lyhanna.",
+        "L'affaire Outreau.",
+        "L'affaire Grégory."
+      ],
+      "correct": 1,
+      "explication": "« Cette annonce a été faite suite aux dysfonctionnements de la justice révélés par l’affaire Lyhanna. »",
+      "theme": "JUSTICE"
+    }
+  ]
+}
