@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump vient-il de faire gagner la Chine dans la course à l’IA ?",
+  "date": "25/06/2026",
+  "img": "archives/2026-06-25/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle mesure les États-Unis ont-ils ordonné à l'entreprise d'IA Anthropic de prendre concernant l'accès à ses modèles les plus puissants ?",
+      "options": [
+        "Bloquer l'accès à tous les utilisateurs",
+        "Restreindre l'accès uniquement aux ressortissants étrangers",
+        "Publier le code source de ses modèles",
+        "Développer de nouveaux modèles moins puissants"
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement américain a ordonné à Anthropic d'interdire l'accès à ses modèles d’IA les plus puissants pour tout ressortissant étranger, bien que l'entreprise ait finalement coupé l'accès à tous en raison de l'impossibilité de filtrer.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle température moyenne a été enregistrée en France durant la nuit la plus chaude jamais enregistrée (mercredi à jeudi) ?",
+      "options": [
+        "21,6°C",
+        "22°C",
+        "26,4°C",
+        "38,5°C"
+      ],
+      "correct": 1,
+      "explication": "La nuit de mercredi à jeudi a été la plus chaude jamais enregistrée en France, avec 22°C en moyenne.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon l'Insee, quel était le montant de la dette de la France au 1er trimestre 2026 ?",
+      "options": [
+        "353,6 milliards d'euros",
+        "3 536 milliards d'euros",
+        "35,36 milliards d'euros",
+        "3 536 millions d'euros"
+      ],
+      "correct": 1,
+      "explication": "La France a 3 536 milliards d’euros de dette au 1er trimestre 2026, selon l’Insee.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Suite à la détection d'un premier cas d'Ebola en France, combien de passagers ont été placés à l'isolement ?",
+      "options": [
+        "Un seul passager",
+        "Cinq passagers",
+        "Vingt et un passagers",
+        "Cent soixante-quatre passagers"
+      ],
+      "correct": 1,
+      "explication": "Après la détection d’un 1er cas d’Ebola en France, 5 passagers ayant voyagé dans le même avion que le médecin testé positif ont été placés à l’isolement.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Combien de morts ont été recensés suite aux deux puissants tremblements de terre qui ont frappé le Venezuela ce mercredi ?",
+      "options": [
+        "85 morts",
+        "164 morts",
+        "Près de 1 000 morts",
+        "Plus de 3 500 morts"
+      ],
+      "correct": 1,
+      "explication": "Deux puissants tremblements de terre ont frappé le Venezuela, faisant au moins 164 morts et près de 1 000 blessés.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À quelle distance de la Terre se trouvera l'astéroïde lorsqu'il atteindra son point le plus proche ce samedi ?",
+      "options": [
+        "256 000 kilomètres",
+        "2,56 millions de kilomètres",
+        "25,6 millions de kilomètres",
+        "256 millions de kilomètres"
+      ],
+      "correct": 1,
+      "explication": "L'astéroïde atteindra son point le plus proche de la Terre samedi à 13h14, heure de Paris, se trouvant alors à environ 2,56 millions de kilomètres de la Terre.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est la date de sortie prévue pour le jeu vidéo 'GTA 6' ?",
+      "options": [
+        "Ce jeudi",
+        "Le 19 novembre",
+        "Dans 13 ans",
+        "Le 1er janvier 2025"
+      ],
+      "correct": 1,
+      "explication": "13 ans après la sortie de GTA 5, ce 6e opus est prévu pour le 19 novembre.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel créateur de contenu reprendra le rôle de Jean Dujardin dans la nouvelle version de la série 'Un gars, une fille' ?",
+      "options": [
+        "Alexandra Lamy",
+        "Ton Pote Gillian",
+        "Jean Dujardin lui-même",
+        "Un nom non encore annoncé"
+      ],
+      "correct": 1,
+      "explication": "Le créateur de contenu 'Ton Pote Gillian' reprendra le rôle de Jean Dujardin dans la nouvelle version de 'Un gars, une fille'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon le Wall Street Journal, quelle était la principale alerte d'Amazon au gouvernement américain concernant les modèles d'IA d'Anthropic ?",
+      "options": [
+        "Le risque de violation de données personnelles des utilisateurs",
+        "La capacité des modèles à révéler des informations exploitables dans une cyberattaque",
+        "L'utilisation abusive des IA par des entreprises concurrentes",
+        "Le coût de développement excessif des modèles"
+      ],
+      "correct": 1,
+      "explication": "Amazon aurait alerté le gouvernement après que ses chercheurs ont réussi, grâce à des requêtes très ciblées, à pousser l’un des modèles à révéler des informations potentiellement exploitables dans le cadre d’une cyberattaque.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Face à la canicule, quelle mesure le ministère de l'Éducation nationale a-t-il pris concernant les écoles ?",
+      "options": [
+        "Interdiction de toute activité sportive en extérieur",
+        "Fermeture de toutes les écoles du pays",
+        "Fermeture ou adaptation des horaires pour 13 500 écoles",
+        "Mise en place de cours à distance obligatoires pour tous les élèves"
+      ],
+      "correct": 2,
+      "explication": "13 500 écoles ont dû fermer ou adapter leurs horaires ce jeudi, selon le ministère de l’Éducation nationale.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
