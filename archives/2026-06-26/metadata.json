@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Canicule : le point de bascule ?",
+  "date": "26/06/2026",
+  "img": "archives/2026-06-26/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale crainte exprimée par la ministre de la Santé, Stéphanie Rist, concernant les hôpitaux en France suite à la canicule ?",
+      "options": [
+        "Un manque de personnel qualifié pour les opérations",
+        "Un week-end \"compliqué\" dû à la forte affluence et aux conditions climatiques",
+        "Une rupture de stock de médicaments essentiels",
+        "Une cyberattaque majeure sur les systèmes informatiques hospitaliers"
+      ],
+      "correct": 1,
+      "explication": "La ministre de la Santé, Stéphanie Rist, affirme craindre un week-end \"compliqué\" dans les hôpitaux après 7 jours de canicule intense.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Pourquoi l'évacuation des navires bloqués dans le détroit d'Ormuz a-t-elle été suspendue ce jeudi ?",
+      "options": [
+        "En raison de fortes intempéries rendant la navigation dangereuse",
+        "Suite à l'attaque d'un navire singapourien par un projectile",
+        "Par manque de personnel pour mener à bien l'opération",
+        "Un désaccord diplomatique entre les États-Unis et l'Iran"
+      ],
+      "correct": 1,
+      "explication": "L’évacuation a été suspendue après qu'un navire singapourien a été touché par un projectile alors qu’il traversait le détroit.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle décision majeure la justice française a-t-elle rendue concernant TotalEnergies ?",
+      "options": [
+        "L'interdiction d'opérer de nouveaux projets pétroliers en France",
+        "L'obligation d'intégrer les émissions indirectes de gaz à effet de serre dans son plan de vigilance",
+        "Le paiement d'une amende record pour non-respect des normes environnementales",
+        "La fermeture de plusieurs de ses raffineries sous 3 mois"
+      ],
+      "correct": 1,
+      "explication": "La justice a ordonné à TotalEnergies d'intégrer d'ici 6 mois les émissions indirectes de gaz à effet de serre dans son plan de vigilance, suite à une action en justice menée par des associations et la Ville de Paris.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est le bilan provisoire des victimes des tremblements de terre au Venezuela mentionné dans l'article ?",
+      "options": [
+        "Moins de 100 morts et 500 blessés",
+        "Environ 250 morts et 1 000 blessés",
+        "589 morts et plus de 1 500 blessés",
+        "Plus de 1 000 morts et 3 000 blessés"
+      ],
+      "correct": 2,
+      "explication": "Un nouveau bilan provisoire fait état de 589 morts et plus de 1 500 blessés suite aux 2 puissants tremblements de terre au Venezuela.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle initiative a été prise par le parquet de Nanterre concernant la plateforme Vinted ?",
+      "options": [
+        "L'ouverture d'une enquête pour des signalements visant des annonces soupçonnées de trafic d'enfants",
+        "Le lancement d'une campagne de sensibilisation aux arnaques en ligne",
+        "L'interdiction temporaire de la vente de jouets sur la plateforme",
+        "Une collaboration pour améliorer la sécurité des transactions bancaires"
+      ],
+      "correct": 0,
+      "explication": "Une enquête a été ouverte par le parquet de Nanterre après des signalements visant des annonces publiées sur Vinted, soupçonnées d’être liées à un trafic d’enfants.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "À New York, quelle mesure concernant les loyers sera mise en place à partir du 1er octobre ?",
+      "options": [
+        "Une augmentation progressive des loyers pour les nouveaux baux",
+        "Un gel des loyers pour environ 1 million de logements",
+        "La mise en place d'un plafond pour les loyers des logements de luxe",
+        "Une subvention gouvernementale pour aider les locataires en difficulté"
+      ],
+      "correct": 1,
+      "explication": "Les loyers d’environ 1 million de logements à New York seront gelés dès le 1er octobre, une des promesses de campagne du maire.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Où le pape Léon XIV célébrera-t-il une messe géante à Paris le 26 septembre ?",
+      "options": [
+        "Au Stade de France à Saint-Denis",
+        "Dans la Cathédrale Notre-Dame de Paris",
+        "Sur la place de la Concorde et les Champs-Élysées",
+        "Au Parc des Princes"
+      ],
+      "correct": 2,
+      "explication": "Le pape Léon XIV célébrera une messe le 26 septembre à Paris sur la place de la Concorde et sur les Champs-Élysées.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel type de rassemblements a été annulé à Paris pour le week-end en raison de la canicule ?",
+      "options": [
+        "Toutes les compétitions sportives universitaires",
+        "Tous les concerts en salles fermées",
+        "Tous les grands rassemblements, dont la Marche des fiertés et le festival Solidays",
+        "Les marchés aux puces et brocantes en plein air"
+      ],
+      "correct": 2,
+      "explication": "À Paris, tous les grands rassemblements du week-end, dont la Marche des fiertés et le festival Solidays, ont été annulés en raison de la canicule.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel manga est mis à l'honneur dans le nouvel espace dédié au musée Grévin à Paris ?",
+      "options": [
+        "Naruto",
+        "Dragon Ball",
+        "One Piece",
+        "Attack on Titan"
+      ],
+      "correct": 2,
+      "explication": "Un espace dédié à l’univers du manga “One Piece” a ouvert ce vendredi au musée Grévin à Paris, le 1er consacré à des personnages d'animation japonaise.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle mesure exceptionnelle a été activée par le gouvernement pour faire face à la situation hospitalière liée à la canicule ?",
+      "options": [
+        "Le plan Vigipirate au niveau \"Urgence Attentat\"",
+        "Le plan Orsan au niveau 3 sur 4",
+        "Le plan canicule au niveau \"alerte rouge maximale\"",
+        "Le plan grand froid pour anticiper les baisses de température"
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement a activé ce jeudi le plan Orsan au niveau 3 sur 4, visant à réorganiser hôpitaux, cliniques et services d'urgence.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
