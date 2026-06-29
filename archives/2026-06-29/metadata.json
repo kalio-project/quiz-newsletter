@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 L’Euro numérique peut-il tout changer ?",
+  "date": "29/06/2026",
+  "img": "archives/2026-06-29/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la valeur d'un euro numérique comparée à un euro actuel, selon le texte ?",
+      "options": [
+        "Il aurait une valeur supérieure.",
+        "Il aurait une valeur inférieure.",
+        "Il aurait exactement la même valeur.",
+        "Sa valeur serait variable, comme le Bitcoin."
+      ],
+      "correct": 3,
+      "explication": "Le texte indique clairement que '1 euro numérique = 1 euro', ce qui signifie qu'il aurait exactement la même valeur que l'euro actuel.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est l'un des objectifs stratégiques de la création de l'euro numérique, mentionné dans le texte ?",
+      "options": [
+        "Remplacer toutes les espèces en circulation.",
+        "Augmenter la dépendance aux systèmes de paiement américains.",
+        "Réduire la dépendance de l'Europe aux réseaux de paiements états-uniens.",
+        "Financer directement les entreprises européennes sans passer par les banques."
+      ],
+      "correct": 3,
+      "explication": "Le texte affirme que 'Le second objectif est stratégique : réduire la dépendance de l’Europe aux réseaux de paiements états-uniens comme Visa et Mastercard.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est l'une des principales préoccupations soulevées concernant l'euro numérique, notamment par la CNIL ?",
+      "options": [
+        "Sa complexité technique.",
+        "Le risque de cyberattaques.",
+        "La question de la vie privée et de l'enregistrement des transactions.",
+        "Le fait qu'il ne sera pas adossé au dollar."
+      ],
+      "correct": 3,
+      "explication": "Le texte mentionne : 'La question de la vie privée revient également souvent. La CNIL demande notamment qu’un mode hors ligne permette d’effectuer des paiements sans enregistrer les transactions.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l'Organisation Mondiale de la Santé (OMS), combien de décès supplémentaires sont attribués à la vague de chaleur en Europe depuis le 21 juin ?",
+      "options": [
+        "Moins de 500 décès.",
+        "Environ 800 décès.",
+        "Plus de 1 300 décès.",
+        "Plus de 2 000 décès."
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'Plus de 1 300 décès de plus que la normale sont attribués à la vague de chaleur qui frappe l'Europe depuis le 21 juin, selon l’Organisation Mondiale de la Santé.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "D'après le dernier bilan officiel, combien de personnes sont mortes suite au double séisme qui a frappé le Venezuela ?",
+      "options": [
+        "Au moins 700 personnes.",
+        "Environ 1 000 personnes.",
+        "Au moins 1 450 personnes.",
+        "Plus de 3 000 personnes."
+      ],
+      "correct": 3,
+      "explication": "Le texte précise : 'Au moins 1 450 personnes sont mortes et plus de 3 200 ont été blessées après le double séisme qui a frappé le Vénézuela mercredi dernier, d’après le dernier bilan officiel.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi les précédents gouvernements israéliens évitaient-ils de reconnaître le génocide arménien, contrairement au gouvernement actuel ?",
+      "options": [
+        "Manque de preuves historiques.",
+        "Pour préserver leurs relations avec la Turquie.",
+        "Par désaccord sur le terme 'génocide'.",
+        "Pour ne pas froisser l'Arménie."
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : 'Les précédents gouvernements israéliens évitaient cette reconnaissance afin de préserver leurs relations avec la Turquie, héritière de l’empire, qui rejette ce terme.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel a été le résultat des premières élections provinciales en Nouvelle-Calédonie depuis 2019 concernant la majorité au Congrès ?",
+      "options": [
+        "Les indépendantistes ont obtenu une majorité absolue.",
+        "Les non-indépendantistes ont obtenu une majorité absolue.",
+        "Aucun camp n'a obtenu la majorité absolue au Congrès.",
+        "Les deux camps ont obtenu un nombre égal de sièges."
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'Aucun camp n’a obtenu la majorité au Congrès : les non-indépendantistes ont obtenu 24 sièges sur 54, contre 26 pour les listes indépendantistes, divisées en 3 groupes.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la principale raison de la contestation du projet d'autoroute A69 entre Toulouse et Castres, selon le texte ?",
+      "options": [
+        "Son coût financier excessif.",
+        "Son tracé qui contourne des villes importantes.",
+        "Son impact environnemental dénoncé par des associations écologistes.",
+        "Le fait qu'il ne réduirait pas suffisamment le temps de trajet."
+      ],
+      "correct": 3,
+      "explication": "Le texte mentionne : '...mais est contesté par des associations écologistes, qui dénoncent son impact environnemental.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Parmi les mesures de la nouvelle loi contre l'ultra fast fashion, laquelle est correcte ?",
+      "options": [
+        "Les entreprises concernées devront payer un malus allant jusqu'à 5 € par article.",
+        "La publicité pour ces marques sera autorisée sous certaines conditions.",
+        "Les entreprises comme Shein et Temu devront payer un malus pouvant aller jusqu'à 12 € par article.",
+        "La loi entrera en vigueur en janvier prochain."
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'Dès septembre, des entreprises comme Shein, Temu ou AliExpress, devront payer un malus pouvant aller jusqu’à 12 € par article. Par ailleurs, la publicité pour ces marques sera totalement interdite.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est le titre du biopic sur la vie de Michael Jackson qui est devenu le plus rentable de l'histoire du cinéma, selon le texte ?",
+      "options": [
+        "'Thriller'",
+        "'Moonwalker'",
+        "'Michael'",
+        "'King of Pop'"
+      ],
+      "correct": 3,
+      "explication": "Le texte dit : 'Le film \"Michael\", qui retrace la vie de Michael Jackson, est devenu le biopic le plus rentable de l'histoire du cinéma...'",
+      "theme": "CULTURE"
+    }
+  ]
+}
