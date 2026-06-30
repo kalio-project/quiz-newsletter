@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Vladimir Poutine évoque une \"période difficile” pour la Russie",
+  "date": "30/06/2026",
+  "img": "archives/2026-06-30/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'article, quelle est l'une des conséquences des frappes ukrainiennes sur le territoire russe, reconnue par Vladimir Poutine ?",
+      "options": [
+        "Une crise diplomatique majeure avec les pays asiatiques.",
+        "Une pénurie de carburant, bien que jugée \"non critique\".",
+        "Un afflux massif de réfugiés vers les pays voisins.",
+        "Une forte augmentation de la production militaire russe."
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne que Vladimir Poutine a reconnu que les frappes \"créent des problèmes\" et qu'\"une certaine pénurie\" est observée, notamment en carburant, due aux frappes sur les raffineries.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Contre qui la mère de Rosa, une petite fille de 11 ans, a-t-elle porté plainte en France, et pour quel motif principal ?",
+      "options": [
+        "Contre le Premier ministre Sébastien Lecornu pour la gestion des climatiseurs.",
+        "Contre le ministre de la justice Gérald Darmanin pour \"mise en danger de la vie d'autrui\" et \"non-assistance à personne en danger\".",
+        "Contre Jérôme Barella pour ne pas avoir été poursuivi.",
+        "Contre WhatsApp pour des problèmes de confidentialité."
+      ],
+      "correct": 1,
+      "explication": "La mère de Rosa a porté plainte contre le ministre de la justice Gérald Darmanin pour \"mise en danger de la vie d'autrui\" et de \"non-assistance à personne en danger\".",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la situation des victimes de l'explosion survenue ce lundi soir dans un immeuble résidentiel à Monaco ?",
+      "options": [
+        "Il s'agit de trois touristes allemands en vacances.",
+        "Les victimes sont une famille ukrainienne, dont les parents sont grièvement blessés et le pronostic vital engagé.",
+        "Un seul individu a été blessé, un citoyen monégasque.",
+        "L'explosion n'a fait aucune victime, seulement des dégâts matériels."
+      ],
+      "correct": 1,
+      "explication": "L'article indique que les victimes sont les membres d’une même famille ukrainienne. Les deux parents sont grièvement blessés et le pronostic vital est engagé, tandis que leur fils de 13 ans a été plus légèrement blessé.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle mesure fiscale concernant les petits colis va remplacer la taxe française de 2 € suspendue ?",
+      "options": [
+        "Une augmentation de la taxe française à 5 € sur tous les colis.",
+        "La suppression totale de toute taxe sur les petits colis.",
+        "Une nouvelle taxe européenne de 3 € sur tous les petits colis d'une valeur inférieure à 150 € venant de l'étranger vers l'UE.",
+        "Une taxe basée sur le poids des colis, quel que soit leur provenance."
+      ],
+      "correct": 2,
+      "explication": "La taxe française de 2 € sera remplacée par une nouvelle taxe européenne de 3 € sur tous les petits colis d'une valeur inférieure à 150 €, qui viennent de pays étrangers et importés vers l’UE.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la raison principale du départ de plus de 25 000 migrants sans papiers d'Afrique du Sud ?",
+      "options": [
+        "Un programme gouvernemental d'aide au rapatriement volontaire.",
+        "Une crise économique majeure poussant les migrants à partir.",
+        "Un ultimatum lancé par des groupes anti-migrants.",
+        "De nouvelles lois sur l'immigration rendant le séjour impossible."
+      ],
+      "correct": 2,
+      "explication": "Ces départs font suite à un ultimatum lancé par des groupes anti-migrants, qui menaçaient d'expulser eux-mêmes les étrangers si le gouvernement n'agissait pas.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle nouvelle fonctionnalité WhatsApp va prochainement introduire pour renforcer la confidentialité des échanges ?",
+      "options": [
+        "L'ajout d'un chiffrement de bout en bout pour les appels vidéo.",
+        "La possibilité pour les utilisateurs de communiquer sans partager leur numéro de téléphone, grâce à des noms d'utilisateurs.",
+        "L'intégration automatique d'un VPN pour toutes les conversations.",
+        "La suppression automatique des messages après 24 heures."
+      ],
+      "correct": 1,
+      "explication": "WhatsApp va prochainement permettre à ses utilisateurs de communiquer sans partager leur numéro, grâce à l’introduction de noms d’utilisateurs, afin de renforcer la confidentialité des échanges.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est l'objectif de la campagne \"Le fil de notre avenir\" lancée par 200 ONG françaises ?",
+      "options": [
+        "Promouvoir le tourisme durable en France.",
+        "Dénoncer la chute du financement public pour la coopération internationale, qui a été divisé par 2 en 2 ans.",
+        "Recueillir des fonds pour la protection de l'environnement en Afrique.",
+        "Sensibiliser à l'importance de l'éducation civique en France."
+      ],
+      "correct": 1,
+      "explication": "La campagne \"Le fil de notre avenir\" dénonce la chute du financement public pour la coopération internationale, dont le budget français a été divisé par 2 en 2 ans.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quand est prévue la livraison d'une partie des 30 000 climatiseurs commandés par l'État pour les hôpitaux français ?",
+      "options": [
+        "Dès le début de la semaine prochaine.",
+        "En fin de semaine ou début de semaine prochaine.",
+        "À la fin de l'année, avant l'hiver.",
+        "La commande a été annulée en raison de contraintes budgétaires."
+      ],
+      "correct": 1,
+      "explication": "Le Premier ministre Sébastien Lecornu a promis qu'une partie des climatiseurs commencerait à être livrée \"en fin de semaine, début de semaine prochaine\".",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon le rapport de l'Institut de Kiel pour l'économie mondiale, quel est l'état du fonds souverain russe depuis février 2022 ?",
+      "options": [
+        "Il a doublé de valeur grâce aux exportations de pétrole.",
+        "Il a perdu près des 2 tiers de sa valeur.",
+        "Il est resté stable, sans fluctuation majeure.",
+        "Il est désormais entièrement financé par des dons internationaux."
+      ],
+      "correct": 1,
+      "explication": "Un rapport de l’Institut de Kiel pour l’économie mondiale estime que le fonds souverain russe a perdu près des 2 tiers de sa valeur depuis le début de l’invasion à grande échelle de l’Ukraine en février 2022.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la stratégie du président ukrainien Volodymyr Zelensky concernant les frappes sur le territoire russe ?",
+      "options": [
+        "Restreindre les frappes aux zones militaires uniquement.",
+        "Cibler les infrastructures culturelles pour affaiblir le moral de la population.",
+        "Frapper de plus en plus profondément le territoire russe pour affaiblir son économie et sa production militaire.",
+        "Éviter toute frappe sur le territoire russe afin de ne pas provoquer d'escalade."
+      ],
+      "correct": 2,
+      "explication": "Pour le président ukrainien Volodymyr Zelensky, cette stratégie de frapper de plus en plus profondément le territoire russe (ciblant raffineries, infrastructures énergétiques et sites militaires) est essentielle pour affaiblir la Russie et tenter de mettre fin à la guerre, notamment en ralentissant sa production militaire et son économie.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
