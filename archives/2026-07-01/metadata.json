@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Comment Trump s’est enrichi depuis son retour au pouvoir",
+  "date": "01/07/2026",
+  "img": "archives/2026-07-01/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle était la fortune estimée de Donald Trump après son retour à la Maison Blanche, selon la section 'Infos en bref' ?",
+      "options": [
+        "2,3 milliards de $",
+        "Plus de 6,5 milliards de $",
+        "86 millions de $",
+        "1,2 milliard de $"
+      ],
+      "correct": 1,
+      "explication": "La section 'Infos en bref' indique que la fortune de Donald Trump est passée à plus de 6,5 milliards de dollars depuis son retour à la tête des États-Unis.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pour quelle raison les députés écologistes français prévoient-ils de déposer une motion de censure contre le gouvernement ?",
+      "options": [
+        "Pour dénoncer son rôle dans une affaire de détournement de fonds.",
+        "Pour contester la date de l'élection présidentielle.",
+        "Pour dénoncer son “impréparation” face à la canicule.",
+        "Pour protester contre la loi sur le congé de naissance."
+      ],
+      "correct": 2,
+      "explication": "Les députés écologistes déposent une motion de censure pour dénoncer l'impréparation du gouvernement face à la canicule.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est le sujet de l'enquête impliquant le Rassemblement national en France, selon la section 'Infos en bref' ?",
+      "options": [
+        "Des soupçons de financement illégal de campagne.",
+        "Des soupçons de détournement de fonds européens.",
+        "Des accusations de fraude fiscale.",
+        "Des allégations d'ingérence étrangère."
+      ],
+      "correct": 1,
+      "explication": "Des perquisitions ont été menées en France dans le cadre d’une enquête portant sur des soupçons de détournement de fonds européens impliquant le Rassemblement national.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle organisation internationale a accusé les Forces de soutien rapide (FSR) au Soudan d'avoir commis des crimes contre l'humanité et un “nettoyage ethnique” ?",
+      "options": [
+        "L'Organisation des Nations unies (ONU)",
+        "La Cour pénale internationale (CPI)",
+        "Amnesty International",
+        "Médecins Sans Frontières"
+      ],
+      "correct": 2,
+      "explication": "Selon l'ONG Amnesty International, les Forces de soutien rapide ont commis des crimes contre l'humanité et mené un \"nettoyage ethnique\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon ACLED, combien de personnes sont mortes dans la guerre civile en Birmanie depuis le coup d'État militaire de 2021 ?",
+      "options": [
+        "Moins de 10 000",
+        "Plus de 50 000",
+        "Plus de 100 000",
+        "Près de 200 000"
+      ],
+      "correct": 2,
+      "explication": "Les données d'ACLED indiquent que la guerre civile en Birmanie a fait plus de 100 000 morts depuis le coup d'État militaire de 2021.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon Copernicus Marine, quelle a été la température moyenne record observée à la surface des océans mondiaux en juin ?",
+      "options": [
+        "20,89°C",
+        "19,50°C",
+        "20,98°C",
+        "21,30°C"
+      ],
+      "correct": 2,
+      "explication": "L'observatoire européen Copernicus Marine a enregistré une température moyenne de 20,98°C à la surface des océans mondiaux en juin, établissant un nouveau record.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quels États américains, selon le texte, ont exclu les sportives transgenres des compétitions féminines scolaires et universitaires par une décision de la Cour suprême ?",
+      "options": [
+        "Californie et New York",
+        "Texas et Floride",
+        "Idaho et Virginie Occidentale",
+        "Arizona et Ohio"
+      ],
+      "correct": 2,
+      "explication": "La Cour suprême a acté la décision d'exclure les sportives transgenres des compétitions féminines scolaires et universitaires dans l'Idaho et la Virginie Occidentale.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quand est prévu le premier tour de la prochaine élection présidentielle française ?",
+      "options": [
+        "Le 11 avril 2027",
+        "Le 18 avril 2027",
+        "Le 2 mai 2027",
+        "Le 13 mai 2027"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique clairement que le premier tour de l'élection présidentielle est fixé au 18 avril 2027.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel pourcentage de leur salaire net les parents recevront-ils pendant le deuxième mois du nouveau congé de naissance supplémentaire en France ?",
+      "options": [
+        "100 %",
+        "70 %",
+        "60 %",
+        "50 %"
+      ],
+      "correct": 2,
+      "explication": "Le congé de naissance supplémentaire est rémunéré à 70 % du salaire net le premier mois, puis à 60 % le second mois.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon la section 'Décryptage', quelle a été la principale source des revenus d'environ 1,2 milliard de dollars de Donald Trump en 2025 dans le secteur des cryptomonnaies ?",
+      "options": [
+        "La vente de son propre 'cryptomonnaie' '$TRUMP'.",
+        "Des investissements directs dans des entreprises de minage de crypto.",
+        "La plateforme World Liberty Financial, cofondée par ses fils.",
+        "Des accords avec des banques spécialisées dans la crypto."
+      ],
+      "correct": 2,
+      "explication": "La majeure partie de ses revenus liés aux cryptomonnaies en 2025 provient de la plateforme World Liberty Financial, cofondée par ses fils.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
