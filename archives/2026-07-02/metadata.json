@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Les océans battent des records de température",
+  "date": "02/07/2026",
+  "img": "archives/2026-07-02/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel record la température moyenne à la surface des océans a-t-elle atteint au mois de juin selon l'observatoire européen Copernicus ?",
+      "options": [
+        "19 °C",
+        "20,5 °C",
+        "21 °C",
+        "21,5 °C"
+      ],
+      "correct": 2,
+      "explication": "La température moyenne à la surface des océans, qui couvrent près de 70 % de la planète, a atteint 21 °C en juin, selon l’observatoire européen Copernicus.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle est la raison principale pour laquelle Marine Le Pen ne mènera pas de campagne présidentielle avec un bracelet électronique ?",
+      "options": [
+        "Elle a été acquittée de toutes les charges.",
+        "La cour d'appel de Paris n'a pas encore rendu sa décision.",
+        "La peine de bracelet électronique a été annulée.",
+        "La loi française interdit aux personnalités politiques d'en porter."
+      ],
+      "correct": 1,
+      "explication": "Marine Le Pen attend la décision de la cour d’appel de Paris dans le procès des assistants parlementaires des eurodéputés FN, ex-RN, qui tombera le 7 juillet. Sa condamnation en 1re instance à un bracelet électronique n'est donc pas encore définitive.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle nouvelle loi est entrée en vigueur en Chine ce mercredi ?",
+      "options": [
+        "Une loi sur la protection de l'environnement.",
+        "Une loi sur la sécurité alimentaire.",
+        "Une loi sur l'\"unité ethnique\".",
+        "Une loi sur la liberté d'expression."
+      ],
+      "correct": 2,
+      "explication": "Une nouvelle loi sur “l’unité ethnique” est entrée en vigueur en Chine ce mercredi.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon la ministre des Sports et de la Jeunesse, Marina Ferrari, combien de personnes sont mortes par noyade en France depuis le 19 juin ?",
+      "options": [
+        "Moins de 50 personnes.",
+        "Entre 50 et 75 personnes.",
+        "Plus de 90 personnes.",
+        "Environ 200 personnes."
+      ],
+      "correct": 2,
+      "explication": "Plus de 90 personnes sont mortes par noyade en France depuis le 19 juin, selon la ministre des Sports et de la Jeunesse, Marina Ferrari.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Où se sont déroulées les discussions \"très bonnes\" entre des représentants iraniens et américains, selon Donald Trump ?",
+      "options": [
+        "À Genève.",
+        "À Doha, au Qatar.",
+        "À Oman.",
+        "À Vienne."
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a évoqué ce mercredi de “très bonnes” discussions au Qatar entre des représentants iraniens et américains.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'ONU, combien de personnes sont toujours portées disparues au Venezuela après les puissants séismes ?",
+      "options": [
+        "Environ 10 000 personnes.",
+        "Environ 25 000 personnes.",
+        "Environ 50 000 personnes.",
+        "Environ 100 000 personnes."
+      ],
+      "correct": 2,
+      "explication": "Environ 50 000 personnes sont toujours portées disparues, selon l’ONU, suite aux séismes au Venezuela.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon un cercle de réflexion américain, quel est le nombre estimé de militaires russes et ukrainiens tués, blessés ou portés disparus depuis février 2022 ?",
+      "options": [
+        "Moins de 500 000.",
+        "Environ 1 million.",
+        "Plus de 2 millions.",
+        "Plus de 3 millions."
+      ],
+      "correct": 2,
+      "explication": "Plus de 2 millions de militaires russes et ukrainiens ont été tués, blessés ou portés disparus depuis l’invasion à grande échelle de l’Ukraine en février 2022, selon un cercle de réflexion américain.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel message le couple d'escaladeurs a-t-il déployé au sommet de l'Empire State Building à New York ?",
+      "options": [
+        "\"Paix au monde\".",
+        "\"Stop à la guerre\".",
+        "\"Quand le pouvoir de l’amour triomphera sur l’amour du pouvoir, le monde connaîtra la paix\".",
+        "\"Liberté pour tous\"."
+      ],
+      "correct": 2,
+      "explication": "Les 2 grimpeurs ont déployé une banderole indiquant : “Quand le pouvoir de l’amour triomphera sur l’amour du pouvoir, le monde connaîtra la paix”.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pour quelle édition de l'Eurovision le Canada va-t-il participer, et dans quel pays celle-ci aura-t-elle lieu ?",
+      "options": [
+        "2025, en France.",
+        "2026, en Suède.",
+        "2027, en Bulgarie.",
+        "2028, au Royaume-Uni."
+      ],
+      "correct": 2,
+      "explication": "Le Canada va participer à l’édition 2027 de l’Eurovision, en Bulgarie.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelles sont deux des conséquences directes du réchauffement des océans mentionnées dans le texte ?",
+      "options": [
+        "Augmentation de la salinité et diminution des tempêtes.",
+        "Diminution de la mortalité de certaines espèces et baisse du niveau des mers.",
+        "Accélération de la fonte des glaces et modification des régimes de pluie.",
+        "Stabilisation de la circulation de l'air et augmentation de l'absorption de CO₂."
+      ],
+      "correct": 2,
+      "explication": "Des océans plus chauds favorisent des vagues de chaleur marines plus intenses, qui menacent les coraux, augmentent la mortalité de certaines espèces et accélèrent la fonte des glaces ainsi que la montée du niveau des mers. En se réchauffant, ils modifient aussi la circulation de l’air autour de la planète, perturbant les régimes de pluie.",
+      "theme": "ENVIRONNEMENT"
+    }
+  ]
+}
