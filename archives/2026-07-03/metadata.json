@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le boom économique de la Corée du Nord",
+  "date": "03/07/2026",
+  "img": "archives/2026-07-03/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon le 'Décryptage', quel pays est le principal partenaire commercial de la Corée du Nord, lui fournissant notamment du pétrole et des technologies malgré les sanctions internationales ?",
+      "options": [
+        "La Russie",
+        "La Chine",
+        "L'Inde",
+        "Le Vietnam"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'La Chine représente de loin le principal partenaire commercial de la Corée du Nord. Elle lui fournit notamment du pétrole, des matériaux de construction et des composants technologiques, malgré les sanctions internationales'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle recommandation l'Assurance maladie a-t-elle formulée concernant la vente de cigarettes en France dans son rapport annuel ?",
+      "options": [
+        "Interdire la vente aux mineurs de moins de 16 ans",
+        "Augmenter le prix du paquet de cigarettes de 2 euros",
+        "Interdire la vente aux personnes nées après 2009",
+        "Mettre en place des emballages neutres pour toutes les marques"
+      ],
+      "correct": 2,
+      "explication": "L'Assurance maladie recommande 'd’interdire la vente de cigarettes aux personnes nées après 2009, dans son rapport annuel publié ce jeudi'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "D'après le maire de Kyiv, comment a été caractérisée l'attaque russe subie par la capitale ukrainienne ce jeudi ?",
+      "options": [
+        "La plus longue attaque de drones depuis 2022",
+        "L'attaque la plus massive depuis le début de l'invasion à grande échelle en février 2022",
+        "Une attaque ciblée sur les infrastructures énergétiques uniquement",
+        "La première attaque russe sur Kyiv depuis plusieurs mois"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme que Kyiv 'a subi ce jeudi l’attaque russe la plus massive depuis le début de l’invasion à grande échelle en février 2022, selon son maire Vitali Klitschko'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de pompiers sont mobilisés ce vendredi en France pour lutter contre la trentaine d'incendies en cours sur l'ensemble du territoire ?",
+      "options": [
+        "500",
+        "1 000",
+        "2 000",
+        "3 000"
+      ],
+      "correct": 2,
+      "explication": "Le paragraphe sur la France indique que '2 000 pompiers sont mobilisés ce vendredi pour lutter contre une trentaine d'incendies en cours sur l'ensemble du territoire'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel facteur, outre le prix du billet à 5€, a contribué au succès de la Fête du cinéma qui a attiré 3,7 millions de spectateurs ?",
+      "options": [
+        "La sortie d'un blockbuster très attendu",
+        "Une campagne de publicité nationale particulièrement efficace",
+        "La canicule qui a poussé les gens vers les salles climatisées",
+        "Un partenariat avec une plateforme de streaming populaire"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que 'La raison de ce succès : la canicule qui a touché la France, les salles de cinéma étant généralement climatisées'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel est le possible mobile de l'auto-immolation devant le siège des Nations Unies à New York, selon le président de l'ONG 'Campagne internationale pour le Tibet' ?",
+      "options": [
+        "Une protestation contre la guerre en Ukraine",
+        "Un appel à l'aide pour les victimes de la famine au Soudan",
+        "Un acte lié à la nouvelle loi chinoise sur 'l'unité ethnique'",
+        "Une revendication pour le droit au logement aux États-Unis"
+      ],
+      "correct": 2,
+      "explication": "Pour le président de l’ONG 'Campagne internationale pour le Tibet', l'acte 'serait lié à la nouvelle loi sur 'l'unité ethnique', adoptée ce mercredi en Chine'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de sites de baignade dans la Seine seront ouverts au public à Paris du 4 juillet au 30 août ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct": 2,
+      "explication": "'3 sites de baignade dans la Seine seront ouverts au public à Paris du samedi 4 juillet au dimanche 30 août. Il s’agit de Grenelle, Louis-Philippe et Bercy.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le texte, dans quel événement Ali Khamenei, l'ancien guide suprême iranien, a-t-il été tué il y a 4 mois ?",
+      "options": [
+        "Un accident de voiture",
+        "Un bombardement israélo-américain",
+        "Une maladie naturelle",
+        "Un attentat terroriste revendiqué par l'État Islamique"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Il avait été tué il y a 4 mois dans un bombardement israélo-américain.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon la publicité Allianz, sur quel principe repose la mutualisation des risques en assurance ?",
+      "options": [
+        "Réduire les bénéfices des compagnies d'assurance",
+        "Faire en sorte que chacun contribue pour que personne n’ait à faire face seul à un accident de la vie",
+        "Permettre aux personnes les plus exposées de ne pas payer d'assurance",
+        "Diminuer les dépenses de santé globales de la population"
+      ],
+      "correct": 1,
+      "explication": "'Le principe de l’assurance repose sur un modèle où chacun contribue pour que personne n’ait à faire face seul à un accident de la vie.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Où est situé l'incendie le plus important de la saison, qui a déjà ravagé près de 900 hectares et dont la progression a été stoppée par 500 pompiers ?",
+      "options": [
+        "Dans les Pyrénées-Orientales, près de Sainte-Marie-la-Mer",
+        "Entre l'Aude et l'Hérault",
+        "Dans le Gard, en vigilance rouge",
+        "Près de Canet-en-Roussillon"
+      ],
+      "correct": 1,
+      "explication": "'Le plus important incendie de la saison, déclenché ce mercredi et attisé par le vent, est toujours en cours entre l'Aude et l'Hérault. Il a déjà ravagé près de 900 hectares et n’est pas encore fixé, mais les 500 pompiers engagés ont réussi à stopper sa progression.'",
+      "theme": "ENVIRONNEMENT"
+    }
+  ]
+}
