@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Cette masse froide dans l’océan inquiète",
+  "date": "06/07/2026",
+  "img": "archives/2026-07-06/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Où se trouve le 'Cold Blob' ou 'tache froide' qui inquiète les scientifiques ?",
+      "options": [
+        "Au sud du Groenland",
+        "Dans l'océan Pacifique",
+        "Près de l'Antarctique",
+        "En mer Méditerranée"
+      ],
+      "correct": 0,
+      "explication": "Le texte mentionne explicitement : 'Direction l’Atlantique Nord, au sud du Groenland, où se trouve ce que les scientifiques appellent le “Cold Blob”, ou “tache froide”.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Qui a récemment avoué le meurtre de son épouse, 6 ans après sa disparition, dans une lettre à son avocat ?",
+      "options": [
+        "Cédric Jubillar",
+        "Jean Pormanove",
+        "Donald Trump",
+        "Gianni Infantino"
+      ],
+      "correct": 0,
+      "explication": "L'article indique clairement : 'Cédric Jubillar a avoué le meurtre de son épouse Delphine, 6 ans après sa disparition, dans une lettre adressée à son avocat.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Dans quelle ville le sommet de l'OTAN a-t-il débuté ce mardi, avec la présence de Donald Trump ?",
+      "options": [
+        "Ankara en Turquie",
+        "Bruxelles en Belgique",
+        "Washington aux États-Unis",
+        "Berlin en Allemagne"
+      ],
+      "correct": 0,
+      "explication": "Le texte dit : 'Le sommet de l’OTAN début ce mardi à Ankara en Turquie, Donald Trump sera présent...'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel groupe islamiste palestinien a annoncé la dissolution de ses instances dirigeantes à Gaza ?",
+      "options": [
+        "Le Hamas",
+        "Le Fatah",
+        "Le Jihad islamique",
+        "L'Autorité Palestinienne"
+      ],
+      "correct": 0,
+      "explication": "L'article précise : 'Le Hamas, un groupe islamiste palestinien qui dirige la bande de Gaza depuis 19 ans, a annoncé ce lundi la dissolution de ses instances dirigeantes à Gaza.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel joueur a vu sa suspension par la FIFA annulée après l'intervention du président américain Donald Trump ?",
+      "options": [
+        "Folarin Balogun",
+        "Kylian Mbappé",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "correct": 0,
+      "explication": "Le texte mentionne : 'Donald Trump a appelé le président de la FIFA, Gianni Infantino, pour annuler la suspension du meilleur buteur des États-Unis, Folarin Balogun, après son carton rouge, ce que la FIFA a accepté.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel pays prévoit de lancer en 2027 un programme incitant à marcher 20 minutes par jour contre des récompenses ?",
+      "options": [
+        "Le Royaume-Uni",
+        "La France",
+        "Les États-Unis",
+        "L'Allemagne"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : 'Au Royaume-Uni, le gouvernement va lancer en 2027 un programme incitant à marcher 20 minutes par jour, contre des bons d’achat et des réductions chez des commerçants partenaires.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est l'une des principales explications avancées pour le ralentissement de la 'circulation méridienne de retournement de l’Atlantique' (AMOC) ?",
+      "options": [
+        "La fonte accélérée de la calotte glaciaire du Groenland",
+        "L'augmentation des vents marins",
+        "L'acidification des océans",
+        "L'éruption de volcans sous-marins"
+      ],
+      "correct": 0,
+      "explication": "L'article explique : 'L’une des principales explications avancées est la fonte accélérée de la calotte glaciaire du Groenland.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon l'article, quelle est une des conséquences possibles d'un ralentissement de l'AMOC en Europe ?",
+      "options": [
+        "Des hivers qui pourraient devenir plus froids",
+        "Des étés moins chauds",
+        "Une baisse significative du niveau de la mer",
+        "Une augmentation des précipitations tropicales"
+      ],
+      "correct": 0,
+      "explication": "Le texte précise : 'En Europe, les étés resteraient très chauds sous l’effet du réchauffement climatique, tandis que certains hivers pourraient devenir plus froids, comme l’explique CNN.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien d'hectares ont déjà brûlé en France cette année, selon le ministre de l'Intérieur cité dans l'article, contre 5 700 l'an dernier à la même époque ?",
+      "options": [
+        "Un peu plus de 11 000 hectares",
+        "Environ 7 000 hectares",
+        "Moins de 5 000 hectares",
+        "Plus de 20 000 hectares"
+      ],
+      "correct": 0,
+      "explication": "L'article rapporte : 'Selon le ministre de l’Intérieur Laurent Nunez, un peu plus de “11 000 hectares” ont déjà brûlé dans le pays, contre “5 700” à la même époque l’an dernier, comme le rapporte Franceinfo.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon Allianz France, quelle proportion de Français sera potentiellement exposée à une inondation d'ici 2050 ?",
+      "options": [
+        "1 Français sur 4",
+        "1 Français sur 2",
+        "1 Français sur 10",
+        "1 Français sur 3"
+      ],
+      "correct": 0,
+      "explication": "La publicité d'Allianz France indique : 'D’ici 2050, 1 Français sur 4 sera potentiellement exposé à une inondation, selon le nouveau blog d’Allianz France dédié aux questions d’assurabilité.'",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
