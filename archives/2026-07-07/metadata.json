@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Marine Le Pen est candidate à la présidentielle de 2027 malgré sa condamnation, et maintenant ?",
+  "date": "07/07/2026",
+  "img": "archives/2026-07-07/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel a été le résultat de l'appel de Marine Le Pen dans l'affaire des assistants parlementaires européens ?",
+      "options": [
+        "Elle a été acquittée de toutes les charges.",
+        "Elle a été condamnée avec une peine aggravée.",
+        "Elle a été condamnée avec une peine modifiée lui permettant de se présenter.",
+        "Son procès en appel a été annulé pour vice de procédure."
+      ],
+      "correct": 2,
+      "explication": "La cour d’appel a confirmé sa culpabilité mais a modifié sa peine, réduisant la durée de son inéligibilité, ce qui lui permet de se présenter à l'élection présidentielle de 2027.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pour quelle accusation spécifique Marine Le Pen a-t-elle été reconnue coupable dans l'affaire des assistants parlementaires européens ?",
+      "options": [
+        "Fraude fiscale.",
+        "Détournement de fonds publics.",
+        "Financement illégal de campagne électorale.",
+        "Abus de confiance."
+      ],
+      "correct": 1,
+      "explication": "Marine Le Pen a été reconnue coupable de 'détournement de fonds publics' pour avoir utilisé des fonds européens pour des salariés du parti en France.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel est l'effet légal du pourvoi en cassation de Marine Le Pen sur les peines prononcées par la Cour d'appel ?",
+      "options": [
+        "Il confirme immédiatement les peines.",
+        "Il annule la décision de la Cour d'appel.",
+        "Il suspend l'application des peines.",
+        "Il réduit automatiquement les peines d'un tiers."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'le pourvoi en cassation suspend les peines prononcées par la Cour d'appel'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Dans quelle ville de Syrie deux bombes ont-elles explosé devant l'hôtel où Emmanuel Macron avait résidé ?",
+      "options": [
+        "Alep.",
+        "Homs.",
+        "Damas.",
+        "Lattaquié."
+      ],
+      "correct": 2,
+      "explication": "Les deux bombes ont explosé 'à Damas, devant l’hôtel où a résidé Emmanuel Macron cette nuit.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui a ciblé Kylian Mbappé avec des tweets racistes, selon l'actualité rapportée ?",
+      "options": [
+        "Un entraîneur de football français.",
+        "Une sénatrice paraguayenne.",
+        "Un journaliste sportif espagnol.",
+        "Un anonyme du monde politique."
+      ],
+      "correct": 1,
+      "explication": "Kylian Mbappé a été visé par des 'tweets racistes de la part d’une sénatrice paraguayenne.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Qu'est-il advenu d'Anastasia Berezovska, l'Ukrainienne suspectée d'avoir déposé une bombe à Monaco ?",
+      "options": [
+        "Elle a été arrêtée à Monaco.",
+        "Elle s'est rendue aux autorités ukrainiennes.",
+        "Elle a été retrouvée morte en Ukraine.",
+        "Elle s'est enfuie en Russie et est toujours recherchée."
+      ],
+      "correct": 2,
+      "explication": "Anastasia Berezovska 'a été retrouvée morte en Ukraine, près de Kyiv, la capitale'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le nouveau bilan de morts suite aux deux séismes qui ont frappé le Venezuela le 24 juin ?",
+      "options": [
+        "355 morts.",
+        "3 535 morts.",
+        "16 740 morts.",
+        "50 000 morts."
+      ],
+      "correct": 1,
+      "explication": "Les deux séismes qui ont touché le Venezuela ont fait '3 535 morts, 16 740 blessés, selon un nouveau bilan'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la raison principale pour laquelle la Commission européenne a demandé à la France de revoir sa proposition de loi sur l'interdiction des réseaux sociaux aux moins de 15 ans ?",
+      "options": [
+        "La loi est jugée trop permissive.",
+        "La loi est trop difficile à appliquer techniquement.",
+        "La loi n'est pas complètement compatible avec le droit européen.",
+        "La loi n'a pas été soumise à un vote populaire."
+      ],
+      "correct": 2,
+      "explication": "La Commission européenne 'estime que ce texte n’est pas complètement compatible avec le droit européen'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel type de catastrophe naturelle a causé 15 morts et l'évacuation de 50 000 personnes en Chine ?",
+      "options": [
+        "Un tremblement de terre et un tsunami.",
+        "Une sécheresse intense et des feux de forêt.",
+        "Des orages et des précipitations d'une intensité extrême, entraînant des inondations.",
+        "Des tempêtes de sable et des vents violents."
+      ],
+      "correct": 2,
+      "explication": "Des 'orages et des précipitations d’une intensité extrême ont fait 15 morts et des centaines de blessés en Chine. 50 000 personnes ont été évacuées en raison des inondations'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon le blog d'Allianz France, quelle proportion de Français sera potentiellement exposée à une inondation d'ici 2050 ?",
+      "options": [
+        "1 sur 2.",
+        "1 sur 3.",
+        "1 sur 4.",
+        "1 sur 5."
+      ],
+      "correct": 2,
+      "explication": "Le blog d'Allianz France indique que 'D’ici 2050, 1 Français sur 4 sera potentiellement exposé à une inondation'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
