@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La Chine et la Russie s’entraînent ensemble en secret",
+  "date": "08/07/2026",
+  "img": "archives/2026-07-08/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Sur quel type de menaces la Chine et la Russie s'entraînent-elles secrètement ensemble, selon les révélations mentionnées ?",
+      "options": [
+        "Des cyberattaques de grande ampleur",
+        "La guerre nucléaire, biologique et chimique",
+        "Des conflits maritimes dans le Pacifique",
+        "Des opérations d'invasion terrestre"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que les deux pays s'entraînent et se préparent désormais ensemble à opérer dans un environnement de guerre nucléaire, biologique et chimique.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Comment les États-Unis ont-ils justifié leurs frappes contre plus de 80 cibles en Iran ?",
+      "options": [
+        "En réponse à des attaques terroristes sur leur sol",
+        "En réaction à des bombardements iraniens contre des navires commerciaux",
+        "Pour soutenir un groupe rebelle dans la région",
+        "Pour protéger leurs alliés militaires au Moyen-Orient"
+      ],
+      "correct": 1,
+      "explication": "Les États-Unis ont justifié ces frappes comme une réponse aux bombardements iraniens contre des navires commerciaux.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qu'ont approuvé les députés français ce mardi concernant les forces de l'ordre ?",
+      "options": [
+        "Une augmentation significative de leurs effectifs",
+        "Un texte qui introduit une présomption d’usage légitime des armes",
+        "Une réforme de leur processus de recrutement",
+        "Une restriction de leur droit de manifester"
+      ],
+      "correct": 1,
+      "explication": "Les députés ont approuvé un texte qui introduit une présomption d’usage légitime des armes pour les forces de l’ordre.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la cause du décès du caporal Baptiste Gerfaud-Valentin, le pompier volontaire décédé en Savoie ?",
+      "options": [
+        "Une explosion accidentelle lors de l'intervention",
+        "Un malaise cardiaque dû à l'épuisement",
+        "Une chute de pierres l'ayant entraîné dans un ravin",
+        "L'inhalation massive de fumées toxiques"
+      ],
+      "correct": 2,
+      "explication": "Selon les sapeurs-pompiers de la Savoie, une chute de pierres l'aurait entraîné dans un ravin alors qu'il tentait de maîtriser l'incendie.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de personnes sont décédées en Chine à cause des fortes intempéries et typhons mentionnés ?",
+      "options": [
+        "6 personnes",
+        "11 personnes",
+        "17 personnes",
+        "130 000 personnes"
+      ],
+      "correct": 2,
+      "explication": "Le passage du Typhon Maysak a coûté la vie à 6 personnes dans le sud, et des orages et une tornade ont fait 11 morts au centre, totalisant 17 décès.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon la Drees, quel est le taux de mortalité périnatale atteint, en 2024, pour 1 000 naissances ?",
+      "options": [
+        "10,8 décès",
+        "11,2 décès",
+        "37 décès",
+        "84 décès"
+      ],
+      "correct": 1,
+      "explication": "La mortalité périnatale a atteint 11,2 décès pour 1 000 naissances, contre 10,8 en 2023.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Combien de personnes seraient en insécurité alimentaire aiguë dans les régions touchées par Ebola en République Démocratique du Congo, selon l’ONU ?",
+      "options": [
+        "Plus de 900 personnes",
+        "Plus de 1 511 personnes",
+        "Plus d’1,15 million de personnes",
+        "Plus de 130 000 personnes"
+      ],
+      "correct": 2,
+      "explication": "Selon l'ONU, plus d’1,15 million de personnes seraient en insécurité alimentaire aiguë dans les régions touchées par Ebola en République Démocratique du Congo.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle équipe la Suisse affrontera-t-elle en quarts de finale de la Coupe du monde de football après sa victoire contre la Colombie ?",
+      "options": [
+        "La Colombie à nouveau",
+        "L'Argentine",
+        "Le Maroc",
+        "La Belgique"
+      ],
+      "correct": 1,
+      "explication": "La Suisse a rejoint les quarts de finale après sa victoire face à la Colombie et affrontera l’Argentine.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Qui a été choisi pour incarner Louis de Funès dans le film autobiographique en préparation par UGC ?",
+      "options": [
+        "Christian Clavier",
+        "Dany Boon",
+        "Pierre Lottin",
+        "Fabrice Luchini"
+      ],
+      "correct": 2,
+      "explication": "Le film autobiographique sur Louis de Funès est en préparation par UGC, avec Pierre Lottin dans le premier rôle.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon les révélations de Reuters, où s'est déroulée la formation consacrée aux menaces nucléaires, radiologiques, biologiques et chimiques pour des généraux russes et chinois en novembre 2025 ?",
+      "options": [
+        "Près de Vladivostok",
+        "Dans la zone d'exclusion de Tchernobyl",
+        "À Pékin, la capitale chinoise",
+        "Dans le sud de l'Ukraine"
+      ],
+      "correct": 2,
+      "explication": "Reuters a révélé qu'une formation de 3 semaines s'est déroulée à Pékin, la capitale chinoise, pour des généraux et soldats russes et chinois.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
