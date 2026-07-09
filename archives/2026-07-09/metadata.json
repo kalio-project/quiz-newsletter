@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Anthropic a découvert le cerveau de l’IA ?",
+  "date": "09/07/2026",
+  "img": "archives/2026-07-09/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le nom de l'espace de raisonnement interne que les chercheurs d'Anthropic affirment avoir identifié dans leur IA, Claude ?",
+      "options": [
+        "Le C-Core",
+        "L'Anthropic Mind",
+        "Le J-Space",
+        "La conscience numérique"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Cet espace, baptisé “J-Space”, n’a jamais été programmé par les développeurs : il est apparu spontanément pendant l’entraînement du modèle.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quand la Cour de cassation française a-t-elle annoncé vouloir rendre sa décision concernant Marine Le Pen ?",
+      "options": [
+        "Avant les élections européennes de 2024",
+        "Après le 1er tour de la présidentielle de 2027",
+        "Avant le 1er tour de la présidentielle de 2027",
+        "En 2026"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'La Cour de cassation... a annoncé vouloir rendre sa décision concernant Marine Le Pen avant le 1er tour de la présidentielle de 2027.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien de personnes ont été tuées lors des bombardements états-uniens sur l'Iran, selon le ministère iranien de la Santé ?",
+      "options": [
+        "Au moins 78 personnes",
+        "Au moins 90 personnes",
+        "Au moins 14 personnes",
+        "Moins de 10 personnes"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Au moins 14 personnes ont été tuées et 78 autres blessées dans des bombardements états-uniens sur l’Iran, selon le ministère iranien de la Santé.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de départements français ont été placés en vigilance rouge canicule pour ce vendredi, selon Météo-France ?",
+      "options": [
+        "72 départements",
+        "19 départements",
+        "9 départements",
+        "Moins de 5 départements"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '72 départements ont été placés en vigilance orange canicule ce jeudi, et 9 en vigilance rouge pour ce vendredi.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle proportion des agressions sexuelles incestueuses et des viols incestueux a été classée sans suite en 2024 en France ?",
+      "options": [
+        "Un quart des agressions sexuelles et un tiers des viols",
+        "La moitié des agressions sexuelles et 41% des viols",
+        "Tous les cas d'agressions et de viols",
+        "Moins de 10% des cas"
+      ],
+      "correct": 1,
+      "explication": "Le texte stipule : 'La moitié des agressions sexuelles incestueuses et 41% des viols incestueux ont été classés sans suite en 2024.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Qui a présenté des excuses à la France suite aux insultes racistes de la sénatrice paraguayenne Celeste Amarilla envers Kylian Mbappé ?",
+      "options": [
+        "La ministre des Sports du Paraguay",
+        "Le gouvernement paraguayen",
+        "Le président du Paraguay",
+        "La Fédération paraguayenne de football"
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare : 'Le gouvernement paraguayen a présenté ses excuses à la France, selon la ministre des Sports Marina Ferrari.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Où la plateforme 'Cocoland.cc', la nouvelle version du site de rencontre Coco, est-elle désormais hébergée ?",
+      "options": [
+        "Aux États-Unis",
+        "En France",
+        "Au Koweït",
+        "En Ukraine"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise : 'La plateforme... est réapparue sous un autre nom, Cocoland.cc, et est désormais hébergée en Ukraine.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la position d'Anthropic concernant la conscience de son IA, Claude ?",
+      "options": [
+        "Ils confirment que Claude est une IA consciente.",
+        "Ils affirment que Claude montre des signes de proto-conscience.",
+        "Ils déclarent qu'il est impossible d'affirmer que Claude est conscient.",
+        "Ils pensent que Claude a développé une conscience similaire à celle des humains."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Mais Anthropic est très clair : ces résultats ne montrent pas que Claude ressent quoi que ce soit, et il est aujourd’hui impossible d’affirmer qu’il est conscient.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Combien de temps durera le concert de la mi-temps de la finale de la Coupe du Monde de football ?",
+      "options": [
+        "5 minutes",
+        "15 minutes",
+        "20 minutes",
+        "11 minutes"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'Le show, qui durera 11 minutes, aura lieu le 19 juillet, au Metlife Stadium à New York.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon le rapport de la Commission d'enquête sur les violences sexuelles incestueuses, quel est l'âge moyen des enfants victimes lors des premières violences ?",
+      "options": [
+        "10 ans et demi",
+        "5 ans",
+        "7 ans et demi",
+        "12 ans"
+      ],
+      "correct": 2,
+      "explication": "Le rapport révèle que 'chaque année, 130 000 enfants sont victimes d'un viol ou d'une agression incestueuse, avec une moyenne d'âge de 7 ans et demi lors des premières violences.'",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
