@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 IRAN : les bombardements reprennent",
+  "date": "10/07/2026",
+  "img": "archives/2026-07-10/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quels départements sont principalement concernés par le déclenchement du plan Orsec 'chaleurs extrêmes' mentionné dans l'actualité ?",
+      "options": [
+        "Les départements du sud-est de la France, comme les Bouches-du-Rhône et le Var.",
+        "Les départements de l'ouest de la France, tels que le Morbihan et la Loire-Atlantique.",
+        "Les départements d'Île-de-France, comme Paris et les Yvelines.",
+        "Les départements du nord de la France, comme le Nord et le Pas-de-Calais."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne explicitement le Morbihan, l’Ille et Vilaine, la Mayenne, la Sarthe, la Loire-Atlantique, le Maine-et-Loire, la Vendée, les Deux-Sèvres et la Vienne comme départements en vigilance rouge, qui sont situés dans l'ouest de la France.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Contre quelle pratique le média Disclose et l’ONG Reporters Sans Frontières appellent-ils à se mobiliser ?",
+      "options": [
+        "La publication d'informations fausses ou trompeuses.",
+        "La concentration des médias entre quelques grands groupes.",
+        "La 'traque des sources' des journalistes.",
+        "L'accès restreint aux archives publiques."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique clairement que Disclose et Reporters Sans Frontières appellent à se mobiliser contre la 'traque des sources'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Qui a annoncé sa participation à la primaire socialiste prévue cet automne en vue de l'élection présidentielle de 2027 ?",
+      "options": [
+        "Raphaël Glucksmann.",
+        "Emmanuel Macron.",
+        "Ségolène Royal.",
+        "Philippe Brun."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'Ségolène Royal, ancienne candidate à la présidentielle de 2007, a annoncé sa participation à la primaire socialiste'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Où a été inhumé l'ayatollah Ali Khamenei, l'ancien guide suprême de l'Iran ?",
+      "options": [
+        "À Téhéran, la capitale.",
+        "À Ispahan, au centre du pays.",
+        "À Machhad, au nord-est du pays.",
+        "À Qom, le centre religieux."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'L'ayatollah Ali Khamenei [...] a été inhumé à Machhad au nord-est du pays'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle catastrophe naturelle a causé la mort de 15 personnes et l'évacuation de 2 000 personnes aux Philippines ?",
+      "options": [
+        "Un tremblement de terre.",
+        "Une éruption volcanique.",
+        "Des glissements de terrain et un typhon.",
+        "Un tsunami."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne '2 glissements de terrain causés par de fortes pluies, aggravé par le passage du typhon Bavi'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de personnes sont décédées dans l'incendie de forêt en Andalousie, au sud de l'Espagne, selon l'actualité ?",
+      "options": [
+        "Au moins 4 personnes.",
+        "Au moins 8 personnes.",
+        "Au moins 12 personnes.",
+        "Au moins 19 personnes."
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : 'Au moins 12 personnes sont mortes dans un feu de forêt en Andalousie'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Sur quel type de contenu TikTok a-t-il déclaré vouloir s'attaquer en priorité ?",
+      "options": [
+        "Les vidéos de danse virales.",
+        "Les publications d'actualité politique non vérifiées.",
+        "Les comptes proposant uniquement du contenu généré par intelligence artificielle, notamment les spams.",
+        "Les tutoriels de bricolage."
+      ],
+      "correct": 2,
+      "explication": "Le texte dit : 'Le réseau social Tiktok a déclaré s’attaquer aux comptes proposant uniquement du contenu généré par intelligence artificielle [...] le but : cibler les publications de “spams générés par IA”'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est l'œuvre d'art arrivée au British Museum et qui raconte la conquête de l'Angleterre par Guillaume le Conquérant en 1066 ?",
+      "options": [
+        "La Joconde.",
+        "La tapisserie de Bayeux.",
+        "La Vénus de Milo.",
+        "Le Sarcophage des Époux."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne 'La tapisserie de Bayeux [...] est arrivée au British Museum [...] C’est une broderie sur toile de lin qui raconte la conquête de l’Angleterre par Guillaume le Conquérant en 1066'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel passage maritime essentiel au commerce mondial, notamment celui du pétrole, l'Iran avait-il bloqué en réponse aux bombardements initiaux ?",
+      "options": [
+        "Le canal de Suez.",
+        "Le détroit de Gibraltar.",
+        "Le détroit d’Ormuz.",
+        "Le détroit de Malacca."
+      ],
+      "correct": 2,
+      "explication": "Dans la section 'Décryptage', il est écrit : 'En réponse, l’Iran a bombardé de nombreux pays du Golfe [...] et a bloqué le détroit d’Ormuz, un passage maritime essentiel au commerce mondial, notamment celui du pétrole.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon les experts cités dans la rubrique 'Décryptage', quel est le principal objectif de la nouvelle escalade entre les États-Unis et l'Iran ?",
+      "options": [
+        "Mettre fin définitivement au conflit par une démonstration de force.",
+        "Renforcer la position de chaque camp avant d’éventuelles négociations.",
+        "Tester les capacités militaires de l'adversaire.",
+        "Forcer l'autre partie à signer un accord de paix immédiat."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Selon de nombreux experts, cette nouvelle escalade vise surtout à renforcer la position de chaque camp avant d’éventuelles négociations.'",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
