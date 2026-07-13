@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump visé par un assassinat ? La guerre au Moyen-Orient reprend, Donald Trump sous pression",
+  "date": "13/07/2026",
+  "img": "archives/2026-07-13/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la raison principale de la reprise des tensions entre les États-Unis et l'Iran, selon l'article ?",
+      "options": [
+        "La violation par l'Iran d'un accord nucléaire",
+        "L'accusation de Donald Trump selon laquelle l'Iran veut l'assassiner",
+        "La fermeture du détroit d'Ormuz par l'Iran",
+        "Une attaque de drone iranien contre des navires américains"
+      ],
+      "correct": 1,
+      "explication": "L'article indique que le cessez-le-feu a volé en éclats après que Donald Trump a accusé le gouvernement iranien de vouloir l'assassiner.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle surface de la forêt de Fontainebleau a été parcourue par les flammes, selon le bilan initial mentionné dans l'article ?",
+      "options": [
+        "Moins de 500 hectares",
+        "Environ 750 hectares",
+        "Plus de 1 000 hectares",
+        "Près de 2 000 hectares"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que les flammes dans la forêt de Fontainebleau ont parcouru plus de 1 000 hectares.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de pays composent la 'coalition des volontaires pour l'Ukraine' réunie à Paris ?",
+      "options": [
+        "27 pays",
+        "32 pays",
+        "37 pays",
+        "45 pays"
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne que la 'coalition des volontaires pour l’Ukraine' est un groupe de 37 pays.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle fonctionnalité d'IA a été retirée par Meta d'Instagram seulement 3 jours après son lancement ?",
+      "options": [
+        "FaceFilter Pro",
+        "Story Creator AI",
+        "Muse Image",
+        "Reels Genie"
+      ],
+      "correct": 2,
+      "explication": "Meta a retiré la nouvelle fonctionnalité IA d’Instagram, baptisée 'Muse Image', suite au tollé des utilisateurs.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "À quel âge l'acteur néo-zélandais Sam Neill, star du film 'Jurassic Park', est-il décédé ?",
+      "options": [
+        "68 ans",
+        "72 ans",
+        "78 ans",
+        "83 ans"
+      ],
+      "correct": 2,
+      "explication": "L'article indique que Sam Neill est décédé ce lundi à l’âge de 78 ans.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Combien d'équipes la FIFA envisage-t-elle d'accueillir pour la Coupe du monde avant le Mondial 2030, selon son dirigeant ?",
+      "options": [
+        "48 équipes",
+        "56 équipes",
+        "64 équipes",
+        "72 équipes"
+      ],
+      "correct": 2,
+      "explication": "La FIFA va examiner un nouvel élargissement de la Coupe du monde à 64 équipes avant le Mondial 2030.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel biopic est devenu le premier de l'histoire à dépasser le milliard de dollars de recettes ?",
+      "options": [
+        "Bohemian Rhapsody",
+        "Rocketman",
+        "Elvis",
+        "Michael"
+      ],
+      "correct": 3,
+      "explication": "L'article affirme que 'Michael', le biopic consacré au chanteur Michael Jackson, est devenu le 1er film biographique de l’histoire à dépasser le milliard de $ de recettes.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel âge a Agnès, la plus jeune élève à avoir décroché le brevet des collèges ?",
+      "options": [
+        "8 ans",
+        "9 ans",
+        "10 ans",
+        "11 ans"
+      ],
+      "correct": 1,
+      "explication": "Il est précisé qu'Agnès est une petite fille de 9 ans originaire de Savoie.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel droit fondamental les femmes mariées ont-elles obtenu en France le 13 juillet 1965 ?",
+      "options": [
+        "Le droit de vote",
+        "Le droit à l'autonomie financière",
+        "Le droit de divorcer par consentement mutuel",
+        "Le droit d'ouvrir leur propre entreprise"
+      ],
+      "correct": 1,
+      "explication": "Le flashback indique que le 13 juillet 1965, les femmes mariées obtenaient leur autonomie financière, leur permettant d'ouvrir un compte bancaire, signer un chèque, ou travailler sans le consentement de leur mari.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est un aspect notable de la lutte contre les incendies de Fontainebleau mentionné dans l'article ?",
+      "options": [
+        "L'utilisation de drones de surveillance thermique",
+        "Le déploiement de l'armée pour la première fois",
+        "C’est la première fois que des Canadair puisent de l’eau directement dans la Seine",
+        "Le recours à des volontaires internationaux"
+      ],
+      "correct": 2,
+      "explication": "L'article souligne que c’est la première fois que des Canadair puisent de l’eau directement dans la Seine pour lutter contre les incendies de Fontainebleau.",
+      "theme": "ENVIRONNEMENT"
+    }
+  ]
+}
