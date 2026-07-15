@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le président de la FIFA sous pression",
+  "date": "15/07/2026",
+  "img": "archives/2026-07-15/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pourquoi Gianni Infantino, président de la FIFA, est-il accusé de corruption ?",
+      "options": [
+        "Pour avoir accepté des pots-de-vin lors de l'attribution des Coupes du monde passées.",
+        "Pour avoir annulé le carton rouge d'un joueur américain à la demande de Donald Trump.",
+        "Pour avoir favorisé l'équipe d'Argentine lors de la Coupe du Monde actuelle.",
+        "Pour avoir refusé de s'exprimer publiquement sur la situation du football mondial."
+      ],
+      "correct": 1,
+      "explication": "Gianni Infantino est accusé de corruption après avoir annulé le carton rouge d’un joueur états-unien (Folarin Balogun) suite à la demande de Donald Trump, permettant ainsi au joueur de participer au match suivant.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quelle est la situation actuelle concernant les feux de forêt à Fontainebleau ?",
+      "options": [
+        "Ils sont totalement éteints et la vigilance rouge canicule est toujours en place.",
+        "Ils sont fixés après avoir parcouru plus de 2 000 hectares, et la vigilance rouge canicule est levée sur tout le pays.",
+        "Ils sont encore en propagation active et nécessitent des renforts importants.",
+        "Ils ont été éteints grâce à la pluie, mais la canicule persiste."
+      ],
+      "correct": 1,
+      "explication": "Les feux à Fontainebleau sont désormais fixés après avoir parcouru plus de 2 000 hectares, et la vigilance rouge canicule est désormais levée sur l’ensemble du pays.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Qui a avoué être l'auteur de l'un des incendies à Fontainebleau ?",
+      "options": [
+        "Un écologiste activiste de la région.",
+        "Un citoyen s'étant trompé en manipulant des feux d'artifice.",
+        "Un pompier volontaire mineur de Fontainebleau, né en 2007.",
+        "Un groupe d'individus qui ont pris la fuite après les faits."
+      ],
+      "correct": 2,
+      "explication": "Un pompier volontaire de Fontainebleau, né en 2007, a avoué avoir 'mis le feu à des brindilles avec un briquet et de l’essence'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pour quelle raison l'Iran a-t-il annoncé la fermeture du détroit d'Ormuz ?",
+      "options": [
+        "En signe de protestation contre de nouvelles sanctions économiques européennes.",
+        "Pour bloquer l'exportation de pétrole vers les pays alliés des États-Unis.",
+        "Jusqu'à la fin des 'actes d'agression' américains, après une nouvelle série de bombardements.",
+        "En raison d'exercices militaires conjoints avec la Russie dans la région."
+      ],
+      "correct": 2,
+      "explication": "L’Iran a annoncé que le détroit d’Ormuz restera fermé jusqu’à la fin des 'actes d'agression' américains, après une nouvelle série de bombardements américains.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "De quoi l'ONU accuse-t-elle le Hamas concernant l'aide humanitaire à Gaza ?",
+      "options": [
+        "D'avoir volé une cargaison entière d'aide humanitaire.",
+        "D'entraver l'aide humanitaire en agressant des chauffeurs de camion et en compromettant l'acheminement.",
+        "D'avoir détourné des fonds internationaux destinés à l'aide.",
+        "D'avoir mis en place des taxes illégales sur l'aide humanitaire."
+      ],
+      "correct": 1,
+      "explication": "L'ONU accuse le Hamas d’entraver l’aide humanitaire, des combattants ayant notamment agressé deux chauffeurs de camion livrant de l’aide.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Que dénoncent des ONG palestiniennes concernant d'anciens détenus palestiniens ?",
+      "options": [
+        "Des conditions de détention insalubres et des traitements médicaux inadéquats.",
+        "Des disparitions forcées de prisonniers politiques.",
+        "Des violences sexuelles subies dans des prisons israéliennes.",
+        "L'absence de procès équitables pour la plupart des détenus."
+      ],
+      "correct": 2,
+      "explication": "D'anciens détenus palestiniens affirment avoir subi des violences sexuelles dans des prisons israéliennes, selon des dizaines de témoignages reçus par plusieurs ONG palestiniennes.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle nouvelle mesure le Royaume-Uni a-t-il annoncé concernant l'accès aux réseaux sociaux pour les mineurs de plus de 16 ans ?",
+      "options": [
+        "L'interdiction totale des réseaux sociaux pour tous les mineurs.",
+        "L'obligation d'obtenir une autorisation parentale pour chaque connexion.",
+        "La mise en place d'un couvre-feu numérique de minuit à 6h du matin.",
+        "Une limitation du temps d'écran à deux heures par jour."
+      ],
+      "correct": 2,
+      "explication": "Le Royaume-Uni a annoncé la mise en place d'un couvre-feu numérique pour les mineurs de plus de 16 ans, de minuit à 6h du matin, à partir de 2027.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel record a été battu par le squelette de T-rex baptisé 'Gus' ?",
+      "options": [
+        "Il est le plus grand squelette de dinosaure jamais découvert en Amérique.",
+        "Il est le fossile de dinosaure le plus complet jamais mis au jour.",
+        "Il est le fossile de dinosaure le plus cher de tous les temps, adjugé 50 millions de $.",
+        "Il est le premier squelette de T-rex exposé dans un musée public."
+      ],
+      "correct": 2,
+      "explication": "Le squelette de T-rex baptisé 'Gus' est devenu le fossile de dinosaure le plus cher de tous les temps, adjugé 50 millions de dollars aux enchères à New York.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Contre quelle équipe l'équipe de France a-t-elle été éliminée en Coupe du Monde ce mardi soir ?",
+      "options": [
+        "L'Argentine.",
+        "L'Angleterre.",
+        "L'Espagne.",
+        "La Belgique."
+      ],
+      "correct": 2,
+      "explication": "L'équipe de France a été éliminée ce mardi soir face à l'Espagne, aux portes de la finale.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Malgré les appels à sa démission, quel est le statut de Gianni Infantino pour les prochaines élections de la FIFA en 2027 ?",
+      "options": [
+        "Il est contraint de ne pas se représenter suite à ces accusations.",
+        "Il est largement favori pour un nouveau mandat faute d’opposition sérieuse.",
+        "Sa candidature est en suspens en attendant les résultats d'une enquête interne.",
+        "Il a annoncé qu'il se retirerait de la vie publique après ce mandat."
+      ],
+      "correct": 1,
+      "explication": "Gianni Infantino apparaît aujourd’hui largement favori pour un nouveau mandat lors des élections prévues début 2027, faute d’opposition sérieuse.",
+      "theme": "SPORT"
+    }
+  ]
+}
