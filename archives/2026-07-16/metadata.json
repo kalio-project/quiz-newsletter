@@ -1,0 +1,127 @@
+{
+  "titre": "🚨L’économie chinoise ralentit ?",
+  "date": "16/07/2026",
+  "img": "archives/2026-07-16/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale information concernant l'économie chinoise dans l'actualité du jour ?",
+      "options": [
+        "Elle connaît une croissance record.",
+        "Elle est en pleine stagnation.",
+        "Elle tourne au ralenti avec une croissance au plus bas depuis des années.",
+        "Elle est en récession."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que l’économie chinoise tourne au ralenti avec une croissance au plus bas depuis des années sur les 3 derniers mois.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle proposition de loi majeure a été adoptée par le Parlement français ce mercredi ?",
+      "options": [
+        "La loi sur la fin de vie.",
+        "La loi créant un droit à l'aide à mourir.",
+        "La loi sur l'euthanasie.",
+        "La loi encadrant les soins palliatifs."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'La proposition de loi créant un droit à l'aide à mourir a été définitivement adoptée par le Parlement ce mercredi.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Qui est le milliardaire qui a exprimé publiquement son opinion sur Marine Le Pen en la désignant comme 'le dernier espoir de la France' ?",
+      "options": [
+        "Bernard Arnault",
+        "Elon Musk",
+        "Jeff Bezos",
+        "Bill Gates"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Le milliardaire Elon Musk... voit en Marine Le Pen 'le dernier espoir de la France'.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle déclaration a faite Emmanuel Macron concernant les incendies en France lors de sa visite à Fontainebleau ?",
+      "options": [
+        "Que la situation était sous contrôle.",
+        "Que le pays n’avait jamais été confronté à autant de feux depuis la fin de la Seconde Guerre mondiale.",
+        "Qu'il fallait tripler le nombre de pompiers.",
+        "Que les incendies étaient tous d'origine naturelle."
+      ],
+      "correct": 1,
+      "explication": "Emmanuel Macron a assuré que le pays n’avait jamais été confronté à autant de feux dans le territoire depuis la fin de la Seconde Guerre mondiale.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel pays le texte mentionne-t-il que l'Iran aurait frappé avec des missiles balistiques en riposte aux frappes américaines ?",
+      "options": [
+        "Israël",
+        "L'Arabie Saoudite",
+        "La Syrie",
+        "La Jordanie"
+      ],
+      "correct": 3,
+      "explication": "L'Iran affirme avoir frappé une base aérienne américaine en Jordanie avec des missiles balistiques iraniens ce jeudi.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qu'est-ce qui a été retrouvé lors des fouilles à l'emplacement indiqué par Cédric Jubillar, dans l'affaire de la disparition de Delphine Aussaguel ?",
+      "options": [
+        "Le corps de Delphine Aussaguel.",
+        "Des ossements.",
+        "Des preuves matérielles incriminantes.",
+        "Une cachette d'armes."
+      ],
+      "correct": 1,
+      "explication": "Des ossements ont été retrouvés lors de fouilles, à l’emplacement indiqué par Cédric Jubillar.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pour quels nouveaux chefs d'accusation Jérôme Barella est-il désormais mis en examen dans l'affaire de la petite Lyhanna ?",
+      "options": [
+        "Enlèvement et séquestration.",
+        "Vol et recel.",
+        "Viol et meurtre.",
+        "Non-assistance à personne en danger."
+      ],
+      "correct": 2,
+      "explication": "Jérôme Barella est désormais mis en examen pour le viol et le meurtre de la petite Lyhanna, 11 ans.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon l'ONU, de quel pourcentage le coût d'une alimentation saine a-t-il augmenté en 5 ans ?",
+      "options": [
+        "10 %",
+        "15 %",
+        "20 %",
+        "25 %"
+      ],
+      "correct": 3,
+      "explication": "Le coût d'une alimentation saine a augmenté de 25 % en 5 ans, selon l'ONU.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel classique littéraire grec va faire l'objet d'une adaptation cinématographique quasi entièrement générée par l'IA cet été ?",
+      "options": [
+        "L'Iliade",
+        "L'Odyssée",
+        "L'Énéide",
+        "Œdipe Roi"
+      ],
+      "correct": 1,
+      "explication": "Une adaptation de 'L'Odyssée' d'Homère générée quasi entièrement par l'intelligence artificielle va sortir cet été.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon la loi sur l'aide à mourir adoptée en France, laquelle de ces conditions N'EST PAS requise pour y accéder ?",
+      "options": [
+        "Être majeur.",
+        "Résider régulièrement en France.",
+        "Avoir l'accord de toute sa famille.",
+        "Être atteint d'une affection grave et incurable à pronostic vital engagé."
+      ],
+      "correct": 2,
+      "explication": "Le texte ne mentionne pas la condition d'avoir l'accord de toute sa famille. Il parle de la volonté libre et éclairée du patient.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
