@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Zelensky fait face à des manifestations en Ukraine",
+  "date": "17/07/2026",
+  "img": "archives/2026-07-17/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale raison des manifestations récentes en Ukraine mentionnées dans le texte ?",
+      "options": [
+        "La corruption généralisée au sein du gouvernement.",
+        "Une nouvelle offensive militaire russe.",
+        "Un remaniement gouvernemental voulu par Volodymyr Zelensky.",
+        "La suspension des élections présidentielles."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que des centaines de manifestants se sont rassemblés pour dénoncer un remaniement du gouvernement voulu par Volodymyr Zelensky.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel type de substances, interdites en France depuis 2018, a été réintroduit à titre dérogatoire dans le projet de loi d'urgence agricole ?",
+      "options": [
+        "Des fertilisants chimiques.",
+        "Des herbicides spécifiques.",
+        "Des pesticides inspirés de la loi Duplomb, spécifiquement des insecticides.",
+        "Des antibiotiques pour le bétail."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que 'Les pesticides inspirés de la loi Duplomb, interdits en France depuis 2018, ont été réintroduits à titre dérogatoire' et précise qu'il s'agit de l'acétamipride et du flupyradifurone, deux insecticides.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon l'AFP, combien de morts supplémentaires la vague de chaleur de fin juin aurait-elle fait en Europe ?",
+      "options": [
+        "Au moins 5 000 morts.",
+        "Au moins 8 000 morts.",
+        "Au moins 10 000 morts.",
+        "Au moins 12 000 morts."
+      ],
+      "correct": 3,
+      "explication": "Le texte affirme que 'La vague de chaleur de fin juin aurait fait au moins 12 000 morts supplémentaires en Europe'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de personnes sont décédées en France lors des intempéries orageuses mentionnées ce jeudi ?",
+      "options": [
+        "Une personne.",
+        "Deux personnes.",
+        "Trois personnes.",
+        "Quatre personnes."
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare que '2 personnes sont mortes pendant les intempéries ce jeudi'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel groupe criminel est soupçonné d'avoir menacé de mort le maire d'Alès ?",
+      "options": [
+        "La Mafia Corse.",
+        "La DZ Mafia.",
+        "Le cartel de Marseille.",
+        "Les Brigades Rouges."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que le maire d'Alès a reçu des menaces de mort portant la signature de la DZ Mafia.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Comment l'Iran a-t-il affirmé avoir riposté aux attaques américaines au Moyen-Orient ?",
+      "options": [
+        "En coupant les approvisionnements de pétrole.",
+        "En frappant des radars américains à Oman et la base d'Al-Tanf en Syrie.",
+        "En menaçant d'utiliser l'arme nucléaire.",
+        "En lançant une cyberattaque contre les infrastructures américaines."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise qu''En réponse, l’Iran a affirmé avoir frappé des radars américains à Oman et la base d'Al-Tanf en Syrie'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "De quoi Begoña Gómez, la femme du Premier ministre espagnol, va-t-elle être jugée ?",
+      "options": [
+        "Fraude fiscale et blanchiment d'argent.",
+        "Trafic d'influence et détournement de fonds publics.",
+        "Délits d'initiés et entrave à la justice.",
+        "Abus de biens sociaux."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'elle 'va être jugée pour trafic d'influence et détournement de fonds publics'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel événement est prévu pour Donald Trump lors de la finale de la Coupe du monde Argentine-Espagne ?",
+      "options": [
+        "Il commentera le match en direct.",
+        "Il assistera au match en tribune aux côtés de Pedro Sánchez et remettra le trophée aux vainqueurs.",
+        "Il animera la cérémonie de clôture.",
+        "Il rencontrera les deux équipes avant le match."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que 'Donald Trump sera bien présent en tribunes [...] et va également remettre le trophée aux vainqueurs'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel personnage historique Thomas Ngijol va-t-il mettre en scène dans son prochain long métrage ?",
+      "options": [
+        "Nelson Mandela.",
+        "Patrice Lumumba.",
+        "Thomas Sankara.",
+        "Martin Luther King."
+      ],
+      "correct": 2,
+      "explication": "Le texte annonce que 'Thomas Ngijol va réaliser un long métrage consacré à Thomas Sankara'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon Mykhaïlo Fedorov, quelle était la principale cause de son départ du ministère de la Défense en Ukraine ?",
+      "options": [
+        "Des divergences sur la stratégie de numérisation de l'armée.",
+        "Une lutte de pouvoir avec le commandant en chef des forces armées, Oleksandr Syrskyi.",
+        "Des accusations de corruption à son encontre.",
+        "Le souhait de Volodymyr Zelensky de rajeunir son gouvernement."
+      ],
+      "correct": 1,
+      "explication": "Le texte rapporte que Fedorov 'a affirmé que son départ résultait d’une lutte de pouvoir avec le commandant en chef des forces armées, Oleksandr Syrskyi'.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
