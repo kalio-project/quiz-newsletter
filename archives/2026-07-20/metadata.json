@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Iran-Etats-Unis : une escalade hors de contrôle ? ",
+  "date": "20/07/2026",
+  "img": "archives/2026-07-20/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de drones ukrainiens ont été lancés vers Moscou la nuit dernière, selon l'actualité du jour ?",
+      "options": [
+        "Environ une cinquantaine",
+        "Plus d'une centaine",
+        "Plus de 400",
+        "Quelques dizaines"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Plus de 400 drones ukrainiens ont été lancés la nuit dernière en direction de Moscou\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle raison le maire de New York a-t-il annoncé vouloir arrêter le Premier ministre israélien Benjamin Netanyahu ?",
+      "options": [
+        "Pour des accusations de fraude fiscale",
+        "En raison de sa politique migratoire",
+        "Il fait l’objet d’un mandat d’arrêt de la Cour pénale internationale pour des accusations de crimes de guerre",
+        "Pour une violation des droits de l'homme à New York"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que Benjamin Netanyahu \"fait l’objet d’un mandat d’arrêt émis par la Cour pénale internationale (CPI) pour des accusations de crimes de guerre et de crimes contre l’humanité liés à la guerre à Gaza.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien d'hectares de forêts et de végétation ont déjà brûlé en France depuis le début de l'année, selon le ministre de l'Intérieur ?",
+      "options": [
+        "Environ 10 000 hectares",
+        "Moins de 5 000 hectares",
+        "Près de 20 000 hectares",
+        "40 000 hectares"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise : \"40 000 hectares de forêts et de végétation ont déjà brûlé en France depuis le début de l’année\".",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle a été la révélation majeure concernant l'affaire Delphine Jubillar mentionnée dans l'actualité ?",
+      "options": [
+        "Son mari a été acquitté",
+        "De nouveaux suspects ont été identifiés",
+        "Des ossements retrouvés dans le Tarn sont bien les siens, suite aux aveux de son mari",
+        "Elle a été retrouvée vivante dans une autre région"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Les ossements retrouvés ce jeudi dans le Tarn sont bien ceux de Delphine Jubillar, disparue en décembre 2020, selon une analyse ADN. Début juillet, son mari Cédric Jubillar [...] était passé aux aveux et avait indiqué aux enquêteurs l'endroit où il avait caché son corps.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pour quelles principales accusations l'influenceur Andrew Tate et son frère Tristan ont-ils été arrêtés aux États-Unis à la demande du Royaume-Uni ?",
+      "options": [
+        "Fraude fiscale et blanchiment d'argent",
+        "Cybercriminalité et piratage informatique",
+        "Viols, exploitation sexuelle et infractions liées à des images indécentes d’un enfant",
+        "Délits routiers et agressions physiques"
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare : \"Les 2 frères sont recherchés pour 59 chefs d'accusation, dont des viols, des faits d'exploitation sexuelle et des infractions liées à des images indécentes d’un enfant.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon l'enquête de l'association StopVOG, quelle proportion de femmes interrogées déclare avoir déjà subi au moins une atteinte à leur consentement lors d'un examen gynécologique ?",
+      "options": [
+        "Moins de 5 femmes sur 10",
+        "Plus de 8 femmes sur 10",
+        "Environ 6 femmes sur 10",
+        "Toutes les femmes interrogées"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Plus de 8 femmes sur 10 interrogées déclarent avoir déjà subi au moins une atteinte à leur consentement lors d'un examen gynécologique\".",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qui a été nommé nouveau Premier ministre du Royaume-Uni par le roi Charles III ?",
+      "options": [
+        "Keir Starmer",
+        "Boris Johnson",
+        "Andy Burnham",
+        "Rishi Sunak"
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme : \"Andy Burnham a été nommé ce lundi Premier ministre du Royaume-Uni par le roi Charles III, qui lui a demandé de former un gouvernement. Il a ensuite prononcé à Downing Street son 1er discours en tant que Premier ministre, affirmant que le Royaume-Uni devait \"retrouver sa stabilité\". Andy Burnham, qui remplace Keir Starmer...\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle équipe EA Sports FC a-t-elle prédit comme vainqueur de la Coupe du Monde 2026 grâce à ses algorithmes ?",
+      "options": [
+        "La France",
+        "Le Brésil",
+        "L'Espagne",
+        "L'Allemagne"
+      ],
+      "correct": 2,
+      "explication": "Le texte dit : \"EA Sports FC, le jeu de football développé par Electronic Arts, avait prédit la victoire de l’Espagne à la Coupe du monde 2026 grâce à une simulation basée sur ses algorithmes.\"",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quelle est la raison principale de l'interruption du concert de Barbara Butch à Grenoble ?",
+      "options": [
+        "Des problèmes techniques majeurs",
+        "Des conditions météorologiques défavorables",
+        "L'intervention de militants pro-palestiniens dénonçant son soutien à une tribune",
+        "Une alerte à la sécurité sans lien avec les militants"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Le concert de Barbara Butch de samedi dernier à Grenoble a été interrompu après par des militants pro-palestiniens. Ils dénoncent le soutien de Barbara Butch, de confession juive, à une tribune en faveur de la proposition de loi Yadan, un texte contre “les nouvelles formes d’antisémitisme”, depuis retirée.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est le principal risque évoqué concernant l'escalade des tensions entre l'Iran et les États-Unis ?",
+      "options": [
+        "Une résolution pacifique rapide du conflit",
+        "Une augmentation significative du commerce mondial de pétrole",
+        "Un engrenage incontrôlable avec une extension du conflit et de lourdes conséquences économiques mondiales",
+        "La création d'une nouvelle alliance militaire régionale"
+      ],
+      "correct": 2,
+      "explication": "Le \"Décryptage\" souligne : \"Le principal risque est désormais celui d’un engrenage incontrôlable, avec une extension du conflit à d’autres pays du Moyen-Orient et de lourdes conséquences pour l’économie mondiale.\"",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
