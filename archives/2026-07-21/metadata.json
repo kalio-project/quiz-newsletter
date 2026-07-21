@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Nouvelle escalade entre la Chine et le Japon",
+  "date": "21/07/2026",
+  "img": "archives/2026-07-21/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel événement sans précédent a eu lieu dimanche dans la zone économique exclusive (ZEE) du Japon ?",
+      "options": [
+        "Un sous-marin russe a mené des exercices de plongée.",
+        "Un navire de guerre chinois a mené un exercice de tir réel.",
+        "Des pêcheurs japonais ont été interpellés par un navire chinois.",
+        "Un porte-avions américain a effectué des manœuvres."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Ce dimanche, un navire de guerre chinois a mené un exercice de tir réel dans la zone économique exclusive du Japon, une première selon le ministère japonais de la Défense.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À partir de quelle année les réseaux sociaux pourraient-ils être interdits aux moins de 15 ans pour la création de nouveaux comptes en France ?",
+      "options": [
+        "Septembre 2025",
+        "Janvier 2026",
+        "Septembre 2026",
+        "Janvier 2027"
+      ],
+      "correct": 2,
+      "explication": "Le gouvernement souhaite appliquer cette mesure dès septembre 2026 pour la création de nouveaux comptes. La fermeture des comptes existants serait au 1er janvier 2027.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel record a été atteint en France entre janvier et mi-juillet concernant les incendies ?",
+      "options": [
+        "Le plus grand nombre de feux éteints par les pompiers.",
+        "La plus forte augmentation des budgets de lutte contre les incendies.",
+        "Plus de 42 000 hectares ont brûlé, un record depuis 20 ans.",
+        "Le plus grand nombre de départs de feux d'origine criminelle."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Plus de 42 000 hectares ont brûlé en France entre janvier et mi-juillet, un record depuis le début des mesures il y a 20 ans'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle plateforme chinoise a été condamnée par l'UE à une amende de 550 millions d'euros ce lundi ?",
+      "options": [
+        "TikTok",
+        "Shein",
+        "AliExpress",
+        "Temu"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '550 millions d’€ : c’est l’amende infligée par l’UE à la plateforme chinoise AliExpress ce lundi.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pourquoi la galerie d'Apollon du musée du Louvre rouvrira-t-elle sans vitrines ni bijoux exposés ?",
+      "options": [
+        "Pour une rénovation de longue durée des vitrines.",
+        "Des bijoux ont été dérobés lors d'un cambriolage en 2025.",
+        "Le musée souhaite une nouvelle scénographie minimaliste.",
+        "Les bijoux sont en tournée internationale."
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : 'Le 19 octobre 2025, des cambrioleurs s’étaient introduits dans cette galerie à l’aide d’un camion-nacelle et avaient dérobé en plein jour 8 joyaux de la Couronne de France.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle est la tendance observée concernant les feux de forêt en Amazonie brésilienne en 2025, selon le réseau MapBiomas ?",
+      "options": [
+        "Une augmentation significative, atteignant un nouveau record.",
+        "Une stabilisation par rapport à l'année précédente.",
+        "Une baisse drastique, atteignant un niveau historiquement bas.",
+        "Une augmentation modérée due au changement climatique."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Les feux de forêt en Amazonie brésilienne ont atteint un niveau historiquement bas en 2025, selon le réseau de surveillance MapBiomas.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon la définition donnée dans le texte, quel droit exclusif un État dispose-t-il dans sa Zone Économique Exclusive (ZEE) ?",
+      "options": [
+        "La souveraineté totale sur cette zone, interdisant toute circulation étrangère.",
+        "Le droit d'exploiter les ressources maritimes, sans pleine souveraineté.",
+        "Le droit de militariser la zone et d'interdire le passage des navires de guerre.",
+        "Le droit d'annexer la zone et d'étendre son territoire national."
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : 'Une ZEE est une zone maritime où un État dispose de droits économiques exclusifs, notamment pour exploiter les ressources marines, sans pour autant en être pleinement souverain.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel événement historique est mentionné comme marquant les relations sino-japonaises et expliquant en partie les tensions actuelles ?",
+      "options": [
+        "Les guerres de l'opium.",
+        "L'occupation japonaise d'une partie du territoire chinois dans les années 1930 et la Seconde Guerre mondiale.",
+        "La guerre de Corée.",
+        "Le conflit du Vietnam."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Les relations sino-japonaises restent marquées par l’histoire : dans les années 1930, le Japon a occupé une partie du territoire chinois avant de s’affronter avec la Chine pendant la Seconde Guerre mondiale.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle mesure controversée concernant les pesticides est incluse dans le projet de loi d'urgence agricole adopté par l'Assemblée nationale ?",
+      "options": [
+        "L'interdiction totale de tous les pesticides chimiques.",
+        "La réintroduction dérogatoire de deux néonicotinoïdes interdits.",
+        "L'obligation d'utiliser uniquement des pesticides biologiques.",
+        "La subvention massive pour l'achat de nouveaux types de pesticides."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que la deuxième mesure concerne les pesticides et 'permet la réintroduction dérogatoire de 2 néonicotinoïdes, des insecticides interdits depuis 2018'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est le principal argument de la Chine pour contester la ZEE japonaise autour d'Okinotori ?",
+      "options": [
+        "La Chine revendique Okinotori comme son propre territoire.",
+        "La Chine affirme qu'Okinotori est une base militaire secrète.",
+        "La Chine considère Okinotori comme un simple récif, pas une île, n'ouvrant pas de droits de ZEE.",
+        "La Chine pense que le Japon exploite illégalement les ressources dans la zone."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'Pour la Chine, Okinotori n’est pas une île mais un simple récif... La Chine estime donc que les eaux autour ne relèvent pas de la zone économique exclusive japonaise.'",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
