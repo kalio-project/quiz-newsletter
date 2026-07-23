@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Est-ce bientôt la fin de la nuit ?",
+  "date": "23/07/2026",
+  "img": "archives/2026-07-23/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est l'objectif principal de la startup Reflect Orbital, autorisée par la FCC ?",
+      "options": [
+        "Envoyer des satellites pour améliorer la connectivité Internet.",
+        "Créer des miroirs spatiaux pour prolonger la lumière du jour sur Terre.",
+        "Développer de nouvelles technologies pour l'exploration martienne.",
+        "Mettre en place un système de surveillance météorologique global."
+      ],
+      "correct": 1,
+      "explication": "Reflect Orbital se présente comme 'The Sunlight Company' et vise à envoyer des miroirs géants dans l’espace pour réfléchir la lumière du Soleil vers la Terre.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle condition le président états-unien a-t-il posée pour la finalisation de l'accord nucléaire civil avec l'Arabie saoudite ?",
+      "options": [
+        "Que l'Arabie saoudite accepte de partager sa technologie pétrolière.",
+        "Que l'Arabie saoudite reconnaisse officiellement Israël.",
+        "Que l'Arabie saoudite réduise ses dépenses militaires.",
+        "Que l'Arabie saoudite adhère à un traité international de non-prolifération nucléaire spécifique."
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a posé comme condition que cet accord ne sera conclu que si l'Arabie saoudite reconnaît officiellement Israël.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Contre qui la DJ française Barbara Butch a-t-elle annoncé qu’elle allait porter plainte, et pour quel motif ?",
+      "options": [
+        "Contre les organisateurs du concert à Grenoble pour rupture de contrat.",
+        "Contre la France insoumise pour provocation publique à la haine et à la violence.",
+        "Contre la mairie de Grenoble pour défaut de sécurité.",
+        "Contre des activistes pro-palestiniens pour diffamation."
+      ],
+      "correct": 1,
+      "explication": "Barbara Butch a annoncé qu’elle allait porter plainte contre la France insoumise pour provocation publique à la haine et à la violence, après l’interruption de son concert à Grenoble.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pourquoi des milliers d’étudiants manifestent-ils en Inde ?",
+      "options": [
+        "Pour réclamer l'augmentation des bourses d'études.",
+        "Suite à l'annulation du concours national de médecine pour fuite de sujets.",
+        "Contre les restrictions d'accès à Internet dans le pays.",
+        "Pour protester contre la privatisation des universités."
+      ],
+      "correct": 1,
+      "explication": "Les étudiants manifestent suite à l'annulation du concours national de médecine, passé en mai par 2 millions de candidats, en raison de soupçons de fuite des sujets.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pourquoi les dauphins du Marineland d'Antibes sont-ils transférés vers un parc espagnol ?",
+      "options": [
+        "En raison d'un manque de personnel qualifié en France.",
+        "Pour se conformer à une loi de 2021 mettant fin aux spectacles de cétacés en captivité en France.",
+        "Suite à la décision de Marineland d'Antibes de se spécialiser dans d'autres espèces.",
+        "Pour des raisons de reproduction et de conservation génétique."
+      ],
+      "correct": 1,
+      "explication": "Cette opération s’inscrit dans l’application de la loi adoptée en 2021 mettant fin aux spectacles de cétacés en captivité en France.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon l'association Familles Rurales, de combien les prix des légumes ont-ils augmenté en un an ?",
+      "options": [
+        "5 %",
+        "10 %",
+        "20 %",
+        "30 %"
+      ],
+      "correct": 1,
+      "explication": "Les prix des légumes ont augmenté de 10 % en un an et ont plus que doublé en 10 ans, selon l’association Familles Rurales.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel poste Zinédine Zidane devrait-il occuper après la Coupe du monde 2026, selon plusieurs médias ?",
+      "options": [
+        "Directeur sportif d'un grand club européen.",
+        "Président de la Fédération Française de Football (FFF).",
+        "Sélectionneur de l'équipe de France.",
+        "Entraîneur d'une équipe nationale étrangère."
+      ],
+      "correct": 2,
+      "explication": "Zinédine Zidane devrait devenir le prochain sélectionneur de l'équipe de France, succédant à Didier Deschamps après la Coupe du monde 2026.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Parmi les critiques soulevées contre le projet de Reflect Orbital d'envoyer des miroirs spatiaux, laquelle n'est PAS mentionnée ?",
+      "options": [
+        "L'impact sur la biodiversité et les rythmes naturels.",
+        "La perturbation de l'observation astronomique.",
+        "Le risque de pollution lumineuse pour les océans.",
+        "Le risque d'éblouir les pilotes d'avion ou les automobilistes."
+      ],
+      "correct": 2,
+      "explication": "Les inquiétudes mentionnées sont l'impact sur la biodiversité, l'astronomie et l'éblouissement des pilotes/automobilistes. La pollution lumineuse pour les océans n'est pas spécifiquement citée dans le texte.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "À quelle place la France se classe-t-elle dans le Henley Passport Index des passeports les plus puissants au monde ?",
+      "options": [
+        "1ère place.",
+        "2ème place.",
+        "4ème place.",
+        "10ème place."
+      ],
+      "correct": 2,
+      "explication": "La France est à la 4e place du classement des passeports les plus puissants au monde avec 186 destinations accessibles sans visa.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel parti politique français est directement visé par la plainte annoncée par Barbara Butch ?",
+      "options": [
+        "Le Rassemblement National.",
+        "Les Républicains.",
+        "La France insoumise.",
+        "Le Parti Socialiste."
+      ],
+      "correct": 2,
+      "explication": "La DJ française Barbara Butch a annoncé qu’elle allait porter plainte contre la France insoumise pour provocation publique à la haine et à la violence.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
