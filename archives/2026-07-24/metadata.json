@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Pourquoi les feux se multiplient cet été ",
+  "date": "24/07/2026",
+  "img": "archives/2026-07-24/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la superficie totale de forêts ravagée par les flammes en France depuis le début de l'année, selon les informations du texte ?",
+      "options": [
+        "Près de 10 000 hectares",
+        "Plus de 50 000 hectares",
+        "Environ 12 500 hectares",
+        "La superficie de Paris"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'Depuis le début de l’année, plus de 50 000 hectares ont déjà été ravagés par les flammes'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'objectif principal de l'intervention militaire envisagée par les États-Unis au Mali, selon le média The Washington Post ?",
+      "options": [
+        "Renforcer le gouvernement malien contre les groupes rebelles",
+        "Frapper le JNIM, un groupe affilié à Al-Qaïda",
+        "Sécuriser les routes commerciales dans la région du Sahel",
+        "Soutenir les forces de l'Union européenne sur place"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que l'objectif est de 'frapper le JNIM, un groupe affilié au groupe terroriste Al-Qaïda implanté au Mali.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Dans quel but les États-Unis ont-ils annoncé de nouveaux droits de douane de 10 à 12,5 % visant environ 60 économies ?",
+      "options": [
+        "Pour compenser les déficits commerciaux",
+        "En réponse à des sanctions économiques",
+        "Pour lutter contre le travail forcé",
+        "Pour soutenir leur production nationale"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que ces taxes 'sont présentées comme une mesure contre le travail forcé.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon Santé publique France, quel pourcentage des noyades mortelles recensées entre le 1er mai et le 15 juillet sont survenues pendant des périodes de canicule ?",
+      "options": [
+        "Environ 37 %",
+        "Près de 79 %",
+        "33 %",
+        "925 %"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique 'Près de 79 % des noyades mortelles sont survenues pendant des périodes de canicule.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle circonstance aggravante a été retenue par les juges d’instruction dans l’enquête sur le meurtre de Thomas à Crépol ?",
+      "options": [
+        "La préméditation",
+        "L'abus de faiblesse",
+        "Le racisme",
+        "La récidive"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'La circonstance aggravante de racisme a été retenue par les juges d’instruction.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel dispositif a été activé par Emmanuel Macron pour permettre à la France de recevoir des renforts européens face aux incendies ?",
+      "options": [
+        "Le plan ORSEC européen",
+        "Le Fonds de Solidarité de l'Union européenne",
+        "Le mécanisme de protection civile de l’Union européenne",
+        "L'accord de Schengen sur l'assistance mutuelle"
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme que 'Emmanuel Macron a demandé l’activation du mécanisme de protection civile de l’Union européenne.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la nature de l'aide envoyée par l'Iran au Yémen ce mois-ci, selon le texte ?",
+      "options": [
+        "De l'aide humanitaire et médicale",
+        "Des instructeurs agricoles et des équipements de production alimentaire",
+        "Des commandants des Gardiens de la révolution, des conseillers militaires et des équipements pour missiles et drones",
+        "Des fonds pour la reconstruction des infrastructures"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que l'avion contenait 'des commandants des Gardiens de la révolution islamique, des conseillers militaires ainsi que des équipements pour missiles et drones.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Jusqu'à quelle date les citoyens peuvent-ils voter pour choisir les nouveaux designs des billets en euro ?",
+      "options": [
+        "Le 21 septembre 2024",
+        "Le 21 septembre 2025",
+        "Le 21 septembre 2026",
+        "Le 21 septembre 2027"
+      ],
+      "correct": 2,
+      "explication": "La Banque centrale européenne 'invite les citoyens à voter jusqu’au 21 septembre 2026.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon Météo-France, quelle est la cause principale des départs de feu en France ?",
+      "options": [
+        "La foudre",
+        "L'activité humaine",
+        "Les activités agricoles",
+        "Les feux de camp non éteints"
+      ],
+      "correct": 1,
+      "explication": "Le texte rapporte que 'Selon Météo-France, 9 incendies sur 10 sont provoqués par l’activité humaine.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pour quelles raisons l’Observatoire international des prisons (OIP) a-t-il saisi la justice concernant la prison de Fresnes ?",
+      "options": [
+        "Pour surpopulation carcérale uniquement",
+        "Pour dénoncer l'insalubrité, les nuisibles et le manque d’accès aux douches",
+        "Pour l'absence de programmes de réinsertion",
+        "Pour des cas de violences entre détenus"
+      ],
+      "correct": 1,
+      "explication": "L'OIP réclame des mesures 'contre l’insalubrité, les nuisibles et le manque d’accès aux douches.'",
+      "theme": "JUSTICE"
+    }
+  ]
+}
