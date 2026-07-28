@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le Japon est-il devenu un paradis pour espions russes ?",
+  "date": "28/07/2026",
+  "img": "archives/2026-07-28/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pourquoi le Japon est-il considéré comme un \"nid d’espions\" russes depuis le début de l'invasion à grande échelle de l'Ukraine ?",
+      "options": [
+        "En raison de ses lois anti-espionnage très strictes.",
+        "En raison de son industrie de pointe en semi-conducteurs et de lois moins strictes contre l'espionnage.",
+        "Parce qu'il est un allié militaire de la Russie.",
+        "Pour sa position géographique stratégique en Europe."
+      ],
+      "correct": 1,
+      "explication": "Le Japon est visé pour son industrie de pointe (semi-conducteurs) et ses lois contre l'espionnage sont moins strictes que celles de nombreux pays occidentaux, le rendant favorable à l'espionnage économique.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de sapeurs-pompiers sont décédés en France en moins de deux semaines lors d'opérations liées aux feux de forêts ?",
+      "options": [
+        "Un sapeur-pompier.",
+        "Deux sapeurs-pompiers.",
+        "Trois sapeurs-pompiers.",
+        "Quatre sapeurs-pompiers."
+      ],
+      "correct": 3,
+      "explication": "Le texte indique qu'au total, en à peine 2 semaines, 4 sapeurs-pompiers sont décédés lors d’opérations liées aux feux de forêts.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Dans quel cas précis la peine de mort peut-elle être prononcée en Birmanie pour les délits liés aux arnaques en ligne ?",
+      "options": [
+        "Si la personne commet une arnaque en ligne.",
+        "Si la personne emploie de la main d'œuvre forcée dans des centres d'arnaque.",
+        "Si l'un des délits (violence, torture, etc.) entraine la mort de la personne exploitée.",
+        "Si la personne refuse de coopérer avec les autorités."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que la peine de mort pourra être prononcée si l'un des délits (violence, torture, arrestation, détention illégales, ou traitement cruel envers une autre personne dans le but de la forcer à commettre des escroqueries en ligne) entraine la mort de la personne exploitée.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien de nouvelles plaintes pour viol et agression sexuelle ont été déposées contre Patrick Bruel en juillet ?",
+      "options": [
+        "Une nouvelle plainte.",
+        "Deux nouvelles plaintes.",
+        "Trois nouvelles plaintes.",
+        "Trente et une plaintes au total."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne \"2 nouvelles plaintes pour viol et agression sexuelle ont été déposées contre Patrick Bruel en juillet.\"",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle était la magnitude du tremblement de terre qui a frappé le sud du Japon ?",
+      "options": [
+        "Magnitude 6,5.",
+        "Magnitude 7,1.",
+        "Magnitude 8,0.",
+        "Magnitude 5,9."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'un \"tremblement de terre de magnitude 7,1 a frappé le sud du Japon.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "De quoi Benjamin Netanyahu fait-il l'objet d'un mandat d'arrêt émis par la Cour pénale internationale (CPI) ?",
+      "options": [
+        "D'accusations de fraude fiscale.",
+        "D'accusations de crimes de guerre et de crimes contre l'humanité.",
+        "D'accusations de violations des droits de l'homme.",
+        "D'accusations de terrorisme."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que Benjamin Netanyahu \"fait l'objet d'un mandat d'arrêt émis par la Cour pénale internationale (CPI) pour des accusations de crimes de guerre et de crimes contre l'humanité commis à Gaza.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel montant Canal+ a-t-il annoncé investir sur 5 ans (entre 2028 et 2032) dans le cinéma français et européen ?",
+      "options": [
+        "480 millions d'€.",
+        "980 millions d'€.",
+        "1,5 milliard d'€.",
+        "250 millions d'€."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise un \"investissement de 980 millions d’€ sur 5 ans dans le cinéma français et européen. Réalisé entre 2028 et 2032\".",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Dans quelle galerie d'art londonienne un portrait de la chanteuse Charli XCX sera-t-il exposé ?",
+      "options": [
+        "Tate Modern.",
+        "Victoria and Albert Museum.",
+        "National Portrait Gallery.",
+        "British Museum."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'un \"portrait de la chanteuse britannique Charli XCX va être exposé dans la National Portrait Gallery à Londres.\"",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Jusqu'à quelle année Zinédine Zidane a-t-il signé en tant que nouveau sélectionneur de l'équipe de France de football ?",
+      "options": [
+        "Jusqu'à la Coupe du monde 2026.",
+        "Jusqu'à la Coupe du monde 2028.",
+        "Jusqu'à la Coupe du monde 2030.",
+        "Jusqu'à la Coupe du monde 2032."
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare qu'il \"a signé pour 4 ans, jusqu’à la Coupe du monde 2030.\"",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel type de composants russes cherchent-ils principalement à acquérir au Japon pour contourner les sanctions et fabriquer leurs armes ?",
+      "options": [
+        "Des armes nucléaires.",
+        "Des matières premières énergétiques.",
+        "Des puces électroniques, des semi-conducteurs et des capteurs.",
+        "Des produits agricoles."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique que les sanctions ont privé la Russie de technologies nécessaires à la fabrication de ses armes, \"notamment des puces électroniques, des semi-conducteurs et des capteurs indispensables aux drones, missiles et systèmes de communication militaires.\"",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
