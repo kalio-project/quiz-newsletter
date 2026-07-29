@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Donald Trump va-t-il retirer des troupes en Europe ? ",
+  "date": "29/07/2026",
+  "img": "archives/2026-07-29/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale raison invoquée par les États-Unis pour réévaluer leur présence militaire en Europe ?",
+      "options": [
+        "Le manque d'engagement financier de l'OTAN.",
+        "La volonté de consacrer plus de ressources à la région Asie-Pacifique face à la Chine.",
+        "L'augmentation significative des capacités militaires européennes.",
+        "Des tensions politiques internes avec certains pays européens."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que les États-Unis considèrent la Chine comme leur principal concurrent stratégique et veulent consacrer davantage de soldats, d’équipements et d’argent à la région Asie-Pacifique.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la situation actuelle concernant l'incendie dans les Landes ?",
+      "options": [
+        "Le feu n'est pas encore fixé et continue de progresser.",
+        "Le feu est fixé, mais des points chauds et des reprises restent possibles.",
+        "Le feu est stabilisé et complètement maîtrisé.",
+        "Le feu est éteint et les pompiers ont quitté la zone."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que dans les Landes, 'l’incendie est toujours fixé, ce qui signifie que sa progression est stoppée. Des points chauds et des reprises restent toutefois possibles et continuent d’être surveillés par les pompiers.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Dans quel cas un élève pourra-t-il être changé d'établissement scolaire en France ?",
+      "options": [
+        "Si l'élève a des difficultés scolaires persistantes.",
+        "Si le comportement d'un parent compromet gravement le fonctionnement de l'établissement.",
+        "Si la famille déménage dans une autre commune.",
+        "Si l'élève exprime le souhait de changer d'école."
+      ],
+      "correct": 1,
+      "explication": "La nouvelle règle stipule qu'un élève pourra être changé d’établissement si le comportement d’un parent compromet gravement le fonctionnement de l’école, du collège ou du lycée.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "De quoi la FIFA, l'instance dirigeante du football mondial, est-elle accusée ?",
+      "options": [
+        "D'avoir truqué des matchs lors de la dernière Coupe du Monde.",
+        "De vouloir 'vendre des parts de la Coupe du monde'.",
+        "De ne pas investir suffisamment dans le développement du football féminin.",
+        "D'avoir des pratiques de corruption au sein de son comité directeur."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne explicitement que la FIFA 'est accusée de vouloir \"vendre des parts de la Coupe du monde\"'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quelles sont les conséquences humaines rapportées du séisme qui a touché le sud-ouest du Japon ?",
+      "options": [
+        "Une dizaine de blessés légers et aucun décès.",
+        "18 personnes sont mortes et une centaine ont été blessées.",
+        "Plus de 50 décès et des milliers de personnes disparues.",
+        "Principalement des dégâts matériels sans victimes humaines."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que '18 personnes sont mortes et une centaine ont été blessées dans un séisme qui a touché le sud-ouest du Japon ce mardi.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui était la cible des frappes menées par les États-Unis et l'Arabie saoudite en Irak ?",
+      "options": [
+        "Des groupes terroristes affiliés à Al-Qaïda.",
+        "Des infrastructures pétrolières iraniennes.",
+        "Des dépôts d’armes et des centres logistiques liés au Hachd al-Chaabi.",
+        "Des bases militaires de l'armée irakienne."
+      ],
+      "correct": 2,
+      "explication": "Les frappes visaient 'des dépôts d’armes et des centres logistiques liés au Hachd al-Chaabi, un regroupement de groupes armés irakiens dont certaines unités sont proches de l’Iran'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel titre musical le DJ français Kavinsky, récemment décédé, était-il particulièrement connu ?",
+      "options": [
+        "Starlight",
+        "Nightcall",
+        "Around the World",
+        "One More Time"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que Kavinsky 'était notamment connu pour son titre \"Nightcall\", utilisé dans la bande originale du film Drive'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon l’Organisation mondiale de la Santé, quelle est l'évolution globale du nombre de décès sur la route entre 2011 et 2025 ?",
+      "options": [
+        "Il a augmenté de 21 %.",
+        "Il a diminué de 21 %.",
+        "Il est resté stable.",
+        "Il a triplé."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'Le nombre de décès sur la route a diminué de 21 % entre 2011 et 2025 dans le monde, selon l’Organisation mondiale de la Santé.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel impact le film 'L’Odyssée', sorti le 15 juillet dernier, a-t-il eu sur l'intérêt pour la langue grecque ?",
+      "options": [
+        "Les recherches Google pour apprendre le grec ont diminué de 5000 %.",
+        "Les ventes du poème antique d'Homère ont chuté de 70 %.",
+        "Les recherches Google pour apprendre le grec ont augmenté de 5000 %.",
+        "Aucun impact significatif n'a été observé."
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme que 'les recherches Google pour apprendre le grec ont augmenté de 5 000 %' depuis la sortie du film.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon l'Anti-Defamation League, qu'est-ce qui caractérise l'année 2025 en matière d'attaques antisémites ?",
+      "options": [
+        "Elle a connu le plus grand nombre d'attaques antisémites meurtrières depuis 30 ans.",
+        "Elle a enregistré une baisse historique des incidents antisémites.",
+        "Les attaques antisémites se sont concentrées uniquement en France.",
+        "C'est l'année où l'organisation a cessé de recenser les incidents."
+      ],
+      "correct": 0,
+      "explication": "Le rapport de l'Anti-Defamation League indique que '2025 est l’année qui a connu le plus d’attaques antisémites meurtrières depuis 30 ans'. (Note: La date '2025' est probablement une coquille dans le texte source pour une année passée).",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
