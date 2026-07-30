@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Vers un boycott de la Coupe du monde ?",
+  "date": "30/07/2026",
+  "img": "archives/2026-07-30/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale accusation portée contre la FIFA concernant la Coupe du monde ?",
+      "options": [
+        "De vouloir délocaliser la Coupe du monde dans un pays non-membre.",
+        "De vouloir vendre des parts de la Coupe du monde à des investisseurs privés.",
+        "D'avoir manipulé les votes pour l'attribution des prochaines Coupes du monde.",
+        "De ne pas respecter les droits des travailleurs dans les pays hôtes."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que la FIFA est 'accusée de vouloir “vendre des parts de la Coupe du monde” à des investisseurs privés'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Combien de personnes évacuées en Gironde ont été autorisées à rentrer chez elles ce jeudi, selon le contenu ?",
+      "options": [
+        "57 000",
+        "224 000",
+        "84 000",
+        "Le nombre d'habitants de 9 communes"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne '84 000 personnes évacuées en raison du mégafeu en Gironde ont été autorisées à rentrer chez elles ce jeudi.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon le président ukrainien Volodymyr Zelensky, qu'est-ce qui a causé les pertes humaines lors des frappes russes ?",
+      "options": [
+        "Le manque de préparation des défenses ukrainiennes.",
+        "Les retards dans l’aide et la lenteur dans la fourniture d’antiballistiques par les alliés.",
+        "L'utilisation de nouvelles armes russes indétectables.",
+        "La résistance insuffisante de la population civile."
+      ],
+      "correct": 1,
+      "explication": "Le président Ukrainien a dénoncé sur X “les retards dans l’aide, et la lenteur dans la fourniture antibalistiques” de la part de ses alliés.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À quelle date est tombé le Jour du dépassement de la Terre cette année, selon l'ONG Global Footprint Network ?",
+      "options": [
+        "Le 1er janvier.",
+        "Le 30 juillet.",
+        "Le 31 décembre.",
+        "Le 22 avril."
+      ],
+      "correct": 1,
+      "explication": "Le texte dit 'Ce jeudi 30 juillet marque le jour du dépassement de la Terre'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pourquoi la chroniqueuse Xenia Fedorova est-elle visée par un arrêté d’expulsion en France ?",
+      "options": [
+        "Pour fraude fiscale.",
+        "Pour participation à des manifestations illégales.",
+        "Pour être accusée d’être “un relais” de la désinformation russe.",
+        "Pour avoir critiqué la politique étrangère française."
+      ],
+      "correct": 2,
+      "explication": "Elle est accusée d’être “un relais” de la désinformation russe.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pour la première fois depuis combien d'années la population du Japon est-elle passée sous le seuil des 120 millions d’habitants ?",
+      "options": [
+        "17 ans.",
+        "25 ans.",
+        "42 ans.",
+        "120 ans."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique 'une 1re depuis 42 ans.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pour quelle raison le groupe de K-pop BTS a-t-il décidé de ne pas présenter sa candidature aux Grammy Awards 2027 ?",
+      "options": [
+        "Un désaccord sur les droits d'auteur.",
+        "Une protestation contre la création d’une catégorie dédiée à la musique pop asiatique.",
+        "Un conflit avec le comité d'organisation des Grammy Awards.",
+        "Le souhait de se concentrer sur des tournées mondiales."
+      ],
+      "correct": 1,
+      "explication": "Le groupe sud-coréen proteste contre la création d’une catégorie dédiée à la musique pop asiatique.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel pourcentage du capital de la nouvelle société 'FIFA Forward Enterprise' serait ouvert aux investisseurs privés selon le projet de la FIFA ?",
+      "options": [
+        "10%",
+        "20%",
+        "50%",
+        "100%"
+      ],
+      "correct": 1,
+      "explication": "Environ 20% de son capital serait ouvert à des investisseurs privés.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel montant de financement les États-Unis vont-ils débloquer pour l'Alliance du Vaccin Gavi ?",
+      "options": [
+        "60 millions de dollars.",
+        "600 millions de dollars.",
+        "6 milliards de dollars.",
+        "20 millions de dollars."
+      ],
+      "correct": 1,
+      "explication": "Les États-Unis vont débloquer 600 millions de dollars de financement pour l'Alliance du Vaccin Gavi.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle instance du football a voté pour boycotter la Coupe du monde si la FIFA poursuit son projet de céder une partie de ses compétitions à des investisseurs privés ?",
+      "options": [
+        "La CAF (Confédération africaine de football).",
+        "La CONMEBOL (Confédération sud-américaine de football).",
+        "Les 55 fédérations membres de l'UEFA (Union des associations européennes de football).",
+        "La fédération tchèque."
+      ],
+      "correct": 2,
+      "explication": "Les 55 fédérations membres de l'UEFA, y compris la fédération française, ont voté pour boycotter la Coupe du monde si la FIFA poursuit son projet.",
+      "theme": "SPORT"
+    }
+  ]
+}
