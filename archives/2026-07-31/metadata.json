@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Ce qui change en août 2026",
+  "date": "31/07/2026",
+  "img": "archives/2026-07-31/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quand l'interdiction du démarchage téléphonique commercial entre-t-elle en vigueur en France ?",
+      "options": [
+        "Le 1er août",
+        "Le 11 août",
+        "Le 18 août",
+        "Le 31 août"
+      ],
+      "correct": 1,
+      "explication": "Le démarchage téléphonique commercial sera interdit à partir du 11 août, comme l'indique le 'Décryptage'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de migrants venus du Maroc seraient entrés dans l'enclave espagnole de Ceuta entre jeudi et vendredi, selon les informations en bref ?",
+      "options": [
+        "Moins de 10 000",
+        "Environ 30 000",
+        "60 000",
+        "Plus de 100 000"
+      ],
+      "correct": 2,
+      "explication": "Les 'Infos en bref' mentionnent que '60 000 migrants venus du Maroc seraient entrés dans l’enclave espagnole de Ceuta entre jeudi et vendredi'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels sont les deux points clés de l'accord sur la 2e phase de la trêve dans la bande de Gaza entre Israël et le Hamas ?",
+      "options": [
+        "L'échange de prisonniers et l'aide humanitaire",
+        "Le désarmement du Hamas et le retrait israélien de la bande de Gaza",
+        "La reconnaissance mutuelle et la reconstruction de Gaza",
+        "La libération des otages et la création d'un État palestinien"
+      ],
+      "correct": 1,
+      "explication": "Le paragraphe 'À comprendre' sur le Proche-Orient indique que 'L’accord porte sur 2 points : le désarmement du Hamas et le retrait israélien de la bande de Gaza'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon Météo-France, quelle proportion des feux en France est d'origine humaine ?",
+      "options": [
+        "1 feu sur 10",
+        "5 feux sur 10",
+        "7 feux sur 10",
+        "9 feux sur 10"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique que 'Selon Météo-France, 9 feux sur 10 sont d’origine humaine'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Dans quelle région de Pologne un missile présumé russe s'est-il écrasé ce jeudi ?",
+      "options": [
+        "Varsovie",
+        "Cracovie",
+        "Lublin",
+        "Gdansk"
+      ],
+      "correct": 2,
+      "explication": "Le missile présumé russe s’est écrasé en Pologne ce jeudi, dans la région de Lublin, à la frontière avec l’Ukraine.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le nouveau taux du Livret A à partir du 1er août ?",
+      "options": [
+        "1,5 %",
+        "1,7 %",
+        "2,0 %",
+        "2,5 %"
+      ],
+      "correct": 1,
+      "explication": "Le 'Décryptage' précise que 'le taux du Livret A [...] passe de 1,5 % à 1,7 % dès le 1er août'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quand l'allocation de rentrée scolaire sera-t-elle versée en métropole ?",
+      "options": [
+        "Le 4 août",
+        "Le 11 août",
+        "Le 18 août",
+        "Le 31 août"
+      ],
+      "correct": 2,
+      "explication": "Le 'Décryptage' indique que 'l’allocation de rentrée scolaire sera versée le 18 août en métropole'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la principale exigence pour les contenus générés par intelligence artificielle selon les nouvelles règles de l'IA Act en vigueur le 2 août ?",
+      "options": [
+        "Ils doivent être traduits en toutes les langues de l'UE",
+        "Ils doivent être validés par une autorité européenne",
+        "Ils devront être clairement signalés comme tels",
+        "Ils doivent être accompagnés d'une notice d'utilisation"
+      ],
+      "correct": 2,
+      "explication": "Le 'Décryptage' mentionne que 'Les contenus générés par intelligence artificielle [...] devront être clairement signalés comme tels'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel pourcentage de fumeurs français reconnaissent jeter leur mégot par la fenêtre sur l'autoroute, selon un sondage Ipsos ?",
+      "options": [
+        "Près de 10 %",
+        "Près de 18 %",
+        "Près de 25 %",
+        "Près de 30 %"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'Près de 18 % des fumeurs français reconnaissent jeter leur mégot par la fenêtre sur l’autoroute, selon un sondage Ipsos'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle aide est prolongée jusqu'au 31 août pour les travailleurs modestes parcourant au moins 15 km pour un trajet domicile-travail ?",
+      "options": [
+        "L'aide au transport en commun",
+        "L'aide de 100 € destinée aux 'grands rouleurs'",
+        "L'aide à l'achat de vélo électrique",
+        "L'aide pour le covoiturage"
+      ],
+      "correct": 1,
+      "explication": "Le 'Décryptage' précise que 'l’aide de 100 € destinée aux “grands rouleurs” est prolongée jusqu’au 31 août'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
