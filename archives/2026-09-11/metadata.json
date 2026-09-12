@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Après Ormuz, cet autre détroit pourrait tout changer",
+  "date": "11/09/2026",
+  "img": "archives/2026-09-11/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pour quelle raison 3 militants de Hong Kong ont-ils été condamnés, selon l'actualité du jour ?",
+      "options": [
+        "Incitation à la sédition",
+        "Participation à un rassemblement illégal",
+        "Incitation à la subversion",
+        "Trahison"
+      ],
+      "correct": 2,
+      "explication": "Les 3 militants de Hong Kong ont été condamnés pour “incitation à la subversion” en organisant des veillées en souvenir du massacre de Tiananmen.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la particularité de la récente frappe ukrainienne sur des installations gazières russes dans l'Arctique ?",
+      "options": [
+        "Elle a ciblé des infrastructures nucléaires",
+        "Elle a été menée par drone sous-marin",
+        "C'est la frappe la plus lointaine menée par l'Ukraine",
+        "Elle a causé une fuite de gaz majeure"
+      ],
+      "correct": 2,
+      "explication": "Selon les forces spéciales ukrainiennes, cette frappe sur des installations gazières russes dans l'Arctique, à plus de 3 300 kilomètres de la frontière, est la plus lointaine menée par l’Ukraine depuis le début de l’invasion.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le Secours populaire français, quelle proportion de Français se déclare en situation de précarité ?",
+      "options": [
+        "Moins d'1 sur 10",
+        "Près d'1 sur 3",
+        "Plus d'1 sur 4",
+        "La moitié des Français"
+      ],
+      "correct": 2,
+      "explication": "Plus d’1 Français sur 4 se déclare en situation de précarité, soit 6 points de plus qu’il y a 1 an, selon le Secours populaire français.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien d'animaux la SPA a-t-elle recueillis cet été, selon le bilan mentionné ?",
+      "options": [
+        "Près de 5 000",
+        "Environ 7 500",
+        "Près de 10 000",
+        "Plus de 12 000"
+      ],
+      "correct": 2,
+      "explication": "La SPA a recueilli près de 10 000 animaux cet été, avec un total exact de 9 508 animaux entre juillet et août.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "En quelle année ont eu lieu les attentats du 11 septembre, mentionnés dans l'actualité du jour ?",
+      "options": [
+        "1999",
+        "2001",
+        "2003",
+        "2005"
+      ],
+      "correct": 1,
+      "explication": "L'actualité rappelle qu'il y a 25 ans, le 11 septembre 2001, 4 avions étaient détournés par le groupe terroriste Al-Qaïda.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le montant estimé des pertes liées à la billetterie pour les concerts annulés cet été en France ?",
+      "options": [
+        "10 millions d’€",
+        "22 millions d’€",
+        "35 millions d’€",
+        "50 millions d’€"
+      ],
+      "correct": 1,
+      "explication": "Les pertes liées à la billetterie des 213 concerts annulés cet été en France sont estimées à 22 millions d’€.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle initiative originale le club italien Côme 1907 a-t-il prise pour son premier match en Ligue des champions ?",
+      "options": [
+        "Il a offert des billets gratuits à tous les habitants de Côme",
+        "Il a organisé un match caritatif avec des légendes du football",
+        "Il a cédé les sièges de ses dirigeants à ses supporters âgés",
+        "Il a joué le match dans un stade historique inattendu"
+      ],
+      "correct": 2,
+      "explication": "Le club italien Côme 1907 a cédé les sièges de ses dirigeants à ses supporters nés en 1950 ou avant pour son premier match en Ligue des champions.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel est le nom du détroit stratégique vers lequel les rebelles houthis progressent au Yémen ?",
+      "options": [
+        "Détroit de Gibraltar",
+        "Détroit d'Ormuz",
+        "Détroit de Bab-el-Mandeb",
+        "Détroit de Malacca"
+      ],
+      "correct": 2,
+      "explication": "Les rebelles houthis progressent vers le détroit de Bab-el-Mandeb, un passage stratégique pour l’économie mondiale.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel impact potentiel le blocage des détroits d'Ormuz et de Bab-el-Mandeb pourrait-il avoir sur l'économie mondiale ?",
+      "options": [
+        "Une réduction du tourisme international",
+        "Une baisse significative du prix du pétrole",
+        "Un impact lourd sur le commerce international",
+        "Une augmentation de la production agricole"
+      ],
+      "correct": 2,
+      "explication": "Si Ormuz et Bab-el-Mandeb étaient tous les deux durablement bloqués ou fortement perturbés, le commerce international pourrait être lourdement impacté, entraînant déjà une hausse du prix du baril de Brent.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle organisation Israël a-t-il ciblée en faisant exploser un réseau de tunnels dans le sud du Liban ?",
+      "options": [
+        "Le Hamas",
+        "L'État islamique",
+        "Le Hezbollah",
+        "Al-Qaïda"
+      ],
+      "correct": 2,
+      "explication": "Israël a fait exploser un réseau de tunnels du Hezbollah, une organisation armée et politique libanaise, dans le sud du Liban.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}

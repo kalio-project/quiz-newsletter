@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Netanyahu aurait été averti de l’attaque du 7 octobre 2023 plusieurs jours en avance",
+  "date": "09/09/2026",
+  "img": "archives/2026-09-09/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la principale raison pour laquelle le Canada a imposé de nouveaux droits de douane sur des produits américains ?",
+      "options": [
+        "Pour protester contre la décision des États-Unis de renommer le lac Ontario.",
+        "En réponse aux surtaxes américaines appliquées sur certains produits canadiens.",
+        "Pour réduire sa dépendance énergétique envers les États-Unis.",
+        "Suite à l'interdiction de certains produits canadiens par Donald Trump."
+      ],
+      "correct": 1,
+      "explication": "Le Canada a imposé de nouveaux droits de douane en réponse aux surtaxes appliquées par les États-Unis sur certains produits canadiens depuis le 22 août.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon Jacob Coxon, ancien chercheur chez OpenAI et Anthropic, quel est le principal risque lié au développement de l'intelligence artificielle ?",
+      "options": [
+        "Une augmentation du chômage mondial due à l'automatisation.",
+        "Le développement d'une superintelligence sans contrôle humain qui pourrait tous nous tuer.",
+        "La prolifération de fake news et de désinformation.",
+        "Une dépendance excessive des populations à la technologie."
+      ],
+      "correct": 1,
+      "explication": "Jacob Coxon alerte notamment sur le développement d’une superintelligence sans contrôle humain qui, selon lui et d'autres, pourrait 'tous nous tuer d’ici à la fin de la décennie'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle accusation a été portée contre la ville de New York concernant les conséquences du 11 septembre 2001 ?",
+      "options": [
+        "D'avoir sous-estimé le nombre de victimes directes des attentats.",
+        "D'avoir dissimulé des informations sur la toxicité de l'air après l'effondrement des tours.",
+        "De ne pas avoir mis en place de plan d'évacuation adéquat.",
+        "D'avoir retardé l'aide aux familles des victimes."
+      ],
+      "correct": 1,
+      "explication": "Selon le maire Zohran Mamdani, la ville de New York aurait dissimulé des informations sur la toxicité de l’air après les attentats du 11 septembre 2001.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Comment la série d'animation 'South Park' a-t-elle récemment raillé Donald Trump ?",
+      "options": [
+        "En le présentant comme l'amant de Satan dans un épisode.",
+        "En le caricaturant comme un dictateur.",
+        "En se rebaptisant 'South America' pour se moquer de sa décision de renommer le lac Ontario.",
+        "En créant un jeu vidéo parodique inspiré de 'Build The Wall'."
+      ],
+      "correct": 2,
+      "explication": "La série s'est rebaptisée 'South America' pour se moquer de la décision de Donald Trump de renommer le lac Ontario en 'lac d'Amérique'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel est l'objectif du nouveau dispositif médical (un casque) qui fera l'objet d'un essai clinique à Lyon et Toulouse ?",
+      "options": [
+        "Améliorer la performance des sportifs.",
+        "Traiter les commotions cérébrales persistantes chez les sportifs.",
+        "Prévenir les blessures articulaires chez les athlètes.",
+        "Diagnostiquer les maladies neurologiques chroniques."
+      ],
+      "correct": 1,
+      "explication": "Le casque est destiné à traiter les commotions cérébrales des sportifs, particulièrement ceux qui présentent des symptômes persistants après une commotion cérébrale.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon l'enquête du quotidien Haaretz, qui aurait personnellement averti Benjamin Netanyahu d'une attaque imminente du Hamas avant le 7 octobre 2023 ?",
+      "options": [
+        "Le chef du Shin Bet, Ronen Bar.",
+        "Des sources militaires américaines.",
+        "Le président des Émirats arabes unis, Mohammed ben Zayed Al Nahyane.",
+        "Des services de renseignement égyptiens."
+      ],
+      "correct": 2,
+      "explication": "L'enquête affirme que Mohammed ben Zayed Al Nahyane, le président des Émirats arabes unis, aurait personnellement appelé Benjamin Netanyahu pour l’informer d’une attaque imminente.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pourquoi les États-Unis ont-ils frappé cinq pétroliers iraniens dans la région du Golfe ?",
+      "options": [
+        "Pour empêcher l'Iran de livrer du pétrole à la Russie.",
+        "En représailles aux attaques des Gardiens de la Révolution contre un navire de l'armée américaine.",
+        "Pour contester la légalité des exportations de pétrole iranien.",
+        "Afin de bloquer le détroit d'Ormuz pour le commerce mondial."
+      ],
+      "correct": 1,
+      "explication": "Ces frappes sont présentées comme des représailles aux attaques des Gardiens de la Révolution contre un navire de l’armée américaine.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Comment Benjamin Netanyahu aurait-il réagi à l'avertissement du président des Émirats arabes unis concernant l'attaque du 7 octobre, selon l'enquête du Haaretz ?",
+      "options": [
+        "Il aurait immédiatement renforcé la sécurité autour de Gaza.",
+        "Il aurait réuni d'urgence tous les hauts responsables de la défense.",
+        "Il aurait estimé qu'une éventuelle attaque viendrait plutôt de Cisjordanie et réagi avec un 'calme relatif'.",
+        "Il aurait dénoncé ces informations comme un 'mensonge total'."
+      ],
+      "correct": 2,
+      "explication": "L'enquête indique que Benjamin Netanyahu aurait réagi avec 'un calme relatif' et estimé qu'une éventuelle attaque viendrait plutôt de Cisjordanie occupée.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel type de propos les policiers municipaux de Carcassonne ont-ils été filmés en train de tenir ?",
+      "options": [
+        "Des propos injurieux envers des usagers de la route.",
+        "Des propos menaçants envers des migrants.",
+        "Des propos racistes, islamophobes, misogynes et homophobes.",
+        "Des propos critiques envers la hiérarchie policière."
+      ],
+      "correct": 2,
+      "explication": "Une vidéo a accidentellement capté des policiers municipaux de Carcassonne tenant des propos racistes, islamophobes, misogynes et homophobes.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Qu'a affirmé Vladimir Poutine à Donald Trump concernant les visées de la Russie envers l'Europe ?",
+      "options": [
+        "Que la Russie n'a 'pas de visée agressive' à l'égard de l'Europe.",
+        "Que la Russie est prête à renforcer sa coopération économique avec l'Europe.",
+        "Que la Russie ne reconnaîtra jamais l'indépendance de l'Ukraine.",
+        "Que la Russie déploiera davantage de troupes aux frontières européennes."
+      ],
+      "correct": 0,
+      "explication": "Vladimir Poutine a assuré à Donald Trump que la Russie n'a 'pas de visée agressive' à l'égard de l'Europe.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}

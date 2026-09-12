@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump veut offrir 5 000$ à chaque Américain ?",
+  "date": "10/09/2026",
+  "img": "archives/2026-09-10/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'observatoire européen Copernicus, qu'est-ce qui a été le mois le plus chaud jamais enregistré dans le monde ?",
+      "options": [
+        "Juin 2026",
+        "Juillet 2026",
+        "Août 2026",
+        "Septembre 2026"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'Août 2026 a été le mois le plus chaud jamais enregistré dans le monde, avec 16,96 °C de température moyenne de l’air.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien d'enfants dans le monde ont vu leur scolarité perturbée par des événements climatiques en 2025, selon l'Unicef ?",
+      "options": [
+        "Moins de 100 millions",
+        "Plus de 171 millions",
+        "Environ 59 millions",
+        "Seulement 1,5 million"
+      ],
+      "correct": 1,
+      "explication": "L'Unicef rapporte que plus de 171 millions d’enfants dans le monde, soit 1 sur 10, ont vu leur scolarité perturbée par des événements climatiques en 2025.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est l'hormone de synthèse présente dans la pilule contraceptive qui peut augmenter le risque de méningiome, selon le courrier envoyé à 1,6 million de femmes ?",
+      "options": [
+        "L'œstrogène",
+        "La progestérone",
+        "Le désogestrel",
+        "Le lévonorgestrel"
+      ],
+      "correct": 2,
+      "explication": "Le courrier informe sur les risques liés à la pilule contraceptive à base de désogestrel, une hormone de synthèse.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Pour quel motif les avocats de Patrick Bruel ont-ils porté plainte contre Paris Match ?",
+      "options": [
+        "Diffamation",
+        "Atteinte à la vie privée",
+        "Violation du secret de l’instruction",
+        "Faux et usage de faux"
+      ],
+      "correct": 2,
+      "explication": "Les avocats de Patrick Bruel ont porté plainte contre Paris Match pour “violation du secret de l’instruction” après la publication d’extraits de son audition.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon Human Rights Watch et le Centre Abdorrahman Boroumand, combien d'hommes et d'adolescents ont été exécutés en Iran en cinq mois ?",
+      "options": [
+        "Au moins 59",
+        "Exactement 171",
+        "Environ 300",
+        "Moins de 50"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique qu'en cinq mois, au moins 59 hommes et adolescents ont été exécutés en Iran.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la population actuelle du kākāpō, un perroquet de Nouvelle-Zélande, pour la première fois depuis 75 ans ?",
+      "options": [
+        "51 individus",
+        "Moins de 100 individus",
+        "Plus de 300 individus",
+        "1995 individus"
+      ],
+      "correct": 2,
+      "explication": "Le kākāpō vient de dépasser les 300 individus, une première depuis environ 75 ans.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel montant Donald Trump a-t-il promis d'offrir à chaque adulte américain si les Républicains remportent les élections de mi-mandat ?",
+      "options": [
+        "2 000 dollars",
+        "5 000 dollars",
+        "10 000 dollars",
+        "1 350 dollars"
+      ],
+      "correct": 1,
+      "explication": "Donald Trump a annoncé qu’il comptait offrir 5 000 $ à chaque adulte américain si son camp, les Républicains, remporte les prochaines élections de mi-mandat.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quand les élections de mi-mandat (midterms) aux États-Unis sont-elles prévues ?",
+      "options": [
+        "Le 3 novembre prochain",
+        "Le 2 septembre dernier",
+        "En janvier 2025",
+        "En août 2026"
+      ],
+      "correct": 0,
+      "explication": "Les midterms, ou élections de mi-mandat, auront lieu le 3 novembre prochain.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle a été la cause de la fermeture de l'espace aérien moldave lors du départ de Volodymyr Zelensky vers Oslo ?",
+      "options": [
+        "Des conditions météorologiques extrêmes",
+        "Une violation de l'espace aérien par un drone russe",
+        "Une alerte technique majeure",
+        "Une escorte militaire imprévue"
+      ],
+      "correct": 1,
+      "explication": "Selon le porte-parole du gouvernement moldave, l’espace aérien a été fermé après la violation de son espace aérien par un drone russe arrivé depuis l’Ukraine.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le numéro national de prévention du suicide en France, gratuit et disponible 24h/24, 7j/7 ?",
+      "options": [
+        "Le 15",
+        "Le 17",
+        "Le 3114",
+        "Le 112"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que le 3114 est le numéro national de prévention du suicide, gratuit et disponible 24h/24, 7j/7.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
