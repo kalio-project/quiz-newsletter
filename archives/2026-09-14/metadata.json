@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump rejette les appels des patrons de la tech pour ralentir l'IA",
+  "date": "14/09/2026",
+  "img": "archives/2026-09-14/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est la nature de l'enquête ouverte suite à l'incident impliquant un policier et un homme sans domicile fixe à Carcassonne ?",
+      "options": [
+        "Pour “homicide involontaire”",
+        "Pour “violences volontaires”",
+        "Pour “non-assistance à personne en danger”",
+        "Pour “usage excessif de la force”"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'“Une enquête a été ouverte pour “violences volontaires”.”",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pourquoi la Corée du Nord a-t-elle récemment mené un \"exercice conjoint d’attaque par la puissance de feu\" ?",
+      "options": [
+        "Pour tester de nouvelles armes nucléaires.",
+        "En réponse à des manœuvres militaires menées par la Corée du Sud, les États-Unis et le Japon.",
+        "Pour préparer une invasion de la Corée du Sud.",
+        "Pour célébrer un anniversaire national important."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que \"Ces tirs sont intervenus au lendemain de manœuvres militaires menées pendant 5 jours par la Corée du Sud, les États-Unis et le Japon.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel symbole haineux a été découvert sur la façade de la mosquée El Mouahidine à Bruxelles ?",
+      "options": [
+        "Une étoile de David",
+        "Un graffiti anti-islam",
+        "Une croix gammée",
+        "Une étoile et un croissant inversés"
+      ],
+      "correct": 2,
+      "explication": "Le texte rapporte qu'“Une croix gammée a été découverte dans la nuit de samedi à dimanche sur la façade de la mosquée El Mouahidine, une mosquée historique de Bruxelles, en Belgique.”",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle particularité marque les commémorations des victimes de la dictature d'Augusto Pinochet au Chili cette année ?",
+      "options": [
+        "Elles ont été annulées par le gouvernement.",
+        "Elles ont réuni un nombre record de participants.",
+        "Aucune commémoration officielle n’a été organisée.",
+        "Elles ont été transformées en un événement musical."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que \"c’est la 1re fois qu’aucune commémoration officielle n’a été organisée en mémoire des plus de 3 200 victimes [...] de la dictature entre 1973 et 1990.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la situation actuelle concernant le projet d'interdiction des réseaux sociaux aux moins de 15 ans en France ?",
+      "options": [
+        "La loi est entrée en vigueur depuis la rentrée scolaire.",
+        "Le Conseil constitutionnel a validé l'interdiction sans modification.",
+        "La France a soumis une nouvelle version à la Commission européenne après une censure du Conseil constitutionnel.",
+        "Le projet a été définitivement abandonné."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que \"La France a soumis une nouvelle version de l’interdiction des réseaux sociaux aux moins de 15 ans à la Commission européenne. [...] le Conseil constitutionnel avait censuré la mesure.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi le ministre israélien de la Culture souhaite-t-il retirer la citoyenneté des réalisateurs du documentaire \"Naza\" ?",
+      "options": [
+        "Pour avoir refusé de participer à des manœuvres militaires.",
+        "Parce que leur documentaire a été récompensé à la Mostra de Venise.",
+        "En raison des accusations portées par leur documentaire selon lesquelles l’armée israélienne cible des civils à Gaza.",
+        "Pour avoir diffusé des informations classifiées."
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule que le ministre veut demander le retrait de la citoyenneté des réalisateurs de “Naza” dont le documentaire “s’appuie sur des témoignages anonymes de militaires et décrit comment l’armée israélienne cible des civils à Gaza.”",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle est la principale raison de la grève actuelle à Radio France ?",
+      "options": [
+        "La suppression de plusieurs émissions phares.",
+        "L'arrivée de Charles Sapin, directeur-adjoint de Valeurs actuelles, comme chroniqueur sur France Inter.",
+        "Des coupes budgétaires importantes affectant les salaires.",
+        "Un désaccord sur la couverture de l'actualité internationale."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que Radio France est en grève \"pour protester contre l'arrivée sur France Inter de Charles Sapin, directeur-adjoint du média d'extrême droite Valeurs actuelles, qui tient une chronique politique tous les dimanches à l'antenne.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le texte, combien de naissances de bébés hyènes rayées ont été enregistrées dans les zoos européens en 10 ans ?",
+      "options": [
+        "Seulement 3",
+        "11",
+        "35",
+        "Plus de 100"
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme que \"En 10 ans, seulement 35 naissances ont été enregistrées dans les zoos européens, dont 11 à La Barben.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'un des principaux sujets d'inquiétude partagé par les dirigeants d'entreprises d'IA comme Anthropic, OpenAI et Elon Musk ?",
+      "options": [
+        "La lenteur du développement de l'IA.",
+        "Le manque de financement public pour l'IA.",
+        "Le risque que l'IA progresse plus vite que notre capacité à la contrôler, menant à une “superintelligence auto-améliorante”.",
+        "La concurrence déloyale de la Chine dans le domaine de l'IA."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que \"ces patrons semblent partager la même crainte : que les capacités de l’IA progressent plus vite que notre capacité à les contrôler. L’enjeu tourne notamment autour de ce qu’on appelle une “superintelligence auto-améliorante”\".",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est l'une des principales raisons invoquées par Donald Trump pour rejeter l'idée de ralentir le développement de l'IA ?",
+      "options": [
+        "Il ne croit pas que l'IA puisse devenir dangereuse.",
+        "Il estime qu'un ralentissement ferait perdre aux États-Unis leur avance face à la Chine.",
+        "Il pense que l'encadrement de l'IA relève uniquement des entreprises privées.",
+        "Il craint que cela ne nuise à l'innovation technologique globale."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que Trump \"estime aussi qu’un ralentissement ferait perdre aux États-Unis leur avance face à la Chine.\" Il a aussi déclaré que les problèmes soulevés \"n’arriveront pas\".",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
