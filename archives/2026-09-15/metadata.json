@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Pourquoi Trump veut tout s’accaparer ?",
+  "date": "15/09/2026",
+  "img": "archives/2026-09-15/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de fois Paris a-t-elle dépassé les 25 °C cette année, établissant un nouveau record depuis 1872 ?",
+      "options": [
+        "98 fois",
+        "100 fois",
+        "78 fois",
+        "25 fois"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Pour la 100ᵉ fois cette année, Paris a dépassé aujourd’hui les 25 °C. Il s’agit d’un record depuis le début des relevés en 1872.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle est la cause principale de la réduction du trafic maritime dans le Canal de Panama ?",
+      "options": [
+        "Des travaux d'agrandissement du canal",
+        "Une augmentation soudaine du coût des péages",
+        "Une sécheresse liée au phénomène climatique El Niño",
+        "Des conflits géopolitiques dans la région"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Le Canal de Panama... réduit de nouveau son trafic à cause de la sécheresse liée au phénomène climatique naturel El Niño.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est l'objectif principal de la Chine en proposant la création d'une \"zone d’intelligence artificielle à code source ouvert\" pour les pays des BRICS ?",
+      "options": [
+        "Importer exclusivement des modèles d'IA américains",
+        "Permettre aux pays émergents d'adapter des modèles d'IA à leurs besoins et concurrencer les entreprises américaines",
+        "Ralentir le développement de l'IA à l'échelle mondiale",
+        "Standardiser l'utilisation de l'IA pour l'armement"
+      ],
+      "correct": 1,
+      "explication": "Selon le texte : \"L’objectif : permettre aux pays émergents d’adapter des modèles d’IA à leurs besoins, mais aussi concurrencer les entreprises américaines.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel média a été identifié comme ayant le plus propagé de mésinformation climatique en 2026, selon l'Observatoire des médias sur l’écologie ?",
+      "options": [
+        "Franceinfo",
+        "CNews",
+        "HuffPost",
+        "Le Courrier International"
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare : \"CNews est le média qui a le plus propagé de mésinformation climatique en 2026, selon une étude de l'Observatoire des médias sur l’écologie publiée ce lundi.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle série d'épouvante a récolté 14 prix aux 78e Emmy Awards, établissant un record pour une comédie ?",
+      "options": [
+        "The Pitt",
+        "Pluribus",
+        "Widow's Bay",
+        "Trump Towers"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"La série d’épouvante 'Widow's Bay' a récolté 14 prix au total, un record pour une comédie.\"",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Combien de repas sont destinés à être livrés aux chiens et aux chats abandonnés en France grâce à l'initiative \"Agir pour l’adoption\" ?",
+      "options": [
+        "30 millions",
+        "246 tonnes",
+        "2 millions",
+        "1 million"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : \"2 millions de repas vont être livrés aux chiens et aux chats abandonnés en France grâce à l’initiative “Agir pour l’adoption” .\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Outre le golfe du Mexique, quel autre grand plan d'eau Donald Trump a-t-il tenté de renommer \"lac d'Amérique\" par décret ?",
+      "options": [
+        "Le détroit d'Ormuz",
+        "Le lac Supérieur",
+        "Le lac Ontario",
+        "Le canal de Panama"
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme : \"Plus récemment, il a fait de même avec le lac Ontario, qu’il a appelé “lac d’Amérique”.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À quelle doctrine états-unienne du XIXe siècle les cartes de Donald Trump, montrant une expansion de l'influence américaine, peuvent-elles être rapprochées ?",
+      "options": [
+        "La doctrine Truman",
+        "La doctrine Eisenhower",
+        "La doctrine Monroe",
+        "La doctrine Brejnev"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Ses cartes peuvent également être rapprochées de la doctrine Monroe, une doctrine états-unienne du XIXe siècle...\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le texte, quel est l'un des objectifs de Donald Trump en rebaptisant des lieux et en redessinant symboliquement les cartes ?",
+      "options": [
+        "Obtenir une reconnaissance internationale immédiate pour ces changements",
+        "Promouvoir la culture canadienne et mexicaine",
+        "Tester jusqu'où ses idées d'expansion peuvent être acceptées et détourner l'attention d'autres sujets",
+        "Renforcer la souveraineté de ses voisins"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Pour certains experts, ces annonces permettent aussi de tester jusqu’où ses idées d’expansion peuvent être acceptées et, si elles ne le sont pas, de commencer à les banaliser dans le débat public.\" et \"Une stratégie qui lui permet aussi de détourner l’attention d’autres sujets\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le montant du don équivalent en produits alimentaires fait par E.Leclerc cette année pour soutenir les étudiants aidés par les Banques Alimentaires ?",
+      "options": [
+        "2,4 millions d'euros",
+        "754 palettes",
+        "1 million d'euros",
+        "30 camions"
+      ],
+      "correct": 2,
+      "explication": "La publicité annonce : \"Cette année, l’enseigne renforce son engagement avec un don équivalent d’1M€ de produits alimentaires de ses marques distributeurs\".",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
