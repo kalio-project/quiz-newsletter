@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le Royaume-Uni va-t-il disparaître ?",
+  "date": "16/09/2026",
+  "img": "archives/2026-09-16/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle communauté est victime d'une vague d'arrestations en Turquie depuis ce dimanche, avec des centaines de personnes interpellées à Istanbul et Ankara ?",
+      "options": [
+        "La communauté kurde",
+        "La communauté LGBTQIA+",
+        "Les militants écologistes",
+        "Les journalistes d'opposition"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'En Turquie, la communauté LGBTQIA+ est victime d’une vague d’arrestations depuis ce dimanche. Des centaines de personnes ont été interpellées à Istanbul et Ankara'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Dans quelle affaire Rachida Dati et Carlos Ghosn comparaissent-ils à partir de ce mercredi ?",
+      "options": [
+        "Une affaire de fraude fiscale",
+        "Une affaire de détournement de fonds",
+        "Une affaire de corruption",
+        "Une affaire d'abus de biens sociaux"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'L’ancienne ministre Rachida Dati et l’ex-PDG de Renault Carlos Ghosn comparaissent à partir de ce mercredi dans une affaire de corruption.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon une enquête du ministère de la Sécurité intérieure des États-Unis, qu'est-il arrivé à 79 migrants dans un centre de rétention en Floride ?",
+      "options": [
+        "Ils ont reçu des aides financières substantielles.",
+        "Ils ont été placés dans des minicellules d'environ 1,67 m².",
+        "Ils ont été rapidement régularisés et libérés.",
+        "Ils ont participé à un programme d'intégration volontaire."
+      ],
+      "correct": 1,
+      "explication": "Le texte rapporte : '79 migrants ont été placés dans des minicellules d’environ 1,67 m² dans un centre de rétention en Floride'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel accord social inédit le groupe pharmaceutique lyonnais Boiron a-t-il mis en place pour ses 1 400 salariés ?",
+      "options": [
+        "La semaine de 4 jours sans réduction de salaire.",
+        "Jusqu’à 113 jours d’absence rémunérée supplémentaires au cours de leur carrière.",
+        "Un salaire minimum garanti supérieur au SMIC.",
+        "Un bonus annuel lié à la performance de l'entreprise."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Le groupe pharmaceutique lyonnais Boiron vient de mettre en place un accord social inédit : ses 1 400 salariés peuvent désormais obtenir jusqu’à 113 jours d’absence rémunérée supplémentaires au cours de leur carrière'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Où les dirigeants de l’Écosse, du Pays de Galles et de l’Irlande du Nord se sont-ils réunis ce lundi pour signer un texte commun sur leur droit à l'autodétermination ?",
+      "options": [
+        "À Édimbourg",
+        "À Belfast",
+        "À Londres",
+        "À Cardiff"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise : 'Leurs dirigeants se sont réunis ce lundi à Cardiff, au Pays de Galles, et ont signé un texte commun affirmant leur droit à l’autodétermination'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le point commun des dirigeants d'Écosse, du Pays de Galles et d'Irlande du Nord concernant leur avenir et l'Union européenne ?",
+      "options": [
+        "Ils souhaitent tous rester en dehors de l'Union européenne.",
+        "Ils veulent tous une adhésion immédiate en tant qu'États indépendants.",
+        "Ils estiment que leur avenir est dans l'Union européenne et que le Brexit a 'endommagé' leurs économies.",
+        "Ils réclament une consultation populaire dans tous les États membres de l'UE."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Les 3 nations ont cependant un point commun : leurs dirigeants estiment que leur avenir est dans l’Union européenne. Dans leur texte commun, ils affirment notamment que le Brexit a “endommagé” leurs économies et réduit certaines opportunités.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Que réclame l'Écosse, avec son Premier ministre John Swinney espérant l'organiser dans les 2 prochaines années ?",
+      "options": [
+        "Un référendum sur le maintien dans le Royaume-Uni.",
+        "Un nouveau référendum sur l'indépendance.",
+        "Une autonomie fiscale totale.",
+        "L'intégration directe à la République d'Irlande."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'L’Écosse réclame un nouveau référendum sur l’indépendance, que le Premier ministre écossais John Swinney espère organiser dans les 2 prochaines années.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Que réclame la Première ministre d'Irlande du Nord, Michelle O’Neill, qu'elle estime envisageable d'ici 2030 ?",
+      "options": [
+        "Une autonomie renforcée au sein du Royaume-Uni.",
+        "L'organisation d'un nouveau référendum sur l'indépendance.",
+        "Un référendum sur la réunification avec la République d’Irlande.",
+        "La fin des accords de paix de 1998."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Et en Irlande du Nord, la Première ministre Michelle O’Neill réclame un référendum sur la réunification avec la République d’Irlande, qu’elle estime envisageable d’ici 2030.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon la proposition de l'Union européenne, à quel âge l'interdiction des réseaux sociaux est-elle envisagée pour les plus jeunes ?",
+      "options": [
+        "Moins de 16 ans",
+        "Moins de 15 ans",
+        "Moins de 13 ans",
+        "Moins de 10 ans"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'L’Union européenne envisage d’interdire les réseaux sociaux aux moins de 13 ans'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Que propose l'Union européenne concernant l'utilisation des réseaux sociaux pour les adolescents âgés de 13 à 15 ans ?",
+      "options": [
+        "Une interdiction totale.",
+        "Des comptes pleinement autonomes sans supervision parentale.",
+        "La création de 'mini comptes' contrôlés par les parents, avec des fonctionnalités et une durée d'utilisation limitées.",
+        "Aucune restriction spécifique."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'Elle propose concrètement pour les 13-15 ans la création de “mini comptes”, contrôlés par les parents, avec des fonctionnalités limitées et une durée d’utilisation limitée à une heure par jour'.",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
