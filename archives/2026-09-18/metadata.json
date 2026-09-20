@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Les États-Unis disposent d’armes dans l’espace",
+  "date": "18/09/2026",
+  "img": "archives/2026-09-18/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Sur quelle chaîne de télévision Éric Zemmour a-t-il confirmé sa candidature à l'élection présidentielle de 2027 ce jeudi ?",
+      "options": [
+        "CNEWS",
+        "LCI",
+        "BFMTV",
+        "TF1"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que Éric Zemmour 'a confirmé sa candidature à l’élection présidentielle de 2027, ce jeudi sur BFMTV.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel ministre a annoncé l'interdiction pour les candidats à la présidentielle de 2027 de faire campagne dans les classes de la maternelle au lycée ?",
+      "options": [
+        "Gérald Darmanin",
+        "Gabriel Attal",
+        "Edouard Geffray",
+        "Bruno Le Maire"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que 'le ministre de l'Éducation nationale, Edouard Geffray' a annoncé cette mesure.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle nouvelle mesure le gouvernement australien a-t-il annoncée pour les touristes qui dépassent la durée de leur visa ?",
+      "options": [
+        "Une amende systématique",
+        "L'expulsion immédiate",
+        "Le placement en rétention administrative",
+        "L'interdiction de revenir pendant 10 ans"
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule que 'les touristes qui dépassent la durée de leur visa pourront être placés en rétention administrative'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de nouveaux dérapages de ses modèles a révélé Open AI, la société à l’origine de ChatGPT ?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'Open AI 'a révélé 6 nouveaux dérapages de ses modèles'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Combien de sites culturels en France le nouveau Pass Patrimoine permet-il de visiter ?",
+      "options": [
+        "Plus de 100",
+        "Plus de 250",
+        "Plus de 500",
+        "Plus de 1 000"
+      ],
+      "correct": 2,
+      "explication": "Le Pass Patrimoine est lancé pour 'visiter plus de 500 sites culturels en France'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle nouvelle espèce de félin, une première depuis plus d’un siècle, a été découverte en Bolivie ?",
+      "options": [
+        "Jaguarundi",
+        "Ocelot",
+        "Tilcayo",
+        "Puma des Yungas"
+      ],
+      "correct": 2,
+      "explication": "Le texte annonce la découverte d'une 'nouvelle espèce de félin (...) Appelé tilcayo'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel traité international, signé en 1967, interdit de placer des armes de destruction massive en orbite, mais pas les autres types d'armes ?",
+      "options": [
+        "Le Traité de non-prolifération",
+        "Le Traité sur l'espace extra-atmosphérique",
+        "Les Accords de Genève",
+        "La Convention de Vienne"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise qu'en '1967, le Traité sur l'espace extra-atmosphérique est signé (...) Il interdit notamment de placer des armes de destruction massive, comme des armes nucléaires, en orbite.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le texte, quelles sont les trois principales puissances militaires spatiales aujourd'hui ?",
+      "options": [
+        "Les États-Unis, la France et le Royaume-Uni",
+        "Les États-Unis, la Russie et la Chine",
+        "La Chine, l'Inde et le Japon",
+        "La Russie, l'Allemagne et le Canada"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme que 'Les États-Unis, la Russie et la Chine sont aujourd’hui les trois principales puissances militaires spatiales.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le montant équivalent en produits alimentaires que E.Leclerc s'engage à donner cette année pour soutenir les étudiants aidés par les Banques Alimentaires ?",
+      "options": [
+        "500 000 €",
+        "750 000 €",
+        "1 million d'euros",
+        "2 millions d'euros"
+      ],
+      "correct": 2,
+      "explication": "La publicité indique que 'Cette année, l’enseigne renforce son engagement avec un don équivalent d’1M€ de produits alimentaires de ses marques distributeurs'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "À partir de quelle date le gouvernement va-t-il proposer un nouveau dispositif d'aide face à la hausse des prix du carburant ?",
+      "options": [
+        "Le 1er septembre",
+        "Le 1er octobre",
+        "Le 1er novembre",
+        "Le 1er janvier de l'année prochaine"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'un 'nouveau dispositif d'aide pour les Français les plus précaires va être proposé par le gouvernement dès le 1er octobre'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le Canada va-t-il rejoindre l’UE ?",
+  "date": "17/09/2026",
+  "img": "archives/2026-09-17/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pays a été invité à devenir le premier 'membre associé' de l'Union européenne ?",
+      "options": [
+        "La Suisse",
+        "Le Canada",
+        "La Norvège",
+        "Le Royaume-Uni"
+      ],
+      "correct": 1,
+      "explication": "L'Union européenne a invité le Canada à devenir le premier 'membre associé' de l'UE pour renforcer leurs relations économiques et stratégiques.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon une étude du World Weather Attribution, quelle est l'une des principales causes de l'immense crue qui a fait plus de 1 300 morts au Népal et au Tibet fin août ?",
+      "options": [
+        "Un tsunami",
+        "Un séisme sous-marin",
+        "Le réchauffement climatique",
+        "Une déforestation massive"
+      ],
+      "correct": 2,
+      "explication": "L'étude indique que le réchauffement climatique, notamment la fonte du permafrost et l'augmentation des températures et des précipitations, a contribué à provoquer cette crue.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel record démographique a été atteint au Japon pour la première fois dans l'histoire du pays ?",
+      "options": [
+        "Plus de 50 millions d'habitants",
+        "Un âge médian inférieur à 30 ans",
+        "Plus de 107 000 personnes ayant plus de 100 ans",
+        "Un taux de natalité doublé en un an"
+      ],
+      "correct": 2,
+      "explication": "Le Japon compte désormais plus de 107 000 personnes âgées de plus de 100 ans, un record historique, ce qui en fait la deuxième population la plus âgée du monde.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "La NASA a récemment découvert un nouveau cratère sur la Lune. Qu'est-ce qui aurait causé sa formation ?",
+      "options": [
+        "Une éruption volcanique lunaire",
+        "L'impact d'une sonde spatiale",
+        "L'écrasement d'une comète ou d'un astéroïde",
+        "L'activité sismique de la Lune"
+      ],
+      "correct": 2,
+      "explication": "Le cratère aurait été formé au printemps 2024 après l'écrasement d'une comète ou d'un astéroïde de la taille d'un immeuble de 3 à 6 étages.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel film, lauréat du Grand Prix au Festival de Cannes, a été choisi pour représenter la France aux Oscars ?",
+      "options": [
+        "Un simple accident",
+        "Parasite",
+        "Minotaure",
+        "Anatomie d'une chute"
+      ],
+      "correct": 2,
+      "explication": "Le film 'Minotaure', réalisé par le Russe Andreï Zviaguintsev et financé par des producteurs français, a été sélectionné pour représenter la France aux Oscars.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Dans quel but une Bretonne de 57 ans s'est-elle lancée dans une traversée de la Manche à la nage ?",
+      "options": [
+        "Pour établir un nouveau record de vitesse",
+        "Pour soutenir la recherche sur la maladie de Charcot",
+        "Pour promouvoir le tourisme en Bretagne",
+        "Pour un défi personnel sans but caritatif"
+      ],
+      "correct": 1,
+      "explication": "Elle a entrepris cette traversée sans palmes ni combinaison pour soutenir la recherche sur la maladie de Charcot, une maladie neurologique qui touche son oncle.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quelle est la principale raison pour laquelle le Canada cherche à renforcer ses liens avec l'Union européenne ?",
+      "options": [
+        "Pour rejoindre la zone euro",
+        "Pour diversifier ses partenaires économiques face aux tensions avec les États-Unis",
+        "Pour obtenir un accès privilégié au pétrole européen",
+        "Pour adopter la monnaie unique européenne"
+      ],
+      "correct": 1,
+      "explication": "Le Canada cherche de nouveaux partenaires économiques en raison de ses relations détériorées avec les États-Unis, exacerbées par les menaces et guerres commerciales, notamment de Donald Trump.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel montant le gouvernement français promet-il de consacrer contre les violences sexistes et sexuelles dans le budget 2027 ?",
+      "options": [
+        "500 millions d'euros",
+        "1 milliard d'euros",
+        "1,5 milliard d'euros",
+        "2 milliards d'euros"
+      ],
+      "correct": 2,
+      "explication": "Le gouvernement promet de consacrer 1,5 milliard d’euros contre les violences sexistes et sexuelles dans le budget 2027, un montant équivalent à celui de 2026.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Comment Donald Trump a-t-il réagi à l'annonce d'une possible alliance renforcée entre le Canada et l'Union européenne ?",
+      "options": [
+        "Il a salué cette initiative",
+        "Il a proposé de rejoindre cette alliance",
+        "Il a menacé de rompre les échanges commerciaux avec l'UE",
+        "Il est resté indifférent"
+      ],
+      "correct": 2,
+      "explication": "Donald Trump a réagi en menaçant de rompre les échanges commerciaux avec l'UE si une telle alliance avec le Canada venait à avoir lieu, qualifiant cette volonté d’“hostile” et “ridicule”.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le rôle principal d'E.Leclerc mentionné dans le contexte de l'aide alimentaire aux étudiants ?",
+      "options": [
+        "Organiser des collectes de fonds mondiales",
+        "Être le premier donateur parmi tous les distributeurs pour les Banques Alimentaires",
+        "Gérer le réseau de distribution 'le RAYON'",
+        "Offrir des stages aux étudiants dans ses supermarchés"
+      ],
+      "correct": 1,
+      "explication": "E.Leclerc est le premier donateur parmi tous les distributeurs, soutenant les Banques Alimentaires avec un don équivalent d'1M€ de produits alimentaires pour les étudiants.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
