@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump obtient un accord avec le Groenland",
+  "date": "21/09/2026",
+  "img": "archives/2026-09-21/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pourcentage des stations-service françaises sont actuellement en rupture d'au moins un carburant, selon le ministre de l'Économie?",
+      "options": [
+        "A) 7%",
+        "B) 12%",
+        "C) 17%",
+        "D) 25%"
+      ],
+      "correct": 2,
+      "explication": "Le ministre de l'Économie, Roland Lescure, a déclaré sur France Inter que 17 % des stations essence sont actuellement en rupture d’au moins un carburant.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel parti est arrivé en tête des élections régionales ce dimanche dans l'État de Mecklembourg-Poméranie-Occidentale en Allemagne?",
+      "options": [
+        "A) Le Parti social démocrate (SPD)",
+        "B) L'AfD",
+        "C) Le CDU",
+        "D) Les Verts"
+      ],
+      "correct": 1,
+      "explication": "L'AFD, un parti d’extrême droite, est arrivé en tête avec 38 % des voix, devançant le Parti social démocrate qui dirigeait la région.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où Emmanuel Macron a-t-il rencontré Donald Trump ce lundi?",
+      "options": [
+        "A) À Washington D.C.",
+        "B) À Paris",
+        "C) À l'Assemblée générale de l'ONU à New York",
+        "D) Au Groenland"
+      ],
+      "correct": 2,
+      "explication": "Emmanuel Macron a rencontré Donald Trump ce lundi à New York, en marge de l’Assemblée générale de l’ONU, qui s'ouvre le lendemain.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Contre quelle proposition de loi des milliers de personnes ont-elles défilé ce dimanche partout en France?",
+      "options": [
+        "A) La loi sur la réforme des retraites",
+        "B) La loi sur la présomption d'usage légitime des armes par la police",
+        "C) La loi sur le pass vaccinal",
+        "D) La loi sur l'immigration"
+      ],
+      "correct": 1,
+      "explication": "Près de 50 000 personnes ont défilé contre la proposition de loi sur la présomption d’usage légitime des armes par la police, qualifiée de “permis de tuer” par ses opposants.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "De combien le gouvernement français prévoit-il de baisser le budget de l'Agence de la transition écologique (Ademe) en 2027?",
+      "options": [
+        "A) Moins de 10%",
+        "B) Environ 20%",
+        "C) Plus de 30%",
+        "D) La moitié"
+      ],
+      "correct": 2,
+      "explication": "Le gouvernement prévoit de baisser de plus de 30 % le budget de l'Agence de la transition écologique (Ademe) en 2027, soit une coupe de plus de 300 millions d'€.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est l'objectif principal de l'arc de triomphe que Donald Trump souhaite faire construire à Washington D.C.?",
+      "options": [
+        "A) Célébrer les victoires militaires américaines",
+        "B) Devenir un complexe militaire pour stocker snipers et drones",
+        "C) Servir de musée national",
+        "D) Honorer les vétérans de guerre"
+      ],
+      "correct": 1,
+      "explication": "Donald Trump souhaite que l’arc de triomphe de 76 mètres de haut puisse stocker un très grand nombre de snipers et de drones pour “les intérêts de la sécurité nationale”.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de nouvelles personnes se sont inscrites sur la liste des donneurs de moelle osseuse de l'Agence de biomédecine depuis le début de l'année?",
+      "options": [
+        "A) 20 000",
+        "B) 35 000",
+        "C) 51 000",
+        "D) 100 000"
+      ],
+      "correct": 2,
+      "explication": "51 000 nouvelles personnes se sont inscrites depuis le début de l’année sur la liste des donneurs de moelle osseuse de l'Agence de biomédecine.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Outre sa position stratégique pour la sécurité, pourquoi le Groenland intéresse-t-il Donald Trump particulièrement, selon le texte?",
+      "options": [
+        "A) Ses vastes forêts vierges",
+        "B) Ses importantes ressources inexplorées et les nouvelles routes commerciales dues à la fonte des glaces",
+        "C) Sa forte population anglophone",
+        "D) Son potentiel agricole"
+      ],
+      "correct": 1,
+      "explication": "Le Groenland dispose d’importantes ressources qui restent encore à explorer et avec la fonte des glaces, de nouvelles routes commerciales pourraient devenir accessibles en Arctique.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon l'analyse du texte, à quoi ressemble le nouvel accord entre les États-Unis et le Groenland concernant la sécurité?",
+      "options": [
+        "A) Une annexion pure et simple du Groenland",
+        "B) Un transfert de souveraineté partielle",
+        "C) Une extension de l'accord de défense signé en 1951",
+        "D) Un accord commercial uniquement"
+      ],
+      "correct": 2,
+      "explication": "Selon Politico, cet accord est très loin de l’annexion que Donald Trump réclamait initialement et ressemble davantage à une extension de l’accord de défense signé en 1951.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel gigantesque projet de bouclier antimissile de Donald Trump pourrait voir le jour sur le territoire groenlandais selon l'accord?",
+      "options": [
+        "A) L'Iron Dome",
+        "B) Le Star Shield",
+        "C) Le Golden Dome",
+        "D) Le Sky Guardian"
+      ],
+      "correct": 2,
+      "explication": "La présence du “Golden Dome”, un gigantesque projet de bouclier antimissile voulu par Donald Trump pour protéger les États-Unis, a aussi occupé une place importante dans les discussions.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
