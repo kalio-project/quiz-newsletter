@@ -1,0 +1,127 @@
+{
+  "titre": "🚨L'Union européenne est en alerte",
+  "date": "22/09/2026",
+  "img": "archives/2026-09-22/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pourquoi les grandes chaînes américaines ABC, CBS, NBC et Fox News ont-elles cessé de suivre le président Donald Trump ?",
+      "options": [
+        "En signe de protestation contre sa politique économique.",
+        "En soutien à CNN, MS NOW et Politico, accusés de 'fake news' et interdits de Maison Blanche.",
+        "Suite à un désaccord sur la couverture médiatique de l'Assemblée générale de l'ONU.",
+        "Parce qu'il a annoncé ne plus vouloir communiquer avec la presse."
+      ],
+      "correct": 1,
+      "explication": "Les chaînes ont pris cette décision en soutien à d'autres médias que le président accusait de relayer des 'fake news' et avait interdits d'accès à la Maison Blanche.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelles ont été les principales conséquences du passage du typhon Dujuan au Japon ?",
+      "options": [
+        "De fortes inondations, l'annulation de tous les vols internationaux et une coupure d'électricité généralisée.",
+        "Au moins 4 morts, plus de 46 000 foyers privés d'électricité et des glissements de terrain.",
+        "Une alerte tsunami majeure, la fermeture des usines automobiles et l'interruption des transports en commun.",
+        "Des dégâts matériels importants, une évacuation massive des zones côtières et la destruction de plusieurs ponts."
+      ],
+      "correct": 1,
+      "explication": "Le typhon Dujuan a causé au moins 4 morts, privé plus de 46 000 foyers d'électricité et entraîné des glissements de terrain avec 6 disparus.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "De quoi le streameur américain Clavicular est-il accusé ?",
+      "options": [
+        "D'avoir organisé un jeu d'argent illégal en ligne.",
+        "D'avoir incité à la haine et à la discrimination envers les femmes.",
+        "D'avoir drogué et violé une adolescente.",
+        "D'avoir diffusé des informations confidentielles du gouvernement."
+      ],
+      "correct": 2,
+      "explication": "Il est accusé d'avoir drogué une adolescente et d'avoir eu des relations sexuelles avec elle sans son consentement.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Que réclament plus de 20 pays concernant l'Intelligence artificielle ?",
+      "options": [
+        "Une interdiction totale de son utilisation dans le domaine militaire.",
+        "Un financement massif pour le développement de l'IA éthique.",
+        "Un renforcement de la supervision humaine et la création d'une institution internationale dédiée à sa sécurité.",
+        "Une uniformisation des régulations de l'IA à l'échelle mondiale."
+      ],
+      "correct": 2,
+      "explication": "Ils appellent à renforcer la supervision humaine de l’IA et réclament une institution internationale dédiée à sa sécurité.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Qu'est-il prévu pour les aides personnalisées au logement (APL) en France ?",
+      "options": [
+        "Une baisse de 1,15% au 1er octobre, suivie d'une revalorisation en 2027.",
+        "Une augmentation de 2,52€ par mois en moyenne au 1er octobre, mais aucune revalorisation prévue en 2027.",
+        "Une suppression progressive pour les nouveaux bénéficiaires à partir de 2027.",
+        "Une revalorisation annuelle indexée sur l'inflation à partir du 1er octobre."
+      ],
+      "correct": 1,
+      "explication": "Les APL augmenteront de 1,15% (soit 2,52€ de plus par mois) au 1er octobre, mais le gouvernement prévoit de ne pas les revaloriser en 2027.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est l'exploit des streamers Zébro et Léow pour l'association Semeurs de Forêts ?",
+      "options": [
+        "Ils ont organisé une course de vélo caritative, récoltant 8 000 € en 15 heures.",
+        "Ils ont planté 8 000 arbres en une journée, diffusant l'événement en direct sur Twitch.",
+        "Ils ont marché près de 15 heures sans s'arrêter, parcourant 47 km pour récolter 8 000 €.",
+        "Ils ont réalisé un don personnel de 8 000 € pour l'achat de terrains à reboiser."
+      ],
+      "correct": 2,
+      "explication": "Ils ont marché près de 15 heures sans s’arrêter, en direct sur Twitch, parcourant 47 km pour récolter 8 000 €.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le ministre français de l'Intérieur Laurent Nuñez, quelle est la nature de la menace que livre la Russie à l'UE ?",
+      "options": [
+        "Une menace militaire directe et imminente.",
+        "Une guerre économique avec des sanctions commerciales.",
+        "Une 'guerre hybride' impliquant cyberattaques, sabotages et désinformation.",
+        "Une tentative de déstabilisation politique par des ingérences électorales."
+      ],
+      "correct": 2,
+      "explication": "Laurent Nuñez a déclaré que 'la menace de guerre hybride que livre la Russie' est 'réelle et documentée', la décrivant comme des actions menées pour faire pression sans entrer dans une guerre ouverte.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est l'objectif principal de la Russie à travers sa stratégie potentielle de 'guerre hybride' selon les responsables européens ?",
+      "options": [
+        "Provoquer une confrontation militaire directe avec l'OTAN.",
+        "Mettre fin au conflit en Ukraine par des négociations forcées.",
+        "Tester la réaction de l'OTAN, semer l'inquiétude et pousser les gouvernements à limiter leur soutien à l'Ukraine.",
+        "Établir une nouvelle zone d'influence économique en Europe de l'Est."
+      ],
+      "correct": 2,
+      "explication": "Ces actions pourraient chercher à faire pression sur les gouvernements qui soutiennent l’Ukraine, alimenter la crainte d’une escalade pour les pousser à limiter leur soutien, tester la réaction de l’OTAN et semer de l’inquiétude dans les populations.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels ont été les deux sujets principaux abordés lors de la rencontre entre Emmanuel Macron et Donald Trump ?",
+      "options": [
+        "Le commerce international et la crise climatique.",
+        "La situation au Moyen-Orient et celle en Ukraine.",
+        "La coopération spatiale et la régulation des réseaux sociaux.",
+        "Les défis de la cyber-sécurité et le développement de l'Afrique."
+      ],
+      "correct": 1,
+      "explication": "Les deux chefs d’État ont échangé sur la situation au Moyen Orient et celle en Ukraine.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Lors de sa rencontre avec Donald Trump, quelle initiative Emmanuel Macron a-t-il proposée concernant le Moyen-Orient ?",
+      "options": [
+        "L'envoi de troupes de maintien de la paix dans la région.",
+        "Des sanctions économiques plus sévères contre l'Iran.",
+        "Plusieurs initiatives pour limiter la hausse des prix du pétrole, notamment la réouverture du détroit d'Ormuz.",
+        "L'organisation d'une conférence de paix régionale."
+      ],
+      "correct": 2,
+      "explication": "Emmanuel Macron a proposé plusieurs initiatives pour limiter la hausse des prix du pétrole, avec comme objectif principal de rouvrir le détroit d’Ormuz.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
