@@ -1,0 +1,127 @@
+{
+  "titre": "🚨La France risque-t-elle d’être à court d’essence ?",
+  "date": "23/09/2026",
+  "img": "archives/2026-09-23/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel a été le verdict pour les 15 hommes accusés d'avoir aidé les kamikazes lors des attentats de 2019 au Sri Lanka ?",
+      "options": [
+        "Ils ont été acquittés.",
+        "Ils ont été condamnés à la prison à vie.",
+        "Ils ont été condamnés à un total de 220 ans de prison.",
+        "Ils ont été condamnés à des peines de mort."
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne que '15 hommes ont été condamnés à un total de 220 ans de prison pour des attentats perpétrés en 2019 au Sri Lanka'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelles sont les sanctions maximales encourues par les suspects qui ont filmé des femmes à leur insu dans la rue avec des lunettes connectées en France ?",
+      "options": [
+        "Jusqu'à 1 an de prison et 25 000 € d'amende.",
+        "Jusqu'à 2 ans de prison et 45 000 € d'amende.",
+        "Une simple amende de 10 000 €.",
+        "Des travaux d'intérêt général."
+      ],
+      "correct": 1,
+      "explication": "L'article stipule que 'Les suspects risquent jusqu’à 2 ans de prison et 45 000 € d’amende.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon Météo-France, quel pourcentage du territoire français est concerné par une sécheresse des sols jugée historique après un été et un mois de septembre secs ?",
+      "options": [
+        "50 %",
+        "72 %",
+        "84 %",
+        "95 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que '84 % de la France est concernée par une sécheresse qui ne survient en moyenne qu’une fois tous les 10 ans.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle pratique dénoncée par l'ONG World Animal Protection est associée à de grandes marques de mode comme Dior et Chanel ?",
+      "options": [
+        "L'élevage intensif d'autruches pour leur viande.",
+        "Le prélèvement de plumes d'autruches décédées.",
+        "Le plumage d'autruches vivantes sans anesthésie.",
+        "L'utilisation de la peau d'autruche pour les accessoires."
+      ],
+      "correct": 2,
+      "explication": "L'article explique que 'Des autruches sont plumées vivantes pour de grandes marques de mode... sans leur donner de médicament pour soulager la douleur.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est le montant du plan gouvernemental français lancé pour préparer le monde du travail aux changements liés à l'intelligence artificielle ?",
+      "options": [
+        "50 millions d'euros.",
+        "80 millions d'euros.",
+        "100 millions d'euros.",
+        "120 millions d'euros."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme qu' 'Un plan de 80 millions d’€, avec 12 mesures, a été lancé ce mardi par le gouvernement pour préparer le monde du travail aux changements liés à l’IA.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon une étude américaine, quel effet bénéfique potentiel le vaccin BCG, qui protège contre la tuberculose, pourrait-il avoir ?",
+      "options": [
+        "Aider à prévenir le diabète de type 2.",
+        "Renforcer le système immunitaire contre certains cancers.",
+        "Avoir des effets bénéfiques contre la maladie d’Alzheimer.",
+        "Améliorer la qualité du sommeil."
+      ],
+      "correct": 2,
+      "explication": "La section 'Bonne nouvelle' indique : 'Le vaccin BCG, qui protège contre la tuberculose, pourrait aussi avoir des effets bénéfiques contre la maladie d’Alzheimer'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la principale raison de la hausse du prix du baril de Brent mentionnée dans l'article ?",
+      "options": [
+        "Une augmentation de la demande mondiale de pétrole.",
+        "Des tensions géopolitiques au Moyen-Orient et des perturbations des détroits maritimes.",
+        "Une baisse de la production de l'OPEP.",
+        "La dévaluation de l'euro face au dollar."
+      ],
+      "correct": 1,
+      "explication": "L'article précise que 'Cette hausse est principalement liée aux tensions au Moyen-Orient' et cite le blocage du détroit d’Ormuz et la perturbation du détroit de Bab-el-Mandeb.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel était le prix moyen du gazole le litre en France, selon l'article, au moment de sa rédaction ?",
+      "options": [
+        "1,98 €",
+        "2,17 €",
+        "2,41 €",
+        "2,27 €"
+      ],
+      "correct": 2,
+      "explication": "L'article mentionne : 'en France, le gazole s’établissait en moyenne à 2,41 € le litre ce mardi, contre 2,27 € pour le SP98 et 2,17 € pour le SP95, des records.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelles sont les deux principales taxes prélevées par l'État français sur chaque litre de carburant ?",
+      "options": [
+        "La taxe carbone et la taxe sur les produits pétroliers.",
+        "La TVA et la taxe d'accise.",
+        "La taxe sur la consommation et la taxe écologique.",
+        "La taxe régionale et la taxe départementale."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'L’État touche deux grandes taxes sur chaque litre. D’abord la TVA... Il y a aussi la taxe d’accise...'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est l'explication donnée par le gouvernement concernant les difficultés d'approvisionnement de certaines stations-service en France ?",
+      "options": [
+        "Une grève générale des transporteurs de carburant.",
+        "Un problème de stockage généralisé dans les dépôts.",
+        "Les stations qui plafonnent leurs prix attirent plus de clients et écoulent leurs stocks rapidement.",
+        "Une fermeture massive de raffineries sur le territoire français."
+      ],
+      "correct": 2,
+      "explication": "L'article explique : 'Une explication revient pour certaines stations : celles qui plafonnent leurs prix attirent davantage de clients et écoulent leurs stocks plus rapidement. Il ne s’agit donc pas de pénurie générale dans l’immédiat, mais plutôt de difficultés temporaires d’approvisionnement.'",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
