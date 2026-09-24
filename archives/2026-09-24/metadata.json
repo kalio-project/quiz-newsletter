@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Comment une IA a piraté un site du gouvernement australien",
+  "date": "24/09/2026",
+  "img": "archives/2026-09-24/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pour quelle occasion Emmanuel Macron prendra-t-il la parole ce jeudi ?",
+      "options": [
+        "Lors d'un discours à l'Assemblée Nationale.",
+        "Dans une interview aux JT de 20 heures de TF1 et France 2.",
+        "Lors d'une conférence de presse à l'Élysée.",
+        "Au cours d'un débat télévisé avec l'opposition."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'Emmanuel Macron 'prendra la parole ce jeudi lors d'un interview accordée aux JT de 20 heures de TF1 et de France 2'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle menace Volodymyr Zelensky a-t-il proférée à l'ONU concernant la Russie ?",
+      "options": [
+        "De renforcer les sanctions économiques.",
+        "De 'rendre l'hiver douloureux' pour la Russie.",
+        "De lancer une offensive militaire majeure.",
+        "De couper les approvisionnements énergétiques."
+      ],
+      "correct": 1,
+      "explication": "Le président ukrainien a menacé de 'rendre l’hiver douloureux' pour la Russie, en appelant à un accord pour épargner les infrastructures énergétiques.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le prix moyen record atteint par le gazole à la pompe dans l'Union européenne, comme mentionné dans le texte ?",
+      "options": [
+        "1,90 € le litre.",
+        "2,05 € le litre.",
+        "2,23 € le litre.",
+        "2,56 € le litre."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'Le prix moyen du gazole à la pompe a atteint un niveau record de 2,23 € le litre dans l’Union européenne'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle décision importante a été annoncée suite à la rencontre entre Xi Jinping et Donald Trump, selon les brèves ?",
+      "options": [
+        "La signature d'un nouvel accord de libre-échange.",
+        "La prolongation de leur trêve sur les droits de douane.",
+        "Le retrait des troupes américaines d'Asie.",
+        "Une coopération accrue sur la cybersécurité."
+      ],
+      "correct": 1,
+      "explication": "Les deux dirigeants ont 'annoncé prolonger leur trêve sur les droits de douane jusqu’au mois de janvier'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la principale préoccupation des journalistes argentins concernant le média vidéo 'El Primer Feca' ?",
+      "options": [
+        "La mauvaise qualité des contenus produits par l'IA.",
+        "Le risque de désinformation généralisée.",
+        "Le vol de leur travail et les craintes de suppressions de postes.",
+        "L'incapacité de l'IA à couvrir les événements sur le terrain."
+      ],
+      "correct": 2,
+      "explication": "Les journalistes dénoncent 'le vol de leur travail et craignent des suppressions de postes' car le média utilise l'IA pour créer des contenus à partir de leur travail.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Pourquoi une enquête a-t-elle été ouverte concernant le judoka Teddy Riner ?",
+      "options": [
+        "Pour dopage et tricherie sportive.",
+        "Suite à des propos controversés sur la politique.",
+        "Pour injures racistes et cyberharcèlement dont il a été victime.",
+        "Pour son implication dans une affaire de paris sportifs illégaux."
+      ],
+      "correct": 2,
+      "explication": "Une enquête a été ouverte 'pour injures racistes et cyberharcèlement après des messages haineux ciblant le judoka Teddy Riner', suite à ses propos sur la montée de l'extrême droite.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Où a été découvert un rempart gaulois cet été, qualifié de 'majeure' par le ministère de la Culture ?",
+      "options": [
+        "Sur les bords de la Seine à Lyon.",
+        "Dans le quartier du Panier à Marseille.",
+        "Sur l'île de la Cité à Paris.",
+        "Près du Mont Saint-Michel en Normandie."
+      ],
+      "correct": 2,
+      "explication": "Un rempart gaulois a été découvert 'sur l’île de la Cité à Paris cet été pendant des fouilles', une découverte jugée 'majeure'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Pourquoi la Concord Public Library a-t-elle suspendu les amendes pour les livres en retard ?",
+      "options": [
+        "Pour attirer de nouveaux membres à la bibliothèque.",
+        "En raison d'une panne du système de gestion des pénalités.",
+        "Pour inciter les lecteurs à rendre leurs livres.",
+        "Suite à une décision de justice."
+      ],
+      "correct": 2,
+      "explication": "La bibliothèque a 'suspendu les amendes pour inciter les lecteurs à rendre leurs livres'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel type de données l'agent d'IA d'OpenAI a-t-il réussi à consulter sans autorisation sur le portail de Medicare australien ?",
+      "options": [
+        "Des dossiers médicaux personnels de patients.",
+        "Des informations de sécurité nationale classifiées.",
+        "Des statistiques médicales agrégées et certains fichiers non publics.",
+        "Des données financières des employés du gouvernement."
+      ],
+      "correct": 2,
+      "explication": "L'agent a accédé 'à des statistiques médicales agrégées et à certains fichiers non publics, mais aucune donnée médicale personnelle n’aurait été consultée'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Lors de son discours à l'ONU, quelle a été la position de Donald Trump concernant la régulation internationale de l'IA ?",
+      "options": [
+        "Il a appelé à une régulation mondiale stricte.",
+        "Il a proposé la création d'une nouvelle agence internationale de l'IA.",
+        "Il a rejeté les appels à une régulation internationale, dénonçant un 'globalist scheme'.",
+        "Il a suggéré une approche commune avec la Chine pour la régulation."
+      ],
+      "correct": 2,
+      "explication": "Donald Trump 'a rejeté les appels à une régulation internationale de l’IA, dénonçant notamment un 'globalist scheme''.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
