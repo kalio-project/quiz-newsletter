@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le pape est arrivé en France",
+  "date": "25/09/2026",
+  "img": "archives/2026-09-25/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'Office national des forêts (ONF), combien d'hectares ont brûlé en France depuis le début de l'année 2026?",
+      "options": [
+        "Environ 10 000 hectares",
+        "Environ 48 000 hectares",
+        "Environ 98 000 hectares",
+        "Environ 21 000 hectares"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu'environ 98 000 hectares ont brûlé depuis le début de l'année, ce qui est un record depuis 1976.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle est la cause principale de la perturbation de l'accès à Internet dans le nord de l'Éthiopie, selon l'article?",
+      "options": [
+        "Des cyberattaques de grande ampleur",
+        "Des combats ayant repris entre l'armée fédérale et des groupes armés régionaux",
+        "Une panne générale d'électricité affectant les infrastructures de communication",
+        "Des travaux majeurs de modernisation du réseau"
+      ],
+      "correct": 1,
+      "explication": "L'accès à Internet est fortement perturbé 'alors que, depuis mardi, des combats ont repris entre l’armée fédérale et plusieurs groupes armés régionaux'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui sont les 'grands électeurs' qui composent majoritairement le corps électoral pour les élections sénatoriales françaises?",
+      "options": [
+        "Les citoyens français inscrits sur les listes électorales",
+        "Les députés et les conseillers régionaux",
+        "Les conseillers municipaux, à 95%",
+        "Les membres du gouvernement et du Conseil Constitutionnel"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que les grands électeurs sont 'composés à 95 % de conseillers municipaux'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi le roman 'C’était ça ou mourir' de Thélyson Orélien a-t-il été écarté de la sélection du prix Goncourt?",
+      "options": [
+        "Des accusations de plagiat à l'encontre d'un auteur étranger.",
+        "Des propos racistes tenus par l'auteur sur les réseaux sociaux.",
+        "Des accusations d'avoir été généré presque intégralement par IA.",
+        "L'auteur a retiré son livre de la compétition pour des raisons personnelles."
+      ],
+      "correct": 2,
+      "explication": "Le livre est 'accusé d’avoir été généré presque intégralement par IA par le compte 'Balance ton Claude' sur le réseau social X'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon le baromètre Wimoov, quelle proportion des 18-24 ans en France déclare restreindre ses déplacements pour des raisons financières?",
+      "options": [
+        "30 %",
+        "48 %",
+        "62 %",
+        "85 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Parmi les 18-24 ans interrogés, 62 % disent restreindre leurs déplacements pour des raisons financières'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Dans quelle agglomération française les transports en commun deviendront-ils gratuits du 1er octobre au 31 décembre 2026, suite à la hausse des prix du carburant?",
+      "options": [
+        "Dans la Métropole européenne de Lille",
+        "Dans la Communauté d'agglomération de La Porte du Hainaut",
+        "Dans le Valenciennois",
+        "Dans l'ensemble de la région Île-de-France"
+      ],
+      "correct": 2,
+      "explication": "La 'bonne nouvelle' mentionne que 'les transports en commun seront gratuits dans le Valenciennois à partir du 1er octobre'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Qui est le Pape Léon XIV selon le texte, et quelle est sa particularité par rapport aux papes précédents?",
+      "options": [
+        "Il est le premier pape d'origine française, natif du Havre.",
+        "Il est le premier pape originaire des États-Unis.",
+        "Il est le plus jeune pape de l'histoire de l'Église catholique.",
+        "Il est le premier pape à avoir un double statut de chef d'État et de guide spirituel."
+      ],
+      "correct": 1,
+      "explication": "Après la mort du pape François, Robert Francis Prevost a été élu sous le nom de Léon XIV et est 'le premier pape originaire des États-Unis'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la raison officielle avancée par le Vatican pour le refus d'Emmanuel Macron d'accompagner le Pape Léon XIV à Notre-Dame?",
+      "options": [
+        "Un désaccord sur le protocole de sécurité de l'événement.",
+        "Une volonté du Pape de ne pas apparaître en public avec des dirigeants politiques.",
+        "Un programme papal trop chargé ne permettant pas cette étape.",
+        "L'opposition du Vatican à la loi française sur la fin de vie."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'La raison officielle est un programme chargé', même si des raisons politiques sont aussi évoquées.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel événement est prévu à Lourdes lors de la visite du Pape Léon XIV, en lien avec les violences sexuelles au sein de l'Église?",
+      "options": [
+        "Une grande célébration de réconciliation publique.",
+        "Une rencontre privée avec sept victimes de violences sexuelles.",
+        "L'inauguration d'un mémorial dédié aux victimes.",
+        "La présentation d'un nouveau rapport sur les abus sexuels."
+      ],
+      "correct": 1,
+      "explication": "Le Pape 'doit rencontrer en privé sept victimes de violences sexuelles commises au sein de l’Église' à Lourdes.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle tendance est observée concernant le catholicisme en France, malgré son recul général?",
+      "options": [
+        "Une augmentation du nombre de vocations sacerdotales.",
+        "Une hausse significative des baptêmes d'adultes.",
+        "Un regain de la pratique religieuse chez les jeunes.",
+        "Une forte médiatisation des événements catholiques."
+      ],
+      "correct": 1,
+      "explication": "Le texte souligne que 'les baptêmes d’adultes sont en hausse : près de 13 000 sont prévus cette année, contre environ 4 000 par an entre 2015 et 2022'.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
