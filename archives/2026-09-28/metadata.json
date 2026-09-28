@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Nouvelle enquête sur Jordan Bardella",
+  "date": "28/09/2026",
+  "img": "archives/2026-09-28/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel média a publié une longue enquête accusant Jordan Bardella d'être à l'origine d'écrits antisémites en 2013 ?",
+      "options": [
+        "Le Monde",
+        "Libération",
+        "Mediapart",
+        "Le Figaro"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que les accusations proviennent d'une 'longue enquête publiée ce lundi par Mediapart'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Où les pompiers français ont-ils installé un campement pour dénoncer le manque de moyens depuis dimanche ?",
+      "options": [
+        "Au pied de la Tour Montparnasse",
+        "Devant l'Assemblée Nationale",
+        "Au pied de la Tour Eiffel",
+        "Place de la République"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que 'des pompiers ont installé un campement au pied de la tour Eiffel, à Paris'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel pays d'Asie du Sud-Est est actuellement touché par de graves inondations, ayant causé au moins 8 morts et l'évacuation de milliers de personnes à Bangkok ?",
+      "options": [
+        "Vietnam",
+        "Cambodge",
+        "Thaïlande",
+        "Philippines"
+      ],
+      "correct": 2,
+      "explication": "Le texte rapporte que 'Au moins 8 personnes sont mortes en Thaïlande, alors que le pays est touché par de graves inondations'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes ont été tuées lors de deux fusillades ce week-end dans des bars près de Johannesburg et du Cap en Afrique du Sud ?",
+      "options": [
+        "Au moins 15",
+        "Au moins 20",
+        "Au moins 28",
+        "Au moins 35"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique qu''Au moins 28 personnes ont été tuées lors de deux fusillades ce week-end' en Afrique du Sud.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle pratique, qui consiste à administrer une substance psychoactive à l'insu de quelqu'un, fait l'objet d'une campagne nationale de sensibilisation lancée par Gisèle Pelicot et sa fille ?",
+      "options": [
+        "L'hypnose forcée",
+        "La soumission chimique",
+        "Le racket organisé",
+        "L'escroquerie en ligne"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que 'Gisèle Pelicot et sa fille Caroline Darian lancent une campagne nationale de sensibilisation à la soumission chimique'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "À quel classement mondial le tennisman français Arthur Fils est-il entré pour la première fois à l'âge de 22 ans ?",
+      "options": [
+        "Top 5",
+        "Top 10",
+        "Top 20",
+        "Top 50"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne qu''À 22 ans, le tennisman Arthur Fils entre pour la 1re fois dans le top 10 mondial, à la 9e place du classement ATP'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Selon un classement annuel du magazine américain Newsweek, quel hôpital universitaire français figure parmi les meilleurs du monde ?",
+      "options": [
+        "CHU de Lyon",
+        "CHU de Marseille",
+        "CHU de Strasbourg",
+        "CHU de Lille"
+      ],
+      "correct": 3,
+      "explication": "Le texte affirme que 'Le Centre Hospitalier Universitaire de Lille figure parmi les meilleurs hôpitaux du monde, selon un classement du magazine américain Newsweek'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la stratégie adoptée par le Rassemblement national depuis l'arrivée de Marine Le Pen à sa tête, visant à se débarrasser de son image radicale ?",
+      "options": [
+        "La 'normalisation'",
+        "La 'dédiabolisation'",
+        "L''ouverture'",
+        "La 'refondation'"
+      ],
+      "correct": 1,
+      "explication": "Le texte explique que 'Depuis l’arrivée de Marine Le Pen à sa tête en 2011, le parti cherche à se “dédiaboliser”'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon l'enquête de Mediapart, quel événement majeur Jordan Bardella aurait-il mis en doute en 2013, incitant ses proches à regarder une vidéo suggérant l'implication du Mossad ?",
+      "options": [
+        "Les attentats du 13 novembre 2015 à Paris",
+        "Les attentats de Madrid du 11 mars 2004",
+        "Les attentats du 11 Septembre 2001 à New York",
+        "L'assassinat de JFK"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Jordan Bardella aurait aussi relayé des interrogations sur les attentats du 11 Septembre 2001 à New York'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel youtubeur français a été placé en garde à vue et a reconnu avoir commis des violences physiques et psychologiques suite à une plainte pour violences conjugales ?",
+      "options": [
+        "Cyprien",
+        "Norman Thavaud",
+        "Squeezie",
+        "Greg Guillotin"
+      ],
+      "correct": 3,
+      "explication": "Le texte rapporte que 'Greg Guillotin a été placé en garde à vue ce lundi après une plainte pour violences conjugales'.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
