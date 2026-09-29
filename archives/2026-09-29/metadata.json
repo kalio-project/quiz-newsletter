@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Menace russe : qu’en est-il en France ?",
+  "date": "29/09/2026",
+  "img": "archives/2026-09-29/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'article, qu'a déclaré Emmanuel Macron concernant les menaces russes potentielles envers la France ?",
+      "options": [
+        "La Russie a déjà mené des sabotages majeurs sur le territoire français.",
+        "Des points stratégiques en France pourraient être visés par des menaces russes.",
+        "La France n'est pas concernée par la guerre hybride russe, contrairement à d'autres pays européens.",
+        "La CIA a confirmé des lancements de drones russes depuis la Méditerranée vers la France."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'Emmanuel Macron a alerté sur le fait que des points stratégiques pourraient aussi être visés en France et parle d'une situation 'inquiétante, qui monte en tension'. Il a également démenti avoir reçu l'information de la CIA concernant des lancements de drones.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel événement naturel majeur a récemment frappé la côte pacifique du Mexique, causant des inondations et des coupures d'électricité ?",
+      "options": [
+        "Un tremblement de terre dévastateur.",
+        "L'éruption du volcan Popocatépetl.",
+        "L'ouragan Polo.",
+        "Des feux de forêt de grande ampleur."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : '🇲🇽 MEXIQUE : L’ouragan Polo a frappé ce mardi la côte pacifique du Mexique avec des vents allant jusqu’à 175 km/h. ... l’électricité a été coupée et la mer a détruit une partie d’une digue, provoquant des inondations.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est l'une des principales revendications des syndicats lors de la mobilisation de la fonction publique concernant les salaires ?",
+      "options": [
+        "La suppression du statut de fonctionnaire.",
+        "Le dégel du point d'indice pour les salaires.",
+        "Une diminution des cotisations sociales.",
+        "La privatisation de certains services publics."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que les syndicats veulent notamment 'obtenir le dégel du point d’indice, une valeur qui sert de base au calcul des salaires des fonctionnaires.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon le Planning familial, quelle est la situation concernant l'accès à l'avortement en France ?",
+      "options": [
+        "L'accès est universel et sans aucune difficulté partout en France.",
+        "L'accès est inégal, avec des refus d'accompagnement et des pressions subies par les femmes.",
+        "Les difficultés d'accès sont uniquement concentrées dans les grandes villes.",
+        "La loi française garantit un accès égal et sans jugement pour toutes, sans exception."
+      ],
+      "correct": 1,
+      "explication": "Le texte dit : 'L’accès à l’avortement reste inégal en France, malgré son inscription dans la Constitution, selon le Planning familial. 1 femme sur 2 affirme qu’un professionnel a refusé de l’accompagner, et 2 sur 3 disent avoir ressenti une pression ou un jugement pendant leur avortement.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel incendie, récemment déclaré officiellement éteint, est décrit comme le plus vaste en superficie en France depuis 1949 ?",
+      "options": [
+        "L'incendie de Landiras.",
+        "L'incendie du Var en 2021.",
+        "Le mégafeu de Saumos.",
+        "L'incendie de la forêt des Landes."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : '🔥 INCENDIE : Le mégafeu de Saumos, qui a brûlé 42 000 hectares en Gironde cet été, est officiellement éteint, a annoncé la préfecture. Il s’agit de l’incendie le plus vaste en superficie en France depuis 1949.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Selon le Centre international de recherche sur le cancer, quelle proportion des nouveaux cancers diagnostiqués en 2024 est liée à une infection souvent évitable ?",
+      "options": [
+        "Environ 1 nouveau cancer sur 2.",
+        "Environ 1 nouveau cancer sur 4.",
+        "Environ 1 nouveau cancer sur 8.",
+        "Moins de 1 nouveau cancer sur 100."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : '🩺 SANTÉ : Environ 1 nouveau cancer sur 8 dans le monde, soit 2,3 millions de cas diagnostiqués en 2024, est lié à une infection souvent évitable...'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel type d'attaque la Russie a-t-elle mené contre la France, selon le ministre de l'Intérieur, dans le cadre de la guerre hybride ?",
+      "options": [
+        "Des attaques militaires directes avec des troupes au sol.",
+        "Des cyberattaques visant des données gouvernementales.",
+        "Des sabotages majeurs d'infrastructures physiques.",
+        "Des survol de drones russes fréquents sur le territoire."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'En France, selon le ministre de l’Intérieur Laurent Nuñez, aucun survol de drones ni 'sabotage majeur' n’a été constaté, mais le pays a bien été visé par des cyberattaques.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Comment est définie la 'guerre hybride' menée par la Russie contre les pays européens, selon l'article ?",
+      "options": [
+        "Une déclaration de guerre ouverte avec des attaques militaires directes et constantes.",
+        "Une méthode de pression combinant cyberattaques, sabotages, propagande ou ingérences électorales.",
+        "Uniquement des exercices militaires à grande échelle aux frontières des pays membres de l'OTAN.",
+        "Une compétition économique agressive sans aucune autre forme d'agression."
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : 'Il s’agit d’une méthode pour faire pression sur un pays sans lui déclarer ouvertement la guerre. Elle mélange plusieurs moyens : cyberattaques, sabotages, propagande ou encore ingérences électorales visant à déstabiliser les pays européens.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle mesure a demandée Emmanuel Macron au gouvernement pour protéger les infrastructures stratégiques françaises face aux menaces ?",
+      "options": [
+        "L'envoi de troupes françaises supplémentaires aux frontières de l'Ukraine.",
+        "La rupture complète des relations diplomatiques avec la Russie.",
+        "L'élaboration d'un plan pour mieux protéger contre les drones et cyberattaques.",
+        "La construction de nouveaux abris antiatomiques à l'échelle nationale."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '🇫🇷 En France, Emmanuel Macron a demandé au gouvernement d’élaborer un plan pour mieux protéger les infrastructures stratégiques contre les drones et les cyberattaques.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est l'objectif principal du nouveau service public 'Mon Passeport Compétences' lancé par la Caisse des Dépôts ?",
+      "options": [
+        "De fournir un soutien financier direct aux demandeurs d'emploi.",
+        "De certifier uniquement les diplômes universitaires étrangers.",
+        "De permettre la création d'un CV certifié pour valoriser le parcours auprès des recruteurs.",
+        "De financer des formations professionnelles pour les chômeurs de longue durée."
+      ],
+      "correct": 2,
+      "explication": "L'encart publicitaire mentionne : 'En quelques clics, vous pouvez créer un CV certifié pour valoriser plus facilement votre parcours auprès des recruteurs.'",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
