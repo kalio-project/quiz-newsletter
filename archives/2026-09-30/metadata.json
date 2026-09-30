@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Ce qui change en octobre",
+  "date": "30/09/2026",
+  "img": "archives/2026-09-30/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'annonce de Fabrice Arfi de Mediapart, quel sujet sera au centre des prochaines révélations concernant Jordan Bardella ?",
+      "options": [
+        "Des accusations de détournement de fonds publics.",
+        "Des propos antisémites qui lui sont attribués en 2013.",
+        "Des liens avec des puissances étrangères.",
+        "Des irrégularités dans le financement de campagnes électorales."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"De nouvelles révélations concernant des propos antisémites attribués à Jordan Bardella en 2013 seront prochainement publiées\" par Mediapart.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle personnalité a été nommée Première ministre du Maroc, devenant ainsi la première femme à occuper ce poste ?",
+      "options": [
+        "Nadia Fettah Alaoui",
+        "Fatima Ezzahra El Mansouri",
+        "Miriem Bensalah Chaqroun",
+        "Salma Hayek"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que \"La maire de Marrakech, Fatima Ezzahra El Mansouri, est devenue la première femme à être nommée Première ministre du Maroc.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'observatoire européen Copernicus, quel indicateur du réchauffement climatique a franchi un record pour les océans en septembre ?",
+      "options": [
+        "Le niveau de salinité, qui a baissé de manière drastique.",
+        "La température moyenne des océans, qui a dépassé 21 °C.",
+        "L'acidité des eaux de surface, qui a atteint un seuil critique.",
+        "La vitesse de formation des ouragans, qui a fortement ralenti."
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne que \"Pour la première fois, la température moyenne des océans a dépassé 21 °C en septembre.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelles sont les conditions principales pour bénéficier du remboursement des protections menstruelles à partir du 1er octobre ?",
+      "options": [
+        "Avoir moins de 26 ans ou bénéficier de la CSS, et l'achat est limité à 2 protections par an en pharmacie.",
+        "Être une femme de tout âge, sans condition de revenus, et acheter en ligne.",
+        "Avoir plus de 26 ans, avec un remboursement intégral en supermarché.",
+        "Le remboursement est universel et sans limite de quantité ni de lieu d'achat."
+      ],
+      "correct": 0,
+      "explication": "Le texte stipule que \"Dès le 1er octobre, certaines cups et culottes menstruelles seront remboursées jusqu’à 65 % par l’Assurance maladie pour les moins de 26 ans. Si vous êtes plus âgée mais bénéficiaire de la complémentaire santé solidaire, vous pourrez aussi en profiter. [...] limitée à 2 protections par an.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel changement majeur concernant les bornes de téléconsultation est prévu pour le 1er octobre ?",
+      "options": [
+        "Elles deviendront obligatoires dans toutes les pharmacies.",
+        "Les bornes permettant de payer pour un accès plus rapide seront supprimées.",
+        "Leur utilisation sera entièrement gratuite et sans rendez-vous.",
+        "Elles ne seront plus accessibles qu'aux personnes âgées de plus de 65 ans."
+      ],
+      "correct": 1,
+      "explication": "L'article indique que \"Ce système [les bornes de téléconsultation qui permettaient de payer jusqu’à 20 € pour passer plus rapidement] sera supprimé à partir du 1er octobre.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est l'ampleur de la revalorisation des APL prévue pour le 1er octobre ?",
+      "options": [
+        "Une baisse de 1,15 %.",
+        "Une revalorisation de 1,15 %, soit environ 2,50 € de plus par mois.",
+        "Une revalorisation de 5 %, sans impact sur le montant mensuel.",
+        "Une revalorisation de 2,50 % par trimestre."
+      ],
+      "correct": 1,
+      "explication": "Le texte annonce que \"les APL vont être revalorisées de 1,15 % au 1er octobre, soit environ 2,50 € de plus par mois.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Comment évoluent les prix repères du gaz pour le mois d'octobre ?",
+      "options": [
+        "Ils diminuent de 6,3 %.",
+        "Ils augmentent de 6,3 % par rapport à septembre.",
+        "Ils restent stables par rapport à septembre.",
+        "Ils augmentent de 10 % en raison de la taxe carbone."
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne que \"les prix repères du gaz vont augmenter de 6,3 % en octobre par rapport à septembre.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle nation a annoncé le retrait de ses derniers soldats de la coalition internationale antidjihadiste d'Irak ce mercredi ?",
+      "options": [
+        "La France",
+        "Les États-Unis",
+        "Le Royaume-Uni",
+        "L'Allemagne"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"Les derniers soldats américains de la coalition internationale antidjihadiste ont quitté l’Irak, ont annoncé les États-Unis ce mercredi.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quand aura lieu le passage à l'heure d'hiver en France ?",
+      "options": [
+        "Dans la nuit du 31 octobre au 1er novembre.",
+        "Dans la nuit du samedi 24 au dimanche 25 octobre.",
+        "Le 1er décembre à minuit.",
+        "Il n'y aura pas de changement d'heure cette année."
+      ],
+      "correct": 1,
+      "explication": "L'article précise que \"On passera également à l’heure d’hiver dans la nuit du samedi 24 au dimanche 25 octobre.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "À combien s'élèvera le nouveau plafond annuel des franchises médicales à partir du 1er octobre ?",
+      "options": [
+        "100 €",
+        "140 €",
+        "120 €",
+        "200 €"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"le plafond des franchises médicales va passer de 100 à 140 € par an.\"",
+      "theme": "SANTÉ"
+    }
+  ]
+}
