@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Ce qu’il faut savoir sur la mobilisation des lycéens",
+  "date": "01/10/2026",
+  "img": "archives/2026-10-01/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon Mediapart, de quoi Jordan Bardella est-il accusé suite à la publication de messages authentifiés par Facebook et un huissier ?",
+      "options": [
+        "Détournement de fonds publics.",
+        "Messages antisémites.",
+        "Fraude fiscale.",
+        "Propos diffamatoires envers des élus."
+      ],
+      "correct": 1,
+      "explication": "Mediapart a dévoilé des preuves de messages antisémites attribués à Jordan Bardella.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pourquoi Garry Kasparov, l'ancien champion du monde d'échecs et opposant à Vladimir Poutine, affirme-t-il que sa vie est 'en danger' ?",
+      "options": [
+        "Il a été menacé par des fans d'échecs mécontents.",
+        "Il a été averti par les services de sécurité lituaniens et américains.",
+        "Il est en mauvaise santé et craint pour sa vie.",
+        "Il est visé par des sanctions économiques."
+      ],
+      "correct": 1,
+      "explication": "Garry Kasparov a été averti cet été par les services de sécurité lituaniens et américains d'un danger pesant sur sa vie.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel événement inattendu s'est produit lors de la tentative d'exécution de Christa Pike, condamnée à mort dans le Tennessee ?",
+      "options": [
+        "Elle a réussi à s'échapper.",
+        "L'injection n'a pas mis fin à ses jours et elle a survécu.",
+        "Son exécution a été annulée à la dernière minute.",
+        "Elle a fait appel et a obtenu un nouveau procès."
+      ],
+      "correct": 1,
+      "explication": "Christa Pike a survécu à l'injection qui devait mettre fin à ses jours, ce qui a conduit le gouverneur à suspendre les exécutions et ordonner une enquête.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel exploit notable l'astronaute française Sophie Adenot a-t-elle réalisé pendant son séjour dans la Station spatiale internationale ?",
+      "options": [
+        "Elle a commandé la Station spatiale internationale.",
+        "Elle a effectué la plus longue mission spatiale pour une Française.",
+        "Elle a réalisé 3 sorties en scaphandre à l'extérieur de la station, une première pour une Française.",
+        "Elle a découvert une nouvelle exoplanète."
+      ],
+      "correct": 2,
+      "explication": "Sophie Adenot a réalisé 3 sorties en scaphandre à l'extérieur de la station, une première pour une Française.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Pourquoi 160 personnalités, dont Agnès Jaoui et Gaël Faye, ont-elles publié une tribune dans le Nouvel Obs ?",
+      "options": [
+        "Pour promouvoir un nouveau projet artistique commun.",
+        "Pour soutenir les prises de position de Kylian Mbappé, Teddy Riner et Paul Mirabel contre l'extrême droite.",
+        "Pour dénoncer la privatisation des services publics.",
+        "Pour appeler à une meilleure reconnaissance du sport français."
+      ],
+      "correct": 1,
+      "explication": "Elles ont publié une tribune en soutien à Kylian Mbappé, Teddy Riner et Paul Mirabel, dénonçant les attaques visant leurs prises de position contre l’extrême droite.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Combien de candidats se sont inscrits au tirage au sort pour pouvoir participer au marathon de Paris 2027 ?",
+      "options": [
+        "110 000",
+        "206 000",
+        "166 000",
+        "300 000"
+      ],
+      "correct": 2,
+      "explication": "166 000 candidats se sont inscrits au tirage au sort organisé pour pouvoir participer au marathon de Paris 2027.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Où a été découverte une nouvelle espèce de manchot, la première en plus d'un siècle ?",
+      "options": [
+        "En Antarctique.",
+        "Sur les îles Kerguelen.",
+        "Au large des côtes chiliennes.",
+        "Près du pôle Nord."
+      ],
+      "correct": 1,
+      "explication": "Une espèce de manchot inconnue jusqu’ici a été découverte sur les îles Kerguelen.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Parmi les revendications des lycéens mobilisés, laquelle n'est PAS mentionnée dans le texte ?",
+      "options": [
+        "Davantage de moyens et des classes moins chargées.",
+        "Un meilleur remplacement des professeurs.",
+        "La suppression des examens du baccalauréat.",
+        "Le stress lié à Parcoursup et l'état délabré des bâtiments."
+      ],
+      "correct": 2,
+      "explication": "Les revendications mentionnées sont : davantage de moyens, des classes moins chargées, un meilleur remplacement des professeurs, des bâtiments parfois délabrés et le stress lié à Parcoursup. La suppression du baccalauréat n'est pas citée.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel parti politique est accusé par le gouvernement, la droite et l'extrême droite d'être à l'origine du mouvement des lycéens et des violences ?",
+      "options": [
+        "Le Rassemblement National.",
+        "Les Républicains.",
+        "La France insoumise.",
+        "Le Parti Socialiste."
+      ],
+      "correct": 2,
+      "explication": "Le gouvernement, la droite et l’extrême droite accusent notamment La France insoumise d’être à l’origine du mouvement et des violences.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est l'objectif principal de 'Mon Passeport Compétences', le nouveau service public géré par la Caisse des Dépôts ?",
+      "options": [
+        "Faciliter l'accès aux aides sociales.",
+        "Permettre la création d'un CV certifié pour valoriser le parcours professionnel.",
+        "Proposer des formations professionnelles gratuites.",
+        "Mettre en relation candidats et employeurs directement."
+      ],
+      "correct": 1,
+      "explication": "Mon Passeport Compétences est un service public qui rassemble diplômes, formations, expériences professionnelles et engagements personnels pour créer un CV certifié et valoriser son parcours.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
