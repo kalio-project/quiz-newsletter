@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le détroit d’Ormuz vient-il de rouvrir ?",
+  "date": "02/10/2026",
+  "img": "archives/2026-10-02/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel sénateur a été réélu pour la sixième fois à la présidence du Sénat français, poste qu'il occupera jusqu'en 2029 ?",
+      "options": [
+        "Emmanuel Macron",
+        "Gérard Larcher",
+        "Jean Castex",
+        "François Bayrou"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que 'Le sénateur LR Gérard Larcher a été largement réélu à la présidence du Sénat ce jeudi... Il restera donc en poste jusqu’en 2029.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon le texte, qu'est-ce que la ville d'Heidenau, en Allemagne, a interdit un mois après la victoire d'un parti d'extrême droite aux élections régionales ?",
+      "options": [
+        "La construction de nouvelles mosquées",
+        "Les manifestations publiques",
+        "L'installation de pavés dédiés aux victimes du nazisme",
+        "L'usage de symboles nationaux"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'la ville d’Heidenau, dans l’ouest du pays, a interdit l’installation de pavés dédiés aux victimes du nazisme.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "D'après l'observatoire européen Copernicus, quelle proportion du territoire de l'Europe de l'Ouest a connu une température ressentie supérieure à 38 °C durant l'été 2026 ?",
+      "options": [
+        "25 %",
+        "38 %",
+        "52 %",
+        "75 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'L’été 2026 a été le plus chaud jamais enregistré en Europe de l’Ouest, avec une température ressentie supérieure à 38 °C sur 52 % du territoire'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pourquoi le basketteur Victor Wembanyama a-t-il déclaré qu'il ne ferait jamais de partenariat avec des sites de paris sportifs ?",
+      "options": [
+        "Parce qu'il est déjà sous contrat avec une autre marque",
+        "Il pense que cela a un impact négatif",
+        "Il est opposé à la promotion du sport en général",
+        "La NBA lui a interdit"
+      ],
+      "correct": 1,
+      "explication": "Le texte cite Wembanyama : 'Il trouve “très triste de voir certains joueurs en faire la promotion” et précise vouloir “promouvoir des choses qui ont un impact positif”'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Malgré une augmentation partielle du flux de pétrole dans le détroit d'Ormuz, pourquoi les prix mondiaux ne baissent-ils pas ?",
+      "options": [
+        "Les États-Unis ont augmenté leur propre production",
+        "La navigation n'est pas officiellement rétablie et les armateurs restent prudents",
+        "La demande en pétrole a drastiquement chuté",
+        "L'Iran a imposé de nouvelles taxes sur les exportations"
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : 'Même si du pétrole circule à nouveau, la navigation n’est pas officiellement rétablie et les deux pays restent en guerre. Les négociations peinent à avancer et les ports iraniens sont toujours sous blocus américain. Résultat : les armateurs restent prudents, les assurances maritimes coûtent très cher et les marchés continuent de craindre une nouvelle escalade.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Combien de parcs aquatiques couverts, basés sur des marques de jouets comme Barbie ou Hot Wheels, le géant américain Mattel a-t-il annoncé ouvrir aux États-Unis ?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "10"
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme : 'Mattel, le géant américain des jouets, a annoncé l'ouverture de cinq parcs aquatiques couverts aux États-Unis.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la principale raison du blocage du détroit d'Ormuz mentionnée au début de la section 'Décryptage' ?",
+      "options": [
+        "Des exercices militaires internationaux",
+        "Des problèmes techniques sur les navires",
+        "Le début de la guerre entre les États-Unis et l'Iran",
+        "Une catastrophe naturelle"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Depuis février et le début de la guerre entre les États-Unis et l’Iran, l’Iran bloque le détroit d’Ormuz'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Trenitalia a annoncé la mise en vente de billets à prix réduits pour quelles dates de voyage ?",
+      "options": [
+        "Jusqu'à la fin de l'année 2025",
+        "Entre le 2 novembre et le 12 décembre 2026",
+        "Pour les six prochains mois uniquement",
+        "Tout au long de l'année 2027"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Jusqu’au 6 octobre, il sera possible d’acheter des billets pour voyager entre le 2 novembre et le 12 décembre 2026.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est le temps moyen qu'un recruteur prend pour lire un CV, selon la publicité de la Caisse des Dépôts ?",
+      "options": [
+        "Moins de 10 secondes",
+        "Environ 40 secondes",
+        "Plus de 2 minutes",
+        "Environ 1 minute et 30 secondes"
+      ],
+      "correct": 1,
+      "explication": "La publicité mentionne : 'Lors d’une candidature, un recruteur prend environ 40 secondes en moyenne pour lire un CV.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est le nom de la créatrice de contenu running qui a parcouru 920 km pour assister à un concert de Céline Dion ?",
+      "options": [
+        "Clara Dupont",
+        "Stéphanie Durant",
+        "Caroline Branaa",
+        "Valérie Lemercier"
+      ],
+      "correct": 2,
+      "explication": "La section 'Bonne nouvelle' indique : 'la créatrice de contenu running Caroline Branaa est arrivée à Neuilly, près de Paris, pour voir Céline Dion sur scène.'",
+      "theme": "CULTURE"
+    }
+  ]
+}
