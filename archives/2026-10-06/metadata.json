@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Les blocus des lycées et des facs s’intensifient",
+  "date": "06/10/2026",
+  "img": "archives/2026-10-06/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle est l'une des principales revendications des lycéens et étudiants mobilisés en France ?",
+      "options": [
+        "La gratuité des transports en commun.",
+        "Plus de moyens pour l'Éducation nationale et la rénovation des établissements.",
+        "La suppression du baccalauréat.",
+        "L'augmentation du nombre de jours de vacances scolaires."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que les lycéens réclament 'plus de moyens pour l’Éducation nationale, mais aussi la rénovation des établissements, l’embauche de personnels éducatifs, de santé et d’accompagnement, ou encore une réforme de Parcoursup et des rythmes scolaires.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Dans quel contexte plus large s'inscrit le mouvement de mobilisation des lycéens et étudiants, selon l'analyse du texte ?",
+      "options": [
+        "Une période de forte croissance économique et de stabilité sociale.",
+        "Un contexte de tensions sociales liées à l'éducation, la crise environnementale et la défiance envers la politique.",
+        "Un mouvement isolé sans lien avec d'autres problématiques sociales.",
+        "Une campagne électorale majeure mobilisant la jeunesse."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Le mouvement s’inscrit en effet dans un contexte plus large de tensions sociales, liées notamment à l’éducation, à la crise environnementale, à la situation économique et à une défiance envers la politique.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quels pays ont annoncé l'envoi de forces militaires en Arabie saoudite, suite aux affrontements entre les rebelles houthis et la coalition saoudienne ?",
+      "options": [
+        "Les États-Unis et le Royaume-Uni.",
+        "La Turquie et le Pakistan.",
+        "L'Égypte et le Soudan.",
+        "La France et l'Allemagne."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'La Turquie et le Pakistan vont envoyer des forces militaires en Arabie saoudite.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel parti d'extrême droite allemand va présider un parlement régional pour la première fois depuis 1945 ?",
+      "options": [
+        "Le Parti social-démocrate (SPD).",
+        "L'Alternative pour l'Allemagne (AfD).",
+        "L'Union chrétienne-démocrate (CDU).",
+        "Le Parti libéral-démocrate (FDP)."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'L’AfD, parti d’extrême droite allemand, va présider un parlement régional, une première depuis 1945.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle spécificité revêtirait l'exécution autorisée par Donald Trump pour l'auteur d'une tuerie en 2009 ?",
+      "options": [
+        "Il s'agirait de la première exécution d'un civil par l'armée américaine.",
+        "Elle serait la première exécution par peloton d'exécution aux États-Unis depuis 1976.",
+        "Ce serait la première exécution par l'armée américaine depuis 1961.",
+        "Elle impliquerait l'utilisation d'une nouvelle méthode d'exécution."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Son exécution serait la 1re par l’armée américaine depuis 1961.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Contre quelle plateforme la ministre du Numérique a-t-elle saisi la justice pour l'accès à des milliards de données personnelles ?",
+      "options": [
+        "DataLeaks.",
+        "Brixhub.",
+        "InfoSecure.",
+        "PrivateShare."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'La ministre du Numérique a saisi la justice contre Brixhub, une plateforme donnant accès à des milliards de données personnelles issues de fuites en France, en Suisse et en Belgique.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel ouvrage, présenté comme le plus cher au monde et illustré par Salvador Dalí, a été dérobé en Auvergne ?",
+      "options": [
+        "\"La Divine Comédie\".",
+        "\"L'Apocalypse\".",
+        "\"Les Fleurs du Mal\".",
+        "\"Don Quichotte\"."
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare : '\"L'Apocalypse\", un livre présenté comme le plus cher au monde, a été dérobé.' et 'Illustré par des grands artistes et écrivains de l’époque comme Salvador Dalí'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Pour quelle découverte majeure sur le cerveau Karl Deisseroth, Peter Hegemann et Georg Nagel ont-ils reçu le prix Nobel de médecine ?",
+      "options": [
+        "La découverte d'un nouveau neurotransmetteur.",
+        "Le développement d'un vaccin contre la maladie d'Alzheimer.",
+        "Le développement d'une nouvelle technique d'imagerie cérébrale.",
+        "Leurs travaux ont permis de démontrer 'comment les cellules nerveuses façonnent les souvenirs, les émotions et les comportements'."
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'Leurs travaux ont permis de démontrer “comment les cellules nerveuses façonnent les souvenirs, les émotions et les comportements dans le cerveau vivant”'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qu'est-ce qui a valu le prix Nobel de physique à Francis Halzen ?",
+      "options": [
+        "La découverte d'une nouvelle étoile.",
+        "Le développement d'un télescope spatial révolutionnaire.",
+        "La détection de particules venues de l'espace grâce à un observatoire au pôle Sud.",
+        "L'élaboration d'une nouvelle théorie sur la matière noire."
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Francis Halzen, un chercheur belgo-états-unien, qui a reçu le prix Nobel de physique pour avoir permis de détecter des particules venues de l'espace grâce à un immense observatoire installé dans la glace du pôle Sud.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est la caractéristique principale de la peste, selon l'OMS, évoquée à propos du cas russe ?",
+      "options": [
+        "C'est une maladie rare mais bénigne.",
+        "Elle se transmet uniquement par les animaux domestiques.",
+        "C'est une maladie très contagieuse, qui peut être mortelle si elle n’est pas traitée rapidement.",
+        "Elle est éradiquée dans la plupart des pays développés."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'La peste est une maladie très contagieuse, qui peut être mortelle si elle n’est pas traitée rapidement, selon l’OM.'",
+      "theme": "SANTÉ"
+    }
+  ]
+}
