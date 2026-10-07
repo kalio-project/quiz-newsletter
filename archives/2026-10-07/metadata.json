@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Soupçon de peste en Russie : l’OMS veut en savoir plus",
+  "date": "07/10/2026",
+  "img": "archives/2026-10-07/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pour quelle raison l'eurodéputée LFI Rima Hassan est-elle accusée d'avoir renversé des drapeaux lors d'une exposition au Parlement européen ?",
+      "options": [
+        "Elle protestait contre les politiques environnementales de l'UE.",
+        "Elle dénonçait \"le génocide toujours en cours mené par le gouvernement israélien\" en retirant le drapeau israélien.",
+        "Elle exprimait son désaccord avec la politique étrangère de l'Europe.",
+        "Elle a voulu accrocher d'autres drapeaux à la place."
+      ],
+      "correct": 1,
+      "explication": "Rima Hassan a expliqué avoir retiré le drapeau israélien pour dénoncer \"le génocide toujours en cours mené par le gouvernement israélien\". Elle a précisé que le drapeau européen serait tombé par accident.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel incident est survenu à Jaafar Ashtiyeh, photojournaliste de l’AFP, en Cisjordanie ?",
+      "options": [
+        "Il a été arrêté par les forces de sécurité israéliennes.",
+        "Il a été blessé par des colons israéliens alors qu’il était en reportage.",
+        "Son matériel photo a été confisqué par des habitants palestiniens.",
+        "Il a été pris au piège dans un échange de tirs entre l'armée et des militants."
+      ],
+      "correct": 1,
+      "explication": "Jaafar Ashtiyeh a été blessé ce mardi par des colons israéliens en Cisjordanie, qui l'ont frappé et ont tiré des coups de feu dans sa direction alors qu’il était en reportage.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la situation actuelle de Christa Pike, une femme condamnée à mort aux États-Unis ?",
+      "options": [
+        "Elle a été exécutée avec succès le 30 septembre dernier.",
+        "Son exécution a été reportée indéfiniment en raison d'un appel.",
+        "Elle a survécu à son exécution programmée car l'injection n'a pas fonctionné.",
+        "Elle a été graciée par le gouverneur de l'État."
+      ],
+      "correct": 2,
+      "explication": "Christa Pike a survécu à son exécution programmée le 30 septembre aux États-Unis, car l’injection du produit censé lui donner la mort n’a pas fonctionné. Ses avocats demandent que sa peine soit transformée en peine de prison à vie.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel est le nom du nouvel empire du cinéma et de la télévision créé suite à une acquisition majeure ?",
+      "options": [
+        "Warner Paramount Plus",
+        "HBO CBS Media",
+        "Skydance",
+        "Discovery Studios"
+      ],
+      "correct": 2,
+      "explication": "Le groupe Paramount Skydance a finalisé le rachat du studio Warner Bros Discovery pour 110 milliards de dollars, créant ainsi un nouvel empire du cinéma et de la télévision nommé Skydance.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quels records Shakira a-t-elle récemment battus avec sa tournée mondiale et son concert en streaming ?",
+      "options": [
+        "Elle est devenue l'artiste ayant vendu le plus d'albums en Amérique latine.",
+        "Elle a le plus grand nombre de vues pour un clip vidéo de tous les temps.",
+        "Elle est l'artiste d'Amérique latine féminine ayant vendu le plus de billets au monde et sa performance sur Amazon Music est la plus visionnée de tous les temps pour une artiste féminine.",
+        "Elle a battu le record du concert le plus long jamais réalisé."
+      ],
+      "correct": 2,
+      "explication": "Shakira est devenue l’artiste d’Amérique latine féminine ayant vendu le plus de billets au monde. Son concert du 3 octobre, retransmis gratuitement sur Amazon Music, Prime Video et Twitch, est devenu la performance d’une artiste féminine la plus visionnée de tous les temps sur Amazon Music.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Pour quelle découverte Henri Kagan et Kenso Soai ont-ils reçu le prix Nobel de chimie ?",
+      "options": [
+        "Pour leurs travaux sur la fusion nucléaire froide.",
+        "Pour la découverte des effets non linéaires et de l’autocatalyse dans la synthèse organique asymétrique.",
+        "Pour l'invention de nouveaux matériaux supraconducteurs.",
+        "Pour la mise au point d'une batterie à haute capacité."
+      ],
+      "correct": 1,
+      "explication": "Henri Kagan et Kenso Soai ont été récompensés “pour la découverte des effets non linéaires et de l’autocatalyse dans la synthèse organique asymétrique”, des travaux sur des réactions chimiques, notamment utilisées dans la fabrication de médicaments.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est la cause officielle du décès de la laborantine en Russie, selon l'agence russe chargée des maladies infectieuses ?",
+      "options": [
+        "La peste pulmonaire.",
+        "Une infection bactérienne inconnue.",
+        "Une pneumonie d'origine \"inconnue\".",
+        "Un accident de laboratoire."
+      ],
+      "correct": 2,
+      "explication": "Selon l’agence russe chargée des maladies infectieuses, la laborantine est morte après avoir reçu un diagnostic de pneumonie d’origine “inconnue”. Les soupçons de peste proviennent de médias indépendants et de zones d'ombre dans les communications officielles.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la position de l'OMS concernant les soupçons de peste en Russie ?",
+      "options": [
+        "L'OMS a confirmé la présence d'une épidémie de peste en Russie.",
+        "L'OMS a déclaré que le risque pour la population générale était très élevé en Europe.",
+        "L'OMS a demandé davantage d’informations à la Russie, mais estime que le risque pour la population générale reste faible.",
+        "L'OMS a envoyé une équipe d'urgence pour vacciner la population locale."
+      ],
+      "correct": 2,
+      "explication": "L’OMS a demandé à la Russie davantage d’informations, notamment après des soupçons concernant une deuxième personne potentiellement contaminée. Elle affirme cependant que le risque pour la population générale semble faible en Russie et très faible en Europe.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle mesure Laurent Nuñez a-t-il annoncée suite aux blessures graves lors des manifestations lycéennes ?",
+      "options": [
+        "L'interdiction totale de toutes les manifestations lycéennes.",
+        "Le renforcement de l'armement des forces de l'ordre.",
+        "La suspension provisoire des \"grenades assourdissantes\".",
+        "L'ouverture d'une enquête parlementaire sur les violences policières."
+      ],
+      "correct": 2,
+      "explication": "Laurent Nuñez a annoncé la suspension provisoire des \"grenades assourdissantes\" dans les manifestations lycéennes, mentionnant le lycéen de 15 ans dont la main a été arrachée à Lens.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelles sont les conséquences judiciaires pour le policier ayant tiré une grenade lacrymogène sur un lycéen de 14 ans ?",
+      "options": [
+        "Il a été récompensé pour sa bravoure en service.",
+        "Il a été mis en examen pour \"violences par personne dépositaire de l'autorité publique suivie de mutilation ou d'infirmité permanente\" et suspendu de ses fonctions.",
+        "Il a reçu un simple avertissement disciplinaire.",
+        "Il a été muté dans un autre département."
+      ],
+      "correct": 1,
+      "explication": "Le policier a été mis en examen pour \"violences par personne dépositaire de l'autorité publique suivie de mutilation ou d'infirmité permanente\", risque jusqu'à 15 ans de prison et n'a pas le droit d'exercer ses fonctions jusqu'à nouvel ordre.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
