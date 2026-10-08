@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Carburant : voici la dernière mesure du gouvernement",
+  "date": "08/10/2026",
+  "img": "archives/2026-10-08/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de personnes ont été tuées lors des frappes russes sur Kramatorsk ce jeudi ?",
+      "options": [
+        "18 personnes",
+        "30 personnes",
+        "22 personnes",
+        "50 personnes"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : « Au moins 30 personnes ont été tuées et 18 blessées dans des frappes russes sur 2 bus à Kramatorsk, dans l’est de l’Ukraine, ce jeudi. »",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle a été la cause principale de la situation difficile de Maricarmen Abascal, la retraitée espagnole décédée ?",
+      "options": [
+        "Une maladie incurable l'ayant affaiblie.",
+        "Une augmentation de loyer de 275% par une société immobilière.",
+        "Un accident domestique l'ayant rendue dépendante.",
+        "Le manque d'aide gouvernementale face à sa situation."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : « Son logement avait été racheté par une société immobilière qui avait décidé d’augmenter son loyer de 275%. »",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est l'objectif des professionnels de la petite enfance en France concernant le ratio adultes/enfants d'ici 2030 ?",
+      "options": [
+        "Passer à 1 adulte pour 6 enfants, quel que soit leur âge.",
+        "Passer à 1 adulte pour 8 enfants qui marchent.",
+        "Passer à 1 adulte pour 4 bébés ou 5 enfants.",
+        "Maintenir le ratio actuel de 1 pour 5 enfants qui ne marchent pas."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « D’ici 2030, ils veulent passer à 1 adulte pour 4 bébés ou 5 enfants. »",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le WWF, de quel pourcentage la taille moyenne des populations d'animaux sauvages vertébrés a-t-elle baissé entre 1970 et 2022 ?",
+      "options": [
+        "50 %",
+        "65 %",
+        "73 %",
+        "80 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : « La taille moyenne des populations d’animaux sauvages vertébrés a baissé de 73 % entre 1970 et 2022, selon le WWF. »",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel record l'astronaute française Sophie Adenot a-t-elle battu lors de son récent séjour dans l'espace ?",
+      "options": [
+        "Le record du plus long séjour continu pour une femme astronaute française.",
+        "Le record du plus grand nombre de sorties extravéhiculaires pour un astronaute européen.",
+        "Le record du plus long séjour continu dans l’espace pour un astronaute européen.",
+        "Le record de la plus jeune astronaute française en mission spatiale."
+      ],
+      "correct": 2,
+      "explication": "Le texte affirme : « Avec 235 jours passés en orbite, Sophie Adenot a battu le record du plus long séjour continu dans l’espace pour un astronaute européen, homme ou femme. »",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Qui a reçu le prix Nobel de littérature 2026, et pour quelle spécialité ?",
+      "options": [
+        "Volodymyr Zelensky, pour son leadership en temps de guerre.",
+        "Sophie Adenot, pour ses écrits sur l'espace.",
+        "Anne Carson, spécialiste de la littérature grecque antique.",
+        "Maricarmen Abascal, pour son combat contre les expulsions."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : « Le prix Nobel de littérature 2026 est décerné à l’autrice canadienne Anne Carson, spécialiste de la littérature grecque antique. »",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle est la bonne nouvelle concernant les rhinocéros de Sumatra ?",
+      "options": [
+        "Deux mâles ont été découverts dans un nouvel habitat.",
+        "Une mère et sa fille sont enceintes en même temps.",
+        "Le nombre d'individus à l'état sauvage a dépassé les 100.",
+        "Une nouvelle méthode de clonage a été développée pour l'espèce."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : « Deux rhinocéros de Sumatra, une mère et sa fille, sont enceintes en même temps. »",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle est la dernière mesure annoncée par le gouvernement français pour faire face à la hausse des prix des carburants ?",
+      "options": [
+        "Mettre en place un nouveau confinement pour limiter les déplacements.",
+        "Augmenter les taxes sur l'essence pour financer des aides.",
+        "Puiser dans les stocks stratégiques de gazole et les remettre sur le marché.",
+        "Demander aux compagnies pétrolières de baisser leurs marges."
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare : « Sébastien Lecornu a donc annoncé ce mercredi soir que la France allait puiser dans ses stocks stratégiques. 10 millions de barils de gazole seront progressivement remis sur le marché. »",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la baisse de prix par litre de carburant espérée par le gouvernement grâce à la mise sur le marché des stocks stratégiques ?",
+      "options": [
+        "Environ 5 à 10 centimes par litre.",
+        "Environ 12 à 18 centimes par litre.",
+        "Environ 20 à 25 centimes par litre.",
+        "Plus de 30 centimes par litre."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : « Selon le Premier ministre, cela pourrait faire baisser les prix de 12 à 18 centimes par litre. »",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est le principal objectif du plan d'urgence qu'Edouard Geffray, le ministre de l'Éducation nationale, devrait présenter ?",
+      "options": [
+        "Réformer le programme scolaire pour mieux préparer les élèves.",
+        "Augmenter le salaire des enseignants pour améliorer leur pouvoir d'achat.",
+        "Remplacer les enseignants absents pour assurer la continuité des cours.",
+        "Construire de nouvelles écoles pour faire face à l'augmentation des effectifs."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : « Edouard Geffray devrait présenter un plan d’urgence pour remplacer les enseignants absents dans les prochains jours. »",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
