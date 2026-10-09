@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 L’IA fait reculer le taux de CDI des jeunes ?",
+  "date": "09/10/2026",
+  "img": "archives/2026-10-09/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle organisation internationale a exprimé son \"inquiétude\" concernant les violences commises depuis le début du mouvement lycéen en France ?",
+      "options": [
+        "L'Union Européenne",
+        "Le Haut-Commissariat de l’ONU",
+        "L'UNESCO",
+        "Amnesty International"
+      ],
+      "correct": 1,
+      "explication": "Le Haut-Commissariat de l’ONU a déclaré suivre avec “inquiétude” les violences commises depuis le début du mouvement lycéen en France.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Combien de professeurs remplaçants le ministre de l'Éducation nationale a-t-il annoncé déployer dès ce vendredi dans les lycées où la situation est la plus critique ?",
+      "options": [
+        "514",
+        "800",
+        "3000",
+        "100"
+      ],
+      "correct": 2,
+      "explication": "Le ministre de l’Éducation nationale Édouard Geffray a annoncé que 3000 professeurs remplaçants doivent être déployés dès ce vendredi.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle a été la nature de l'incident qui a affecté la plateforme de vote pour la primaire du Parti socialiste ce vendredi matin ?",
+      "options": [
+        "Un piratage de données personnelles",
+        "Un rançongiciel (ransomware)",
+        "Une cyberattaque par saturation du site via des bots",
+        "Une panne de courant générale"
+      ],
+      "correct": 2,
+      "explication": "La plateforme de vote pour la primaire du Parti socialiste a été victime d’une cyberattaque ce vendredi matin, où des bots se sont connectés simultanément pour saturer le site.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Qui a reçu le Prix Nobel de la paix cette année, et quelle était sa fonction au sein de l'ONU entre 2008 et 2014 ?",
+      "options": [
+        "Jordan Bardella, président du Rassemblement National",
+        "Navanethem Pillay, Haut-Commissaire de l’ONU aux droits de l’homme",
+        "Zohran Mamdani, maire de New York",
+        "Édouard Geffray, ministre de l'Éducation nationale"
+      ],
+      "correct": 1,
+      "explication": "Le Prix Nobel de la paix a été décerné à l’avocate Sud-Africaine Navanethem Pillay, qui a notamment été Haut-Commissaire de l’ONU aux droits de l’homme entre 2008 et 2014.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le BRGM, quel pourcentage des nappes phréatiques en France sont actuellement sous les normales de saison ?",
+      "options": [
+        "215 %",
+        "66 %",
+        "800 %",
+        "100 %"
+      ],
+      "correct": 1,
+      "explication": "66 % des nappes phréatiques sont sous les normales de saison en France, selon le BRGM, le service géologique national.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Comment les États-Unis prévoient-ils de procéder à la mise à mort d'un condamné le 3 décembre, et comment cette méthode a-t-elle été qualifiée par le Haut Commissariat de l'ONU ?",
+      "options": [
+        "Par injection létale, qualifiée d'\"inhumaine\"",
+        "Par électrocution, qualifiée de \"cruelle\"",
+        "Par pendaison, qualifiée de \"dégradante\"",
+        "Par peloton d'exécution militaire, qualifiée de \"peine cruelle, inhumaine et dégradante\""
+      ],
+      "correct": 3,
+      "explication": "La mise à mort d’un condamné par peloton d’exécution militaire sera diffusée en direct le 3 décembre. Le Haut Commissariat de l’ONU a critiqué une \"peine cruelle, inhumaine et dégradante\" et dénoncé une forme de \"torture\".",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel est le nom du nouveau spectacle d'humour caritatif que les Restos du cœur vont lancer au Casino de Paris ?",
+      "options": [
+        "Les Enfoirés",
+        "Les Généreux",
+        "Les Enflures",
+        "Le Cœur Comique"
+      ],
+      "correct": 2,
+      "explication": "Les Restos du cœur vont lancer “Les Enflures”, un spectacle d’humour caritatif organisé au Casino de Paris.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon le rapport de la Banque de France, de combien ont reculé les embauches en CDI des 21-29 ans dans les métiers les plus exposés à l'IA depuis le lancement de ChatGPT ?",
+      "options": [
+        "7,5 %",
+        "22,1 %",
+        "28,3 %",
+        "42 %"
+      ],
+      "correct": 2,
+      "explication": "Selon le dernier rapport de la Banque de France, les embauches en CDI des 21-29 ans ont reculé de 28,3 % dans les métiers les plus exposés à l’IA depuis le 30 novembre 2022.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est l'un des risques à terme concernant l'impact de l'IA sur le marché du travail pour les jeunes, selon l'économiste Antonin Bergeaud ?",
+      "options": [
+        "Une augmentation massive des salaires des débutants",
+        "Un manque de formation de professionnels expérimentés pour l'avenir",
+        "Une relocalisation de tous les emplois exposés à l'étranger",
+        "Une suppression totale des métiers liés à l'information"
+      ],
+      "correct": 1,
+      "explication": "Pour l’économiste Antonin Bergeaud, le risque, à terme, c’est qu’en recrutant moins de débutants, les entreprises ne forment pas suffisamment les professionnels expérimentés dont elles auront besoin demain.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Qu'a dénoncé le maire de New York Zohran Mamdani concernant l'intervention des agents de l'ICE qui ont ouvert le feu sur une voiture avec un enfant à bord ?",
+      "options": [
+        "Le fait que les agents n'ont pas présenté de mandat d'arrêt",
+        "L'usage de la force létale sans que l'enfant ne soit blessé",
+        "L'incapacité d'identifier les agents comme des policiers en raison de leur tenue",
+        "La tentative d'arrestation d'un immigré sans papiers"
+      ],
+      "correct": 2,
+      "explication": "Le maire de New York a dénoncé un “incident révoltant” et a souligné que les agents de l’ICE étaient vêtus de gilets de chantier et portaient des masques, ce qui empêchait de les identifier comme des agents de police.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
