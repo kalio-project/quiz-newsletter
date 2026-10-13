@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump vient-il de s’allier à Poutine ?",
+  "date": "12/10/2026",
+  "img": "archives/2026-10-12/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel événement politique mentionné dans l'introduction n'est pas détaillé ultérieurement dans les brèves du jour ?",
+      "options": [
+        "L'accord entre Donald Trump et Vladimir Poutine",
+        "Les attaques des Houthis au Yémen",
+        "Les résultats de la primaire du Parti socialiste",
+        "Les élections législatives palestiniennes"
+      ],
+      "correct": 2,
+      "explication": "L'introduction mentionne 'les résultats de la primaire du Parti socialiste' comme un point d'actualité, mais cette information n'est pas développée dans les brèves qui suivent.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon le rapport de l'ONG Action contre la faim, quel pourcentage des 18-24 ans en France hexagonale déclarent manquer de nourriture ?",
+      "options": [
+        "13 %",
+        "25 %",
+        "80 %",
+        "7 %"
+      ],
+      "correct": 1,
+      "explication": "Le rapport indique que 'Ce chiffre grimpe à 25 % chez les 18-24 ans' concernant le manque de nourriture.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle a été la cause principale de la crue soudaine qui a frappé le centre du Népal ce dimanche ?",
+      "options": [
+        "Des pluies torrentielles exceptionnelles",
+        "Un glissement de terrain ayant bloqué puis relâché la rivière Budhi Gandaki",
+        "La rupture d'un barrage hydroélectrique",
+        "Une fonte glaciaire accélérée par le réchauffement climatique"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Un glissement de terrain a bloqué la rivière Budhi Gandaki, avant que le barrage naturel formé par les débris ne cède, libérant une énorme quantité d’eau'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "À quelle date les élections législatives palestiniennes sont-elles désormais prévues ?",
+      "options": [
+        "28 novembre 2026",
+        "11 septembre 2027",
+        "11 septembre 2026",
+        "28 novembre 2027"
+      ],
+      "correct": 1,
+      "explication": "Les élections 'sont reportées au 11 septembre 2027, a annoncé Mahmoud Abbas'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "D'où le dauphin Rocky avait-il été transféré avant son décès dans un parc espagnol ?",
+      "options": [
+        "Un parc aquatique près de Malaga",
+        "Le Marineland d’Antibes",
+        "Un centre de réhabilitation en Méditerranée",
+        "Un zoo en Allemagne"
+      ],
+      "correct": 1,
+      "explication": "Rocky, un dauphin de 29 ans transféré en juillet du Marineland d’Antibes vers un parc espagnol près de Malaga, est mort.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de signatures, et sous quelles autres conditions, sont nécessaires pour qu'une pétition puisse être débattue à l'Assemblée nationale ?",
+      "options": [
+        "100 000 signatures",
+        "500 000 signatures",
+        "500 000 signatures, issues d’au moins 30 départements",
+        "Plus de 7 millions de signatures"
+      ],
+      "correct": 2,
+      "explication": "À partir de 500 000 signatures, issues d’au moins 30 départements, un débat pourra être organisé dans l’hémicycle.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle prestigieuse distinction le mathématicien français Hugo Duminil-Copin a-t-il reçue en 2022 ?",
+      "options": [
+        "Le prix Turing",
+        "La médaille Fields",
+        "Le prix Abel",
+        "Le prix Nobel de Mathématiques"
+      ],
+      "correct": 1,
+      "explication": "Hugo Duminil-Copin a été 'Récompensé par la médaille Fields en 2022, l’une des plus prestigieuses distinctions en mathématiques'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Pour quels travaux Robert E. Hall et Michael Woodford ont-ils reçu le prix Nobel d’économie 2026 ?",
+      "options": [
+        "Leurs théories sur la croissance économique des pays émergents",
+        "Leurs études sur les marchés financiers et la spéculation",
+        "Leurs travaux sur les fondements microéconomiques de la stabilisation macroéconomique",
+        "Leurs recherches sur l'impact de la fiscalité sur le comportement des ménages"
+      ],
+      "correct": 2,
+      "explication": "Le prix Nobel d’économie 2026 a été attribué aux Américains Robert E. Hall et Michael Woodford pour leurs travaux sur les fondements microéconomiques de la stabilisation macroéconomique.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel produit la Russie doit-elle livrer aux États-Unis selon le nouvel accord entre Donald Trump et Vladimir Poutine ?",
+      "options": [
+        "Du pétrole brut",
+        "Du gaz naturel liquéfié",
+        "Du gazole",
+        "De l'uranium enrichi"
+      ],
+      "correct": 2,
+      "explication": "Après un appel avec Vladimir Poutine, Donald Trump a annoncé un accord prévoyant la livraison de 300 000 tonnes de gazole, puis 500 000 tonnes en novembre.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le Rapport AXA 2026, quelle proportion des jeunes âgés de 18 à 24 ans voit sa santé mentale se dégrader ou traverse un mal-être psychologique ?",
+      "options": [
+        "Près de 3 sur 10",
+        "Près de 6 sur 10",
+        "Près de 8 sur 10",
+        "Près de 1 sur 10"
+      ],
+      "correct": 1,
+      "explication": "Près de 6 jeunes sur 10 âgés de 18 à 24 ans voient leur santé mentale se dégrader ou traversent un mal-être psychologique, selon le Rapport AXA 2026 sur la santé mentale.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
