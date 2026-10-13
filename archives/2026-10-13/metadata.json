@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La dette publique française bat des records",
+  "date": "13/10/2026",
+  "img": "archives/2026-10-13/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le nom du pétrolier suspecté d'appartenir à la flotte fantôme russe, intercepté au sud de La Réunion ?",
+      "options": [
+        "DF Peak",
+        "Ghost Ship",
+        "Black Sea",
+        "Réunion Express"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : \"Le “DF Peak”, qui navigue sous pavillon béninois, est suspecté de masquer son identité pour contourner les sanctions internationales\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quel rôle l'acteur RJ Mitte, dont le décès a été annoncé, était-il principalement connu ?",
+      "options": [
+        "Flynn dans “Breaking Bad”",
+        "Jessie Pinkman dans “Breaking Bad”",
+        "Saul Goodman dans “Better Call Saul”",
+        "Gus Fring dans “Breaking Bad”"
+      ],
+      "correct": 0,
+      "explication": "Le texte mentionne : \"L’acteur RJ Mitte, connu pour son rôle de Flynn dans “Breaking Bad”, est mort à 34 ans.\"",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Où les 8 orangs-outans sauvés des incendies ont-ils été relâchés ?",
+      "options": [
+        "Dans une forêt protégée de Bornéo",
+        "Dans un zoo en Indonésie",
+        "Sur une autre île indonésienne",
+        "Dans un sanctuaire en Malaisie"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : \"8 orangs-outans, qui ont été sauvés ces dernières semaines des incendies ravageant l’île de Bornéo, au nord de l’Indonésie, ont été relâchés dans une forêt protégée.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "À combien s'élève la dette publique française en pourcentage du PIB, selon le texte ?",
+      "options": [
+        "100 %",
+        "119 %",
+        "75 %",
+        "50 %"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Elle représente désormais 119 % du PIB : autrement dit, la dette accumulée dépasse la richesse produite en une année. C’est du jamais-vu depuis 1946\".",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon les économistes, quelle crise majeure a marqué le début de la dégradation progressive de la dette publique française ?",
+      "options": [
+        "La crise financière de 2008",
+        "Le premier choc pétrolier de 1973",
+        "La pandémie de Covid en 2020",
+        "La crise énergétique de 2022"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Les économistes évoquent notamment une dégradation progressive depuis le premier choc pétrolier de 1973.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la conséquence principale de la remontée des taux d'intérêt depuis 2022 pour l'État français ?",
+      "options": [
+        "Une augmentation des recettes fiscales.",
+        "Une diminution des dépenses publiques.",
+        "L'État doit consacrer toujours plus d’argent au paiement des intérêts.",
+        "Une meilleure notation de la dette par les agences."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : \"Mais depuis 2022, ils remontent... Résultat : l’État doit consacrer toujours plus d’argent au paiement des intérêts.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon le rapport AXA, quelle est la raison la plus souvent citée par les jeunes pour ne pas demander d'aide concernant leur santé mentale ?",
+      "options": [
+        "Le coût des consultations",
+        "Le manque de temps",
+        "L'état ne nécessite pas de prise en charge médicale",
+        "La honte ou la stigmatisation"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"36 % des personnes interrogées estiment que leur état ne nécessite pas de prise en charge médicale, raison plus souvent citée que le coût et même le manque de temps.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Parmi les revendications principales du mouvement lycéen en France, laquelle n'est PAS mentionnée dans le texte ?",
+      "options": [
+        "La rénovation des établissements scolaires",
+        "Davantage de personnels éducatifs et de santé",
+        "Une réforme des rythmes scolaires et universitaires",
+        "La suppression du baccalauréat"
+      ],
+      "correct": 3,
+      "explication": "Le texte mentionne : \"Les manifestants demandent notamment la rénovation des établissements, davantage de personnels éducatifs et de santé, ainsi qu’une réforme de Parcoursup et des rythmes scolaires et universitaires.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel type de législation la Hongrie a-t-elle commencé à supprimer, suite aux condamnations de la justice européenne ?",
+      "options": [
+        "Des lois fiscales",
+        "Des dispositions anti-LGBTQIA+",
+        "Des réformes du système éducatif",
+        "Des restrictions sur la liberté de la presse"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"La Hongrie a commencé à supprimer des dispositions anti-LGBTQIA+, adoptées par l’ancien Premier ministre nationaliste Viktor Orban, et condamnées par la justice européenne.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Depuis quand le dispositif FR-Alert, testé récemment, est-il opérationnel en France ?",
+      "options": [
+        "2023",
+        "2021",
+        "2022",
+        "2020"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : \"Opérationnel depuis 2022, il permet à l’État d’envoyer un message d’urgence à la population en cas de danger majeur.\"",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
