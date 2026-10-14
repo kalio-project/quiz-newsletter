@@ -1,0 +1,127 @@
+{
+  "titre": "🚨L’IA est-elle consciente ?",
+  "date": "14/10/2026",
+  "img": "archives/2026-10-14/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Qui a annoncé sa candidature à l'élection présidentielle française de 2027 en se revendiquant du souverainisme de gauche ?",
+      "options": [
+        "Marine Le Pen",
+        "Jean-Luc Mélenchon",
+        "Natacha Polony",
+        "Éric Zemmour"
+      ],
+      "correct": 2,
+      "explication": "La journaliste et essayiste Natacha Polony a annoncé sa candidature à la présidentielle de 2027 et se revendique du souverainisme de gauche.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Pour quelle raison Volodymyr Zelensky reproche-t-il à ses alliés américains un retard dans l'alerte des frappes russes en Ukraine ?",
+      "options": [
+        "Le manque d'armement fourni",
+        "Le refus de partager des renseignements",
+        "Leur soutien insuffisant à l'adhésion à l'OTAN",
+        "Le non-respect des sanctions économiques"
+      ],
+      "correct": 1,
+      "explication": "Volodymyr Zelensky reproche à ses alliés américains de ne pas avoir partagé leurs renseignements, ce qui aurait retardé l’alerte et empêché des habitants de se mettre à l’abri à temps.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel média d'opposition a vu son siège pris d'assaut par la police en Turquie, entraînant l'arrestation de 11 salariés pour corruption ?",
+      "options": [
+        "T24",
+        "Zaman",
+        "Halk TV",
+        "Cumhuriyet"
+      ],
+      "correct": 2,
+      "explication": "En Turquie, la police a pris le contrôle du siège de Halk TV, la principale chaîne d’opposition, ce mercredi, et 11 salariés ont été placés en garde à vue.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle mesure l'université Cornell aux États-Unis a-t-elle prise suite à des accusations de viol collectif impliquant une fraternité ?",
+      "options": [
+        "Interdiction des fraternités de manière permanente",
+        "Suspension des fêtes organisées par les fraternités jusqu'à la fin de l'année universitaire",
+        "Renforcement des mesures de sécurité sur le campus",
+        "Mise en place de cours obligatoires sur le consentement"
+      ],
+      "correct": 1,
+      "explication": "L’université Cornell a annoncé suspendre les fêtes organisées par les fraternités jusqu’à la fin de l’année universitaire, après des accusations de viol collectif.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l’Office français de la biodiversité, quelle proportion des petits cours d’eau français était à sec fin septembre ?",
+      "options": [
+        "Un quart",
+        "Un tiers",
+        "La moitié",
+        "Les trois quarts"
+      ],
+      "correct": 2,
+      "explication": "En France, la moitié des petits cours d’eau étaient à sec fin septembre, selon l’Office français de la biodiversité, qui parle de “la situation la plus grave constatée depuis 2012”.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Combien de femmes ont été tuées par leur conjoint ou ex-compagnon en France en 2025, d'après le ministère de l'Intérieur ?",
+      "options": [
+        "87",
+        "101",
+        "111",
+        "125"
+      ],
+      "correct": 2,
+      "explication": "En France, 111 femmes ont été tuées par leur conjoint ou ex-compagnon en 2025, soit 4 % de plus en un an.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pour quelle raison le pape Léon XIV a-t-il subi une intervention chirurgicale réussie, selon le Vatican ?",
+      "options": [
+        "Une appendicite aiguë",
+        "Un problème cardiaque",
+        "Un cancer du poumon",
+        "Une fracture de la hanche"
+      ],
+      "correct": 2,
+      "explication": "Le pape Léon XIV, âgé de 71 ans, a été opéré avec succès d’un cancer du poumon ce mardi, selon le Vatican.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quels sont les deux ingrédients principaux que des scientifiques chinois ont ajoutés au béton pour le rendre capable de capter le CO2 ?",
+      "options": [
+        "Des fibres de carbone et du verre recyclé",
+        "Du charbon de bambou et de la zéolithe",
+        "Des micro-algues et du calcaire",
+        "Des polymères biodégradables et du sable volcanique"
+      ],
+      "correct": 1,
+      "explication": "Ils ont remplacé une partie du ciment par du charbon de bambou, et une partie du sable par de la zéolithe, un minéral plein de minuscules trous. Ces deux ingrédients fonctionnent comme des éponges pour retenir le CO2.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est la position d'Anthropic, un concurrent d'OpenAI, concernant la conscience de ses modèles d'IA les plus avancés comme Claude ?",
+      "options": [
+        "L'entreprise affirme que ses IA sont déjà conscientes.",
+        "L'entreprise nie catégoriquement toute conscience de ses IA.",
+        "L'entreprise reconnaît ne pas savoir si ses modèles sont conscients ou non.",
+        "L'entreprise mène des recherches pour prouver la conscience de ses IA."
+      ],
+      "correct": 2,
+      "explication": "Anthropic, l’un des principaux concurrents d’OpenAI, reconnaît ne pas savoir si ses modèles les plus avancés sont conscients ou non. Dans la Constitution de Claude, l'entreprise écrit qu’elle accorde une grande importance à sa sécurité psychologique et son bien-être face à cette incertitude.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon le Rapport AXA 2026 sur la santé mentale, quelle est la raison la plus souvent citée par les personnes interrogées pour ne pas demander d'aide pour leur mal-être psychologique ?",
+      "options": [
+        "Le coût des consultations",
+        "Le manque de temps",
+        "L'idée que leur état ne nécessite pas de prise en charge médicale",
+        "La peur du jugement social"
+      ],
+      "correct": 2,
+      "explication": "36 % des personnes interrogées estiment que leur état ne nécessite pas de prise en charge médicale, raison plus souvent citée que le coût et même le manque de temps.",
+      "theme": "SANTÉ"
+    }
+  ]
+}
