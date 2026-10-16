@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Mobilisation lycéenne : quelle stratégie du gouvernement ?",
+  "date": "16/10/2026",
+  "img": "archives/2026-10-16/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quelle décision a été prise par Donald Trump concernant la diffusion en direct d'une exécution militaire ?",
+      "options": [
+        "Il a confirmé la diffusion en direct.",
+        "Il a renoncé à la diffusion en direct.",
+        "Il a reporté la décision à une date ultérieure.",
+        "Il a autorisé la diffusion uniquement pour la famille de la victime."
+      ],
+      "correct": 1,
+      "explication": "L'article indique : \"Donald Trump renonce à diffuser en direct l’exécution d’un condamné à mort par peloton d’exécution militaire.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Que s'est-il passé au Yémen ce jeudi selon l'article ?",
+      "options": [
+        "Une trêve a été signée entre les belligérants.",
+        "Les rebelles houthis ont attaqué le palais présidentiel d'Aden avec des missiles.",
+        "Des inondations massives ont touché la capitale.",
+        "Le Premier ministre a démissionné."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Au moins 5 personnes ont été tuées [...] après une attaque des rebelles houthis au Yémen, qui ont tiré 5 missiles sur le palais présidentiel d’Aden.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle raison les deux derniers pandas géants vont-ils quitter le Zoo de Beauval ce samedi ?",
+      "options": [
+        "Pour être transférés dans un autre zoo français.",
+        "Pour être remis en liberté dans leur habitat naturel.",
+        "Pour rejoindre la Chine et se reproduire.",
+        "Pour participer à une étude scientifique en laboratoire."
+      ],
+      "correct": 2,
+      "explication": "L'article précise : \"Les 2 femelles y partiront pour se reproduire avec des mâles sans lien de parenté.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle innovation a été dévoilée par l'entreprise Tesla ce jeudi ?",
+      "options": [
+        "Une voiture sous-marine.",
+        "Un avion de ligne électrique.",
+        "Une voiture volante.",
+        "Un robot domestique autonome."
+      ],
+      "correct": 2,
+      "explication": "Il est écrit : \"Tesla, l’entreprise du milliardaire Elon Musk, a dévoilé une voiture volante ce jeudi.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon le Centre national de la musique, quelle proportion de festivals a été confrontée à des aléas climatiques en 2026 ?",
+      "options": [
+        "Moins d'un quart.",
+        "Près de la moitié.",
+        "Les trois quarts.",
+        "Tous les festivals."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Près de la moitié des festivals ont été confrontés à des aléas climatiques en 2026, a indiqué ce jeudi le Centre national de la musique.\"",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle est la \"bonne nouvelle\" annoncée par le gouvernement ce jeudi ?",
+      "options": [
+        "Des mesures pour faciliter l'accès à la vaccination antigrippale.",
+        "De nouvelles mesures pour mieux accompagner les femmes pendant la ménopause.",
+        "Un plan de lutte contre l'obésité infantile.",
+        "L'ouverture de nouveaux hôpitaux spécialisés."
+      ],
+      "correct": 1,
+      "explication": "La section \"Bonne nouvelle\" détaille : \"De nouvelles mesures pour mieux accompagner les femmes pendant la ménopause [...] ont été annoncées par le gouvernement ce jeudi.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle a été la première réponse du gouvernement face aux mobilisations lycéennes, selon l'article ?",
+      "options": [
+        "L'ouverture immédiate d'un dialogue national.",
+        "Une réponse principalement policière et sécuritaire.",
+        "L'annonce de nouvelles réformes éducatives majeures.",
+        "Le déploiement massif de professeurs remplaçants."
+      ],
+      "correct": 1,
+      "explication": "Le \"Décryptage\" précise : \"Dans un premier temps, la réponse du gouvernement a surtout été policière et sécuritaire, ce que plusieurs syndicats ont dénoncé.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Après l'incident de Lens où un lycéen a été amputé, quelle décision a été prise concernant l'usage des grenades assourdissantes ?",
+      "options": [
+        "Leur usage a été définitivement interdit.",
+        "Leur usage a été suspendu, puis potentiellement réautorisé sous certaines conditions.",
+        "Leur usage a été restreint aux seules situations de légitime défense absolue.",
+        "Leur usage a été maintenu sans modification."
+      ],
+      "correct": 1,
+      "explication": "Le texte rapporte que \"après le drame de Lens, Laurent Nuñez a suspendu l’usage de ces grenades, avant d’annoncer qu’elles pourraient être réutilisées le 17 octobre en cas de violences urbaines “extrêmement graves”\".",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon le Rapport AXA 2026 sur la santé mentale, quel est le pourcentage de jeunes âgés de 18 à 24 ans qui voient leur santé mentale se dégrader ou traversent un mal-être psychologique ?",
+      "options": [
+        "Près d'un quart.",
+        "Près de 6 jeunes sur 10.",
+        "Un tiers.",
+        "Moins de 10%."
+      ],
+      "correct": 1,
+      "explication": "La publicité AXA indique : \"Près de 6 jeunes sur 10 âgés de 18 à 24 ans voient leur santé mentale se dégrader ou traversent un mal-être psychologique, selon le Rapport AXA 2026 sur la santé mentale.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Que s'est-il passé dans une école de l'Oregon aux États-Unis ce jeudi ?",
+      "options": [
+        "Une nouvelle initiative pédagogique a été lancée.",
+        "Un adolescent a attaqué et tué 4 personnes par balle.",
+        "Une manifestation d'élèves a eu lieu.",
+        "Un incendie accidentel a provoqué des dégâts matériels importants."
+      ],
+      "correct": 1,
+      "explication": "La section \"À comprendre\" mentionne : \"Un adolescent de 16 ans a tué 4 personnes par balle ce jeudi, dans une école de l’Oregon\".",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
