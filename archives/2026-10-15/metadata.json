@@ -1,0 +1,127 @@
+{
+  "titre": "🚨17 octobre : à quoi s’attendre ?",
+  "date": "15/10/2026",
+  "img": "archives/2026-10-15/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel est le nom du nouveau président d'extrême droite de Colombie, arrivé au pouvoir en août, contre lequel des manifestations ont eu lieu ?",
+      "options": [
+        "Gustavo Petro",
+        "Iván Duque",
+        "Abelardo de la Espriella",
+        "Juan Manuel Santos"
+      ],
+      "correct": 2,
+      "explication": "Des dizaines de milliers de personnes ont manifesté en Colombie contre le nouveau président d’extrême droite, Abelardo de la Espriella, arrivé au pouvoir en août.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la principale réforme adoptée par le Parlement brésilien et portée par le président Lula ?",
+      "options": [
+        "L'augmentation du salaire minimum",
+        "La privatisation des entreprises publiques",
+        "La réduction du temps de travail de 6 à 5 jours par semaine",
+        "La légalisation de certaines drogues"
+      ],
+      "correct": 2,
+      "explication": "Le Parlement brésilien a adopté une réforme réduisant le temps de travail de 6 à 5 jours par semaine, sans baisse de salaire, et de 44 à 40 heures hebdomadaires.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est le taux d'inflation en France sur un an en septembre, selon les chiffres de l'Insee ?",
+      "options": [
+        "1,5 %",
+        "2,0 %",
+        "3,1 %",
+        "4,5 %"
+      ],
+      "correct": 2,
+      "explication": "En France, l’inflation a atteint 3,1 % sur un an en septembre, son plus haut niveau depuis janvier 2024.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel événement spécifique est référencé par la poupée Barbie à l'effigie de Céline Dion ?",
+      "options": [
+        "Son premier concert en France",
+        "La cérémonie des Oscars de 1998",
+        "La sortie de l'album 'D'eux'",
+        "Son mariage avec René Angélil"
+      ],
+      "correct": 1,
+      "explication": "La poupée Barbie à l’effigie de Céline Dion reprend le look de la chanteuse québécoise lors de la cérémonie des Oscars de 1998.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Qui est l'entrepreneur qui va reprendre l'usine française de verres Duralex, connue pour ses verres de cantine ?",
+      "options": [
+        "Bernard Arnault",
+        "Cédric Meston",
+        "François Pinault",
+        "Xavier Niel"
+      ],
+      "correct": 1,
+      "explication": "L’usine française de verres Duralex va être reprise par l’entrepreneur Cédric Meston, déjà propriétaire de Tupperware France.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Comment le mouvement du 17 octobre a-t-il initialement commencé à faire parler de lui ?",
+      "options": [
+        "Par un appel des grands syndicats",
+        "Par une émission de télévision",
+        "Suite à la publication d'une vidéo TikTok et d'affiches générées par IA",
+        "Lors d'une conférence de presse du gouvernement"
+      ],
+      "correct": 2,
+      "explication": "Le mouvement du 17 octobre a commencé à faire parler de lui après la publication, le 8 septembre, d’une vidéo TikTok du créateur V2 et d'affiches générées par IA.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle était la principale revendication initiale du mouvement du 17 octobre ?",
+      "options": [
+        "La démission du gouvernement",
+        "La baisse du prix des carburants et plus largement du pouvoir d'achat",
+        "L'amélioration des conditions de logement",
+        "La réforme des retraites"
+      ],
+      "correct": 1,
+      "explication": "Les principales revendications concernent le prix des carburants et, plus largement, la baisse du pouvoir d’achat.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Outre les initiateurs sur les réseaux sociaux, quels types d'organisations ont appelé à rejoindre le mouvement du 17 octobre ?",
+      "options": [
+        "Uniquement des partis politiques d'opposition",
+        "L'Union syndicale lycéenne, l'Union étudiante, la Confédération paysanne et la CGT",
+        "Les associations de consommateurs",
+        "Les chambres de commerce"
+      ],
+      "correct": 1,
+      "explication": "Le mouvement est soutenu par l’Union syndicale lycéenne, l’Union étudiante, la Confédération paysanne et la CGT.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le Rapport AXA 2026, quelle proportion de jeunes (18-24 ans) voit sa santé mentale se dégrader ou traverse un mal-être psychologique ?",
+      "options": [
+        "Moins de 10 %",
+        "Environ un quart",
+        "Près de 6 jeunes sur 10",
+        "La majorité (plus de 80 %)"
+      ],
+      "correct": 2,
+      "explication": "Près de 6 jeunes sur 10 âgés de 18 à 24 ans voient leur santé mentale se dégrader ou traversent un mal-être psychologique.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est l'objectif principal du nouveau pont reliant la Chine et la Corée du Nord ?",
+      "options": [
+        "Faciliter les échanges touristiques",
+        "Renforcer les liens économiques entre les deux pays",
+        "Permettre le transit de marchandises vers le Japon",
+        "Servir de point d'observation stratégique"
+      ],
+      "correct": 1,
+      "explication": "Ce nouveau pont doit notamment renforcer les liens économiques entre les deux pays.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
