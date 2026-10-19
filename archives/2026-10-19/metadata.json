@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 17 octobre : un échec de l’État ?",
+  "date": "19/10/2026",
+  "img": "archives/2026-10-19/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de migrants, dont un nourrisson, sont décédés dans deux accidents maritimes au large des îles grecques de Lesbos et Samos ce lundi ?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique que '12 migrants, dont 1 nourrisson, sont morts ce lundi dans deux accidents au large des îles grecques'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la position de Volodymyr Zelensky concernant les avertissements militaires de ses alliés avant les frappes russes récentes ?",
+      "options": [
+        "Il a reçu des avertissements précis de tous ses alliés.",
+        "Il affirme n’avoir reçu aucun avertissement militaire de ses alliés.",
+        "Les avertissements étaient incomplets mais utiles.",
+        "Il a refusé de partager des renseignements avec ses alliés."
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme que 'Volodymyr Zelensky affirme n’avoir reçu aucun avertissement militaire de ses alliés avant les frappes russes'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où les fumées toxiques provenant des incendies en Indonésie se propagent-elles, provoquant une forte pollution de l'air ?",
+      "options": [
+        "Uniquement en Indonésie",
+        "Au Vietnam et aux Philippines",
+        "En Malaisie et à Singapour",
+        "En Thaïlande et au Cambodge"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que 'Les fumées se propagent jusqu’aux pays voisins, comme la Malaisie et Singapour'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est le pourcentage d'objectifs du cadre mondial pour la biodiversité qui risquent de ne pas être atteints d'ici 2030, selon un rapport de l'ONU ?",
+      "options": [
+        "Moins de la moitié (environ 10 objectifs)",
+        "Les trois quarts (environ 17 objectifs)",
+        "La quasi-totalité (22 sur 23 objectifs)",
+        "Tous les 23 objectifs"
+      ],
+      "correct": 2,
+      "explication": "Un rapport de l’ONU estime que '22 d’entre eux risquent de ne pas être atteints' sur les 23 objectifs fixés.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel âge a Félix Lebrun, sacré champion d'Europe de tennis de table ce dimanche ?",
+      "options": [
+        "18 ans",
+        "20 ans",
+        "22 ans",
+        "25 ans"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'À seulement 20 ans, il s’est imposé en finale de l’Euro'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Combien de commerces ont été pris pour cible lors des manifestations du 17 octobre, selon le président de la Fédération du commerce et de la distribution ?",
+      "options": [
+        "Environ 500",
+        "Environ 1 000",
+        "Au moins 1 500",
+        "Plus de 2 000"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Le président de la Fédération du commerce et de la distribution évoque au moins 1 500 commerces pris pour cible'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle proposition Gabriel Attal a-t-il faite pour empêcher les casseurs de communiquer lors de futures mobilisations ?",
+      "options": [
+        "Interdire toute manifestation non déclarée",
+        "Bloquer temporairement certains réseaux sociaux",
+        "Mettre en place un couvre-feu généralisé",
+        "Renforcer la surveillance des réseaux via des drones"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que 'Gabriel Attal [...] propose de bloquer temporairement certains réseaux sociaux pour empêcher les casseurs de communiquer'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Qui a d'abord affirmé que le dispositif de maintien de l'ordre n'était pas sous-dimensionné, avant de reconnaître un manque d'anticipation lors des manifestations du 17 octobre ?",
+      "options": [
+        "Emmanuel Macron",
+        "Gérald Darmanin",
+        "Laurent Nuñez",
+        "Sébastien Lecornu"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Laurent Nuñez, le ministre de l’Intérieur a d’abord affirmé que le dispositif n’était pas sous-dimensionné, avant de reconnaître lundi un manque d’anticipation'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel est l'un des objectifs majeurs de la tournée d'Emmanuel Macron dans les pays du Golfe ?",
+      "options": [
+        "Développer le tourisme de luxe",
+        "Sécuriser les approvisionnements en pétrole et en diesel",
+        "Promouvoir la culture française",
+        "Renforcer la coopération militaire contre le terrorisme"
+      ],
+      "correct": 1,
+      "explication": "L'objectif affiché est de 'sécuriser les approvisionnements en pétrole et en diesel pour faire baisser les prix du carburant à la pompe'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est le titre de la chanson dévoilée par Harry Styles en hommage à son ami Liam Payne ?",
+      "options": [
+        "Story of My Life",
+        "What Is Enough",
+        "Night Changes",
+        "Perfect"
+      ],
+      "correct": 1,
+      "explication": "Harry Styles a dévoilé 'What Is Enough' un titre rendant hommage à son ami Liam Payne.",
+      "theme": "CULTURE"
+    }
+  ]
+}
