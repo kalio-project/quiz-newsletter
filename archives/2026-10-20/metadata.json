@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Il n’y a pas qu’en France que le peuple manifeste",
+  "date": "20/10/2026",
+  "img": "archives/2026-10-20/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel groupe est accusé d'avoir attaqué des campements et tué au moins 40 civils dans la région de Ménaka au Mali ?",
+      "options": [
+        "Le groupe djihadiste État islamique",
+        "Al-Qaïda au Maghreb islamique (AQMI)",
+        "Un groupe rebelle Touareg",
+        "Des milices d'autodéfense locales"
+      ],
+      "correct": 0,
+      "explication": "Les représentants de la communauté daoussahak, particulièrement visée par ces attaques, accusent le groupe djihadiste État islamique.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes à Gaza vont perdre l'accès à une aide alimentaire essentielle selon le Programme alimentaire mondial ?",
+      "options": [
+        "Environ 100 000",
+        "Environ 250 000",
+        "Environ 500 000",
+        "Environ 1 million"
+      ],
+      "correct": 2,
+      "explication": "Le Programme alimentaire mondial a annoncé que 500 000 personnes vont perdre l’accès à une aide alimentaire essentielle à Gaza.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle superficie a brûlé en Indonésie entre janvier et fin septembre, selon les chiffres mentionnés ?",
+      "options": [
+        "Près de 500 000 hectares",
+        "Près d'un million d'hectares",
+        "Près de 2 millions d'hectares",
+        "Près de 5 millions d'hectares"
+      ],
+      "correct": 2,
+      "explication": "Près de 2 millions d’hectares ont brûlé en Indonésie entre janvier et fin septembre.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pour quel motif l'eurodéputée LFI Rima Hassan est-elle poursuivie par le parquet de Paris ?",
+      "options": [
+        "Diffamation",
+        "Incitation à la haine",
+        "Apologie du terrorisme",
+        "Outrage à magistrat"
+      ],
+      "correct": 2,
+      "explication": "Le parquet de Paris a requis une peine contre l’eurodéputée LFI Rima Hassan, jugée pour apologie du terrorisme.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel est l'objectif principal de la mission spatiale japonaise lancée récemment vers les lunes de Mars ?",
+      "options": [
+        "Y établir une base habitable",
+        "Tester de nouvelles technologies de propulsion",
+        "En rapporter des échantillons d'ici 2031",
+        "Déployer un télescope spatial en orbite martienne"
+      ],
+      "correct": 2,
+      "explication": "Le Japon a lancé une fusée vers les lunes de Mars, Phobos et Déimos, avec pour objectif d’en rapporter des échantillons d’ici 2031.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quand débutera la phase d'information pour le calendrier Parcoursup 2027 ?",
+      "options": [
+        "Le 1er septembre",
+        "Le 17 décembre",
+        "Le 1er janvier",
+        "Le 11 mars"
+      ],
+      "correct": 1,
+      "explication": "La phase d’information pour Parcoursup 2027 aura lieu du 17 décembre au 17 janvier.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel type d'événement le streamer 'AmineMaTue' a-t-il annoncé pour le 14 novembre ?",
+      "options": [
+        "Un concert caritatif",
+        "Une soirée catch",
+        "Un tournoi de jeux vidéo",
+        "Une exposition d'art numérique"
+      ],
+      "correct": 1,
+      "explication": "Le streamer 'AmineMaTue' a annoncé une soirée catch, baptisée 'Le Final Slam', le 14 novembre.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel est l'objectif principal de la résolution adoptée à l'unanimité par le Conseil de sécurité de l'ONU ?",
+      "options": [
+        "Interdire toutes les messageries chiffrées",
+        "Lutter contre le recrutement d'enfants soldats via le numérique",
+        "Financer de nouveaux programmes d'aide humanitaire",
+        "Mettre en place de nouvelles interdictions sur les réseaux sociaux"
+      ],
+      "correct": 1,
+      "explication": "Le Conseil de sécurité de l’ONU a adopté une résolution pour lutter notamment contre le recrutement d’enfants soldats via les réseaux sociaux, les jeux en ligne ou les messageries chiffrées.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est le facteur principal cité pour expliquer les mobilisations sociales récentes en Europe ?",
+      "options": [
+        "La réforme des retraites",
+        "La hausse du coût de la vie",
+        "Les crises sanitaires",
+        "Les conflits géopolitiques"
+      ],
+      "correct": 1,
+      "explication": "Le facteur principal est la hausse du coût de la vie. Dans toute l’Europe, les prix de l’alimentation, du logement et de l’énergie ont fortement augmenté.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quels pays vont fournir 200 000 tonnes de diesel supplémentaires par mois à la France, selon l'annonce de l'Élysée ?",
+      "options": [
+        "L'Arabie Saoudite et le Qatar",
+        "L'Iran et l'Irak",
+        "Bahreïn et les Émirats arabes unis",
+        "La Russie et l'Algérie"
+      ],
+      "correct": 2,
+      "explication": "L’Élysée a annoncé que 200 000 tonnes de diesel supplémentaires par mois vont être fournies à la France depuis Bahreïn et les Émirats arabes unis.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
