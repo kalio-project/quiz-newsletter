@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Vers un possible état d’urgence ?",
+  "date": "21/10/2026",
+  "img": "archives/2026-10-21/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Qui est le principal suspect identifié en lien avec l'incendie de la mairie de Limoges ?",
+      "options": [
+        "Un membre de l'ultradroite",
+        "Un individu fiché S pour son appartenance à l'ultragauche",
+        "Un élu local de l'opposition",
+        "Un manifestant pacifique"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que le suspect serait fiché S pour son appartenance à l'ultragauche.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle a été la cause du décès d'un homme de 65 ans à Ghisonaccia, en Haute-Corse, ce mardi ?",
+      "options": [
+        "Une crise cardiaque",
+        "Un accident de la route",
+        "Il a été emporté par les eaux lors d'intempéries",
+        "Une agression"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise qu'un homme de 65 ans est mort après avoir été emporté par les eaux à Ghisonaccia, en Haute-Corse.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel seuil symbolique le taux d'emprunt de la France sur 10 ans a-t-il dépassé ce mercredi, pour la première fois depuis 2002 ?",
+      "options": [
+        "2 %",
+        "3,5 %",
+        "5 %",
+        "10 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Le taux auquel la France emprunte sur 10 ans a dépassé le seuil symbolique de 5 % ce mercredi, une 1re depuis 2002.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle nouvelle mesure Spotify va-t-il mettre en place pour les abonnements Famille et Duo ?",
+      "options": [
+        "Exiger une preuve de parenté",
+        "Demander un justificatif de domicile trimestriel",
+        "Scanner un QR code dans les 7 jours pour confirmer la résidence sous le même toit",
+        "Limiter le nombre d'appareils connectés simultanément"
+      ],
+      "correct": 2,
+      "explication": "Spotify va renforcer ses contrôles en demandant aux abonnés de scanner un QR code dans les 7 jours pour confirmer qu’ils vivent bien sous le même toit.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel pays a réintroduit la peine de mort ce mardi, après l'avoir abolie en 2018 ?",
+      "options": [
+        "Le Brésil",
+        "Le Burkina Faso",
+        "L'Ukraine",
+        "La Russie"
+      ],
+      "correct": 1,
+      "explication": "Le Burkina Faso a réintroduit la peine de mort, qui avait été abolie en 2018, par un vote unanime de son assemblée législative.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel document légal historique, organisant l'esclavage dans les colonies françaises, a été officiellement supprimé par le Parlement ce mardi ?",
+      "options": [
+        "La Déclaration des droits de l'homme et du citoyen",
+        "Le Code civil",
+        "Le Code noir",
+        "L'Ordonnance de Villers-Cotterêts"
+      ],
+      "correct": 2,
+      "explication": "Le Parlement a voté la suppression officielle du 'Code noir', promulgué par Louis XIV en 1685.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon un rapport de l'ONU, vers quel réchauffement climatique le monde se dirige-t-il d'ici à 2100, en raison de politiques jugées insuffisantes ?",
+      "options": [
+        "+1,5 °C",
+        "+2,6 °C",
+        "+0,5 °C",
+        "+3,5 °C"
+      ],
+      "correct": 1,
+      "explication": "L'ONU estime que le monde se dirige vers un réchauffement de +2,6 °C d'ici à 2100, rendant l'objectif de +1,5 °C de l'Accord de Paris inatteignable.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel est le nom du vaccin thérapeutique anticancer développé à Besançon qui affiche des résultats prometteurs ?",
+      "options": [
+        "OncoVax",
+        "UCPVax",
+        "ImmunoCell",
+        "CancerShield"
+      ],
+      "correct": 1,
+      "explication": "Le vaccin thérapeutique anticancer UCPVax, développé à Besançon, affiche des résultats prometteurs.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle mesure exceptionnelle est réclamée par certains responsables politiques en France, permettant notamment de faciliter les perquisitions et d'interdire des rassemblements ?",
+      "options": [
+        "L'application de l'article 49.3",
+        "La déclaration de l'état d'urgence",
+        "La tenue d'un référendum",
+        "La mobilisation générale de l'armée"
+      ],
+      "correct": 1,
+      "explication": "Plusieurs responsables politiques réclament l'état d'urgence, qui permet de faciliter certaines perquisitions et d'interdire des rassemblements.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel article de la Constitution française est évoqué comme permettant au président d'exercer des pouvoirs exceptionnels face à une menace grave et immédiate ?",
+      "options": [
+        "L'article 11",
+        "L'article 16",
+        "L'article 38",
+        "L'article 49"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Certains médias évoquent également l’article 16 de la Constitution, qui permet au président d’exercer tem.'",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
