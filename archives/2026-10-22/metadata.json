@@ -1,0 +1,127 @@
+{
+  "titre": "🚨À quoi faut-il s’attendre samedi ?",
+  "date": "22/10/2026",
+  "img": "archives/2026-10-22/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de personnes ont été retrouvées mortes suite aux fortes pluies qui ont touché le sud-est de la France et la Corse ces derniers jours ?",
+      "options": [
+        "2 personnes",
+        "3 personnes",
+        "4 personnes",
+        "5 personnes"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Au moins 4 personnes sont mortes après les fortes pluies qui ont touché le sud-est de la France et la Corse ces derniers jours'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel département d'outre-mer français a activé le plan d’urgence Orsec “Sécheresse” suite à une forte baisse du niveau des cours d’eau liée à un épisode El Niño ?",
+      "options": [
+        "La Réunion",
+        "La Martinique",
+        "La Guadeloupe",
+        "La Guyane"
+      ],
+      "correct": 3,
+      "explication": "Le texte mentionne : 'En Guyane, le plan d’urgence Orsec “Sécheresse” a été activé ce mercredi face à la forte baisse du niveau des cours d’eau.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle a été la demande infructueuse de Donald Trump au patron de Google concernant Google Maps ?",
+      "options": [
+        "De renommer le golfe du Mexique en “golfe d’Amérique” pour tous les utilisateurs",
+        "De renommer l'océan Pacifique en “océan Trump”",
+        "De renommer l'océan Atlantique en “océan Trump” ou en “océan des Amériques”",
+        "De renommer Google Maps en “Trump Maps”"
+      ],
+      "correct": 2,
+      "explication": "Le texte dit : 'Donald Trump a demandé au patron de Google de renommer l’océan Atlantique en “océan Trump” ou en “océan des Amériques” sur Google Maps, mais sa demande a été refusée.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qu'est-ce qui a poussé l'éditeur canadien Boréal à mettre fin à sa collaboration avec l'auteur Thélyson Orélien ?",
+      "options": [
+        "Des accusations de plagiat avéré",
+        "La découverte de traces d'utilisation de l'IA dans les métadonnées de documents de travail",
+        "Un désaccord sur les droits d'auteur du roman",
+        "L'incapacité de l'auteur à respecter les délais de publication"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'L’IA aurait été utilisée pour écrire le roman de Thélyson Orélien, “C’était ça ou mourir”, selon son éditeur canadien Boréal. Après avoir découvert de nouvelles traces d’utilisation de l’IA dans les métadonnées de plusieurs documents de travail, la maison d’édition a annoncé mettre fin à leur collaboration.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Selon une étude de Panorabanques, quel pourcentage des Français sont à découvert au moins une fois par an ?",
+      "options": [
+        "18 %",
+        "25 %",
+        "43 %",
+        "50 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '43 % des Français sont à découvert au moins une fois par an, selon une étude publiée ce jeudi par Panorabanques.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel tableau de Claude Monet, estimé entre 22 et 30 millions d'euros, est mis aux enchères ce jeudi à Paris, atteignant un record d'estimation en France ?",
+      "options": [
+        "Les Nymphéas",
+        "Impression, soleil levant",
+        "Iris",
+        "Le Pont japonais"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Un tableau du peintre français Claude Monet, intitulé “Iris”, est mis aux enchères ce jeudi à Paris par Sotheby’s. Son prix est estimé entre 22 et 30 millions d’euros, frais compris, un record pour une estimation en France.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Dans quel pays deux femmes, une Autrichienne et une Suissesse, ont-elles été retenues en otage pendant plus d'un an avant d'être libérées ?",
+      "options": [
+        "Le Mali",
+        "Le Niger",
+        "Le Tchad",
+        "La Somalie"
+      ],
+      "correct": 1,
+      "explication": "Le texte annonce : '2 femmes de 69 et 76 ans, une Autrichienne et une Suissesse, Eva Gretzmacher et Claudia Abbt, ont été libérées après avoir été retenues en otage au Niger pendant plus d’1 an.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels sont les principaux groupes appelant à la mobilisation du samedi 24 octobre, surnommée 'acte II' ?",
+      "options": [
+        "Les Gilets jaunes et les syndicats étudiants uniquement",
+        "Les Gilets jaunes, les syndicats étudiants UNEF et Union étudiante, la CGT et La France insoumise",
+        "Uniquement la CGT et La France insoumise",
+        "Les Gilets jaunes et le gouvernement"
+      ],
+      "correct": 1,
+      "explication": "Le texte dit : 'une coordination de Gilets jaunes... appelle à un acte II ce samedi 24 octobre... D’autres organisations appellent à manifester : les syndicats étudiants UNEF et Union étudiante, la CGT et La France insoumise'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel était l'écart entre le nombre de manifestants prévus par les services de renseignement et le nombre réel comptabilisé par le ministère le 17 octobre ?",
+      "options": [
+        "Prévus : 100 000, Comptabilisés : 250 000",
+        "Prévus : 200 000, Comptabilisés : 550 000",
+        "Prévus : 300 000, Comptabilisés : 400 000",
+        "Prévus : 50 000, Comptabilisés : 150 000"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Selon le ministre de l’Intérieur, Laurent Nuñez, les services de renseignement prévoyaient un peu plus de 200 000 manifestants, contre 550 000 comptabilisés par le ministère, soit près de trois fois plus.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle accusation les démocrates ont-ils formulée contre le gouvernement Trump concernant les élections de mi-mandat aux États-Unis ?",
+      "options": [
+        "D'avoir mené une campagne de désinformation",
+        "D'avoir commis des fraudes électorales massives",
+        "D'avoir mené une “campagne d’intimidation” contre les responsables chargés d’organiser les élections",
+        "D'avoir utilisé des fonds publics pour financer la campagne"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Les démocrates, le parti opposé à Donald Trump, accusent son gouvernement de mener une “campagne d’intimidation” contre les responsables chargés d’organiser les élections'.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
