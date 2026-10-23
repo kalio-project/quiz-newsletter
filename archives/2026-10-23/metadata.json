@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Macron s’attaque-t-il au droit de manifester ?",
+  "date": "23/10/2026",
+  "img": "archives/2026-10-23/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Où a eu lieu le séisme de magnitude 7 mentionné dans les infos en bref ?",
+      "options": [
+        "En Chine, dans une région montagneuse et reculée du Tibet.",
+        "Au Japon, près de la côte est.",
+        "En Turquie, dans la région d'Anatolie.",
+        "Au Népal, dans l'Himalaya."
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : \"Au moins 16 personnes ont été tuées et 65 blessées dans un séisme de magnitude 7 survenu jeudi soir dans une région montagneuse et reculée du Tibet, en Chine.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel virus, détecté pour la première fois chez l'humain, a causé un décès à Lyon début octobre ?",
+      "options": [
+        "Le virus Ebola.",
+        "Le virus Shamonda.",
+        "Le virus de la grippe aviaire.",
+        "Le virus Zika."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Un patient est décédé début octobre à Lyon après avoir été infecté par le virus Shamonda, détecté pour la première fois chez l’être humain.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Selon une étude publiée dans Nature Health, combien de personnes sont mortes à cause de la chaleur dans les villes européennes cet été ?",
+      "options": [
+        "Environ 10 000 personnes.",
+        "Plus de 50 000 personnes.",
+        "Près de 25 000 personnes.",
+        "Moins de 5 000 personnes."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : \"Plus de 50 000 personnes sont mortes à cause de la chaleur dans les villes européennes cet été, dont près des deux tiers en raison du changement climatique, selon une étude publiée ce vendredi dans Nature Health.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel pourcentage des récifs coralliens du monde est menacé d'extinction d'ici 50 ans, selon l'Union internationale pour la conservation de la nature ?",
+      "options": [
+        "25 %",
+        "50 %",
+        "75 %",
+        "96 %"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : \"96 % des récifs coralliens du monde sont menacés d’extinction d’ici 50 ans, en raison du changement climatique, selon l’Union internationale pour la conservation de la nature.\"",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "À partir de quelle date les calèches touristiques de Central Park, à New York, seront-elles interdites ?",
+      "options": [
+        "Le 1er janvier 2025.",
+        "Le 1er juin 2028.",
+        "Le 1er décembre 2027.",
+        "Le 1er juillet 2026."
+      ],
+      "correct": 1,
+      "explication": "Le texte stipule : \"Les calèches touristiques de Central Park, à New York, seront interdites à partir du 1er juin 2028.\"",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel tableau du peintre français Claude Monet a été vendu 50 millions d'euros à Paris, un record pour des enchères d'art en France ?",
+      "options": [
+        "\"Les Nymphéas\"",
+        "\"Impression, soleil levant\"",
+        "\"Iris\"",
+        "\"La Cathédrale de Rouen\""
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"“Iris”, un tableau du peintre français Claude Monet, a été vendu 50 millions d’euros à Paris ce jeudi, un record pour des enchères d’art en France.\"",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle technologie est utilisée par le vaccin anticancer personnalisé qui a montré un bénéfice pour la première fois chez des patients ?",
+      "options": [
+        "La thérapie génique.",
+        "La chimiothérapie ciblée.",
+        "La technologie de l'ARN messager.",
+        "Les cellules souches."
+      ],
+      "correct": 2,
+      "explication": "Le texte dit : \"Il utilise la technologie de l’ARN messager, comme certains vaccins contre le Covid-19.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Qui a déposé un recours devant le Conseil d'État suite aux déclarations d'Emmanuel Macron sur l'interdiction des manifestations ?",
+      "options": [
+        "La France insoumise et l'écologiste Marine Tondelier.",
+        "L'association de défense des libertés constitutionnelles (Adelico) et le Syndicat de la magistrature.",
+        "La Ligue des droits de l'homme et l'ONU.",
+        "Bruno Retailleau et le président des Républicains."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"L’association de défense des libertés constitutionnelles, l’Adelico, et le Syndicat de la magistrature ont déposé jeudi soir un recours devant le Conseil d’État pour tenter d’empêcher l’application de ces mesures\".",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon Paul Cassia, professeur de droit et membre de l’Adelico, pourquoi la compétence du président pour interdire des manifestations est-elle contestée ?",
+      "options": [
+        "Car il est ministre de l'Intérieur et non président.",
+        "Car il n'est ni ministre de l'Intérieur, ni préfet.",
+        "Car il n'a pas consulté le Parlement.",
+        "Car il n'est pas membre du Conseil d'État."
+      ],
+      "correct": 1,
+      "explication": "Le texte rapporte : \"Selon Paul Cassia, professeur de droit et membre de l’Adelico, Emmanuel Macron 'n’est ni ministre de l’Intérieur, ni préfet'.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Qu'a demandé le ministre de la Justice, Gérald Darmanin, concernant les personnes jugées pour des violences ou des pillages lors de manifestations ?",
+      "options": [
+        "De les condamner systématiquement à de la prison ferme.",
+        "De réclamer, dans la plupart des cas, une privation temporaire du droit de vote.",
+        "De leur imposer une amende record.",
+        "De les obliger à effectuer des travaux d'intérêt général."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"le ministre de la Justice, Gérald Darmanin, a demandé aux procureurs de réclamer, 'dans la plupart des cas', une privation temporaire du droit de vote pour les personnes jugées pour des violences ou des pillages.\"",
+      "theme": "JUSTICE"
+    }
+  ]
+}
