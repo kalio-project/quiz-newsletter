@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Pourquoi la France emprunte de plus en plus cher",
+  "date": "26/10/2026",
+  "img": "archives/2026-10-26/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Qui a été réélu président du Brésil ce dimanche ?",
+      "options": [
+        "Lula",
+        "Flávio Bolsonaro",
+        "Jair Bolsonaro",
+        "Dilma Rousseff"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique que \"Lula a été réélu président du Brésil ce dimanche avec 51,79 % des voix\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel dirigeant politique a été réélu à la tête de son parti avec près de 99 % des voix ?",
+      "options": [
+        "Jordan Bardella",
+        "Marine Le Pen",
+        "Jean-Luc Mélenchon",
+        "Éric Zemmour"
+      ],
+      "correct": 0,
+      "explication": "Le texte mentionne que \"Jordan Bardella a été réélu à la tête du Rassemblement national avec près de 99 % des voix\".",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel parti a remporté les élections législatives anticipées en Serbie après deux ans de manifestations contre la corruption ?",
+      "options": [
+        "“Liste des étudiants”",
+        "Parti progressiste serbe",
+        "Parti socialiste de Serbie",
+        "Parti démocratique"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique que \"le parti “Liste des étudiants” a remporté les élections législatives anticipées, battant celui de l’ex-président Aleksandar Vučić\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel groupe a revendiqué une nouvelle attaque contre l'aéroport de Riyad en Arabie Saoudite ?",
+      "options": [
+        "Les rebelles houthis",
+        "Al-Qaïda",
+        "Daech",
+        "Les Forces armées yéménites"
+      ],
+      "correct": 0,
+      "explication": "Le texte dit que \"Les rebelles houthis du Yémen ont revendiqué ce lundi une nouvelle attaque contre l’aéroport de Riyad, la capitale saoudienne\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle ancienne ministre de la Santé française, décédée récemment, est connue pour ses actions lors de l'épidémie de sida ?",
+      "options": [
+        "Michèle Barzach",
+        "Simone Veil",
+        "Roselyne Bachelot",
+        "Agnès Buzyn"
+      ],
+      "correct": 0,
+      "explication": "Le texte annonce le décès de \"Michèle Barzach, ministre de la Santé de 1986 à 1988\", et précise qu'elle \"avait favorisé la diffusion du préservatif et autorisé la vente libre de seringues\".",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle émission emblématique de TF1 va disparaître de l'antenne en janvier 2027, après 37 ans de diffusion ?",
+      "options": [
+        "Les “Feux de l’amour”",
+        "Des chiffres et des lettres",
+        "Question pour un champion",
+        "Plus belle la vie"
+      ],
+      "correct": 0,
+      "explication": "Le texte déclare : \"Les “Feux de l’amour” ne seront plus diffusés sur TF1, après 37 ans d'antenne\".",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel type de cancer un nouveau traitement basé sur deux immunothérapies a-t-il permis de réduire le risque de décès de 58 % ?",
+      "options": [
+        "Le cancer du poumon à petites cellules",
+        "Le cancer du sein",
+        "Le cancer du côlon",
+        "Le cancer de la prostate"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique qu'un \"nouveau traitement contre le cancer du poumon à petites cellules a réduit le risque de décès de 58 %\".",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est le principal poste de dépenses de l'État français en 2026, selon les prévisions du texte ?",
+      "options": [
+        "Les intérêts de la dette",
+        "L'enseignement",
+        "La défense",
+        "La santé publique"
+      ],
+      "correct": 0,
+      "explication": "Le texte mentionne : \"Ils [les intérêts de la dette] constituent désormais le premier poste de dépenses de l’État, devant l’enseignement et la défense\".",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Parmi les facteurs mentionnés, lequel *n'est pas* une raison expliquant la hausse des taux d'emprunt de la France ?",
+      "options": [
+        "La guerre en Iran",
+        "Un déficit public réduit",
+        "L'incertitude politique",
+        "Les violences des 17 et 18 octobre"
+      ],
+      "correct": 1,
+      "explication": "Le texte liste la \"guerre en Iran\", le \"déficit [qui] tourne autour de 5 % du PIB\", l'\"incertitude politique\" et les \"violences des 17 et 18 octobre\" comme facteurs. Un déficit \"réduit\" est l'inverse de ce qui est décrit (le déficit est élevé).",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "À partir de quelle année les bourses étudiantes devraient-elles augmenter en fonction de l'inflation ?",
+      "options": [
+        "Rentrée 2027",
+        "Rentrée 2028",
+        "Rentrée 2026",
+        "Rentrée 2025"
+      ],
+      "correct": 0,
+      "explication": "Le texte précise : \"Dès la rentrée 2027, les bourses étudiantes devraient augmenter en fonction de l’inflation\".",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
