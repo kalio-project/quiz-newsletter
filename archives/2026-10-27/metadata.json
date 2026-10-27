@@ -1,0 +1,127 @@
+{
+  "titre": "🚨La France peut-elle couper les réseaux sociaux en cas d’émeutes ?",
+  "date": "27/10/2026",
+  "img": "archives/2026-10-27/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pour quelle raison Flavio Bolsonaro a-t-il initialement cherché à faire annuler l'élection présidentielle brésilienne ?",
+      "options": [
+        "Des soupçons de fraude électorale.",
+        "Le prolongement du délai de vote par la Cour suprême.",
+        "L'utilisation illégale de fonds de campagne par Lula.",
+        "L'ingérence étrangère dans le scrutin."
+      ],
+      "correct": 1,
+      "explication": "Flavio Bolsonaro a reproché à la Cour suprême du Brésil d'avoir prolongé de 2 heures le délai de vote, souhaitant pour cette raison faire annuler le scrutin.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle personnalité a obtenu une trêve humanitaire à Olechky, ville ukrainienne occupée par la Russie ?",
+      "options": [
+        "La Première dame de France, Brigitte Macron.",
+        "Le Secrétaire général des Nations unies, António Guterres.",
+        "La Première dame des États-Unis, Melania Trump.",
+        "La Présidente de la Commission européenne, Ursula von der Leyen."
+      ],
+      "correct": 2,
+      "explication": "La trêve humanitaire à Olechky, ville ukrainienne occupée, a été obtenue par la Première dame des États-Unis, Melania Trump.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle a été la raison principale des frappes jordaniennes en Syrie mentionnées dans le texte ?",
+      "options": [
+        "En soutien à l'opposition syrienne.",
+        "En réponse à des incursions frontalières.",
+        "En représailles à un attentat meurtrier contre une église en Jordanie.",
+        "Pour détruire des dépôts d'armes chimiques."
+      ],
+      "correct": 2,
+      "explication": "Les frappes jordaniennes en Syrie ont été menées en représailles à un attentat meurtrier contre une église en Jordanie, attribué à des islamistes.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon une enquête de l’Éducation nationale, quelle proportion des élèves du CE2 au CM2 déclare avoir subi au moins une forme de violence sexuelle à l’école ?",
+      "options": [
+        "Un quart.",
+        "Un tiers.",
+        "La moitié.",
+        "Deux tiers."
+      ],
+      "correct": 1,
+      "explication": "L'enquête de l'Éducation nationale révèle qu'un tiers des élèves du CE2 au CM2 déclarent avoir subi au moins une forme de violence sexuelle à l'école.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel footballeur a remporté son premier Ballon d'Or à Londres ?",
+      "options": [
+        "Lionel Messi.",
+        "Cristiano Ronaldo.",
+        "Harry Kane.",
+        "Kylian Mbappé."
+      ],
+      "correct": 2,
+      "explication": "Harry Kane a reçu son premier Ballon d'Or, tandis qu'Alexia Putellas a remporté le titre pour la troisième fois.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel rappeur américain sera la tête d’affiche du spectacle de mi-temps du prochain Super Bowl en 2027 ?",
+      "options": [
+        "Kanye West.",
+        "Eminem.",
+        "Drake.",
+        "Jay-Z."
+      ],
+      "correct": 3,
+      "explication": "C'est le rappeur Jay-Z qui a été annoncé comme tête d'affiche du spectacle de mi-temps du Super Bowl 2027 à Los Angeles.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Selon une étude du laboratoire Johnson & Johnson, l'association de trois traitements permettrait de prolonger la survie de patients atteints d'un cancer de la prostate métastatique de combien d'années ?",
+      "options": [
+        "6 mois.",
+        "1 an.",
+        "2 ans.",
+        "5 ans."
+      ],
+      "correct": 2,
+      "explication": "L'étude indique que l'association de trois traitements (chimiothérapie et deux traitements hormonaux) pourrait prolonger la survie de 2 ans pour les patients atteints d'un cancer de la prostate métastatique.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel membre du gouvernement aurait demandé aux grands opérateurs français de se tenir prêts à suspendre certaines plateformes de réseaux sociaux en cas de nouvelles violences, selon Blast ?",
+      "options": [
+        "Emmanuel Macron.",
+        "Gabriel Attal.",
+        "Laurent Nuñez.",
+        "Sébastien Lecornu."
+      ],
+      "correct": 3,
+      "explication": "Selon Blast, le Premier ministre Sébastien Lecornu a demandé aux quatre grands opérateurs français de se tenir prêts à suspendre certaines plateformes.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon le Conseil d'État, dans quelles circonstances exceptionnelles une coupure des réseaux sociaux pourrait-elle être jugée légale en France ?",
+      "options": [
+        "Si elle est décidée par le gouvernement en cas d'urgence absolue.",
+        "Si elle est indispensable face à des événements graves, sans alternative moins radicale et limitée dans le temps.",
+        "Si elle est autorisée par la Commission européenne.",
+        "Si elle est approuvée par un vote populaire."
+      ],
+      "correct": 1,
+      "explication": "Le Conseil d'État a fixé trois conditions : être indispensable face à des événements particulièrement graves, ne pas avoir d’alternative moins radicale et durer uniquement le temps nécessaire.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel livre a été découvert chez le suspect de l'attentat raciste de Trappes, qui a nié le caractère raciste des faits ?",
+      "options": [
+        "\"Le Capital\" de Karl Marx.",
+        "\"La Controverse de Sion\" de Douglas Reed.",
+        "\"Mein Kampf\" d'Adolf Hitler.",
+        "\"Les Protocoles des Sages de Sion\"."
+      ],
+      "correct": 2,
+      "explication": "Un exemplaire de \"Mein Kampf\", le livre d'Adolf Hitler, a été découvert chez le suspect de l'attentat de Trappes.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
