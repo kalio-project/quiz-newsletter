@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Ce qu'il faut retenir de ce 28 octobre",
+  "date": "28/10/2026",
+  "img": "archives/2026-10-28/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pourquoi Flavio Bolsonaro, candidat d'extrême droite, a-t-il quitté le Brésil pour Miami après sa défaite ?",
+      "options": [
+        "Pour des raisons familiales.",
+        "Pour des vacances bien méritées.",
+        "Il est visé par plusieurs enquêtes pour détournement de fonds et blanchiment d’argent.",
+        "Pour préparer sa prochaine campagne présidentielle."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que Flavio Bolsonaro est 'visé par plusieurs enquêtes pour détournement de fonds et blanchiment d’argent, ainsi que sur un possible financement étranger de sa campagne'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel type d'événement le gouvernement français a-t-il annoncé suite à l'attentat raciste de Trappes ?",
+      "options": [
+        "Une journée de deuil national.",
+        "Un hommage national.",
+        "Une cérémonie religieuse.",
+        "L'arrestation immédiate de l'auteur."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Le gouvernement annonce un “hommage national” après l’attentat raciste de Trappes'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la position du Royaume-Uni concernant d'éventuelles compensations financières pour l'esclavage colonial ?",
+      "options": [
+        "Il a offert des compensations partielles.",
+        "Il étudie la possibilité de verser des compensations.",
+        "Il a présenté des excuses officielles, mais sans compensation.",
+        "Il rejette toute idée de compensation financière."
+      ],
+      "correct": 3,
+      "explication": "Le texte mentionne que le Royaume-Uni 'rejette toute idée de compensation financière' malgré la reconnaissance des 'grandes souffrances et injustices du passé' par le roi Charles III.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon le rapport The Lancet Countdown, comment le changement climatique doit-il être considéré ?",
+      "options": [
+        "Une priorité économique mondiale.",
+        "Une urgence sanitaire mondiale.",
+        "Un phénomène naturel inévitable.",
+        "Un sujet de préoccupation secondaire."
+      ],
+      "correct": 1,
+      "explication": "Le rapport The Lancet Countdown déclare que 'Le changement climatique doit devenir une \"urgence sanitaire mondiale\"'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle est la principale raison de la baisse des dons des Français cette année, selon l'enquête Odoxa ?",
+      "options": [
+        "Une diminution de l'intérêt pour les causes caritatives.",
+        "Une méfiance envers les associations.",
+        "La baisse de leur pouvoir d'achat.",
+        "Un manque de sollicitations."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Les Français donnent en moyenne 18 € de moins que l’an dernier en raison de la baisse de leur pouvoir d’achat'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Parmi les noms suivants, lequel est l'un des quatre romanciers finalistes du Prix Goncourt 2026 mentionnés dans le texte ?",
+      "options": [
+        "Amélie Nothomb",
+        "Philippe Jaenada",
+        "Marc Levy",
+        "Leïla Slimani"
+      ],
+      "correct": 1,
+      "explication": "Le texte liste 'Philippe Jaenada' (pour 'L’Inconnue du quai de Javel') comme l'un des finalistes du Prix Goncourt 2026.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel montant chaque sélection féminine qualifiée pour la Coupe du monde 2027 recevra-t-elle pour sa préparation, selon la FIFA ?",
+      "options": [
+        "1 million de dollars.",
+        "1,5 million de dollars.",
+        "2 millions de dollars.",
+        "2,5 millions de dollars."
+      ],
+      "correct": 3,
+      "explication": "Le texte stipule que 'Chaque sélection féminine qualifiée pour la Coupe du monde 2027 recevra 2,5 millions de dollars pour sa préparation'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Combien de sièges sont nécessaires pour obtenir la majorité au Parlement israélien (la Knesset) ?",
+      "options": [
+        "53",
+        "48",
+        "61",
+        "120"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne qu''aucun des deux camps n’atteindrait les 61 sièges nécessaires pour avoir la majorité au Parlement'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la cause probable de la collision entre les deux trains en Espagne, selon le ministre des Transports espagnol ?",
+      "options": [
+        "Une défaillance technique majeure.",
+        "Un acte de sabotage.",
+        "Une erreur humaine.",
+        "Des conditions météorologiques extrêmes."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'L’accident serait dû à une erreur humaine, selon le ministre des Transports espagnol Oscar Puente'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Qui a collaboré avec le sculpteur Auguste Bartholdi pour la charpente métallique de la Statue de la Liberté ?",
+      "options": [
+        "Gustave Courbet",
+        "Gustave Eiffel",
+        "Frédéric Auguste Bartholdi lui-même",
+        "Un collectif d'architectes américains"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que la statue a été conçue par 'le sculpteur Auguste Bartholdi avec la collaboration de Gustave Eiffel pour la charpente métallique.'",
+      "theme": "CULTURE"
+    }
+  ]
+}
