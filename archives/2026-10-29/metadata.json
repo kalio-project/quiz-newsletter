@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Netanyahu peut-il perdre le pouvoir ?",
+  "date": "29/10/2026",
+  "img": "archives/2026-10-29/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon le procureur national antiterroriste, quelles cibles le suspect Kevin T. a-t-il reconnu avoir visées lors de l'attentat raciste ?",
+      "options": [
+        "Des personnes \"de type asiatique, européen ou latino-américain\".",
+        "Des personnes \"de type musulman, africain ou nord-africain\".",
+        "Des personnes \"de type chrétien, américain ou asiatique\".",
+        "Des personnes \"de type juif, slave ou moyen-oriental\"."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que Kevin T. a reconnu avoir ciblé des personnes \"de type musulman, africain ou nord-africain\".",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quelle est l'une des causes possibles mentionnées pour la collision des deux trains en Espagne ?",
+      "options": [
+        "Une défaillance technique majeure des deux locomotives.",
+        "Un acte de sabotage ciblant le réseau ferroviaire.",
+        "Le centre de contrôle aurait autorisé un train à reprendre sa circulation alors qu’un autre était toujours à l’arrêt.",
+        "Une erreur humaine du conducteur qui s'est endormi."
+      ],
+      "correct": 2,
+      "explication": "Des enregistrements audio \"semblent montrer que le centre de contrôle a autorisé un train à reprendre sa circulation alors qu’un autre était toujours à l’arrêt.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où Flavio Bolsonaro s'est-il exilé après sa défaite à la présidentielle et à qui se compare-t-il ?",
+      "options": [
+        "À Paris, se comparant à Napoléon Bonaparte.",
+        "À Londres, se comparant à Winston Churchill.",
+        "À Miami, se comparant au général de Gaulle.",
+        "À Rome, se comparant à Jules César."
+      ],
+      "correct": 2,
+      "explication": "Flavio Bolsonaro \"a fui aux États-Unis suite à sa défaite à la présidentielle [...] Il affirme vouloir diriger l’opposition depuis Miami, se comparant au général de Gaulle lors de la Seconde guerre mondiale.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel a été le bénéfice net de TotalEnergies au 3e trimestre 2026 et quelle a été la demande du gouvernement français ?",
+      "options": [
+        "3,7 milliards de dollars, et le gouvernement a demandé d'investir dans les énergies renouvelables.",
+        "8,3 milliards de dollars, et le gouvernement a demandé de baisser ses prix à la pompe pour les consommateurs.",
+        "8,3 millions de dollars, et le gouvernement a demandé de partager les profits avec les employés.",
+        "3,7 millions de dollars, et le gouvernement a demandé de maintenir les prix actuels."
+      ],
+      "correct": 1,
+      "explication": "\"TotalEnergies a réalisé un bénéfice net record de 8,3 milliards de dollars au 3e trimestre 2026 [...] Le gouvernement français a demandé à l’entreprise de se montrer 'exemplaire' et de baisser ses prix à la pompe pour les consommateurs.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon le collectif Les Morts de la Rue, quelle est l'espérance de vie moyenne des personnes sans domicile décédées en France en 2025 comparée à la population générale ?",
+      "options": [
+        "Environ 10 ans de moins.",
+        "Environ 20 ans de moins.",
+        "Environ 30 ans de moins.",
+        "Environ 40 ans de moins."
+      ],
+      "correct": 2,
+      "explication": "Elles avaient en moyenne 49 ans au moment de leur décès, soit environ 30 ans de moins que dans l’ensemble de la population.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel Ballon d'Or a été désigné \"Meilleur Ballon d’Or de tous les temps\" lors d'un vote en ligne du public ?",
+      "options": [
+        "Le Ballon d'Or de Michel Platini en 1984.",
+        "Le Ballon d'Or de Lionel Messi en 2012.",
+        "Le Ballon d'Or de Cristiano Ronaldo en 2008.",
+        "Le Ballon d'Or de Zinédine Zidane en 1998."
+      ],
+      "correct": 2,
+      "explication": "Le Ballon d’Or de Cristiano Ronaldo en 2008 a été désigné “Meilleur Ballon d’Or de tous les temps” à l’issue d’un vote en ligne du public.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel changement majeur le Sénat a-t-il voté concernant les crimes sexuels commis sur des mineurs ?",
+      "options": [
+        "La réduction de la peine maximale.",
+        "L'imprescriptibilité des crimes sexuels.",
+        "L'augmentation du délai de prescription à 10 ans après les faits.",
+        "La mise en place d'un système de médiation obligatoire."
+      ],
+      "correct": 1,
+      "explication": "Le Sénat a voté pour l'imprescriptibilité des crimes sexuels commis sur des mineurs, permettant aux victimes de porter plainte toute leur vie.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Après les élections législatives en Israël, combien de sièges sont nécessaires pour gouverner à la Knesset et quel camp a atteint ce seuil ?",
+      "options": [
+        "53 sièges, obtenus par le bloc de Benjamin Netanyahu.",
+        "48 sièges, obtenus par l'opposition menée par Gadi Eisenkot.",
+        "61 sièges, et aucun camp ne l'a obtenue.",
+        "120 sièges, et la Liste unifiée a remporté la majorité absolue."
+      ],
+      "correct": 2,
+      "explication": "Pour gouverner, il faut réunir une majorité de 61 députés. Le texte indique qu'aucun camp ne l'a obtenue.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Si Benjamin Netanyahu perd le pouvoir et est reconnu coupable de faits relevant de la “turpitude morale”, quelle pourrait être l'une des conséquences mentionnées ?",
+      "options": [
+        "Une amende symbolique.",
+        "Une interdiction d’exercer une fonction publique pendant sept ans.",
+        "Une obligation de s'exiler pendant un an.",
+        "Une nomination à un poste diplomatique."
+      ],
+      "correct": 1,
+      "explication": "S’il était reconnu coupable de faits relevant de la “turpitude morale”, il pourrait aussi être interdit d’exercer une fonction publique pendant sept ans.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Concernant le 17 octobre, qu'est-ce qu'Emmanuel Macron a reconnu comme une erreur de l'État ?",
+      "options": [
+        "Une mauvaise gestion des fonds publics.",
+        "Un défaut d’anticipation de la situation.",
+        "Un manque de communication avec les partis d'opposition.",
+        "L'absence de réformes éducatives suffisantes."
+      ],
+      "correct": 1,
+      "explication": "Emmanuel Macron reconnaît une erreur de l’État : \"C'est une situation inédite par un défaut d’anticipation, notre faute\".",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
