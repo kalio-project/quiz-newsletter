@@ -1,0 +1,127 @@
+{
+  "titre": "🚨À quoi faut-il s’attendre pour ce troisième week-end de mobilisation ?",
+  "date": "30/10/2026",
+  "img": "archives/2026-10-30/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Lors des élections législatives israéliennes, quel bloc a obtenu un nombre record de sièges ?",
+      "options": [
+        "La coalition de Benjamin Netanyahou",
+        "Le bloc de l’opposition",
+        "Les deux listes arabes",
+        "Aucun bloc n'a obtenu de record"
+      ],
+      "correct": 2,
+      "explication": "Les deux listes arabes ont obtenu 19 sièges, ce qui est un record selon le texte.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle a été la principale conséquence de la frappe russe sur la gare de Dnipro en Ukraine ?",
+      "options": [
+        "La destruction complète de la gare",
+        "Le retrait des troupes ukrainiennes",
+        "Au moins 14 personnes tuées et 14 autres blessées",
+        "L'appel à une trêve immédiate par Volodymyr Zelensky"
+      ],
+      "correct": 2,
+      "explication": "Au moins 14 personnes ont été tuées et 14 autres blessées dans une frappe russe sur la gare de Dnipro, ce jeudi.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel média russe, connu pour son indépendance, a annoncé sa fermeture sous la pression des autorités ?",
+      "options": [
+        "RT (Russia Today)",
+        "Sputnik",
+        "Novaïa Gazeta",
+        "Kommersant"
+      ],
+      "correct": 2,
+      "explication": "Le média russe Novaïa Gazeta, connu pour son indépendance et son opposition à la guerre en Ukraine, a annoncé sa fermeture sous la pression des autorités russes.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui a proposé une primaire élargie pour \"empêcher un deuxième tour entre LFI et le RN\" ?",
+      "options": [
+        "Édouard Philippe",
+        "Raphaël Glucksmann",
+        "Gabriel Attal",
+        "Bruno Retailleau"
+      ],
+      "correct": 2,
+      "explication": "Gabriel Attal, candidat Renaissance à la présidentielle, a proposé une primaire élargie pour “empêcher un deuxième tour entre LFI et le RN”.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Contre quoi les dockers français et européens manifestent-ils lors de leur grève ?",
+      "options": [
+        "La privatisation des ports",
+        "Un projet européen facilitant le transit de matériel militaire et le projet de budget du gouvernement",
+        "La réduction de leurs salaires",
+        "La suppression de leurs jours de congé"
+      ],
+      "correct": 1,
+      "explication": "Les dockers dénoncent un projet européen visant à faciliter le transit de matériel militaire par les infrastructures civiles, ainsi que le projet de budget du gouvernement.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pourquoi Google est-il visé par une enquête en Finlande ?",
+      "options": [
+        "Pour évasion fiscale",
+        "Pour avoir déforesté 300 hectares afin de construire un data center",
+        "Pour des pratiques monopolistiques",
+        "Pour non-respect des données personnelles"
+      ],
+      "correct": 1,
+      "explication": "Google est visé par une enquête en Finlande après avoir déforesté 300 hectares pour construire un data center, sans attendre les évaluations environnementales.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle recommandation sanitaire a été émise concernant les 7 millions de préservatifs \"non conformes\" rappelés en Europe ?",
+      "options": [
+        "De les rapporter en pharmacie",
+        "De faire un dépistage IST et un test de grossesse en cas d'utilisation",
+        "D'éviter toute relation sexuelle",
+        "De consulter un médecin immédiatement"
+      ],
+      "correct": 1,
+      "explication": "Les autorités recommandent aux personnes qui les ont utilisés de faire un dépistage IST, ainsi qu’un test de grossesse, en cas de retard de règles.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est le principal motif de la mobilisation prévue pour le 3e week-end d'octobre ?",
+      "options": [
+        "La réforme des retraites",
+        "La hausse du coût de la vie",
+        "Les violences policières",
+        "La politique étrangère de la France"
+      ],
+      "correct": 1,
+      "explication": "Les manifestants dénoncent principalement la hausse du coût de la vie, notamment des carburants.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est le statut juridique d'Édouard Philippe dans l'enquête le concernant ?",
+      "options": [
+        "Mis en examen",
+        "Simple témoin",
+        "Témoin assisté",
+        "Accusé"
+      ],
+      "correct": 2,
+      "explication": "Edouard Philippe a été placé sous le statut de témoin assisté dans une enquête pour “détournement de fonds publics”, “favoritisme” et “harcèlement moral”.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Combien de policiers et gendarmes seront mobilisés en France pour le 3e week-end de mobilisation ?",
+      "options": [
+        "60 000",
+        "70 000",
+        "80 000",
+        "50 000"
+      ],
+      "correct": 1,
+      "explication": "Ce samedi, 70 000 policiers et gendarmes seront mobilisés dans toute la France.",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
