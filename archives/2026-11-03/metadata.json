@@ -1,0 +1,127 @@
+{
+  "titre": "🚨L’IA pourrait-elle provoquer un krach boursier ?",
+  "date": "03/11/2026",
+  "img": "archives/2026-11-03/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'Éducation nationale, combien de lycées étaient bloqués en France ce mardi ?",
+      "options": [
+        "Plus de 500",
+        "48",
+        "51",
+        "99"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que \"48 lycées et 51 établissements de l’enseignement supérieur étaient bloqués en France ce mardi, selon l’Éducation nationale.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel est le nombre record de détenus recensé dans les prisons françaises au 1er octobre, selon le ministère de la Justice ?",
+      "options": [
+        "Environ 143 000",
+        "Moins de 70 000",
+        "Près de 91 000",
+        "Une hausse de 7,2 %"
+      ],
+      "correct": 2,
+      "explication": "Le ministère de la Justice a recensé \"près de 91 000 détenus au 1er octobre, un record\".",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon le baromètre du médiateur national de l'énergie, quelle proportion de Français a eu du mal à payer ses factures de gaz ou d'électricité au cours des 12 derniers mois ?",
+      "options": [
+        "Un Français sur deux",
+        "Un Français sur trois",
+        "55 % des moins de 35 ans",
+        "86 % des foyers"
+      ],
+      "correct": 1,
+      "explication": "Le baromètre indique \"Un Français sur trois déclare avoir eu du mal à payer ses factures de gaz ou d’électricité au cours des 12 derniers mois\".",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelles organisations accusent certains produits ultra-transformés d''additive washing' ?",
+      "options": [
+        "Yuka et Foodwatch",
+        "Que Choisir Ensemble et 60 Millions de Consommateurs",
+        "Que Choisir Ensemble et Yuka",
+        "L'UFC-Que Choisir et Greenpeace"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que ces produits sont accusés d''additive washing' par \"Que Choisir Ensemble et Yuka\".",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qui a remporté le Prix Goncourt 2026 selon l'article ?",
+      "options": [
+        "François-Henri Désérable",
+        "Philippe Jaenada",
+        "Les éditions Flammarion",
+        "Vico"
+      ],
+      "correct": 1,
+      "explication": "Le prix Goncourt 2026 \"a été décerné ce mardi à Philippe Jaenada pour son roman “L’inconnue du quai de Javel”\".",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel type de traitement innovant a été réalisé au Japon pour un patient atteint de la maladie de Parkinson ?",
+      "options": [
+        "Une thérapie génique",
+        "Une greffe de cellules dans le cerveau",
+        "L'implantation de micro-puces cérébrales",
+        "Une nouvelle molécule médicamenteuse"
+      ],
+      "correct": 1,
+      "explication": "Un patient atteint de la maladie de Parkinson a reçu \"une greffe de cellules dans le cerveau\", visant à produire des neurones producteurs de dopamine.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel montant cumulé Google, Microsoft, Amazon et Meta prévoient-ils de dépenser en 2026, dont une grande partie dans le développement de l'IA ?",
+      "options": [
+        "Moins de 100 milliards de dollars",
+        "Plus de 740 milliards de dollars",
+        "Environ 480 milliards de dollars",
+        "Près de 13 milliards de dollars"
+      ],
+      "correct": 1,
+      "explication": "Selon le Financial Times, ces entreprises \"prévoient de dépenser ensemble plus de 740 milliards de dollars en 2026, dont une grande partie dans le développement de l’IA.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Qu'est-ce qu'une 'bulle spéculative' selon la définition donnée dans le texte ?",
+      "options": [
+        "Une chute brutale et inattendue des prix des actions en Bourse.",
+        "Une période où les entreprises investissent massivement sans garantie de rentabilité.",
+        "Une situation où le prix des actions grimpe très fortement car les investisseurs anticipent des profits futurs élevés.",
+        "Un phénomène où l'IA provoque un krach boursier généralisé."
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : \"On parle de “bulle spéculative” lorsque le prix des actions grimpe très fortement, car les investisseurs pensent qu’elles vont rapporter beaucoup d’argent à l’avenir.\"",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon SOLIDARITÉS INTERNATIONAL, quelle est la première cause d'insécurité alimentaire dans le monde ?",
+      "options": [
+        "Les catastrophes naturelles",
+        "Les conflits armés",
+        "La pauvreté extrême",
+        "Le changement climatique"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : \"Les conflits sont la 1re cause d’insécurité alimentaire, y compris famine et malnutrition.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Dans quelle région de l'Ukraine au moins 33 personnes ont-elles été tuées dans des bombardements russes sur une école ?",
+      "options": [
+        "Kyiv",
+        "Lviv",
+        "Odessa",
+        "Zaporijjia"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : \"Ça s’est passé dans la région de Zaporijjia, dans le sud-est de l’Ukraine.\"",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}

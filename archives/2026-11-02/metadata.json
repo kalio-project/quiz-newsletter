@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Les élections de mi-mandat pourraient-elles bloquer Donald Trump ?",
+  "date": "02/11/2026",
+  "img": "archives/2026-11-02/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quand le procès en appel des responsables présumés de l'effondrement des immeubles de Marseille, survenu en 2018, s'est-il ouvert ?",
+      "options": [
+        "Le 5 novembre 2018",
+        "Il y a près de 8 ans",
+        "Ce lundi",
+        "Après 7 semaines de procès"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Près de 8 ans après l’effondrement de deux immeubles insalubres rue d’Aubagne, à Marseille... le procès en appel des responsables présumés s’est ouvert ce lundi.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon le texte, qu'est-ce que la trêve à Olechky, une ville ukrainienne occupée par la Russie, a permis de réaliser avant sa fin ?",
+      "options": [
+        "La Russie a prolongé l'occupation de la ville",
+        "L'établissement de nouvelles lignes de front",
+        "L'évacuation de près de 800 personnes et l'acheminement d'aide humanitaire",
+        "La construction de fortifications pour les habitants"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Débutée le 27 octobre, elle a permis d’évacuer près de 800 personnes, selon Melania Trump, et d’acheminer de l’aide humanitaire.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel collectif de jeunes a notamment organisé les manifestations en Allemagne contre le coût de la vie et le possible retour du service militaire ?",
+      "options": [
+        "Allemagne Solidaire",
+        "Génération Z en Action",
+        "Jeunesse en Colère",
+        "GenZ Regelt !"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'Organisés notamment par le collectif de jeunes “GenZ Regelt !”, les rassemblements se sont déroulés dans le calme...'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel était le bilan des victimes de la collision de trains en Espagne, mentionné dans le texte ?",
+      "options": [
+        "Au moins 12 morts étrangers",
+        "Une Française et 69 blessés",
+        "Au moins 69 morts, dont 12 personnes de nationalité étrangère",
+        "Seuls des Espagnols ont été tués dans l'accident"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Cet accident a fait au moins 69 morts, dont 12 personnes de nationalité étrangère...'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Dans quel but principal les près de 3 000 'docteurs juniors' en médecine générale sont-ils déployés en France ?",
+      "options": [
+        "Assurer la formation continue des médecins expérimentés",
+        "Répondre au manque de médecins dans certaines régions, notamment les déserts médicaux",
+        "Mener des recherches médicales innovantes",
+        "Gérer les urgences hospitalières uniquement"
+      ],
+      "correct": 1,
+      "explication": "Le texte stipule : 'L’objectif est de répondre au manque de médecins dans certaines régions.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Combien de signatures la pétition réclamant la suppression de CNews a-t-elle atteint pour ouvrir la voie à un éventuel débat à l'Assemblée nationale ?",
+      "options": [
+        "200 000 signatures",
+        "500 000 signatures",
+        "1 million de signatures",
+        "50 000 signatures"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Une pétition réclamant la suppression de CNews... a franchi le cap des 500 000 signatures. Ce seuil ouvre la voie à un éventuel débat à l’Assemblée nationale.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Qu'ont retrouvé des archéologues à Pompéi dans une armoire scellée depuis 2000 ans, ensevelie lors de l'éruption du Vésuve ?",
+      "options": [
+        "Des sculptures religieuses et des fresques murales intactes",
+        "Une pince à épiler, un flacon de parfum, 38 pièces de monnaie et un collier pour enfants",
+        "Des armes antiques et des boucliers",
+        "Des manuscrits et des parchemins"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Parmi ces objets il y avait notamment une pince à épiler, un flacon de parfum mais aussi 38 pièces de monnaie ou encore un collier pour enfants.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quels sièges sont renouvelés principalement lors des élections de mi-mandat (midterms) aux États-Unis, selon le texte ?",
+      "options": [
+        "Tous les sièges de la Chambre des représentants et la totalité du Sénat",
+        "Le poste de Président et Vice-Président",
+        "Les 435 sièges de la Chambre des représentants et 35 des 100 sièges du Sénat",
+        "Uniquement les gouverneurs des États"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Ils renouvellent les 435 sièges de la Chambre des représentants... et 35 des 100 sièges du Sénat.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui contrôle actuellement les deux chambres du Congrès américain, d'après le texte ?",
+      "options": [
+        "Les Démocrates",
+        "Les Républicains",
+        "Les deux partis se partagent la Chambre et le Sénat",
+        "Le Président lui-même"
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare : 'Aujourd’hui, les républicains contrôlent les deux chambres.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon l'ONG SOLIDARITÉS INTERNATIONAL, quelle est la première cause d'insécurité alimentaire, y compris famine et malnutrition ?",
+      "options": [
+        "Les catastrophes naturelles",
+        "Les conflits armés",
+        "La pauvreté économique",
+        "Le manque de ressources en eau"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : 'Les conflits sont la 1re cause d’insécurité alimentaire, y compris famine et malnutrition.'",
+      "theme": "SOCIÉTÉ"
+    }
+  ]
+}
