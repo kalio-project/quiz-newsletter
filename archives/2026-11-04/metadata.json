@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Donald Trump peut-il encore gouverner après sa défaite au Congrès ?",
+  "date": "04/11/2026",
+  "img": "archives/2026-11-04/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel événement tragique impliquant Kevin T., suspect de l'attentat raciste de Trappes, a été rapporté récemment ?",
+      "options": [
+        "Une tentative d'évasion de prison.",
+        "Une tentative de suicide en détention.",
+        "Une agression sur un codétenu.",
+        "Une grève de la faim prolongée."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que Kevin T. a fait une tentative de suicide en détention il y a quelques jours.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pour quelle raison le ministre des Transports espagnol a-t-il annoncé sa démission ce mardi ?",
+      "options": [
+        "Un scandale de corruption. ",
+        "Une collision entre deux trains près de Tolède.",
+        "Des manifestations massives contre le gouvernement.",
+        "Une divergence politique majeure."
+      ],
+      "correct": 1,
+      "explication": "Le ministre des Transports espagnol a annoncé sa démission une semaine après une collision entre 2 trains qui a fait au moins 69 morts près de Tolède.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la nature de l'enquête ouverte en France suite à la diffusion de menaces sur les réseaux sociaux ?",
+      "options": [
+        "Pour escroquerie financière.",
+        "Pour diffamation publique.",
+        "Pour provocation à la haine raciale.",
+        "Pour atteinte à la vie privée."
+      ],
+      "correct": 2,
+      "explication": "Une enquête a été ouverte pour provocation à la haine raciale après la diffusion de menaces de mort visant des livreurs et des chauffeurs non blancs.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel établissement bancaire français a été victime d'un piratage de plus de 100 millions d'euros récemment ?",
+      "options": [
+        "La Société Générale.",
+        "BNP Paribas.",
+        "Le Crédit Mutuel Arkéa.",
+        "La Banque Postale."
+      ],
+      "correct": 2,
+      "explication": "Le Crédit Mutuel Arkéa a été victime d’un piratage de plus de 100 millions d’euros, selon franceinfo.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est l'annonce principale concernant le plafond du Livret A pour février 2027 ?",
+      "options": [
+        "Il sera supprimé.",
+        "Il passera de 22 950 € à un montant compris entre 25 000 et 30 000 euros.",
+        "Il restera inchangé.",
+        "Il sera réduit à 20 000 euros."
+      ],
+      "correct": 1,
+      "explication": "Le plafond du Livret A va passer de 22 950 € à un montant compris entre 25 000 et 30 000 euros dès février 2027.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel écrivain a remporté le prix Femina 2026 pour son roman 'La solitude des professeurs est infinie' ?",
+      "options": [
+        "Leïla Slimani.",
+        "Yannick Haenel.",
+        "Jean-Christophe Rufin.",
+        "Amélie Nothomb."
+      ],
+      "correct": 1,
+      "explication": "L’écrivain Yannick Haenel a remporté le prix Femina 2026 pour son roman “La solitude des professeurs est infinie”.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle est la 'bonne nouvelle' concernant un traitement préventif contre le VIH ?",
+      "options": [
+        "Un vaccin universel a été découvert.",
+        "Une version générique et abordable du lénacapavir a été approuvée.",
+        "Le VIH a été éradiqué dans plusieurs pays.",
+        "Un nouveau traitement oral sans injection est disponible."
+      ],
+      "correct": 1,
+      "explication": "Une version générique du lénacapavir, un traitement préventif contre le VIH, a été approuvée, rendant son prix de 30 000 dollars à 40 dollars par an.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel parti politique a repris le contrôle des deux chambres du Congrès américain lors des élections de mi-mandat ?",
+      "options": [
+        "Le Parti Républicain.",
+        "Le Parti Démocrate.",
+        "Le Parti Libertarien.",
+        "Le Parti Vert."
+      ],
+      "correct": 1,
+      "explication": "Les démocrates ont remporté les élections de mi-mandat et repris le contrôle des deux chambres du Congrès (la Chambre des représentants et le Sénat).",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui est devenue la première femme noire élue gouverneure d'un État américain lors des récentes élections de mi-mandat, en Géorgie ?",
+      "options": [
+        "Gina Hinojosa.",
+        "Deb Haaland.",
+        "Keisha Lance Bottoms.",
+        "Stacey Abrams."
+      ],
+      "correct": 2,
+      "explication": "Keisha Lance Bottoms est devenue la première femme noire élue gouverneure d’un État américain, en Géorgie.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui est à l'origine de la nouvelle journée de mobilisation prévue ce jeudi en France ?",
+      "options": [
+        "Le gouvernement français.",
+        "Les organisations patronales.",
+        "Les syndicats et la coordination des gilets jaunes.",
+        "Les associations de consommateurs."
+      ],
+      "correct": 2,
+      "explication": "Une nouvelle journée de mobilisation est prévue ce jeudi à l’appel des syndicats et de la coordination des gilets jaunes.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
