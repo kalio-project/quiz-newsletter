@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Pourquoi les jeunes se mobilisent-ils partout dans le monde ?",
+  "date": "05/11/2026",
+  "img": "archives/2026-11-05/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon la CGT, combien de personnes ont manifesté en France ce jeudi, tel que mentionné dans l'actualité ?",
+      "options": [
+        "Près de 600 000",
+        "Plus de 2 millions",
+        "Près de 1,6 million",
+        "Environ 1 million"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Près de 1,6 million de personnes ont manifesté en France ce jeudi selon la CGT'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Qui, parmi les figures politiques mentionnées, s'oppose à l'idée d'une primaire pour départager les candidats de la droite et du centre à la présidentielle ?",
+      "options": [
+        "Bruno Retailleau",
+        "David Lisnard",
+        "Gabriel Attal",
+        "Édouard Philippe"
+      ],
+      "correct": 3,
+      "explication": "Le texte déclare : 'David Lisnard et Gabriel Attal appellent aussi à une primaire, contrairement à Édouard Philippe, qui s’y oppose.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Où et quand sont prévus les pourparlers sous médiation américaine concernant la guerre en Ukraine, selon le texte ?",
+      "options": [
+        "À Washington, les 15 et 16 novembre",
+        "À Abou Dhabi, les 10 et 11 novembre",
+        "À Kiev, la semaine prochaine",
+        "À Moscou, fin novembre"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Des pourparlers sous médiation américaine sont prévus les 10 et 11 novembre à Abou Dhabi, aux Émirats arabes unis.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel type de violence représente la majorité des violences conjugales enregistrées en France en 2025, selon le ministère de l'Intérieur ?",
+      "options": [
+        "Les violences sexuelles",
+        "Les violences verbales ou psychologiques",
+        "Les violences physiques",
+        "Les menaces"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Parmi les violences enregistrées, 63 % sont des violences physiques'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l'UNICEF, comment a évolué le nombre d'attaques contre les systèmes d’eau dans les zones de conflit entre 2021 et 2025 ?",
+      "options": [
+        "Il a diminué de moitié",
+        "Il est resté stable",
+        "Il a doublé",
+        "Il a triplé"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise que 'Les attaques contre les systèmes d’eau ont triplé dans les zones de conflit entre 2021 et 2025, a alerté ce jeudi l’UNICEF.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel record historique Cristiano Ronaldo détient-il avec l'équipe du Portugal, selon les informations fournies ?",
+      "options": [
+        "Le nombre de Ballons d'or remportés",
+        "Le nombre de sélections et le nombre de buts",
+        "Le nombre de trophées collectifs",
+        "Le nombre de Coupes du Monde gagnées"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : 'Il compte 234 sélections et 146 buts avec le Portugal, 2 records.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel type de visuel la ville de Sète refuse-t-elle d'imprimer et de diffuser sur ses supports municipaux, selon la 'Bonne nouvelle' ?",
+      "options": [
+        "Les affiches promotionnelles d'événements privés",
+        "Les images comportant des droits d'auteur",
+        "Les affiches générées par IA",
+        "Les publicités politiques"
+      ],
+      "correct": 2,
+      "explication": "La ville de Sète 'est devenue la première ville en France à officiellement refuser d’imprimer et de diffuser des affiches générées par IA sur ses supports municipaux.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est une inquiétude commune partagée par une partie de la jeunesse mobilisée en Europe, selon le décryptage ?",
+      "options": [
+        "L'accès insuffisant aux technologies de pointe",
+        "Le manque d'opportunités de voyage à l'étranger",
+        "La difficulté à imaginer un avenir avec optimisme",
+        "La faible représentation politique des jeunes"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'une inquiétude revient : une partie de la jeunesse peine à imaginer son avenir avec optimisme. Selon une étude... plus d’un jeune interrogé sur deux... estime que sa génération vivra moins bien que celle de ses parents.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Comment les réseaux sociaux contribuent-ils à la dynamique des mobilisations des jeunes à travers le monde, d'après le texte ?",
+      "options": [
+        "En organisant des votes et des sondages en ligne",
+        "En centralisant les financements des mouvements",
+        "En accélérant la diffusion des images et des slogans",
+        "En permettant des rassemblements virtuels"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Les réseaux sociaux accélèrent la diffusion des images et des slogans.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle est la mission principale de l'ONG SOLIDARITÉS INTERNATIONAL, selon le texte, pour venir en aide aux victimes de conflits armés ?",
+      "options": [
+        "Financer la reconstruction des infrastructures",
+        "Couvrir les besoins vitaux des populations le plus rapidement et dignement possible",
+        "Négocier des accords de paix entre les belligérants",
+        "Dispenser une éducation aux enfants touchés par les conflits"
+      ],
+      "correct": 1,
+      "explication": "Le texte déclare que l'ONG 's’est donné pour mission de couvrir les besoins vitaux des populations le plus rapidement, le plus dignement et le plus efficacement possible.'",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
