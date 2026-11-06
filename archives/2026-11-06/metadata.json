@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 La chaîne CNews pourrait-elle bientôt fermer ?",
+  "date": "06/11/2026",
+  "img": "archives/2026-11-06/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de signatures une pétition doit-elle obtenir à l'Assemblée nationale pour pouvoir potentiellement ouvrir la voie à un débat ?",
+      "options": [
+        "Moins de 100 000",
+        "Entre 100 000 et 200 000",
+        "Plus de 500 000",
+        "Plus de 1 million"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Avec plus de 500 000 signatures issues d’au moins 30 départements, une pétition peut ouvrir la voie à un débat à l’Assemblée nationale.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Où a eu lieu l'accident de car qui a fait 2 morts et plusieurs blessés ce vendredi matin en France ?",
+      "options": [
+        "Près de Lyon",
+        "Près de Lent, dans l’Ain",
+        "Près de Bourg-en-Bresse",
+        "Sur l'autoroute A69"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Un accident de car a fait 2 morts... ce vendredi matin près de Lent, dans l’Ain.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pour quel motif le militant pro-démocratie Joshua Wong a-t-il été condamné à 10 ans de prison supplémentaires à Hong Kong ?",
+      "options": [
+        "Incitation à la sédition",
+        "Collusion avec des forces étrangères afin de mettre en danger la sécurité nationale",
+        "Organisation de manifestations illégales",
+        "Évasion fiscale"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise qu'il a été condamné pour '“collusion avec des forces étrangères afin de mettre en danger la sécurité nationale”'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle marque de morilles séchées fait l'objet d'un rappel en France suite à une suspicion de contamination par une toxine ?",
+      "options": [
+        "ChampiBon",
+        "MorilleDeFrance",
+        "BioChampignon",
+        "LesSaveursDuBois"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : 'Les morilles séchées de la marque ChampiBon... font l’objet d’un rappel pour suspicion de contamination par une toxine.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Combien de temps l'autoroute A69, reliant Toulouse à Castres, permet-elle de gagner par rapport à la route nationale ?",
+      "options": [
+        "5 minutes",
+        "15 minutes",
+        "25 minutes",
+        "45 minutes"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Elle permet de gagner 25 minutes par rapport à la route nationale.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est l'une des principales innovations du nouveau TGV M Nouvelle Génération de la SNCF ?",
+      "options": [
+        "Il est entièrement autonome",
+        "Il promet 20 % de consommation d'énergie en moins",
+        "Il peut transporter jusqu'à 1000 voyageurs par rame",
+        "Il propose des sièges sans accoudoirs"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'il promet 20 % de consommation d'énergie en moins'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel petit primate, pensé disparu depuis près de 100 ans, a été redécouvert en Indonésie et est connu pour être venimeux ?",
+      "options": [
+        "Le lémurien sifaka",
+        "Le tarsier des Philippines",
+        "Le loris lent de Bangka",
+        "Le singe à nez retroussé"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Il s’appelle le loris lent de Bangka, du nom de l’île où il vit. Sa particularité : il est venimeux.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel groupe serait en négociations avancées pour racheter Letterboxd, une plateforme de critiques de films ?",
+      "options": [
+        "The Walt Disney Company",
+        "Netflix",
+        "Le groupe New York Times",
+        "Amazon"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Le groupe New York Times serait en négociations avancées pour racheter Letterboxd'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Dans quelle ville se situe le lycée Nelson-Mandela, où deux lycéens de 16 ans ont été mis en examen suite à un incendie ?",
+      "options": [
+        "Bordeaux",
+        "Marseille",
+        "Nantes",
+        "Lyon"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'l'incendie du lycée Nelson-Mandela, à Nantes, le 1er octobre'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon l'ONG SOLIDARITÉS INTERNATIONAL, quelle est la première cause d'insécurité alimentaire dans le monde en 2024 ?",
+      "options": [
+        "Le réchauffement climatique",
+        "Les conflits armés",
+        "Les catastrophes naturelles",
+        "Les crises économiques"
+      ],
+      "correct": 1,
+      "explication": "Le texte affirme : 'Les conflits sont la 1re cause d’insécurité alimentaire, y compris famine et malnutrition.'",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
