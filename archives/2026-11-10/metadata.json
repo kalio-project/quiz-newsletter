@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 L’Iran serait derrière le sabotage des frigos de supermarchés français",
+  "date": "10/11/2026",
+  "img": "archives/2026-11-10/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Sur quel sujet a eu lieu une nouvelle journée de grève et de manifestations en France ce mardi ?",
+      "options": [
+        "La réforme des retraites",
+        "L'augmentation des salaires dans la fonction publique",
+        "Les moyens accordés à l'éducation et l'accès à l'enseignement supérieur",
+        "Le prix des carburants"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Une nouvelle journée de grève et de manifestations a eu lieu ce mardi, à l’appel de syndicats enseignants et étudiants. Ils jugent insuffisantes les premières réponses du gouvernement sur les moyens accordés à l’éducation et l’accès à l’enseignement supérieur.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "De combien le nombre de décès liés aux drogues et aux médicaments a-t-il augmenté en 10 ans (2014-2024) en France, selon l'Office antistupéfiants ?",
+      "options": [
+        "50 %",
+        "100 %",
+        "171 %",
+        "243 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : \"Les décès liés aux drogues et aux médicaments ont augmenté de 171 % en 10 ans en France, passant de 243 en 2014 à 659 en 2024, selon l’Office antistupéfiants.\"",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Que préconise Emmanuel Macron concernant l'Intelligence Artificielle lorsqu'elle présente des risques pour les enfants ?",
+      "options": [
+        "La réglementer strictement",
+        "L'interdire",
+        "La restreindre aux adolescents",
+        "La développer avec des protections renforcées"
+      ],
+      "correct": 1,
+      "explication": "Le texte cite Emmanuel Macron : \"Il faut interdire l'IA lorsqu'elle présente des risques pour les enfants pour 'leur santé mentale et leur cerveau'\".",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle décision les députés ont-ils prise concernant la pétition demandant la suppression de CNews, ayant recueilli plus d’un million de signatures ?",
+      "options": [
+        "Ils ont décidé de la débattre en urgence",
+        "Ils ont décidé de ne pas poursuivre l’examen de la pétition",
+        "Ils ont rejeté la pétition définitivement",
+        "Ils ont transmis la pétition au CSA"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : \"Les députés ont décidé de ne pas poursuivre l’examen de la pétition demandant la suppression de CNews, qui a recueilli plus d’un million de signatures.\"",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quand la prime de Noël sera-t-elle versée et à quels foyers est-elle principalement destinée ?",
+      "options": [
+        "Le 1er décembre aux familles nombreuses",
+        "Le 15 décembre aux foyers modestes bénéficiaires d'aides sociales",
+        "Le 24 décembre à toutes les familles avec enfants",
+        "Le 31 décembre aux retraités"
+      ],
+      "correct": 1,
+      "explication": "Le ministre du Travail a annoncé que \"La prime de Noël sera versée le 15 décembre à environ 2,3 millions de foyers modestes. Elle concerne les bénéficiaires de certaines aides sociales, notamment du RSA\".",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Après la mort du footballeur espagnol Jesús de Miguel, quelle action son club de Tenerife s'est-il engagé à faire ?",
+      "options": [
+        "Organiser un match caritatif annuel en sa mémoire",
+        "Retirer son numéro de maillot pour toujours",
+        "Soutenir financièrement sa fille jusqu’à ses 18 ans",
+        "Construire une fondation à son nom"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : \"son club de Tenerife s’est engagé à soutenir financièrement sa fille Carla, âgée d’1 an, jusqu’à ses 18 ans.\"",
+      "theme": "SPORT"
+    },
+    {
+      "q": "De quoi la France accuse-t-elle l'Iran concernant les frigos des supermarchés français en octobre ?",
+      "options": [
+        "D'avoir volé des données sensibles",
+        "D'une cyberattaque visant à provoquer des dégâts matériels",
+        "D'une tentative d'espionnage industriel",
+        "D'avoir manipulé les prix des denrées alimentaires"
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : \"La France accuse l’Iran d’être à l’origine d’une cyberattaque contre les frigos d’environ 700 sites de la grande distribution... celle-ci cherchait à provoquer des dégâts matériels à distance. Le gouvernement dénonce une opération de sabotage d’une ampleur inédite.\"",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle a été la principale conséquence de la cyberattaque sur les frigos des supermarchés français ?",
+      "options": [
+        "La désactivation des caisses enregistreuses",
+        "Des coupures d'électricité généralisées",
+        "Une augmentation de la température des frigos et des départs de feu",
+        "Le vol de toutes les données client"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : \"Les pirates ont fait grimper leur température, provoquant d’importantes pertes alimentaires et au moins 15 départs de feu.\"",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quel est le nom de l'unité iranienne que les enquêteurs français désignent comme étant liée à la cyberattaque contre les frigos ?",
+      "options": [
+        "Les Cyber Forces",
+        "Shahid Kaveh",
+        "L'Unité Numérique Iranienne",
+        "Les Guerriers du Web"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : \"Les enquêteurs désignent Shahid Kaveh, une unité liée aux Gardiens de la révolution iraniens\". Il est précisé que ce groupe est aussi \"connu sous le nom de CyberAveng3rs\".",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Où ont débuté les négociations entre l'Ukraine et la Russie, sous médiation des États-Unis, ce mardi ?",
+      "options": [
+        "À Genève, en Suisse",
+        "À Paris, en France",
+        "À Abou Dhabi, aux Émirats arabes unis",
+        "À New York, aux États-Unis"
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare : \"L’objectif de ces négociations, qui se déroulent à Abou Dhabi, aux Émirats arabes unis : trouver une issue diplomatique à la guerre\".",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
