@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le patron de Nvidia aurait-il été espionné par la Chine ?",
+  "date": "09/11/2026",
+  "img": "archives/2026-11-09/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "En Pologne, quel événement tragique a conduit à la proclamation de deux jours de deuil national ?",
+      "options": [
+        "A. Un grave accident ferroviaire causant de nombreux décès.",
+        "B. Une fusillade qui a fait 6 morts et 15 blessés, dont l'auteur est décédé et les corps de ses parents et de sa sœur ont été découverts.",
+        "C. Un attentat terroriste à la bombe dans une grande ville.",
+        "D. Le décès d'une personnalité politique majeure du pays."
+      ],
+      "correct": 1,
+      "explication": "L'auteur de la fusillade qui a fait 6 morts et 15 blessés est décédé, et la police a découvert chez lui les corps de ses parents et de sa sœur. Deux jours de deuil national ont été décrétés.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qui a été désigné par le président Isaac Herzog pour tenter de former le prochain gouvernement israélien ?",
+      "options": [
+        "A. Benjamin Netanyahou",
+        "B. Gadi Eisenkot",
+        "C. Le chef actuel de la défense israélienne",
+        "D. Un représentant du parti religieux orthodoxe"
+      ],
+      "correct": 1,
+      "explication": "Gadi Eisenkot, figure de l’opposition au Premier ministre sortant Benjamin Netanyahou, a été désigné pour tenter de former le prochain gouvernement israélien.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel sportif français, quintuple champion olympique, a annoncé sa candidature à l'élection présidentielle de 2027 ?",
+      "options": [
+        "A. Antoine Griezmann",
+        "B. Tony Parker",
+        "C. Teddy Riner",
+        "D. Martin Fourcade"
+      ],
+      "correct": 2,
+      "explication": "Le judoka français et quintuple champion olympique Teddy Riner a annoncé sa candidature à l’élection présidentielle de 2027.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Où s'est ouverte la COP31, le sommet annuel de l'ONU sur le climat ?",
+      "options": [
+        "A. En Australie",
+        "B. En France",
+        "C. En Turquie",
+        "D. Au Japon"
+      ],
+      "correct": 2,
+      "explication": "La COP31 s’est ouverte ce lundi en Turquie et se tiendra jusqu’au 20 novembre.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel pays est suspecté par la justice française d'être à l'origine d'une cyberattaque contre les réfrigérateurs de centaines de supermarchés en France en octobre ?",
+      "options": [
+        "A. La Russie",
+        "B. La Chine",
+        "C. L'Iran",
+        "D. La Corée du Nord"
+      ],
+      "correct": 2,
+      "explication": "Le régime iranien est suspecté par la justice française d’être à l’origine de la cyberattaque contre les réfrigérateurs de centaines de supermarchés en France en octobre.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel navigateur français a remporté la Route du Rhum 2026, établissant un nouveau record ?",
+      "options": [
+        "A. Thomas Coville",
+        "B. Louis Burton",
+        "C. Tom Laperche",
+        "D. Charles Caudrelier"
+      ],
+      "correct": 2,
+      "explication": "Le Français Tom Laperche a remporté ce dimanche la Route du Rhum 2026, devant Thomas Coville et Louis Burton, et a établi un nouveau record.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Dans quelle ville et quel pays se déroulera la 1re édition de l'Eurovision en Asie ?",
+      "options": [
+        "A. Séoul, Corée du Sud",
+        "B. Tokyo, Japon",
+        "C. Bangkok, Thaïlande",
+        "D. New Delhi, Inde"
+      ],
+      "correct": 2,
+      "explication": "L’Eurovision organise sa 1re édition en Asie ce samedi à Bangkok, en Thaïlande.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "À quelle association les fonds récoltés lors de la course caritative “Les 25 Heures qui courent” ont-ils été destinés ?",
+      "options": [
+        "A. Les Restos du Cœur",
+        "B. Rêves",
+        "C. Médecins Sans Frontières",
+        "D. La Croix-Rouge"
+      ],
+      "correct": 1,
+      "explication": "Les fonds récoltés lors de la course caritative “Les 25 Heures qui courent” iront à l’association Rêves, qui réalise les rêves d’enfants gravement malades.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est le principal produit fabriqué par Nvidia qui est au cœur de la rivalité technologique entre les États-Unis et la Chine ?",
+      "options": [
+        "A. Des consoles de jeux vidéo",
+        "B. Des smartphones haut de gamme",
+        "C. Des puces électroniques indispensables au développement des intelligences artificielles",
+        "D. Des véhicules autonomes"
+      ],
+      "correct": 2,
+      "explication": "Nvidia fabrique notamment des puces électroniques indispensables au développement des intelligences artificielles les plus puissantes, qui sont au cœur de la rivalité entre les États-Unis et la Chine.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "De quelle nationalité est Alice Huang, la femme d'affaires soupçonnée d'avoir été recrutée par les services secrets chinois pour espionner le patron de Nvidia ?",
+      "options": [
+        "A. Américaine",
+        "B. Singapourienne",
+        "C. Chinoise",
+        "D. Taïwanaise"
+      ],
+      "correct": 2,
+      "explication": "Selon le New York Times, les renseignements américains soupçonnent une femme d’affaires chinoise, Alice Huang, d’avoir été recrutée par la Chine pour obtenir des informations.",
+      "theme": "INTERNATIONAL"
+    }
+  ]
+}
