@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Epstein : les “défaillances” qui l’ont laissé agir",
+  "date": "12/11/2026",
+  "img": "archives/2026-11-12/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien d'établissements scolaires ont été visés par de fausses alertes à la bombe en France ce jeudi, selon le ministère de l'Éducation nationale ?",
+      "options": [
+        "3",
+        "10",
+        "1803",
+        "50"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : '3 établissements scolaires ont été visés par de fausses alertes à la bombe ce jeudi, selon le ministère de l’Éducation nationale.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la signification historique de l'élection de Scott Colom au Sénat américain dans l'État du Mississippi ?",
+      "options": [
+        "Il est le premier Afro-Américain à être élu au Sénat américain dans le Mississippi depuis plus de 150 ans, et le premier démocrate depuis 1989.",
+        "Il est le premier républicain élu dans cet État majoritairement démocrate.",
+        "Il est le plus jeune sénateur jamais élu aux États-Unis.",
+        "Il est le premier démocrate à remporter des élections de mi-mandat dans le Mississippi."
+      ],
+      "correct": 0,
+      "explication": "Le texte précise : 'Le candidat du Parti démocrate Scott Colom est devenu le premier Afro-Américain à être élu au Sénat américain dans l’État du Mississippi depuis plus de 150 ans. Par ailleurs, aucun démocrate ne représentait cet État au Sénat depuis 1989.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Combien de personnes ont été tuées dans le bombardement israélien de l'hôpital Nasser à Khan Younès, selon le texte ?",
+      "options": [
+        "Au moins 6",
+        "Au moins 20",
+        "Plus de 1600",
+        "Aucune victime signalée"
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : 'Au moins 6 personnes ont été tuées et plus de 20 autres blessées dans un bombardement israélien contre l’hôpital Nasser, à Khan Younès, dans la bande de Gaza.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est l'objectif de la nouvelle loi adoptée par le gouvernement belge concernant les 'visites domiciliaires' ?",
+      "options": [
+        "Permettre à la police d'entrer dans un domicile privé pour y arrêter une personne en situation irrégulière.",
+        "Renforcer la surveillance des frontières belges.",
+        "Autoriser la police à inspecter les commerces sans mandat.",
+        "Faciliter les enquêtes pour les crimes financiers."
+      ],
+      "correct": 0,
+      "explication": "Le texte dit : 'Adoptée début novembre par le gouvernement belge, cette loi autorise la police à entrer dans un domicile privé pour y arrêter une personne en situation irrégulière.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Jusqu'à quelle date sont ouvertes les ventes de billets TGV Inoui pour les voyages printaniers et estivaux en 2027 ?",
+      "options": [
+        "Le 2 juillet 2027",
+        "Le 7 janvier 2027",
+        "Le 31 mars 2027",
+        "Le 10 octobre 2025"
+      ],
+      "correct": 0,
+      "explication": "Le texte mentionne : 'La SNCF a ouvert ce jeudi la vente des billets de train pour les voyages allant du 7 janvier au 2 juillet 2027. [...] Ces réservations concernent uniquement les trajets en TGV Inoui.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la principale avancée concernant la détection du GHB, la 'drogue du violeur', découverte par des chercheurs suisses ?",
+      "options": [
+        "Le GHB est désormais détectable jusqu'à 3 jours après sa consommation.",
+        "Le GHB peut maintenant être identifié en temps réel dans les boissons.",
+        "Le nouveau test permet de détecter le GHB uniquement dans la salive.",
+        "La nouvelle méthode permet une détection pendant seulement 6 heures."
+      ],
+      "correct": 0,
+      "explication": "Le texte indique : 'Un nouveau moyen de détecter la trace du GHB, surnommé la \"drogue du violeur\", jusqu’à 3 jours après sa consommation, a été identifié par des chercheurs suisses.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle a été la première 'défaillance' majeure concernant l'affaire Jeffrey Epstein, selon le rapport de la commission parlementaire ?",
+      "options": [
+        "Un accord conclu en 2007 lui a permis d'échapper à des poursuites fédérales et de bénéficier d'une peine légère.",
+        "Le manque de surveillance dans sa cellule de prison en 2019.",
+        "L'absence de réaction des banques aux signaux d'alerte.",
+        "La participation de personnalités politiques de haut rang à son réseau."
+      ],
+      "correct": 0,
+      "explication": "Le rapport pointe 'un accord conclu en 2007 entre les avocats d’Epstein et un procureur fédéral de Floride' comme première défaillance, lui permettant d'échapper à des poursuites fédérales.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel rôle les banques ont-elles joué dans les 'défaillances' relevées concernant l'affaire Epstein ?",
+      "options": [
+        "Elles n'auraient pas suffisamment réagi aux signaux d'alerte liés à ses activités, notamment American Express.",
+        "Elles ont activement financé ses activités illégales.",
+        "Elles ont alerté les autorités, mais celles-ci n'ont pas agi.",
+        "Elles ont refusé de le prendre comme client dès les premiers soupçons."
+      ],
+      "correct": 0,
+      "explication": "Le rapport indique que 'Plusieurs établissements financiers n’auraient pas suffisamment réagi aux signaux d’alerte liés aux activités d’Epstein. American Express lui aurait notamment permis de réserver de nombreux vols pour des femmes, principalement originaires d’Europe de l’Est, sans détecter suffisamment les soupçons de trafic humain.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelles ont été les circonstances principales de la mort de Jeffrey Epstein en prison, selon le rapport ?",
+      "options": [
+        "Il n'a pas été surveillé pendant près de 8h en raison d'un manque de personnel et d'équipements défaillants.",
+        "Il a été assassiné par un codétenu.",
+        "Il s'est évadé de sa cellule avant de disparaître.",
+        "Les caméras de sécurité ont prouvé qu'il était seul au moment de sa mort."
+      ],
+      "correct": 0,
+      "explication": "Le rapport rappelle qu’Epstein 'n’a pas été surveillé pendant près de 8h. En cause notamment : le manque de personnel, des surveillants surchargés et des équipements de sécurité défaillants'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Qui est la seule personne condamnée aux États-Unis pour des crimes liés au réseau de Jeffrey Epstein ?",
+      "options": [
+        "Ghislaine Maxwell",
+        "Donald Trump",
+        "Le procureur fédéral de Floride",
+        "Le directeur de la prison où Epstein est décédé"
+      ],
+      "correct": 0,
+      "explication": "Le texte déclare : 'Aujourd’hui, Ghislaine Maxwell, complice et ex-compagne d’Epstein, est la seule personne condamnée aux États-Unis pour des crimes liés à son réseau.'",
+      "theme": "JUSTICE"
+    }
+  ]
+}
