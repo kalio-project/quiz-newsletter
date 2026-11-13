@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Vers une primaire du centre et de la droite ?",
+  "date": "13/11/2026",
+  "img": "archives/2026-11-13/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Qui est accusé d'agression sexuelle sur le tournage du film \"Turf\" en 2011, selon Mediapart et Le Média ?",
+      "options": [
+        "Olivia",
+        "Gérard Depardieu",
+        "La directrice de casting",
+        "Le Média"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Une femme prénommée Olivia accuse le comédien français Gérard Depardieu d’agression sexuelle sur le tournage du film \"Turf\", en 2011, selon Mediapart et Le Média.'",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel changement majeur a eu lieu concernant les pratiques médicales des fidèles des Témoins de Jéhovah ?",
+      "options": [
+        "Ils peuvent désormais recevoir des transfusions de sang complet.",
+        "Ils peuvent désormais recevoir certains composants du sang.",
+        "Toutes les transfusions sanguines sont maintenant interdites.",
+        "Il n'y a eu aucun changement récent."
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Les fidèles des Témoins de Jéhovah... peuvent désormais recevoir certains composants du sang. La transfusion de sang complet reste cependant interdite.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l'Insee, quel était le taux d'inflation sur un an en octobre 2025 ?",
+      "options": [
+        "0,9 %",
+        "24,1 %",
+        "3,4 %",
+        "Son niveau le plus élevé depuis janvier 2024."
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'L’inflation... a augmenté de 3,4 % sur 1 an par rapport à octobre 2025, selon l’Insee.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Qui s'est rassemblé partout en France ce vendredi pour dénoncer les violences dans certains établissements scolaires ?",
+      "options": [
+        "Les élèves",
+        "Les parents d'élèves",
+        "Les proviseurs et leurs adjoints",
+        "Les professeurs"
+      ],
+      "correct": 2,
+      "explication": "Le texte stipule : 'Des proviseurs et leurs adjoints se sont rassemblés ce vendredi partout en France pour dénoncer des violences, agressions et menaces qui se sont déroulés dans certains établissements scolaires ces derniers jours.'",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle a été la cause de la panne mondiale ayant affecté les outils Microsoft (Outlook, Word, Excel, Teams) ?",
+      "options": [
+        "Une cyberattaque",
+        "Une action malveillante détectée",
+        "Une “charge élevée” sur ses infrastructures",
+        "Un problème de mise à jour logicielle"
+      ],
+      "correct": 2,
+      "explication": "Selon Microsoft, la cause était 'une “charge élevée” sur ses infrastructures'. Le groupe a aussi affirmé : 'Aucun signe d’action malveillante ou de cyberattaque n’a été détecté'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quels politiciens français se sont vu interdire l'entrée sur le territoire israélien ?",
+      "options": [
+        "Gabriel Attal et Bruno Retailleau",
+        "Édouard Philippe et David Lisnard",
+        "Jean-Luc Mélenchon et Mathilde Panot",
+        "Raphaël Glucksmann et Dominique de Villepin"
+      ],
+      "correct": 2,
+      "explication": "Israël a décidé d'interdire l’entrée sur son territoire à Jean-Luc Mélenchon et Mathilde Panot.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À quelle fin un ancien dirigeant de Pfizer a-t-il fait un don de 150 000 € ?",
+      "options": [
+        "Financer la recherche médicale",
+        "Construire une nouvelle église",
+        "Restaurer l’orgue de l’église de son village natal",
+        "Soutenir un festival de musique local"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que le don a été fait 'pour financer la restauration de l’orgue de l’église de son village natal, Saint-Saëns (Seine-Maritime)'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le texte, quel homme politique est *défavorable* à l'idée d'une primaire du centre et de la droite en vue de 2027 ?",
+      "options": [
+        "Gabriel Attal",
+        "David Lisnard",
+        "Bruno Retailleau",
+        "Édouard Philippe"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise que '3 candidats se montrent favorables à cette primaire : Gabriel Attal... David Lisnard, et le président des Républicains Bruno Retailleau.' et qu''Édouard Philippe refuse catégoriquement d’y participer'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la raison principale avancée par Édouard Philippe pour son refus de participer à la primaire du centre et de la droite ?",
+      "options": [
+        "Il estime que la primaire est un processus trop long.",
+        "Il estime que cette primaire pourrait diviser davantage les électeurs et dénonce un projet encore trop flou.",
+        "Il se considère comme le seul candidat légitime.",
+        "Il ne souhaite pas s'allier avec les autres partis du centre et de la droite."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'Édouard Philippe 'estime que cette primaire pourrait diviser davantage les électeurs et dénonce un projet encore trop flou, notamment sur son calendrier et les modalités de participation'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel ancien Premier ministre a affirmé n'avoir “rien à voir avec les macronistes” en écartant toute participation à la primaire ?",
+      "options": [
+        "Édouard Philippe",
+        "Sébastien Lecornu",
+        "Dominique de Villepin",
+        "Gabriel Attal"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que 'Dominique de Villepin, ancien Premier ministre... a de son côté écarté sur TF1 toute participation, affirmant n’avoir “rien à voir avec les macronistes”'.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
