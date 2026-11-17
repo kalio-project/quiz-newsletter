@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Grève du 17 novembre : à quoi s’attendre ?",
+  "date": "16/11/2026",
+  "img": "archives/2026-11-16/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Pourquoi environ 400 000 personnes ont-elles manifesté à Prague, en République Tchèque, ce dimanche ?",
+      "options": [
+        "Contre une augmentation des impôts locaux.",
+        "Contre la réforme du financement des médias publics.",
+        "Pour réclamer une hausse des salaires dans la fonction publique.",
+        "Contre de nouvelles mesures environnementales restrictives."
+      ],
+      "correct": 1,
+      "explication": "La manifestation à Prague était contre la réforme du financement des médias publics, qui prévoit un financement direct par l'État et une réduction des budgets, ce qui fait craindre une dépendance vis-à-vis du gouvernement.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel exploit l'entreprise SpaceX d'Elon Musk a-t-elle réalisé ce samedi avec sa mégafusée Starship ?",
+      "options": [
+        "Faire atterrir des astronautes sur la Lune.",
+        "Réussir à rattraper l'étage supérieur de sa fusée après plus de 22h de vol.",
+        "Lancer un nouveau satellite de communication en orbite géostationnaire.",
+        "Envoyer une sonde robotisée pour explorer la surface de Mars."
+      ],
+      "correct": 1,
+      "explication": "SpaceX a réussi pour la première fois à rattraper l'étage supérieur de sa mégafusée Starship après un vol de plus de 22 heures.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Que le Sénat français a-t-il voté concernant la boisson sucrée 'Vody' ?",
+      "options": [
+        "Son interdiction totale à la vente.",
+        "Une baisse de sa taxe pour soutenir les producteurs.",
+        "L'extension d'une taxe pour inclure les versions sans substances stimulantes.",
+        "Une limitation de sa teneur en alcool à 10%."
+      ],
+      "correct": 2,
+      "explication": "Le Sénat a voté pour étendre une taxe à la Vody, en relevant le plafond d'alcool concerné de 12 à 25% pour inclure des versions qui y échappaient.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle initiative l'Assurance maladie lance-t-elle ce lundi pour les Français de 29 ans ?",
+      "options": [
+        "Un programme de dépistage gratuit des maladies cardiovasculaires.",
+        "L'envoi d'un courrier pour les sensibiliser à la fertilité.",
+        "Une campagne de vaccination généralisée contre la grippe.",
+        "La distribution de chèques-santé pour consulter des spécialistes."
+      ],
+      "correct": 1,
+      "explication": "À compter de ce lundi, les Français de 29 ans recevront un courrier de l'Assurance maladie pour les sensibiliser à la fertilité et les informer sur les possibilités d'avoir des enfants.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel acteur britannique a été choisi pour être le prochain James Bond ?",
+      "options": [
+        "Josh O'Connor",
+        "Jacob Elordi",
+        "Robert Pattinson",
+        "Callum Turner"
+      ],
+      "correct": 2,
+      "explication": "L'acteur britannique Robert Pattinson a été choisi pour incarner le prochain James Bond.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle nouvelle méthode non médicamenteuse est testée à Clermont-Ferrand pour soulager les migraines ?",
+      "options": [
+        "L'application de ventouses chaudes sur le dos.",
+        "L'envoi de 2 000 impulsions magnétiques sur le crâne.",
+        "Des séances de luminothérapie intense.",
+        "L'utilisation d'électrodes stimulant les nerfs faciaux."
+      ],
+      "correct": 1,
+      "explication": "Des chercheurs testent une méthode qui envoie 2 000 impulsions magnétiques sur le crâne du patient pendant 20 minutes pour agir sur les zones du cerveau qui perçoivent la douleur.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Qui est principalement appelé à la grève et à manifester ce mardi 17 novembre ?",
+      "options": [
+        "Les agriculteurs et les pêcheurs.",
+        "Le personnel soignant et les forces de l'ordre.",
+        "Les travailleurs de la fonction publique, les cheminots, les lycéens et les étudiants.",
+        "Les employés du secteur privé et les entrepreneurs."
+      ],
+      "correct": 2,
+      "explication": "Les travailleurs de la fonction publique, les cheminots, ainsi que les lycéens et les étudiants sont appelés à la grève et à manifester le 17 novembre.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle a été la proposition du gouvernement concernant la hausse du Smic pour le 1er décembre ?",
+      "options": [
+        "Une augmentation de 100 euros nets par mois.",
+        "Une hausse de 1,6%, soit environ 24 euros nets supplémentaires par mois.",
+        "Un coup de pouce de 0,6% en plus d'une augmentation déjà prévue.",
+        "Aucune hausse, mais l'attribution de points supplémentaires aux agents les moins bien payés."
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement a annoncé une hausse de 1,6% du Smic au 1er décembre, le faisant passer d'environ 1 478 à 1 502 € net par mois, soit 24 € supplémentaires.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Dans le cadre des négociations sur la grève, quelle mesure concernant l'Éducation nationale a été jugée trop lointaine par les syndicats ?",
+      "options": [
+        "La suppression immédiate de toutes les classes surchargées.",
+        "Le remplacement de Parcoursup à partir de 2028.",
+        "Une revalorisation salariale de 15% pour tous les enseignants dès l'année prochaine.",
+        "La construction de 500 nouveaux établissements scolaires d'ici 2 ans."
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement a notamment annoncé le remplacement de Parcoursup à partir de 2028, ce que les syndicats jugent trop lointain.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon la publicité, quel rôle jouent les services après-vente des concessions dans la stratégie qualité de Stellantis ?",
+      "options": [
+        "Ils sont chargés de la conception des futurs modèles de véhicules.",
+        "Ils communiquent en temps réel avec les usines pour apporter des correctifs et des mises à jour à distance.",
+        "Ils réalisent des audits de qualité indépendants pour tous les fournisseurs.",
+        "Ils gèrent uniquement les réclamations clients sans impact sur la production."
+      ],
+      "correct": 1,
+      "explication": "Les services après-vente communiquent en temps réel avec les usines. L'analyse des données permet d'apporter des correctifs en production et d'en faire bénéficier les clients grâce aux mises à jour à distance.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
