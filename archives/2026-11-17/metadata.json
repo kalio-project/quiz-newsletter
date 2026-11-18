@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Pourquoi la sortie de \"GTA VI\" peut tout changer ?",
+  "date": "17/11/2026",
+  "img": "archives/2026-11-17/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Cinq pays européens prévoient d'ouvrir un centre pour les personnes migrantes expulsées de l'Union européenne dans quel pays d'Afrique de l'Est ?",
+      "options": [
+        "Afrique du Sud",
+        "Rwanda",
+        "Kenya",
+        "Éthiopie"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : '5 pays européens, dont l’Allemagne et la Grèce, prévoient d’ouvrir un centre au Rwanda, en Afrique de l’Est, pour y envoyer des personnes migrantes expulsées de l’Union européenne.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon Unicef France, quelle proportion de jeunes Français âgés de 6 à 18 ans déclare souffrir d'au moins un trouble psychique important ?",
+      "options": [
+        "Moins d'1 sur 5",
+        "Plus d'1 sur 3",
+        "Environ la moitié",
+        "Près de 2 sur 3"
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne : 'Plus d’1 jeune Français sur 3, entre 6 à 18 ans, déclare souffrir d’au moins un trouble psychique important, selon Unicef France.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Le procureur général de quel État américain a porté plainte contre OpenAI pour négligence dans la sécurité de ses modèles d'IA ?",
+      "options": [
+        "New York",
+        "Texas",
+        "Californie",
+        "Floride"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Le procureur général de l’Etat de Californie a porté plainte contre OpenAI, qu’il accuse de négligence dans la sécurité de ses modèles d’IA.'",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle chanteuse britannique est en tête des nominations aux Grammy Awards avec 11 nominations ?",
+      "options": [
+        "Adele",
+        "Dua Lipa",
+        "RAYE",
+        "Ed Sheeran"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'La chanteuse britannique RAYE est en tête des nominations aux Grammy Awards... avec 11 nominations.'",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Qui est devenue vice-championne du monde de surf ce dimanche, selon le texte ?",
+      "options": [
+        "Leihani Zoric",
+        "Carissa Moore",
+        "Johanne Defay",
+        "Tyler Wright"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'La Réunionnaise Johanne Defay, 32 ans, est devenue vice-championne du monde de surf ce dimanche.'",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Un nouveau traitement montre des résultats encourageants contre quelle maladie génétique rare qui touche principalement les filles ?",
+      "options": [
+        "La mucoviscidose",
+        "La maladie de Huntington",
+        "Le syndrome de Rett",
+        "La phénylcétonurie"
+      ],
+      "correct": 2,
+      "explication": "Le texte rapporte : 'Un nouveau traitement montre des résultats très encourageants contre le syndrome de Rett, une maladie génétique rare qui touche principalement les filles'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est le budget de développement estimé pour le jeu 'GTA VI', ce qui en ferait le jeu le plus cher jamais produit ?",
+      "options": [
+        "Environ 500 millions d'euros",
+        "Plus d'un milliard d'euros",
+        "Entre 700 et 800 millions d'euros",
+        "Environ 200 millions d'euros"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'Son budget de développement pourrait dépasser le milliard d'euros, ce qui en ferait le jeu le plus cher jamais produit.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est le prix de lancement de 'GTA VI' sur PS5 et Xbox Series X et S en France ?",
+      "options": [
+        "59,99 €",
+        "69,99 €",
+        "79,99 €",
+        "89,99 €"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Le jeu sera d'abord disponible sur PS5 et Xbox Series X et S, au prix de 79,99€.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la principale revendication des fonctionnaires mobilisés en France ce mardi ?",
+      "options": [
+        "La réduction du temps de travail",
+        "Une hausse du point d’indice",
+        "La suppression de postes",
+        "L'amélioration des conditions de télétravail"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise : 'Les fonctionnaires réclament une hausse du point d’indice, qui sert de base au calcul de leur salaire.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Comment les membres de la CRS 8 ont-ils contourné l'interdiction de faire grève, selon le syndicat Un1té CRS ?",
+      "options": [
+        "En organisant une marche silencieuse",
+        "En demandant des congés simultanément",
+        "En se mettant en arrêt de travail collectif",
+        "En refusant d'intervenir sur les manifestants"
+      ],
+      "correct": 2,
+      "explication": "Le texte rapporte : 'selon le syndicat Un1té CRS, l’ensemble des membres de la CRS 8, une unité spécialisée de CRS, se sont rendus chez le médecin ce mardi pour obtenir un arrêt de travail.'",
+      "theme": "JUSTICE"
+    }
+  ]
+}
