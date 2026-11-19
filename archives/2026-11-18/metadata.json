@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Pourquoi des soldats français sont déployés en Ukraine ?",
+  "date": "18/11/2026",
+  "img": "archives/2026-11-18/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quels dirigeants ont été reçus par le président chinois Xi Jinping pour un sommet international cette semaine ?",
+      "options": [
+        "Vladimir Poutine et Joe Biden",
+        "Donald Trump et Emmanuel Macron",
+        "Vladimir Poutine et Donald Trump",
+        "Joe Biden et Rishi Sunak"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique que Xi Jinping a reçu Vladimir Poutine et Donald Trump pour un sommet.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Qu'ont décidé Gabriel Attal, Bruno Retailleau et David Lisnard concernant la prochaine élection présidentielle française ?",
+      "options": [
+        "De former une coalition gouvernementale.",
+        "D'organiser une primaire du centre et de la droite.",
+        "De soutenir un candidat commun sans primaire.",
+        "D'interdire le vote aux personnes n'étant pas adhérentes de leur parti."
+      ],
+      "correct": 2,
+      "explication": "Ils se sont accordés sur une primaire du centre et de la droite pour désigner un candidat unique, ouverte à tous moyennant 2€.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon les premières évaluations nationales en France, comment évoluent les niveaux des élèves en français et en mathématiques ?",
+      "options": [
+        "Le niveau en français augmente et celui en mathématiques baisse.",
+        "Le niveau en français baisse et celui en mathématiques reste stable.",
+        "Les niveaux en français et en mathématiques augmentent.",
+        "Les niveaux en français et en mathématiques baissent."
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne que 'Le niveau en français baisse mais celui en mathématiques reste stable'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel organisme international, avec l'ONU, considère les perturbateurs endocriniens comme une 'menace mondiale et croissante' pour la santé ?",
+      "options": [
+        "L'UNESCO",
+        "La Banque Mondiale",
+        "L'OMS",
+        "Le FMI"
+      ],
+      "correct": 3,
+      "explication": "Selon l'ONU et l'OMS (Organisation Mondiale de la Santé), les perturbateurs endocriniens représentent une 'menace mondiale et croissante'.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la principale caractéristique actuelle de la sonde Voyager 1, selon le texte ?",
+      "options": [
+        "Elle a cessé de transmettre des données.",
+        "Elle a été lancée il y a 5 ans et est proche de Mars.",
+        "Elle se situe à une journée-lumière de la Terre et continue de transmettre des données.",
+        "Elle est entrée dans l'atmosphère d'une autre planète."
+      ],
+      "correct": 3,
+      "explication": "Le texte précise que Voyager 1 est 'désormais à une journée-lumière de la Terre, une distance record' et qu'elle 'continue toujours de transmettre des données scientifiques'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est la 'bonne nouvelle' concernant le traitement du cancer du pancréas ?",
+      "options": [
+        "Un vaccin préventif a été découvert.",
+        "Un nouveau médicament, autorisé par la Commission européenne, double l'espérance de vie des patients.",
+        "La chimiothérapie est désormais deux fois plus efficace.",
+        "Un dépistage précoce généralisé est mis en place."
+      ],
+      "correct": 2,
+      "explication": "Un nouveau médicament, autorisé par la Commission européenne, permet de doubler l'espérance de vie des patients atteints d'un cancer du pancréas à un stade avancé.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quelle est la position officielle de la France concernant la présence de ses soldats en Ukraine ?",
+      "options": [
+        "La France confirme une mission de combat directe sur le front.",
+        "La France nie toute présence de ses soldats sur le sol ukrainien.",
+        "La France confirme une présence pour des missions de formation et de maintenance, loin du front et sans intention de combattre.",
+        "La France considère ses soldats comme des cobelligérants de la guerre."
+      ],
+      "correct": 3,
+      "explication": "Le gouvernement français a confirmé la présence de ses soldats en Ukraine, insistant qu'il ne s'agit pas d'une mission de combat et qu'ils sont loin de la ligne de front, pour des missions ponctuelles de formation et de maintenance.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels sont les principaux objectifs des soldats français déployés en Ukraine, selon l'article ?",
+      "options": [
+        "Participer directement aux combats contre les forces russes.",
+        "Proposer des entraînements dans des conditions réelles et assurer la maintenance des équipements français.",
+        "Coordonner les opérations militaires des alliés de l'Ukraine.",
+        "Négocier un cessez-le-feu avec la Russie."
+      ],
+      "correct": 2,
+      "explication": "Les objectifs cités sont de 'proposer des entraînements dans des conditions réelles' et 'l’entretien des équipements français livrés à l’Ukraine'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Selon la définition donnée dans l'article, qu'est-ce que le masculinisme ?",
+      "options": [
+        "Un mouvement pour l'égalité des sexes initié par des hommes.",
+        "Un mouvement apparu dans les années 1980, en réaction au féminisme, défendant la suprématie masculine.",
+        "Une idéologie prônant le soutien exclusif aux droits des hommes.",
+        "Un courant de pensée visant à promouvoir la diversité des genres."
+      ],
+      "correct": 2,
+      "explication": "Le masculinisme est défini comme 'un mouvement apparu dans les années 1980, en réaction au féminisme, [...] Il défend notamment la suprématie masculine'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Pour quelles raisons les 7 hommes jugés lors du premier procès consacré au masculinisme comparaissent-ils devant le tribunal ?",
+      "options": [
+        "Pour des actes de violence physique.",
+        "Pour des escroqueries financières.",
+        "Pour injures publiques à caractère sexiste ou raciste.",
+        "Pour organisation de manifestations illégales."
+      ],
+      "correct": 3,
+      "explication": "Ils sont 'poursuivis pour injures publiques à caractère sexiste ou raciste' pour des publications haineuses diffusées sur Telegram.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
