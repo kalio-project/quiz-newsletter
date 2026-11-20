@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Trump, Poutine et Xi Jinping réunis : que vaut leur “déclaration de paix” ?",
+  "date": "19/11/2026",
+  "img": "archives/2026-11-19/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Où s'est déroulée la première réunion tripartite entre Donald Trump, Vladimir Poutine et Xi Jinping ?",
+      "options": [
+        "À Moscou",
+        "À Washington D.C.",
+        "À Pékin",
+        "À Genève"
+      ],
+      "correct": 2,
+      "explication": "La réunion a eu lieu en Chine, en marge du sommet de l’APEC.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quel est l'objectif affiché de l'accord militaire conclu entre les États-Unis et le Venezuela lors de la visite du secrétaire américain à la Défense ?",
+      "options": [
+        "Lutter contre le changement climatique",
+        "Protéger le Venezuela contre les menaces étrangères, les groupes criminels et les narcoterroristes",
+        "Développer de nouvelles technologies spatiales",
+        "Établir une base militaire américaine au Venezuela"
+      ],
+      "correct": 1,
+      "explication": "L'article mentionne que l'objectif affiché est de 'protéger le Venezuela contre les menaces étrangères, les groupes criminels et les narcoterroristes'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "À partir de quelle année scolaire les 12 fiches d'accompagnement pour les parents d'élèves seront-elles distribuées par le ministère de l'Éducation nationale ?",
+      "options": [
+        "Septembre 2024",
+        "Septembre 2025",
+        "Septembre 2027",
+        "Septembre 2030"
+      ],
+      "correct": 2,
+      "explication": "Les fiches seront distribuées à chaque rentrée scolaire, 'dès septembre 2027'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon le média Les Jours, Laure Lavalette, porte-parole de la campagne de Marine Le Pen, aurait publié des écrits antisémites dans la revue de quel type d'organisation dans les années 1990 ?",
+      "options": [
+        "Un parti politique",
+        "Un syndicat étudiant",
+        "Un journal local",
+        "Une association culturelle"
+      ],
+      "correct": 1,
+      "explication": "L'article précise qu'elle aurait publié ces écrits 'dans la revue d’un syndicat étudiant dans les années 1990'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle religion devrait devenir la première religion mondiale en nombre de fidèles d'ici 2035, selon le Pew Research Center ?",
+      "options": [
+        "Le christianisme",
+        "L'hindouisme",
+        "Le bouddhisme",
+        "L'islam"
+      ],
+      "correct": 3,
+      "explication": "L'islam devrait devenir la 1re religion mondiale en nombre de fidèles d’ici 2035, devant le christianisme.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel a été le montant record de l'opération lors de l'entrée en Bourse de la start-up américaine Anthropic, maison-mère de l’IA Claude, à New York ?",
+      "options": [
+        "8,1 milliards de $",
+        "18 milliards de $",
+        "81 milliards de $",
+        "180 milliards de $"
+      ],
+      "correct": 2,
+      "explication": "Anthropic est entrée en Bourse avec 'une opération record de 81 milliards de $'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel est le plan du gouvernement français pour moderniser les trains de nuit en France à partir de 2030 ?",
+      "options": [
+        "Acheter 27 locomotives et 180 voitures neuves",
+        "Louer 27 locomotives neuves et rénover 180 voitures d’anciens trains Corail",
+        "Rénover l'ensemble du parc existant sans achat ni location",
+        "Mettre fin aux trains de nuit"
+      ],
+      "correct": 1,
+      "explication": "Le gouvernement va 'louer 27 locomotives neuves et rénover 180 voitures d’ancien trains Corail au lieu d’en acheter des neuves'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quelle nouvelle méthode, basée sur l'IA, pourrait permettre de détecter un cancer du sein à un stade précoce avec une précision de 95%, selon une équipe de chercheurs israéliens ?",
+      "options": [
+        "Une mammographie 3D systématique",
+        "Un scanner corporel complet",
+        "Une prise de sang",
+        "Une biopsie préventive"
+      ],
+      "correct": 2,
+      "explication": "Une équipe de chercheurs israéliens a développé un test expérimental, basé sur l’IA, qui est une prise de sang, affichant une précision de 95%.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "La 'déclaration de paix' adoptée par Donald Trump, Vladimir Poutine et Xi Jinping à l'issue de leur réunion mentionne-t-elle un cessez-le-feu pour la guerre en Ukraine ou celle en Iran ?",
+      "options": [
+        "Oui, elle prévoit un cessez-le-feu immédiat dans les deux conflits.",
+        "Oui, mais uniquement pour la guerre en Ukraine.",
+        "Non, elle ne mentionne ni la guerre en Ukraine, ni celle en Iran, et ne prévoit aucun cessez-le-feu.",
+        "Oui, mais uniquement pour la guerre en Iran."
+      ],
+      "correct": 2,
+      "explication": "Le texte 'ne mentionne ni la guerre en Ukraine ni celle en Iran, et ne prévoit aucun cessez-le-feu, selon Le Parisien'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Parmi les propositions suivantes, laquelle ne fait PAS partie des conditions posées par Marine Tondelier pour rejoindre une coalition autour de Jean-Luc Mélenchon ?",
+      "options": [
+        "Une semaine de négociations avec LFI pour discuter d’un programme commun.",
+        "Un accord pré-électoral pour les élections législatives.",
+        "La désignation automatique de Jean-Luc Mélenchon comme candidat unique.",
+        "Une réflexion sur la manière de gouverner ensemble pour les deux formations."
+      ],
+      "correct": 2,
+      "explication": "Marine Tondelier a proposé des négociations sur le programme, les législatives et la gouvernance. L'idée de soutenir Jean-Luc Mélenchon est une possibilité à l'issue de ces discussions, mais pas une condition préalable posée comme la 'désignation automatique'.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
