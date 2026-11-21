@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 El Niño : quelles conséquences pour la France ?",
+  "date": "20/11/2026",
+  "img": "archives/2026-11-20/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Combien de policiers et gendarmes seront mobilisés ce samedi pour encadrer les manifestations en France, selon le ministre de l’Intérieur ?",
+      "options": [
+        "Environ 50 000",
+        "Environ 60 000",
+        "Environ 70 000",
+        "Environ 80 000"
+      ],
+      "correct": 2,
+      "explication": "Le ministre de l’Intérieur Laurent Nuñez a annoncé la mobilisation d'environ 70 000 policiers et gendarmes.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Selon les autorités ukrainiennes, combien de personnes ont été tuées lors des frappes russes sur Kyiv dans la nuit de jeudi à vendredi ?",
+      "options": [
+        "Au moins 3",
+        "Au moins 6",
+        "Au moins 9",
+        "Au moins 12"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique 'Au moins 6 personnes ont été tuées et 15 blessées dans des frappes russes sur Kyiv, la capitale ukrainienne'.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle accusation principale vise la nouvelle plainte contre Gérard Depardieu, selon Mediapart ?",
+      "options": [
+        "Harcèlement moral",
+        "Viol et agressions sexuelles en réunion",
+        "Escroquerie",
+        "Abus de faiblesse"
+      ],
+      "correct": 1,
+      "explication": "La plainte mentionne explicitement 'viol et agressions sexuelles en réunion'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Depuis ce vendredi, pour quel montant de découvert les banques doivent-elles vérifier la situation financière de leurs clients ?",
+      "options": [
+        "Au moins 500 €",
+        "Au moins 200 €",
+        "Uniquement pour les découverts de plus d'un mois",
+        "Même inférieur à 200 €"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise : 'Depuis ce vendredi, les banques doivent vérifier la situation financière de leurs clients avant de leur accorder un découvert, même inférieur à 200 €'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quel groupe français a créé une peau artificielle vivante, prête à greffer sur des patients, qualifiée de première mondiale ?",
+      "options": [
+        "Sanofi",
+        "LVMH",
+        "Urgo",
+        "EssilorLuxottica"
+      ],
+      "correct": 2,
+      "explication": "La section 'Bonne nouvelle' attribue cette innovation au groupe français Urgo.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle est la principale caractéristique du phénomène climatique El Niño, tel que décrit dans le texte ?",
+      "options": [
+        "Un refroidissement d'une partie de l'océan Atlantique",
+        "Un réchauffement d'une partie de l'océan Pacifique",
+        "Une intensification des vents alizés",
+        "Une période de sécheresse généralisée"
+      ],
+      "correct": 1,
+      "explication": "Le texte explique : 'Il se caractérise par un réchauffement d’une partie de l’océan Pacifique'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pour combien de temps le Parlement a-t-il voté la prolongation de l'encadrement des loyers en France ?",
+      "options": [
+        "1 an",
+        "2 ans",
+        "3 ans",
+        "5 ans"
+      ],
+      "correct": 1,
+      "explication": "Le Parlement a voté pour 'prolonger de 2 ans l’encadrement des loyers'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel poste Dominique de Villepin a-t-il occupé avant d'être Premier ministre entre 2005 et 2007 ?",
+      "options": [
+        "Ministre de l'Économie",
+        "Ministre de l'Intérieur",
+        "Ministre des Affaires étrangères",
+        "Ministre de la Défense"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne qu'il a 'notamment été ministre des Affaires étrangères, puis Premier ministre entre 2005 et 2007'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quel territoire d'outre-mer est particulièrement touché par une sécheresse record et des difficultés d'accès à l'eau potable selon le texte, en lien avec El Niño ?",
+      "options": [
+        "La Martinique",
+        "La Guadeloupe",
+        "La Réunion",
+        "La Guyane"
+      ],
+      "correct": 3,
+      "explication": "Le texte indique : 'En Guyane, la situation est déjà préoccupante, avec une sécheresse record qui complique l’accès à l’eau potable'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Au-delà des conséquences climatiques et sanitaires, quel impact économique El Niño peut-il avoir selon le texte ?",
+      "options": [
+        "Une baisse généralisée des prix",
+        "Une augmentation des revenus des agriculteurs",
+        "Une destruction des récoltes et une hausse des prix",
+        "Une stabilité des marchés financiers"
+      ],
+      "correct": 2,
+      "explication": "Le texte explique : 'Les sécheresses et les fortes pluies peuvent détruire des récoltes, fragiliser les revenus des agriculteurs et entraîner une hausse des prix'.",
+      "theme": "ÉCONOMIE"
+    }
+  ]
+}
