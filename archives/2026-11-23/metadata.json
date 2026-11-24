@@ -1,0 +1,127 @@
+{
+  "titre": "🚨\"Règle d’or budgétaire\" : la solution contre la dette ?",
+  "date": "23/11/2026",
+  "img": "archives/2026-11-23/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Qui a revendiqué l'attaque contre deux navires russes dans le port de Benghazi en Libye ce dimanche ?",
+      "options": [
+        "Volodymyr Zelensky",
+        "Le président libyen",
+        "L'ONU",
+        "Les États-Unis"
+      ],
+      "correct": 0,
+      "explication": "L'article indique clairement que l'attaque contre les navires russes a été revendiquée par Volodymyr Zelensky, le président ukrainien.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle réforme majeure Emmanuel Macron envisage-t-il d'inscrire dans la Constitution française ?",
+      "options": [
+        "L'instauration d'un nouveau système électoral",
+        "La limitation du nombre de mandats présidentiels",
+        "Une 'règle d'or budgétaire'",
+        "La création d'une nouvelle chambre parlementaire"
+      ],
+      "correct": 2,
+      "explication": "Le 'Décryptage' détaille le projet d'Emmanuel Macron d'inscrire une 'règle d'or budgétaire' dans la Constitution pour limiter le déficit et l'endettement de l'État.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quelle est la principale caractéristique de la nouvelle injection mise au point par des chercheurs concernant le cholestérol et les triglycérides ?",
+      "options": [
+        "Elle ne nécessite qu'une seule prise à vie",
+        "Elle est capable d'augmenter ces graisses bénéfiques",
+        "Son efficacité a été prouvée uniquement chez l'homme",
+        "Son effet a duré 3 ans chez des singes"
+      ],
+      "correct": 3,
+      "explication": "L'article mentionne que 'l’effet du traitement aurait duré 3 ans chez des singes', ce qui indique une action durable par rapport aux traitements actuels.",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel est le montant approximatif de la dette de la France et son pourcentage par rapport à son PIB, selon l'article ?",
+      "options": [
+        "Près de 2 500 milliards d'€, soit 90% du PIB",
+        "Près de 3 600 milliards d'€, soit 119% du PIB",
+        "Près de 3 000 milliards d'€, soit 100% du PIB",
+        "Près de 4 000 milliards d'€, soit 130% du PIB"
+      ],
+      "correct": 1,
+      "explication": "Le 'Décryptage' indique que 'la dette de la France est de près de 3 600 milliards d'€. Elle représente 119 % de son produit intérieur brut.'",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Pourquoi la COP31 s'est-elle terminée sans accord final ?",
+      "options": [
+        "En raison d'un désaccord sur le financement des pays en développement",
+        "Car le texte final ne mentionnait pas les énergies fossiles",
+        "À cause d'un boycott de la part de l'Union Européenne",
+        "Faute de quorum pour le vote"
+      ],
+      "correct": 1,
+      "explication": "L'article explique que la COP31 s'est achevée sans accord final 'après le rejet par de nombreux pays d’un texte qui ne mentionnait pas les énergies fossiles'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle est la principale raison de la réintégration de Jensen Huang au poste de PDG de Nvidia après sa démission ?",
+      "options": [
+        "Il a prouvé son innocence dans l'affaire d'espionnage",
+        "Le gouvernement américain a déclaré que sa présence ne posait pas de 'risque pour la sécurité nationale'",
+        "L'entreprise a besoin de son expertise unique pour un projet crucial",
+        "Les actionnaires ont exigé son retour"
+      ],
+      "correct": 1,
+      "explication": "L'article précise que 'Selon le gouvernement américain, sa présence ne pose pas de 'risque pour la sécurité nationale'', justifiant sa réintégration.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Qu'est-ce qui a déclenché l'ouverture de l'enquête visant le préfet Hugues Moutouh, soupçonné d'avoir transmis des informations confidentielles au RN ?",
+      "options": [
+        "Une dénonciation anonyme",
+        "Des écoutes téléphoniques révélant ses agissements",
+        "La copie d'un mail trouvée chez un proche de Marine Le Pen",
+        "Des témoignages de membres du RN"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'C’est la copie d’un mail trouvé chez un proche de Marine Le Pen, dans le cadre d’une autre investigation, qui a déclenché l’ouverture de l’enquête'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Quel type d'événement en Cisjordanie a été dénoncé comme un 'terrorisme juif' par le député centriste Gadi Eisenkot ?",
+      "options": [
+        "Des affrontements violents entre soldats israéliens et forces palestiniennes",
+        "Une augmentation des tensions à la frontière avec la bande de Gaza",
+        "L'incendie et le vandalisme de véhicules et biens palestiniens par des colons",
+        "La construction de nouvelles colonies illégales"
+      ],
+      "correct": 2,
+      "explication": "L'article rapporte que 'Gadi Eisenkot, le député centriste chargé de former le prochain gouvernement israélien, a dénoncé un “terrorisme juif”' suite aux actes des colons en Cisjordanie.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Parmi les personnalités politiques françaises suivantes, qui est mentionné comme étant opposé à l'instauration d'une 'règle d'or budgétaire' dans la Constitution ?",
+      "options": [
+        "Marine Le Pen",
+        "Édouard Philippe",
+        "Éric Coquerel",
+        "Gabriel Attal"
+      ],
+      "correct": 2,
+      "explication": "L'article précise : 'À gauche, la mesure est davantage contestée. Le député LFI Éric Coquerel estime notamment qu’elle retournerait “la Constitution contre la démocratie”.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Concernant la déclassification de documents sur les 'phénomènes anormaux non identifiés' (OVNIS) par les États-Unis, que révèle l'article ?",
+      "options": [
+        "L'existence d'une vie extraterrestre a été prouvée de manière irréfutable",
+        "Les documents étaient exclusivement conservés par l'armée américaine",
+        "Rien ne constitue une véritable preuve de l'existence d'une vie extraterrestre à ce stade",
+        "Seule la CIA détenait ces archives avant leur déclassification"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique clairement : 'À ce stade, rien ne constitue une véritable preuve de l’existence d’une vie extraterrestre.'",
+      "theme": "TECH / SCIENCE"
+    }
+  ]
+}
