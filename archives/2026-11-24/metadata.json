@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Le succès de GTA VI ne fait que commencer",
+  "date": "24/11/2026",
+  "img": "archives/2026-11-24/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon un rapport des Nations unies, quel pourcentage des victimes d'homicides dans le monde en 2025 étaient des femmes ?",
+      "options": [
+        "10 %",
+        "19 %",
+        "25 %",
+        "30 %"
+      ],
+      "correct": 1,
+      "explication": "",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel pourcentage du territoire de la bande de Gaza présente des signes de contamination liée à l'offensive israélienne, selon Oxfam et l'Observatoire des conflits et de l'environnement ?",
+      "options": [
+        "50 %",
+        "75 %",
+        "90 %",
+        "99 %"
+      ],
+      "correct": 3,
+      "explication": "",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Dans quel pays la Cour suprême a-t-elle jugé non discriminatoire l'expulsion de locataires sur la base de leur origine 'non occidentale' ?",
+      "options": [
+        "France",
+        "Suède",
+        "Danemark",
+        "Allemagne"
+      ],
+      "correct": 2,
+      "explication": "",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Pour quelle raison la chanteuse iranienne Parastoo Ahmadi a-t-elle reçu 74 coups de fouet en 2024 ?",
+      "options": [
+        "Pour avoir critiqué le gouvernement",
+        "Pour avoir participé à une manifestation illégale",
+        "Pour avoir chanté sans voile",
+        "Pour avoir diffusé un contenu interdit"
+      ],
+      "correct": 2,
+      "explication": "",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle équipe nationale a été désignée vainqueur de la Coupe d'Afrique des nations 2025 après une décision du Tribunal Arbitral du Sport ?",
+      "options": [
+        "Maroc",
+        "Égypte",
+        "Sénégal",
+        "Algérie"
+      ],
+      "correct": 2,
+      "explication": "",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel montant les Français ont-ils retiré du Livret A en 2026, marquant sa pire année depuis 2008 ?",
+      "options": [
+        "Près de 5 milliards d'euros",
+        "Près de 10 milliards d'euros",
+        "Près de 15 milliards d'euros",
+        "Près de 20 milliards d'euros"
+      ],
+      "correct": 1,
+      "explication": "",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Combien de traitements prometteurs contre le syndrome de Sjögren ont été présentés au congrès américain de rhumatologie début novembre ?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 3,
+      "explication": "",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Quel était le revenu estimé généré par GTA VI dès son premier jour, précommandes comprises ?",
+      "options": [
+        "1,5 milliard de dollars",
+        "2,9 milliards de dollars",
+        "3,8 milliards de dollars",
+        "5 milliards de dollars"
+      ],
+      "correct": 2,
+      "explication": "",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quelle est l'une des stratégies envisagées par Rockstar pour GTA VI, inspirée de Fortnite et Roblox ?",
+      "options": [
+        "Ne se concentrer que sur le mode solo",
+        "Créer une version exclusive pour la Chine",
+        "Permettre aux joueurs de créer leurs propres cartes et mini-jeux",
+        "Arrêter les mises à jour après un an"
+      ],
+      "correct": 2,
+      "explication": "",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle a été la décision de la cour d’appel de Versailles concernant le policier mis en cause dans la mort de Nahel ?",
+      "options": [
+        "De confirmer la requalification en violences mortelles sans intention de donner la mort",
+        "D'ordonner un procès pour meurtre",
+        "De classer l'affaire sans suite",
+        "De renvoyer l'affaire devant une autre juridiction"
+      ],
+      "correct": 1,
+      "explication": "",
+      "theme": "JUSTICE"
+    }
+  ]
+}
