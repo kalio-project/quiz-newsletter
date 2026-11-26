@@ -1,0 +1,127 @@
+{
+  "titre": "🚨L'or a perdu 37% de sa valeur",
+  "date": "25/11/2026",
+  "img": "archives/2026-11-25/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon des médias russes indépendants, combien de soldats russes auraient été tués depuis le début de l’invasion à grande échelle de l’Ukraine en 2022 ?",
+      "options": [
+        "Moins de 100 000",
+        "Environ 300 000",
+        "Plus de 700 000",
+        "Près d'un million"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que 'Plus de 700 000 soldats russes auraient été tués' selon deux médias indépendants russes en exil.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "De quoi le géant chinois Huawei a-t-il été reconnu coupable aux États-Unis après 8 ans de procédure ?",
+      "options": [
+        "Cyberattaque et espionnage industriel",
+        "Vol de secrets industriels et fraude bancaire",
+        "Contrefaçon de produits et évasion fiscale",
+        "Non-respect des sanctions commerciales"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que Huawei a été 'reconnu coupable de vol de secrets industriels et de fraude bancaire aux États-Unis'.",
+      "theme": "TECH / SCIENCE"
+    },
+    {
+      "q": "Quelle type d'enquête a été ouverte concernant l'agglomération du Havre, présidée par Édouard Philippe ?",
+      "options": [
+        "Détournement de fonds publics",
+        "Abus de biens sociaux",
+        "Prise illégale d'intérêts",
+        "Financement illégal de campagne"
+      ],
+      "correct": 0,
+      "explication": "Le texte mentionne qu''Une enquête a été ouverte pour détournement de fonds publics à l’agglomération du Havre'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Quels pays et entités sont principalement visés par les nouveaux droits de douane annoncés par les États-Unis ?",
+      "options": [
+        "Le Canada et le Mexique",
+        "L'UE et la Chine",
+        "Le Japon et la Corée du Sud",
+        "Le Royaume-Uni et l'Australie"
+      ],
+      "correct": 1,
+      "explication": "Le texte précise que les États-Unis ont annoncé de nouveaux droits de douane 'visant leurs principaux partenaires commerciaux, dont l'UE et la Chine'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon l'Insee, à quelle année la population française devrait-elle atteindre son pic démographique ?",
+      "options": [
+        "2030",
+        "2037",
+        "2050",
+        "2070"
+      ],
+      "correct": 1,
+      "explication": "Le rapport de l'Insee indique que 'la population française devrait atteindre son pic démographique dès 2037'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Pour quel type de faits une nouvelle plainte a-t-elle été déposée contre Patrick Bruel, selon Mediapart ?",
+      "options": [
+        "Harcèlement sexuel",
+        "Agression sexuelle",
+        "Viol",
+        "Exhibitionnisme"
+      ],
+      "correct": 2,
+      "explication": "Le texte déclare qu''Une nouvelle plainte pour viol visant Patrick Bruel a été déposée'.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon une enquête mondiale Ipsos pour Deezer, quel pourcentage des nouveaux abonnés Deezer possède au moins une musique générée par l’IA dans leur playlist ?",
+      "options": [
+        "37%",
+        "57%",
+        "77%",
+        "87%"
+      ],
+      "correct": 1,
+      "explication": "L'enquête a révélé que '57 % des nouveaux abonnés Deezer possèdent au moins une musique générée par l’IA dans leur playlist'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Quel est le pourcentage de la chute de la valeur de l'or la semaine dernière par rapport à son record de début d'année ?",
+      "options": [
+        "Environ 9 %",
+        "Environ 20 %",
+        "Près de 37 %",
+        "Plus de 50 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise que 'La semaine dernière, l’or a perdu près de 37 % par rapport à son record du début d’année'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Selon l'observatoire européen Copernicus, quel nouveau record la température moyenne mondiale a-t-elle atteint par rapport à l'ère préindustrielle ?",
+      "options": [
+        "+1,5 degrés",
+        "+1,8 degrés",
+        "+2,23 degrés",
+        "+2,5 degrés"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique que la température moyenne mondiale 'a atteint +2,23 degrés par rapport à l'ère préindustrielle'.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pour quelle raison Éric Zemmour a-t-il été définitivement condamné ?",
+      "options": [
+        "Diffamation publique",
+        "Incitation à la haine raciale",
+        "Contestation de crime contre l'humanité",
+        "Insulte publique à caractère raciste"
+      ],
+      "correct": 2,
+      "explication": "Éric Zemmour 'est définitivement condamné pour 'contestation de crime contre l'humanité''.",
+      "theme": "JUSTICE"
+    }
+  ]
+}
