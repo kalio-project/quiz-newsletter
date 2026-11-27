@@ -1,0 +1,127 @@
+{
+  "titre": "🚨 Le baron de la drogue \"El Chapo Isidro\" a été arrêté",
+  "date": "26/11/2026",
+  "img": "archives/2026-11-26/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Selon l'association Générations Futures, quel pourcentage des laits infantiles testés en France contient du PFOS, un PFAS interdit et potentiellement cancérogène ?",
+      "options": [
+        "Moins de 10 %",
+        "Environ 15 %",
+        "Près de 25 %",
+        "Plus de 30 %"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : '24 % des laits infantiles testés contiennent du PFOS, un PFAS pourtant interdit et possiblement cancérogène.'",
+      "theme": "SANTÉ"
+    },
+    {
+      "q": "Au large de quelle île espagnole un pétrolier sous pavillon maltais a-t-il fait naufrage ce jeudi matin ?",
+      "options": [
+        "Majorque",
+        "Tenerife",
+        "Ibiza",
+        "Grande Canarie"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Un pétrolier sous pavillon maltais a fait naufrage ce jeudi matin au large de l’île espagnole d’Ibiza.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle est la principale revendication des syndicats de policiers lors de leur 'mobilisation nationale' de ce jeudi ?",
+      "options": [
+        "Une augmentation des effectifs",
+        "Une revalorisation de leur prime de risque",
+        "De meilleures conditions de travail",
+        "Une réforme des procédures judiciaires"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique qu'ils 'réclament notamment une revalorisation de leur prime de risque'.",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "Combien d'élèves ont été définitivement exclus de leur établissement depuis le début du mouvement lycéen, selon le ministre de l'Éducation Édouard Geffray ?",
+      "options": [
+        "Moins de 100",
+        "Entre 100 et 200",
+        "Plus de 400",
+        "Environ 300"
+      ],
+      "correct": 2,
+      "explication": "Le texte précise : 'Plus de 400 élèves ont été définitivement exclus de leur établissement depuis le début du mouvement lycéen'.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Qui a déposé la pétition demandant l'interdiction de la chasse à courre, qui a dépassé les 100 000 signatures sur la plateforme de l'Assemblée nationale ?",
+      "options": [
+        "Une association de défense des animaux",
+        "Un député de l'opposition",
+        "Pierre Rigaux, un militant écologiste et anti-chasse",
+        "Le président d'un collectif citoyen"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Elle a été déposée le 3 novembre par Pierre Rigaux, un militant écologiste et anti-chasse.'",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelle ONG demande à l'Arcom de suspendre CNews pendant un mois pour non-respect du pluralisme ?",
+      "options": [
+        "Amnesty International",
+        "Reporters sans frontières (RSF)",
+        "Transparency International",
+        "Human Rights Watch"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique : 'L’ONG Reporters sans frontières demande à l’Arcom [...] de suspendre CNews pendant un mois.'",
+      "theme": "POLITIQUE FR"
+    },
+    {
+      "q": "En quelle année le réalisateur français Cédric Klapisch recevra-t-il un César d’honneur pour l’ensemble de sa carrière ?",
+      "options": [
+        "2024",
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise que la 52e cérémonie des César est 'prévue le 25 février 2027'.",
+      "theme": "CULTURE"
+    },
+    {
+      "q": "Dans la section 'Bonne nouvelle', quel club de football a diffusé des dessins d'enfants soignés à l'hôpital pour présenter ses joueurs ?",
+      "options": [
+        "Le Paris Saint-Germain",
+        "L'AC Milan",
+        "Le club italien de Côme",
+        "Le Real Madrid"
+      ],
+      "correct": 2,
+      "explication": "Le texte mentionne : 'Le club italien de football de Côme a diffusé des dessins réalisés par des enfants actuellement soignés à l’hôpital pour présenter les joueurs de son équipe'.",
+      "theme": "SPORT"
+    },
+    {
+      "q": "Quel est le vrai nom du baron de la drogue surnommé 'El Chapo Isidro', récemment arrêté au Mexique ?",
+      "options": [
+        "Joaquín Guzmán Loera",
+        "Nemesio Oseguera Cervantes",
+        "Ismael Zambada García",
+        "Fausto Isidro Meza Flores"
+      ],
+      "correct": 3,
+      "explication": "Le texte précise : 'Son vrai nom est Fausto Isidro Meza Flores.'",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quels sont les deux médias qui ont publié les nouveaux écrits antisémites attribués à Jordan Bardella ?",
+      "options": [
+        "Le Figaro et L'Express",
+        "BFM TV et Le Parisien",
+        "Le Monde et Mediapart",
+        "Libération et France Inter"
+      ],
+      "correct": 2,
+      "explication": "Le texte indique : 'Ils ont été publiés ce jeudi par Le Monde et Mediapart'.",
+      "theme": "POLITIQUE FR"
+    }
+  ]
+}
