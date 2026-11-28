@@ -1,0 +1,127 @@
+{
+  "titre": "🚨Un “vortex polaire” pourrait toucher l’Europe",
+  "date": "27/11/2026",
+  "img": "archives/2026-11-27/images/img_0.jpg",
+  "questions": [
+    {
+      "q": "Quel pays a été touché par 2 tempêtes privant d'électricité près d'un million de foyers et d'entreprises lors du jour de Thanksgiving ?",
+      "options": [
+        "France",
+        "États-Unis",
+        "Allemagne",
+        "Royaume-Uni"
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que les États-Unis ont été affectés par deux tempêtes le soir de Thanksgiving, privant près d'un million de foyers d'électricité.",
+      "theme": "INTERNATIONAL"
+    },
+    {
+      "q": "Quelle mesure a été prise concernant l'usage des grenades assourdissantes en France ?",
+      "options": [
+        "Leur usage est désormais autorisé sans restriction.",
+        "Leur usage a été suspendu jusqu'à nouvel ordre et étendu à toutes les manifestations.",
+        "Elles ont été définitivement interdites sur tout le territoire.",
+        "Leur usage est restreint uniquement aux forces spéciales."
+      ],
+      "correct": 1,
+      "explication": "Le directeur général de la police nationale a annoncé que la suspension de l'usage des grenades assourdissantes a été prolongée “jusqu'à nouvel ordre” et étendue à toutes les manifestations.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Selon l'observatoire européen Copernicus, qu'est-ce qui est une première pour la température mondiale entre le 18 et le 24 novembre ?",
+      "options": [
+        "Elle a baissé de manière significative, atteignant des records de froid.",
+        "Elle a dépassé de plus de 2 °C les niveaux de l'ère préindustrielle pendant 7 jours consécutifs.",
+        "Elle est restée stable, sans variation notable.",
+        "Elle a dépassé de 1 °C les niveaux de l'ère préindustrielle pendant une journée seulement."
+      ],
+      "correct": 1,
+      "explication": "Le texte mentionne que la température mondiale a dépassé de plus de 2 °C les niveaux de l'ère préindustrielle pendant 7 jours consécutifs, du 18 au 24 novembre, ce qui est une première selon Copernicus.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Pour quelle partie des viols dénoncés par Charlotte Arnould Gérard Depardieu est-il renvoyé en procès ?",
+      "options": [
+        "L'ensemble des faits dénoncés par Charlotte Arnould.",
+        "Les faits du 7 août 2018.",
+        "Les faits du 13 août 2018.",
+        "Des accusations de harcèlement sans lien avec les viols."
+      ],
+      "correct": 1,
+      "explication": "Gérard Depardieu est renvoyé en procès pour les faits du 7 août 2018, mais a obtenu un non-lieu pour ceux du 13 août.",
+      "theme": "JUSTICE"
+    },
+    {
+      "q": "Selon le ministre du Commerce, Serge Papin, quel pourcentage des jouets vendus en France sur les plateformes de commerce en ligne (notamment asiatiques) est jugé 'dangereux' ?",
+      "options": [
+        "10 %",
+        "25 %",
+        "40 %",
+        "77 %"
+      ],
+      "correct": 2,
+      "explication": "Le ministre du Commerce a déclaré que 40 % des jouets vendus en France sur les plateformes de commerce en ligne sont jugés 'dangereux'.",
+      "theme": "ÉCONOMIE"
+    },
+    {
+      "q": "Quelle est la position du ministre de l’enseignement supérieur concernant les partiels du 1er semestre malgré les blocages dans certaines universités ?",
+      "options": [
+        "Ils sont annulés dans tous les établissements perturbés.",
+        "Ils sont reportés à une date ultérieure non définie.",
+        "Ils auront bien lieu, avec des épreuves pouvant être aménagées.",
+        "Des notes planchers seront obligatoirement mises en place pour compenser."
+      ],
+      "correct": 2,
+      "explication": "Le ministre de l’enseignement supérieur a affirmé que les partiels du 1er semestre auront bien lieu, mais que les épreuves pouvaient être “aménagées pour tenir compte du fait que les cours n’ont pas complètement eu lieu”.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Quel est l'objectif principal de la proposition de loi visant à mettre fin au 'devoir conjugal' ?",
+      "options": [
+        "Rendre le devoir conjugal obligatoire et systématique.",
+        "Supprimer toute forme de communauté de vie entre époux.",
+        "Préciser que la 'communauté de vie' ne crée aucune obligation pour les époux d'avoir des relations sexuelles.",
+        "Interdire aux époux d'avoir des relations sexuelles."
+      ],
+      "correct": 2,
+      "explication": "La proposition de loi souhaite préciser que la “communauté de vie ne crée aucune obligation pour les époux d’avoir des relations sexuelles”.",
+      "theme": "SOCIÉTÉ"
+    },
+    {
+      "q": "Qu'est-ce qui rend le phénomène du vortex polaire actuel exceptionnel, selon le texte ?",
+      "options": [
+        "Sa taille gigantesque jamais vue auparavant.",
+        "Sa précocité, se produisant généralement plus tard en hiver.",
+        "Le fait qu'il n'ait absolument aucune conséquence météorologique.",
+        "Son intensité exceptionnellement faible."
+      ],
+      "correct": 1,
+      "explication": "Le texte indique que sa précocité est exceptionnelle, car ce type de phénomène se produit généralement en plein hiver, vers janvier ou février, et est inédit depuis le début des relevés dans les années 1950.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quelles sont les conclusions actuelles concernant l'impact potentiel du vortex polaire sur la France ?",
+      "options": [
+        "Un refroidissement intense avec de la neige est garanti.",
+        "Il n'aura aucun effet sur le pays.",
+        "L'impact est très incertain, avec plusieurs scénarios possibles.",
+        "La France sera le pays d'Europe le plus touché par la vague de froid."
+      ],
+      "correct": 2,
+      "explication": "Pour la France, le texte affirme qu'il est impossible pour l’instant de tirer des conclusions et que ses conséquences restent très incertaines, avec des scénarios allant du refroidissement à un effet minime.",
+      "theme": "ENVIRONNEMENT"
+    },
+    {
+      "q": "Quel événement a conduit à l'ouverture de deux enquêtes pour “violences volontaires aggravées” et “incitation à la haine” ?",
+      "options": [
+        "Un match de rugby avec des échauffourées entre supporters.",
+        "Des incidents lors d'un concert en salle.",
+        "Des violences éclatant au stade Vélodrome avant un match de Ligue Europa entre l'OM et le Levski Sofia.",
+        "Des débordements après une manifestation syndicale."
+      ],
+      "correct": 2,
+      "explication": "Des violences ont éclaté jeudi au stade Vélodrome, avant le match de Ligue Europa entre l'OM et le Levski Sofia, entraînant l'ouverture de ces enquêtes.",
+      "theme": "SPORT"
+    }
+  ]
+}
